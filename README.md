@@ -6,6 +6,10 @@ Haithem Mezni, Zaki Brahmi, Fedia Ghedass, Afnan Albahli, Hela Elmannai, Shiyam 
 
 SelectFlow composes, for every task of a cross-organizational workflow, a model host and the *toolkit* of MCP tools its LLM agent is offered. The agent still selects and calls the tool at run time; SelectFlow predicts that choice with a tool-selection model and composes toolkits under coverage, context budget, data-flow admissibility, toolkit size, hand-off compatibility and robust QoS constraints. Workflows are derived from a requester's confirmed request by constrained generation, deterministic critics and forward chaining, and infeasible compositions are repaired with minimum-weight corrections.
 
+## Demo
+
+https://github.com/user-attachments/assets/c4eead7a-1ea4-43d1-83c6-1319ac4368d4
+
 This repository contains the implementation, the experimental campaign and its results, the web portal, and the demo video material.
 
 | Folder | Content |
