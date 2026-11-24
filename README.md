@@ -68,13 +68,13 @@ Model calls need `export ANTHROPIC_API_KEY=...`; the model and prices are set in
 
 ## Web portal
 
-[`portal/index.html`](portal/index.html) is a self-contained application: open it in a browser. It runs SelectFlow on the Greek and Saudi registries (32 bodies, 33 servers, 308 tools, 117 procedures, 1,867 sharing rules) and 95 example requests:
+**Online: https://agai-research.github.io/SelectFlow/portal/** — or open [`portal/index.html`](portal/index.html) in a browser. It runs SelectFlow on the Greek and Saudi registries (32 bodies, 33 servers, 308 tools, 117 procedures, 1,867 sharing rules) and 95 example requests:
 
 - interpretation, verified derivation, joint composition and repair, with activity diagrams of workflows and toolkits;
 - preparation (tool cards, tool-selection model fitted on 1,866 recorded agent calls, conformal certification);
 - governance (sharing bases, flow-permission matrix), catalogue management, execution history.
 
-Language models: Claude when the page is opened in claude.ai; an Anthropic API key, an OpenAI-compatible endpoint or local models through Ollama when the file is opened locally (keys stay in the browser tab). Sources and build: [`portal/src`](portal/src) (`python portal/src/build.py`); button test: `portal/src/test_buttons.py`.
+Language models: on the online portal or a local copy, an Anthropic API key, an OpenAI-compatible endpoint or local models through Ollama (keys stay in the browser tab); Claude without a key, and your MCP connectors, when the page is opened in claude.ai. Sources and build: [`portal/src`](portal/src) (`python portal/src/build.py`); button test: `portal/src/test_buttons.py`.
 
 ## Demo video
 
