@@ -1,0 +1,1850 @@
+[
+{
+"id": "ministry_of_mari.announcement_of_commencement_o_gr00.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_commencement_o_gr00.submit",
+"description": "Submit an application for: Announcement of Commencement of Operation of a Seaside Resort."
+},
+{
+"id": "ministry_of_mari.announcement_of_commencement_o_gr00.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_commencement_o_gr00.get",
+"description": "Retrieve the issued out gr00 (Announcement of Commencement of Operation of a Seaside Resort)."
+},
+{
+"id": "ministry_of_mari.announcement_of_commencement_o_gr00.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_commencement_o_gr00.pay",
+"description": "Pay the fee of: Announcement of Commencement of Operation of a Seaside Resort."
+},
+{
+"id": "ministry_of_mari.announcement_of_establishment__gr01.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_establishment__gr01.submit",
+"description": "Submit an application for: Announcement of Establishment and Operation of a Diving Crew."
+},
+{
+"id": "ministry_of_mari.announcement_of_establishment__gr01.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_establishment__gr01.get",
+"description": "Retrieve the issued out gr01 (Announcement of Establishment and Operation of a Diving Crew)."
+},
+{
+"id": "ministry_of_mari.announcement_of_establishment__gr01.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_establishment__gr01.pay",
+"description": "Pay the fee of: Announcement of Establishment and Operation of a Diving Crew."
+},
+{
+"id": "ministry_of_mari.announcement_of_installation_o_gr02.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_installation_o_gr02.submit",
+"description": "Submit an application for: Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them."
+},
+{
+"id": "ministry_of_mari.announcement_of_installation_o_gr02.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_installation_o_gr02.get",
+"description": "Retrieve the issued out gr02 (Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them)."
+},
+{
+"id": "ministry_of_tour.announcement_of_operation_of_a_gr03.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.announcement_of_operation_of_a_gr03.submit",
+"description": "Submit an application for: Announcement of Operation of a Private Passenger Car Rental Business."
+},
+{
+"id": "ministry_of_tour.announcement_of_operation_of_a_gr03.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.announcement_of_operation_of_a_gr03.get",
+"description": "Retrieve the issued out gr03 (Announcement of Operation of a Private Passenger Car Rental Business)."
+},
+{
+"id": "ministry_of_tour.announcement_of_operation_of_a_gr03.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.announcement_of_operation_of_a_gr03.pay",
+"description": "Pay the fee of: Announcement of Operation of a Private Passenger Car Rental Business."
+},
+{
+"id": "ministry_of_tour.announcement_of_operation_of_a_gr04.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.announcement_of_operation_of_a_gr04.submit",
+"description": "Submit an application for: Announcement of Operation of a Ship Brokerage Office."
+},
+{
+"id": "ministry_of_tour.announcement_of_operation_of_a_gr04.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.announcement_of_operation_of_a_gr04.get",
+"description": "Retrieve the issued out gr04 (Announcement of Operation of a Ship Brokerage Office)."
+},
+{
+"id": "ministry_of_mari.announcement_of_operation_of_r_gr05.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_operation_of_r_gr05.submit",
+"description": "Submit an application for: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck."
+},
+{
+"id": "ministry_of_mari.announcement_of_operation_of_r_gr05.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_operation_of_r_gr05.get",
+"description": "Retrieve the issued out gr05 (Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck)."
+},
+{
+"id": "ministry_of_mari.announcement_of_operation_of_r_gr05.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_operation_of_r_gr05.pay",
+"description": "Pay the fee of: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck."
+},
+{
+"id": "ministry_of_mari.announcement_of_recognition_of_gr06.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_recognition_of_gr06.submit",
+"description": "Submit an application for: Announcement of Recognition of a Scuba Diver Certification Body."
+},
+{
+"id": "ministry_of_mari.announcement_of_recognition_of_gr06.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_recognition_of_gr06.get",
+"description": "Retrieve the issued out gr06 (Announcement of Recognition of a Scuba Diver Certification Body)."
+},
+{
+"id": "ministry_of_mari.announcement_of_recognition_of_gr06.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_recognition_of_gr06.pay",
+"description": "Pay the fee of: Announcement of Recognition of a Scuba Diver Certification Body."
+},
+{
+"id": "ministry_of_mari.announcement_of_rental_of_moto_gr07.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_rental_of_moto_gr07.submit",
+"description": "Submit an application for: Announcement of Rental of Motor Boats and Small Speedboats."
+},
+{
+"id": "ministry_of_mari.announcement_of_rental_of_moto_gr07.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_rental_of_moto_gr07.get",
+"description": "Retrieve the issued out gr07 (Announcement of Rental of Motor Boats and Small Speedboats)."
+},
+{
+"id": "ministry_of_rura.announcement_of_the_commenceme_gr08.submit",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.announcement_of_the_commenceme_gr08.submit",
+"description": "Submit an application for: Announcement of the commencement of sales of plant protection products (PPPs)."
+},
+{
+"id": "ministry_of_rura.announcement_of_the_commenceme_gr08.get",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.announcement_of_the_commenceme_gr08.get",
+"description": "Retrieve the issued out gr08 (Announcement of the commencement of sales of plant protection products (PPPs))."
+},
+{
+"id": "ministry_of_rura.announcement_of_the_commenceme_gr08.pay",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.announcement_of_the_commenceme_gr08.pay",
+"description": "Pay the fee of: Announcement of the commencement of sales of plant protection products (PPPs)."
+},
+{
+"id": "ministry_of_citi.announcement_of_the_commenceme_gr09.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.announcement_of_the_commenceme_gr09.submit",
+"description": "Submit an application for: Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person)."
+},
+{
+"id": "ministry_of_citi.announcement_of_the_commenceme_gr09.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.announcement_of_the_commenceme_gr09.get",
+"description": "Retrieve the issued out gr09 (Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person))."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_establishm_gr10.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_establishm_gr10.submit",
+"description": "Submit an application for: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_establishm_gr10.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_establishm_gr10.get",
+"description": "Retrieve the issued out gr10 (Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship)."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_establishm_gr10.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_establishm_gr10.pay",
+"description": "Pay the fee of: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship."
+},
+{
+"id": "ministry_of_infr.announcement_of_the_operation__gr11.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.announcement_of_the_operation__gr11.submit",
+"description": "Submit an application for: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)."
+},
+{
+"id": "ministry_of_infr.announcement_of_the_operation__gr11.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.announcement_of_the_operation__gr11.get",
+"description": "Retrieve the issued out gr11 (Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV))."
+},
+{
+"id": "ministry_of_infr.announcement_of_the_operation__gr11.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.announcement_of_the_operation__gr11.pay",
+"description": "Pay the fee of: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)."
+},
+{
+"id": "ministry_of_infr.announcement_of_the_operation__gr12.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.announcement_of_the_operation__gr12.submit",
+"description": "Submit an application for: Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner."
+},
+{
+"id": "ministry_of_infr.announcement_of_the_operation__gr12.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.announcement_of_the_operation__gr12.get",
+"description": "Retrieve the issued out gr12 (Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner)."
+},
+{
+"id": "ministry_of_deve.announcement_of_the_operation__gr13.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.announcement_of_the_operation__gr13.submit",
+"description": "Submit an application for: Announcement of the Operation of a Trade Fair - Domestic Trade Fair."
+},
+{
+"id": "ministry_of_deve.announcement_of_the_operation__gr13.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.announcement_of_the_operation__gr13.get",
+"description": "Retrieve the issued out gr13 (Announcement of the Operation of a Trade Fair - Domestic Trade Fair)."
+},
+{
+"id": "ministry_of_deve.announcement_of_the_operation__gr14.submit",
+"server": "s_ministry_of_development_servic",
+"name": "ministry_of_deve.announcement_of_the_operation__gr14.submit",
+"description": "Submit an application for: Announcement of the Operation of a Trade Fair - International Trade Fair."
+},
+{
+"id": "ministry_of_deve.announcement_of_the_operation__gr14.get",
+"server": "s_ministry_of_development_servic",
+"name": "ministry_of_deve.announcement_of_the_operation__gr14.get",
+"description": "Retrieve the issued out gr14 (Announcement of the Operation of a Trade Fair - International Trade Fair)."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_operation__gr15.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_operation__gr15.submit",
+"description": "Submit an application for: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_operation__gr15.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_operation__gr15.get",
+"description": "Retrieve the issued out gr15 (Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts)."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_operation__gr15.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_operation__gr15.pay",
+"description": "Pay the fee of: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_start_of_c_gr16.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_start_of_c_gr16.submit",
+"description": "Submit an application for: Announcement of the Start of Circulation of a Waste-Receiving Ship."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_start_of_c_gr16.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_start_of_c_gr16.get",
+"description": "Retrieve the issued out gr16 (Announcement of the Start of Circulation of a Waste-Receiving Ship)."
+},
+{
+"id": "ministry_of_mari.announcement_of_the_start_of_c_gr16.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.announcement_of_the_start_of_c_gr16.pay",
+"description": "Pay the fee of: Announcement of the Start of Circulation of a Waste-Receiving Ship."
+},
+{
+"id": "ministry_of_educ.approval_for_the_establishment_gr17.submit",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.approval_for_the_establishment_gr17.submit",
+"description": "Submit an application for: Approval for the establishment and operation of a college by a natural person."
+},
+{
+"id": "ministry_of_educ.approval_for_the_establishment_gr17.get",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.approval_for_the_establishment_gr17.get",
+"description": "Retrieve the issued out gr17 (Approval for the establishment and operation of a college by a natural person)."
+},
+{
+"id": "ministry_of_educ.approval_for_the_establishment_gr17.pay",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.approval_for_the_establishment_gr17.pay",
+"description": "Pay the fee of: Approval for the establishment and operation of a college by a natural person."
+},
+{
+"id": "ministry_of_tour.approval_for_the_operation_of__gr18.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_for_the_operation_of__gr18.submit",
+"description": "Submit an application for: Approval for the operation of ski resorts."
+},
+{
+"id": "ministry_of_tour.approval_for_the_operation_of__gr18.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_for_the_operation_of__gr18.get",
+"description": "Retrieve the issued out gr18 (Approval for the operation of ski resorts)."
+},
+{
+"id": "ministry_of_tour.approval_for_the_operation_of__gr18.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_for_the_operation_of__gr18.pay",
+"description": "Pay the fee of: Approval for the operation of ski resorts."
+},
+{
+"id": "ministry_of_rura.approval_of_establishment_of_l_gr19.submit",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.approval_of_establishment_of_l_gr19.submit",
+"description": "Submit an application for: Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry."
+},
+{
+"id": "ministry_of_rura.approval_of_establishment_of_l_gr19.get",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.approval_of_establishment_of_l_gr19.get",
+"description": "Retrieve the issued out gr19 (Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry)."
+},
+{
+"id": "ministry_of_tour.approval_of_the_operation_of_r_gr20.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_of_the_operation_of_r_gr20.submit",
+"description": "Submit an application for: Approval of the operation of recreational activities on land within tourist ports."
+},
+{
+"id": "ministry_of_tour.approval_of_the_operation_of_r_gr20.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_of_the_operation_of_r_gr20.get",
+"description": "Retrieve the issued out gr20 (Approval of the operation of recreational activities on land within tourist ports)."
+},
+{
+"id": "ministry_of_tour.approval_of_the_operation_of_r_gr20.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.approval_of_the_operation_of_r_gr20.pay",
+"description": "Pay the fee of: Approval of the operation of recreational activities on land within tourist ports."
+},
+{
+"id": "ministry_of_deve.attestation_that_a_shop_may_be_gr21.submit",
+"server": "s_ministry_of_development_servic",
+"name": "ministry_of_deve.attestation_that_a_shop_may_be_gr21.submit",
+"description": "Submit an application for: Attestation that a Shop may be established at the specific location."
+},
+{
+"id": "ministry_of_deve.attestation_that_a_shop_may_be_gr21.get",
+"server": "s_ministry_of_development_servic",
+"name": "ministry_of_deve.attestation_that_a_shop_may_be_gr21.get",
+"description": "Retrieve the issued out gr21 (Attestation that a Shop may be established at the specific location)."
+},
+{
+"id": "ministry_of_infr.authorisation_to_engage_in_the_gr22.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.authorisation_to_engage_in_the_gr22.submit",
+"description": "Submit an application for: Authorisation to engage in the occupation of road haulage operator."
+},
+{
+"id": "ministry_of_infr.authorisation_to_engage_in_the_gr22.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.authorisation_to_engage_in_the_gr22.get",
+"description": "Retrieve the issued out gr22 (Authorisation to engage in the occupation of road haulage operator)."
+},
+{
+"id": "ministry_of_deve.certificate_of_annual_activity_gr23.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.certificate_of_annual_activity_gr23.submit",
+"description": "Submit an application for: Certificate of annual activity in short-term markets."
+},
+{
+"id": "ministry_of_deve.certificate_of_annual_activity_gr23.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.certificate_of_annual_activity_gr23.get",
+"description": "Retrieve the issued out gr23 (Certificate of annual activity in short-term markets)."
+},
+{
+"id": "ministry_of_infr.certificate_of_commencement_of_gr24.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.certificate_of_commencement_of_gr24.submit",
+"description": "Submit an application for: Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps."
+},
+{
+"id": "ministry_of_infr.certificate_of_commencement_of_gr24.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.certificate_of_commencement_of_gr24.get",
+"description": "Retrieve the issued out gr24 (Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps)."
+},
+{
+"id": "ministry_of_infr.certificate_of_commencement_of_gr24.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.certificate_of_commencement_of_gr24.pay",
+"description": "Pay the fee of: Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps."
+},
+{
+"id": "hellenic_gaming_.certificate_of_suitability_for_gr25.submit",
+"server": "s_hellenic_gaming_commission",
+"name": "hellenic_gaming_.certificate_of_suitability_for_gr25.submit",
+"description": "Submit an application for: Certificate of Suitability for Administrative and Other Staff of a Casino Business."
+},
+{
+"id": "hellenic_gaming_.certificate_of_suitability_for_gr25.get",
+"server": "s_hellenic_gaming_commission",
+"name": "hellenic_gaming_.certificate_of_suitability_for_gr25.get",
+"description": "Retrieve the issued out gr25 (Certificate of Suitability for Administrative and Other Staff of a Casino Business)."
+},
+{
+"id": "hellenic_gaming_.certificate_of_suitability_for_gr25.pay",
+"server": "s_hellenic_gaming_commission",
+"name": "hellenic_gaming_.certificate_of_suitability_for_gr25.pay",
+"description": "Pay the fee of: Certificate of Suitability for Administrative and Other Staff of a Casino Business."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr26.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr26.submit",
+"description": "Submit an application for: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr26.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr26.get",
+"description": "Retrieve the issued out gr26 (Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest)."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr27.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr27.submit",
+"description": "Submit an application for: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr27.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr27.get",
+"description": "Retrieve the issued out gr27 (Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity)."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr27.pay",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr27.pay",
+"description": "Pay the fee of: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr28.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr28.submit",
+"description": "Submit an application for: Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr28.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr28.get",
+"description": "Retrieve the issued out gr28 (Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest)."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr29.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr29.submit",
+"description": "Submit an application for: Change of Notification of the Establishment and Operation of Theatres and Cinemas."
+},
+{
+"id": "ministry_of_deve.change_of_notification_of_the__gr29.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.change_of_notification_of_the__gr29.get",
+"description": "Retrieve the issued out gr29 (Change of Notification of the Establishment and Operation of Theatres and Cinemas)."
+},
+{
+"id": "ministry_of_mari.copy_of_certificate_of_compete_gr30.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.copy_of_certificate_of_compete_gr30.submit",
+"description": "Submit an application for: Copy of certificate of competence for instructors of speedboat operator candidates."
+},
+{
+"id": "ministry_of_mari.copy_of_certificate_of_compete_gr30.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.copy_of_certificate_of_compete_gr30.get",
+"description": "Retrieve the issued out gr30 (Copy of certificate of competence for instructors of speedboat operator candidates)."
+},
+{
+"id": "ministry_of_mari.copy_of_certificate_of_compete_gr30.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.copy_of_certificate_of_compete_gr30.pay",
+"description": "Pay the fee of: Copy of certificate of competence for instructors of speedboat operator candidates."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr31.submit",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr31.submit",
+"description": "Submit an application for: Establishment and Operation of Amateur Dance Schools by a Natural Person."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr31.get",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr31.get",
+"description": "Retrieve the issued out gr31 (Establishment and Operation of Amateur Dance Schools by a Natural Person)."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr31.pay",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr31.pay",
+"description": "Pay the fee of: Establishment and Operation of Amateur Dance Schools by a Natural Person."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr32.submit",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr32.submit",
+"description": "Submit an application for: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr32.get",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr32.get",
+"description": "Retrieve the issued out gr32 (Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons)."
+},
+{
+"id": "ministry_of_cult.establishment_and_operation_of_gr32.pay",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.establishment_and_operation_of_gr32.pay",
+"description": "Pay the fee of: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons."
+},
+{
+"id": "ministry_of_deve.establishment_authorisation_op_gr33.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_authorisation_op_gr33.submit",
+"description": "Submit an application for: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks."
+},
+{
+"id": "ministry_of_deve.establishment_authorisation_op_gr33.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_authorisation_op_gr33.get",
+"description": "Retrieve the issued out gr33 (Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks)."
+},
+{
+"id": "ministry_of_deve.establishment_authorisation_op_gr33.pay",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_authorisation_op_gr33.pay",
+"description": "Pay the fee of: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks."
+},
+{
+"id": "ministry_of_deve.establishment_of_a_limited_par_gr34.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_of_a_limited_par_gr34.submit",
+"description": "Submit an application for: Establishment of a Limited Partnership through the One Stop Service."
+},
+{
+"id": "ministry_of_deve.establishment_of_a_limited_par_gr34.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_of_a_limited_par_gr34.get",
+"description": "Retrieve the issued out gr34 (Establishment of a Limited Partnership through the One Stop Service)."
+},
+{
+"id": "ministry_of_deve.establishment_of_a_limited_par_gr34.pay",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_of_a_limited_par_gr34.pay",
+"description": "Pay the fee of: Establishment of a Limited Partnership through the One Stop Service."
+},
+{
+"id": "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.submit",
+"description": "Submit an application for: Establishment of a Société Anonyme (SA) through the One Stop Service."
+},
+{
+"id": "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.get",
+"description": "Retrieve the issued out gr35 (Establishment of a Société Anonyme (SA) through the One Stop Service)."
+},
+{
+"id": "ministry_of_labo.european_health_insurance_card_gr36.submit",
+"server": "s_ministry_of_labor_and_social_s",
+"name": "ministry_of_labo.european_health_insurance_card_gr36.submit",
+"description": "Submit an application for: European Health Insurance Card."
+},
+{
+"id": "ministry_of_labo.european_health_insurance_card_gr36.get",
+"server": "s_ministry_of_labor_and_social_s",
+"name": "ministry_of_labo.european_health_insurance_card_gr36.get",
+"description": "Retrieve the issued out gr36 (European Health Insurance Card)."
+},
+{
+"id": "authority_of_civ.licence_for_setting_up_and_ope_gr37.submit",
+"server": "s_authority_of_civil_aviation",
+"name": "authority_of_civ.licence_for_setting_up_and_ope_gr37.submit",
+"description": "Submit an application for: Licence for setting up and operating a heliport."
+},
+{
+"id": "authority_of_civ.licence_for_setting_up_and_ope_gr37.get",
+"server": "s_authority_of_civil_aviation",
+"name": "authority_of_civ.licence_for_setting_up_and_ope_gr37.get",
+"description": "Retrieve the issued out gr37 (Licence for setting up and operating a heliport)."
+},
+{
+"id": "ministry_of_cult.licence_for_the_establishment__gr38.submit",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.licence_for_the_establishment__gr38.submit",
+"description": "Submit an application for: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)."
+},
+{
+"id": "ministry_of_cult.licence_for_the_establishment__gr38.get",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.licence_for_the_establishment__gr38.get",
+"description": "Retrieve the issued out gr38 (Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them))."
+},
+{
+"id": "ministry_of_cult.licence_for_the_establishment__gr38.pay",
+"server": "s_ministry_of_culture",
+"name": "ministry_of_cult.licence_for_the_establishment__gr38.pay",
+"description": "Pay the fee of: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)."
+},
+{
+"id": "ministry_of_econ.licence_for_the_operation_of_a_gr39.submit",
+"server": "s_ministry_of_economy_and_financ",
+"name": "ministry_of_econ.licence_for_the_operation_of_a_gr39.submit",
+"description": "Submit an application for: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)."
+},
+{
+"id": "ministry_of_econ.licence_for_the_operation_of_a_gr39.get",
+"server": "s_ministry_of_economy_and_financ",
+"name": "ministry_of_econ.licence_for_the_operation_of_a_gr39.get",
+"description": "Retrieve the issued out gr39 (Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.))."
+},
+{
+"id": "ministry_of_econ.licence_for_the_operation_of_a_gr39.pay",
+"server": "s_ministry_of_economy_and_financ",
+"name": "ministry_of_econ.licence_for_the_operation_of_a_gr39.pay",
+"description": "Pay the fee of: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)."
+},
+{
+"id": "ministry_of_cult.licence_for_the_operation_of_a_gr40.submit",
+"server": "s_ministry_of_culture_service_or",
+"name": "ministry_of_cult.licence_for_the_operation_of_a_gr40.submit",
+"description": "Submit an application for: Licence for the Operation of Antique Shops."
+},
+{
+"id": "ministry_of_cult.licence_for_the_operation_of_a_gr40.get",
+"server": "s_ministry_of_culture_service_or",
+"name": "ministry_of_cult.licence_for_the_operation_of_a_gr40.get",
+"description": "Retrieve the issued out gr40 (Licence for the Operation of Antique Shops)."
+},
+{
+"id": "ministry_of_inte.licence_for_the_use_of_public__gr41.submit",
+"server": "s_ministry_of_interior",
+"name": "ministry_of_inte.licence_for_the_use_of_public__gr41.submit",
+"description": "Submit an application for: Licence for the Use of Public Spaces."
+},
+{
+"id": "ministry_of_inte.licence_for_the_use_of_public__gr41.get",
+"server": "s_ministry_of_interior",
+"name": "ministry_of_inte.licence_for_the_use_of_public__gr41.get",
+"description": "Retrieve the issued out gr41 (Licence for the Use of Public Spaces)."
+},
+{
+"id": "ministry_of_infr.licence_to_establish_and_or_op_gr42.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.licence_to_establish_and_or_op_gr42.submit",
+"description": "Submit an application for: Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles."
+},
+{
+"id": "ministry_of_infr.licence_to_establish_and_or_op_gr42.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.licence_to_establish_and_or_op_gr42.get",
+"description": "Retrieve the issued out gr42 (Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles)."
+},
+{
+"id": "ministry_of_citi.licence_to_manufacture_firewor_gr43.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_manufacture_firewor_gr43.submit",
+"description": "Submit an application for: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2."
+},
+{
+"id": "ministry_of_citi.licence_to_manufacture_firewor_gr43.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_manufacture_firewor_gr43.get",
+"description": "Retrieve the issued out gr43 (Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2)."
+},
+{
+"id": "ministry_of_citi.licence_to_manufacture_firewor_gr43.pay",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_manufacture_firewor_gr43.pay",
+"description": "Pay the fee of: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.submit",
+"description": "Submit an application for: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.get",
+"description": "Retrieve the issued out gr44 (Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2)."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.pay",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.pay",
+"description": "Pay the fee of: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.submit",
+"description": "Submit an application for: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.get",
+"description": "Retrieve the issued out gr45 (Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93)."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.pay",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.pay",
+"description": "Pay the fee of: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.submit",
+"description": "Submit an application for: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.get",
+"description": "Retrieve the issued out gr46 (Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample)."
+},
+{
+"id": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.pay",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.licence_to_trade_in_revolvers__gr46.pay",
+"description": "Pay the fee of: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample."
+},
+{
+"id": "ministry_of_deve.licensing_of_logistics_facilit_gr47.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.licensing_of_logistics_facilit_gr47.submit",
+"description": "Submit an application for: Licensing of logistics facilities (storage and distribution centres)."
+},
+{
+"id": "ministry_of_deve.licensing_of_logistics_facilit_gr47.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.licensing_of_logistics_facilit_gr47.get",
+"description": "Retrieve the issued out gr47 (Licensing of logistics facilities (storage and distribution centres))."
+},
+{
+"id": "ministry_of_deve.licensing_of_logistics_facilit_gr47.pay",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.licensing_of_logistics_facilit_gr47.pay",
+"description": "Pay the fee of: Licensing of logistics facilities (storage and distribution centres)."
+},
+{
+"id": "ministry_of_infr.notification_about_operating_p_gr48.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_about_operating_p_gr48.submit",
+"description": "Submit an application for: Notification about operating parking areas for heavy-duty vehicles."
+},
+{
+"id": "ministry_of_infr.notification_about_operating_p_gr48.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_about_operating_p_gr48.get",
+"description": "Retrieve the issued out gr48 (Notification about operating parking areas for heavy-duty vehicles)."
+},
+{
+"id": "ministry_of_infr.notification_about_operating_p_gr48.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_about_operating_p_gr48.pay",
+"description": "Pay the fee of: Notification about operating parking areas for heavy-duty vehicles."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr49.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr49.submit",
+"description": "Submit an application for: Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr49.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr49.get",
+"description": "Retrieve the issued out gr49 (Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must)."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr50.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr50.submit",
+"description": "Submit an application for: Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr50.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr50.get",
+"description": "Retrieve the issued out gr50 (Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines)."
+},
+{
+"id": "ministry_of_rura.notification_of_commencement_o_gr51.submit",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.notification_of_commencement_o_gr51.submit",
+"description": "Submit an application for: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto."
+},
+{
+"id": "ministry_of_rura.notification_of_commencement_o_gr51.get",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.notification_of_commencement_o_gr51.get",
+"description": "Retrieve the issued out gr51 (Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto)."
+},
+{
+"id": "ministry_of_rura.notification_of_commencement_o_gr51.pay",
+"server": "s_ministry_of_rural_development_",
+"name": "ministry_of_rura.notification_of_commencement_o_gr51.pay",
+"description": "Pay the fee of: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto."
+},
+{
+"id": "ministry_of_infr.notification_of_commencement_o_gr52.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_commencement_o_gr52.submit",
+"description": "Submit an application for: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities."
+},
+{
+"id": "ministry_of_infr.notification_of_commencement_o_gr52.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_commencement_o_gr52.get",
+"description": "Retrieve the issued out gr52 (Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities)."
+},
+{
+"id": "ministry_of_infr.notification_of_commencement_o_gr52.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_commencement_o_gr52.pay",
+"description": "Pay the fee of: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr53.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr53.submit",
+"description": "Submit an application for: Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine."
+},
+{
+"id": "ministry_of_deve.notification_of_commencement_o_gr53.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_commencement_o_gr53.get",
+"description": "Retrieve the issued out gr53 (Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine)."
+},
+{
+"id": "ministry_of_educ.notification_of_establishment__gr54.submit",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.notification_of_establishment__gr54.submit",
+"description": "Submit an application for: Notification of establishment and operation of a gym or sports school."
+},
+{
+"id": "ministry_of_educ.notification_of_establishment__gr54.get",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.notification_of_establishment__gr54.get",
+"description": "Retrieve the issued out gr54 (Notification of establishment and operation of a gym or sports school)."
+},
+{
+"id": "ministry_of_educ.notification_of_establishment__gr54.pay",
+"server": "s_ministry_of_education_sports_a",
+"name": "ministry_of_educ.notification_of_establishment__gr54.pay",
+"description": "Pay the fee of: Notification of establishment and operation of a gym or sports school."
+},
+{
+"id": "ministry_of_heal.notification_of_establishment__gr55.submit",
+"server": "s_ministry_of_health",
+"name": "ministry_of_heal.notification_of_establishment__gr55.submit",
+"description": "Submit an application for: Notification of establishment and operation of beauty parlours."
+},
+{
+"id": "ministry_of_heal.notification_of_establishment__gr55.get",
+"server": "s_ministry_of_health",
+"name": "ministry_of_heal.notification_of_establishment__gr55.get",
+"description": "Retrieve the issued out gr55 (Notification of establishment and operation of beauty parlours)."
+},
+{
+"id": "ministry_of_heal.notification_of_establishment__gr55.pay",
+"server": "s_ministry_of_health",
+"name": "ministry_of_heal.notification_of_establishment__gr55.pay",
+"description": "Pay the fee of: Notification of establishment and operation of beauty parlours."
+},
+{
+"id": "ministry_of_tour.notification_of_exercise_of_le_gr56.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_exercise_of_le_gr56.submit",
+"description": "Submit an application for: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver."
+},
+{
+"id": "ministry_of_tour.notification_of_exercise_of_le_gr56.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_exercise_of_le_gr56.get",
+"description": "Retrieve the issued out gr56 (Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver)."
+},
+{
+"id": "ministry_of_tour.notification_of_exercise_of_le_gr56.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_exercise_of_le_gr56.pay",
+"description": "Pay the fee of: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_in_t_gr57.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_in_t_gr57.submit",
+"description": "Submit an application for: Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_in_t_gr57.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_in_t_gr57.get",
+"description": "Retrieve the issued out gr57 (Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent)."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_of_a_gr58.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_of_a_gr58.submit",
+"description": "Submit an application for: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_of_a_gr58.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_of_a_gr58.get",
+"description": "Retrieve the issued out gr58 (Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver)."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_of_a_gr58.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_of_a_gr58.pay",
+"description": "Pay the fee of: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr59.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr59.submit",
+"description": "Submit an application for: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr59.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr59.get",
+"description": "Retrieve the issued out gr59 (Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO))."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr59.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr59.pay",
+"description": "Pay the fee of: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr60.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr60.submit",
+"description": "Submit an application for: Notification of Operation of a Vehicle Roadside Assistance Company."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr60.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr60.get",
+"description": "Retrieve the issued out gr60 (Notification of Operation of a Vehicle Roadside Assistance Company)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_a_gr60.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_a_gr60.pay",
+"description": "Pay the fee of: Notification of Operation of a Vehicle Roadside Assistance Company."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_c_gr61.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_c_gr61.submit",
+"description": "Submit an application for: Notification of operation of Car and Motorcycle Driving Schools and their branches."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_c_gr61.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_c_gr61.get",
+"description": "Retrieve the issued out gr61 (Notification of operation of Car and Motorcycle Driving Schools and their branches)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_c_gr61.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_c_gr61.pay",
+"description": "Pay the fee of: Notification of operation of Car and Motorcycle Driving Schools and their branches."
+},
+{
+"id": "ministry_of_deve.notification_of_operation_of_f_gr62.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_operation_of_f_gr62.submit",
+"description": "Submit an application for: Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines."
+},
+{
+"id": "ministry_of_deve.notification_of_operation_of_f_gr62.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_operation_of_f_gr62.get",
+"description": "Retrieve the issued out gr62 (Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines)."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_of_m_gr63.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_of_m_gr63.submit",
+"description": "Submit an application for: Notification of Operation of Main Tourist Accommodation Facilities."
+},
+{
+"id": "ministry_of_tour.notification_of_operation_of_m_gr63.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_operation_of_m_gr63.get",
+"description": "Retrieve the issued out gr63 (Notification of Operation of Main Tourist Accommodation Facilities)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_o_gr64.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_o_gr64.submit",
+"description": "Submit an application for: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_o_gr64.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_o_gr64.get",
+"description": "Retrieve the issued out gr64 (Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_o_gr64.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_o_gr64.pay",
+"description": "Pay the fee of: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_v_gr65.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_v_gr65.submit",
+"description": "Submit an application for: Notification of Operation of Vehicle Roadside Assistance Partner."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_v_gr65.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_v_gr65.get",
+"description": "Retrieve the issued out gr65 (Notification of Operation of Vehicle Roadside Assistance Partner)."
+},
+{
+"id": "ministry_of_infr.notification_of_operation_of_v_gr65.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_operation_of_v_gr65.pay",
+"description": "Pay the fee of: Notification of Operation of Vehicle Roadside Assistance Partner."
+},
+{
+"id": "ministry_of_mari.notification_of_provision_of_r_gr66.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.notification_of_provision_of_r_gr66.submit",
+"description": "Submit an application for: Notification of provision of recreational diving services."
+},
+{
+"id": "ministry_of_mari.notification_of_provision_of_r_gr66.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.notification_of_provision_of_r_gr66.get",
+"description": "Retrieve the issued out gr66 (Notification of provision of recreational diving services)."
+},
+{
+"id": "ministry_of_mari.notification_of_provision_of_r_gr66.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.notification_of_provision_of_r_gr66.pay",
+"description": "Pay the fee of: Notification of provision of recreational diving services."
+},
+{
+"id": "ministry_of_cult.notification_of_relocation_exp_gr67.submit",
+"server": "s_ministry_of_culture_service_or",
+"name": "ministry_of_cult.notification_of_relocation_exp_gr67.submit",
+"description": "Submit an application for: Notification of Relocation - Expansion of Gym or Sports School to a New Building."
+},
+{
+"id": "ministry_of_cult.notification_of_relocation_exp_gr67.get",
+"server": "s_ministry_of_culture_service_or",
+"name": "ministry_of_cult.notification_of_relocation_exp_gr67.get",
+"description": "Retrieve the issued out gr67 (Notification of Relocation - Expansion of Gym or Sports School to a New Building)."
+},
+{
+"id": "ministry_of_cult.notification_of_relocation_exp_gr67.pay",
+"server": "s_ministry_of_culture_service_or",
+"name": "ministry_of_cult.notification_of_relocation_exp_gr67.pay",
+"description": "Pay the fee of: Notification of Relocation - Expansion of Gym or Sports School to a New Building."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr68.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr68.submit",
+"description": "Submit an application for: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr68.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr68.get",
+"description": "Retrieve the issued out gr68 (Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations)."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr68.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr68.pay",
+"description": "Pay the fee of: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr69.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr69.submit",
+"description": "Submit an application for: Notification of the Commencement of Operation of Sheltered Parkings."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr69.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr69.get",
+"description": "Retrieve the issued out gr69 (Notification of the Commencement of Operation of Sheltered Parkings)."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr69.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr69.pay",
+"description": "Pay the fee of: Notification of the Commencement of Operation of Sheltered Parkings."
+},
+{
+"id": "ministry_of_tour.notification_of_the_commenceme_gr70.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_commenceme_gr70.submit",
+"description": "Submit an application for: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation."
+},
+{
+"id": "ministry_of_tour.notification_of_the_commenceme_gr70.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_commenceme_gr70.get",
+"description": "Retrieve the issued out gr70 (Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation)."
+},
+{
+"id": "ministry_of_tour.notification_of_the_commenceme_gr70.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_commenceme_gr70.pay",
+"description": "Pay the fee of: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr71.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr71.submit",
+"description": "Submit an application for: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr71.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr71.get",
+"description": "Retrieve the issued out gr71 (Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession)."
+},
+{
+"id": "ministry_of_infr.notification_of_the_commenceme_gr71.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_commenceme_gr71.pay",
+"description": "Pay the fee of: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr72.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr72.submit",
+"description": "Submit an application for: Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr72.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr72.get",
+"description": "Retrieve the issued out gr72 (Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance))."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr73.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr73.submit",
+"description": "Submit an application for: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr73.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr73.get",
+"description": "Retrieve the issued out gr73 (Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest)."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr73.pay",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr73.pay",
+"description": "Pay the fee of: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr74.submit",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr74.submit",
+"description": "Submit an application for: Notification of the Establishment and Operation of Theatres and Cinemas."
+},
+{
+"id": "ministry_of_deve.notification_of_the_establishm_gr74.get",
+"server": "s_ministry_of_development",
+"name": "ministry_of_deve.notification_of_the_establishm_gr74.get",
+"description": "Retrieve the issued out gr74 (Notification of the Establishment and Operation of Theatres and Cinemas)."
+},
+{
+"id": "ministry_of_infr.notification_of_the_operation__gr75.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_operation__gr75.submit",
+"description": "Submit an application for: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds."
+},
+{
+"id": "ministry_of_infr.notification_of_the_operation__gr75.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_operation__gr75.get",
+"description": "Retrieve the issued out gr75 (Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds)."
+},
+{
+"id": "ministry_of_infr.notification_of_the_operation__gr75.pay",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.notification_of_the_operation__gr75.pay",
+"description": "Pay the fee of: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds."
+},
+{
+"id": "ministry_of_tour.notification_of_the_operation__gr76.submit",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_operation__gr76.submit",
+"description": "Submit an application for: Notification of the operation of Tourism Road Transport Enterprises."
+},
+{
+"id": "ministry_of_tour.notification_of_the_operation__gr76.get",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_operation__gr76.get",
+"description": "Retrieve the issued out gr76 (Notification of the operation of Tourism Road Transport Enterprises)."
+},
+{
+"id": "ministry_of_tour.notification_of_the_operation__gr76.pay",
+"server": "s_ministry_of_tourism",
+"name": "ministry_of_tour.notification_of_the_operation__gr76.pay",
+"description": "Pay the fee of: Notification of the operation of Tourism Road Transport Enterprises."
+},
+{
+"id": "ministry_of_citi.operating_licence_for_a_privat_gr77.submit",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.operating_licence_for_a_privat_gr77.submit",
+"description": "Submit an application for: Operating licence for a private company acting as security services provider (sole proprietorship)."
+},
+{
+"id": "ministry_of_citi.operating_licence_for_a_privat_gr77.get",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.operating_licence_for_a_privat_gr77.get",
+"description": "Retrieve the issued out gr77 (Operating licence for a private company acting as security services provider (sole proprietorship))."
+},
+{
+"id": "ministry_of_citi.operating_licence_for_a_privat_gr77.pay",
+"server": "s_ministry_of_citizen_protection",
+"name": "ministry_of_citi.operating_licence_for_a_privat_gr77.pay",
+"description": "Pay the fee of: Operating licence for a private company acting as security services provider (sole proprietorship)."
+},
+{
+"id": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.submit",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.submit",
+"description": "Submit an application for: Renewal of a licence to operate a high-speed craft."
+},
+{
+"id": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.get",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.get",
+"description": "Retrieve the issued out gr78 (Renewal of a licence to operate a high-speed craft)."
+},
+{
+"id": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.pay",
+"server": "s_ministry_of_maritime_affairs_a",
+"name": "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.pay",
+"description": "Pay the fee of: Renewal of a licence to operate a high-speed craft."
+},
+{
+"id": "ministry_for_cli.temporary_active_fire_protecti_gr79.submit",
+"server": "s_ministry_for_climate_crisis_an",
+"name": "ministry_for_cli.temporary_active_fire_protecti_gr79.submit",
+"description": "Submit an application for: Temporary (active) fire protection certificate."
+},
+{
+"id": "ministry_for_cli.temporary_active_fire_protecti_gr79.get",
+"server": "s_ministry_for_climate_crisis_an",
+"name": "ministry_for_cli.temporary_active_fire_protecti_gr79.get",
+"description": "Retrieve the issued out gr79 (Temporary (active) fire protection certificate)."
+},
+{
+"id": "ministry_for_cli.temporary_active_fire_protecti_gr79.pay",
+"server": "s_ministry_for_climate_crisis_an",
+"name": "ministry_for_cli.temporary_active_fire_protecti_gr79.pay",
+"description": "Pay the fee of: Temporary (active) fire protection certificate."
+},
+{
+"id": "ministry_of_infr.vehicle_technical_inspector_cr_gr80.submit",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.vehicle_technical_inspector_cr_gr80.submit",
+"description": "Submit an application for: Vehicle Technical Inspector (cross-border service provision)."
+},
+{
+"id": "ministry_of_infr.vehicle_technical_inspector_cr_gr80.get",
+"server": "s_ministry_of_infrastructure_and",
+"name": "ministry_of_infr.vehicle_technical_inspector_cr_gr80.get",
+"description": "Retrieve the issued out gr80 (Vehicle Technical Inspector (cross-border service provision))."
+},
+{
+"id": "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.submit",
+"server": "s_gov_gr",
+"name": "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.submit",
+"description": "Submit an application for: Solemn declaration and electronic solemn declaration."
+},
+{
+"id": "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.get",
+"server": "s_gov_gr",
+"name": "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.get",
+"description": "Retrieve the issued ext solemn declaration and electronic solemn declarati (Solemn declaration and electronic solemn declaration)."
+},
+{
+"id": "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.submit",
+"server": "s_courts",
+"name": "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.submit",
+"description": "Submit an application for: Single Certificate of Judicial Solvency."
+},
+{
+"id": "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.get",
+"server": "s_courts",
+"name": "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.get",
+"description": "Retrieve the issued ext single certificate of judicial solvency (Single Certificate of Judicial Solvency)."
+},
+{
+"id": "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.submit",
+"server": "s_ministry_of_justice",
+"name": "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.submit",
+"description": "Submit an application for: Copy of Criminal Record."
+},
+{
+"id": "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.get",
+"server": "s_ministry_of_justice",
+"name": "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.get",
+"description": "Retrieve the issued ext copy of criminal record (Copy of Criminal Record)."
+},
+{
+"id": "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.submit",
+"server": "s_fire_service",
+"name": "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.submit",
+"description": "Submit an application for: Certificate of (Active) Fire Protection."
+},
+{
+"id": "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.get",
+"server": "s_fire_service",
+"name": "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.get",
+"description": "Retrieve the issued ext certificate of active fire protection (Certificate of (Active) Fire Protection)."
+},
+{
+"id": "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.submit",
+"server": "s_other_public_body",
+"name": "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.submit",
+"description": "Submit an application for: Authorisation and Electronic Authorisation."
+},
+{
+"id": "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.get",
+"server": "s_other_public_body",
+"name": "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.get",
+"description": "Retrieve the issued ext authorisation and electronic authorisation (Authorisation and Electronic Authorisation)."
+},
+{
+"id": "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.submit",
+"server": "s_e_efka",
+"name": "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.submit",
+"description": "Submit an application for: Social security clearance of natural/legal persons (e-EFKA)."
+},
+{
+"id": "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.get",
+"server": "s_e_efka",
+"name": "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.get",
+"description": "Retrieve the issued ext social security clearance of natural legal persons (Social security clearance of natural/legal persons (e-EFKA))."
+},
+{
+"id": "other_public_bod.decision_approving_environment_grx_decision_approving_environment.submit",
+"server": "s_other_public_body",
+"name": "other_public_bod.decision_approving_environment_grx_decision_approving_environment.submit",
+"description": "Submit an application for: Decision approving environmental conditions (DAEC) for sub-category A projects/activities."
+},
+{
+"id": "other_public_bod.decision_approving_environment_grx_decision_approving_environment.get",
+"server": "s_other_public_body",
+"name": "other_public_bod.decision_approving_environment_grx_decision_approving_environment.get",
+"description": "Retrieve the issued ext decision approving environmental conditions daec f (Decision approving environmental conditions (DAEC) for sub-category A projects/activities)."
+},
+{
+"id": "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.submit",
+"server": "s_independent_authority_for_publ",
+"name": "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.submit",
+"description": "Submit an application for: Certificate of no outstanding tax debts."
+},
+{
+"id": "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.get",
+"server": "s_independent_authority_for_publ",
+"name": "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.get",
+"description": "Retrieve the issued ext certificate of no outstanding tax debts (Certificate of no outstanding tax debts)."
+},
+{
+"id": "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.submit",
+"server": "s_other_public_body",
+"name": "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.submit",
+"description": "Submit an application for: MyPhoto for citizens."
+},
+{
+"id": "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.get",
+"server": "s_other_public_body",
+"name": "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.get",
+"description": "Retrieve the issued ext myphoto for citizens (MyPhoto for citizens)."
+},
+{
+"id": "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.submit",
+"server": "s_other_public_body",
+"name": "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.submit",
+"description": "Submit an application for: Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment."
+},
+{
+"id": "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.get",
+"server": "s_other_public_body",
+"name": "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.get",
+"description": "Retrieve the issued ext authorisation for the operation of an lpg or mixed (Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment)."
+},
+{
+"id": "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.submit",
+"server": "s_ministry_of_environment_and_en",
+"name": "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.submit",
+"description": "Submit an application for: Operating licence for a CNG station or a mixed station in case of a concession of establishment."
+},
+{
+"id": "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.get",
+"server": "s_ministry_of_environment_and_en",
+"name": "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.get",
+"description": "Retrieve the issued ext operating licence for a cng station or a mixed sta (Operating licence for a CNG station or a mixed station in case of a concession of establishment)."
+},
+{
+"id": "e_efka.social_security_contributions__grx_social_security_contributions_.submit",
+"server": "s_e_efka",
+"name": "e_efka.social_security_contributions__grx_social_security_contributions_.submit",
+"description": "Submit an application for: Social security contributions payment certificate from certified bodies (eEFKA)."
+},
+{
+"id": "e_efka.social_security_contributions__grx_social_security_contributions_.get",
+"server": "s_e_efka",
+"name": "e_efka.social_security_contributions__grx_social_security_contributions_.get",
+"description": "Retrieve the issued ext social security contributions payment certificate  (Social security contributions payment certificate from certified bodies (eEFKA))."
+},
+{
+"id": "helper.upload_announcement_of_rental_of_moto",
+"server": "s_third_party",
+"name": "helper.upload_announcement_of_rental_of_moto",
+"description": "Fill in and upload the forms of Announcement of Rental of Motor Boats and Small Speedboats on your behalf."
+},
+{
+"id": "helper.upload_announcement_of_the_commenceme",
+"server": "s_third_party",
+"name": "helper.upload_announcement_of_the_commenceme",
+"description": "Fill in and upload the forms of Announcement of the commencement of sales of plant protection products (PPPs) on your behalf."
+},
+{
+"id": "helper.upload_announcement_of_the_operation_",
+"server": "s_third_party",
+"name": "helper.upload_announcement_of_the_operation_",
+"description": "Fill in and upload the forms of Announcement of the Operation of a Trade Fair - Domestic Trade Fair on your behalf."
+},
+{
+"id": "helper.upload_announcement_of_the_start_of_c",
+"server": "s_third_party",
+"name": "helper.upload_announcement_of_the_start_of_c",
+"description": "Fill in and upload the forms of Announcement of the Start of Circulation of a Waste-Receiving Ship on your behalf."
+},
+{
+"id": "helper.upload_change_of_notification_of_the_",
+"server": "s_third_party",
+"name": "helper.upload_change_of_notification_of_the_",
+"description": "Fill in and upload the forms of Change of Notification of the Establishment and Operation of Theatres and Cinemas on your behalf."
+},
+{
+"id": "helper.upload_copy_of_certificate_of_compete",
+"server": "s_third_party",
+"name": "helper.upload_copy_of_certificate_of_compete",
+"description": "Fill in and upload the forms of Copy of certificate of competence for instructors of speedboat operator candidates on your behalf."
+},
+{
+"id": "helper.upload_establishment_of_a_limited_par",
+"server": "s_third_party",
+"name": "helper.upload_establishment_of_a_limited_par",
+"description": "Fill in and upload the forms of Establishment of a Limited Partnership through the One Stop Service on your behalf."
+},
+{
+"id": "helper.upload_establishment_of_a_soci_t_anon",
+"server": "s_third_party",
+"name": "helper.upload_establishment_of_a_soci_t_anon",
+"description": "Fill in and upload the forms of Establishment of a Société Anonyme (SA) through the One Stop Service on your behalf."
+},
+{
+"id": "helper.upload_notification_of_commencement_o",
+"server": "s_third_party",
+"name": "helper.upload_notification_of_commencement_o",
+"description": "Fill in and upload the forms of Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines on your behalf."
+},
+{
+"id": "helper.upload_notification_of_operation_of_a",
+"server": "s_third_party",
+"name": "helper.upload_notification_of_operation_of_a",
+"description": "Fill in and upload the forms of Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver on your behalf."
+},
+{
+"id": "helper.upload_notification_of_the_operation_",
+"server": "s_third_party",
+"name": "helper.upload_notification_of_the_operation_",
+"description": "Fill in and upload the forms of Notification of the operation of Tourism Road Transport Enterprises on your behalf."
+},
+{
+"id": "helper.upload_renewal_of_a_licence_to_operat",
+"server": "s_third_party",
+"name": "helper.upload_renewal_of_a_licence_to_operat",
+"description": "Fill in and upload the forms of Renewal of a licence to operate a high-speed craft on your behalf."
+},
+{
+"id": "helper.upload_myphoto_for_citizens",
+"server": "s_third_party",
+"name": "helper.upload_myphoto_for_citizens",
+"description": "Fill in and upload the forms of MyPhoto for citizens on your behalf."
+},
+{
+"id": "helper.upload_operating_licence_for_a_cng_st",
+"server": "s_third_party",
+"name": "helper.upload_operating_licence_for_a_cng_st",
+"description": "Fill in and upload the forms of Operating licence for a CNG station or a mixed station in case of a concession of establishment on your behalf."
+},
+{
+"id": "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+"server": "s_ministry_of_commerce",
+"name": "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+"description": "Submit an application for: Issue a commercial registration (establishment)."
+},
+{
+"id": "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+"server": "s_ministry_of_commerce",
+"name": "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+"description": "Retrieve the issued commercial registration (Issue a commercial registration (establishment))."
+},
+{
+"id": "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+"server": "s_ministry_of_commerce",
+"name": "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+"description": "Pay the fee of: Issue a commercial registration (establishment)."
+},
+{
+"id": "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+"description": "Submit an application for: Issuing a commercial license."
+},
+{
+"id": "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+"description": "Retrieve the issued commercial license (Issuing a commercial license)."
+},
+{
+"id": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+"description": "Submit an application for: Issuing a fast-track commercial license."
+},
+{
+"id": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+"description": "Retrieve the issued commercial license (Issuing a fast-track commercial license)."
+},
+{
+"id": "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+"description": "Submit an application for: Renewing a commercial license."
+},
+{
+"id": "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+"description": "Retrieve the issued renewed commercial license (Renewing a commercial license)."
+},
+{
+"id": "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+"description": "Submit an application for: Issuing a building permit."
+},
+{
+"id": "ministry_of_muni.issuing_a_building_permit_sa05.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_building_permit_sa05.get",
+"description": "Retrieve the issued building permit (Issuing a building permit)."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+"description": "Submit an application for: Issuance of a building occupancy and compliance certificate."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+"description": "Retrieve the issued occupancy certificate (Issuance of a building occupancy and compliance certificate)."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+"description": "Submit an application for: Issuance of a health certificate for food workers."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+"description": "Retrieve the issued worker health certificate (Issuance of a health certificate for food workers)."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+"description": "Pay the fee of: Issuance of a health certificate for food workers."
+},
+{
+"id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+"description": "Submit an application for: Renewal of a health certificate."
+},
+{
+"id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+"description": "Retrieve the issued renewed health certificate (Renewal of a health certificate)."
+},
+{
+"id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+"description": "Pay the fee of: Renewal of a health certificate."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+"description": "Submit an application for: Issuance of a seasonal health certificate."
+},
+{
+"id": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+"description": "Retrieve the issued seasonal health certificate (Issuance of a seasonal health certificate)."
+},
+{
+"id": "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+"description": "Submit an application for: Permit for 24-hour commercial activities."
+},
+{
+"id": "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+"description": "Retrieve the issued permit 24h (Permit for 24-hour commercial activities)."
+},
+{
+"id": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+"description": "Submit an application for: Issuing a home delivery permit."
+},
+{
+"id": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+"server": "s_ministry_of_municipalities_and",
+"name": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+"description": "Retrieve the issued home delivery permit (Issuing a home delivery permit)."
+},
+{
+"id": "general_director.safety_license_salama_portal_sa12.submit",
+"server": "s_general_directorate_of_civil_d",
+"name": "general_director.safety_license_salama_portal_sa12.submit",
+"description": "Submit an application for: Safety license (Salama portal)."
+},
+{
+"id": "general_director.safety_license_salama_portal_sa12.get",
+"server": "s_general_directorate_of_civil_d",
+"name": "general_director.safety_license_salama_portal_sa12.get",
+"description": "Retrieve the issued civil defense safety report (Safety license (Salama portal))."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+"description": "Submit an application for: VAT registration for businesses."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+"description": "Retrieve the issued vat number (VAT registration for businesses)."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+"description": "Submit an application for: VAT registration for individuals."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+"description": "Retrieve the issued vat number individual (VAT registration for individuals)."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+"description": "Submit an application for: VAT registration for a group."
+},
+{
+"id": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+"description": "Retrieve the issued vat group registration (VAT registration for a group)."
+},
+{
+"id": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit",
+"description": "Submit an application for: Zakat and income tax registration."
+},
+{
+"id": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+"description": "Retrieve the issued zakat registration (Zakat and income tax registration)."
+},
+{
+"id": "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+"description": "Submit an application for: Verify VAT registration."
+},
+{
+"id": "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+"description": "Retrieve the issued vat status (Verify VAT registration)."
+},
+{
+"id": "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+"description": "Submit an application for: Update VAT registration details."
+},
+{
+"id": "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+"server": "s_zakat_tax_and_customs_authorit",
+"name": "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+"description": "Retrieve the issued updated vat registration (Update VAT registration details)."
+},
+{
+"id": "general_organiza.register_a_new_establishment_o_sa19.submit",
+"server": "s_general_organization_for_socia",
+"name": "general_organiza.register_a_new_establishment_o_sa19.submit",
+"description": "Submit an application for: Register a new establishment or branch in GOSI."
+},
+{
+"id": "general_organiza.register_a_new_establishment_o_sa19.get",
+"server": "s_general_organization_for_socia",
+"name": "general_organiza.register_a_new_establishment_o_sa19.get",
+"description": "Retrieve the issued gosi certificate (Register a new establishment or branch in GOSI)."
+},
+{
+"id": "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+"server": "s_ministry_of_human_resources_an",
+"name": "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+"description": "Submit an application for: Visa issuance for an establishment."
+},
+{
+"id": "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+"server": "s_ministry_of_human_resources_an",
+"name": "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+"description": "Retrieve the issued work visa (Visa issuance for an establishment)."
+},
+{
+"id": "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+"server": "s_ministry_of_human_resources_an",
+"name": "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+"description": "Submit an application for: Employee transfer from another employer."
+},
+{
+"id": "ministry_of_huma.employee_transfer_from_another_sa21.get",
+"server": "s_ministry_of_human_resources_an",
+"name": "ministry_of_huma.employee_transfer_from_another_sa21.get",
+"description": "Retrieve the issued transferred employee (Employee transfer from another employer)."
+},
+{
+"id": "general_director.renewal_of_residence_permit_iq_sa22.submit",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.renewal_of_residence_permit_iq_sa22.submit",
+"description": "Submit an application for: Renewal of residence permit (Iqama)."
+},
+{
+"id": "general_director.renewal_of_residence_permit_iq_sa22.get",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.renewal_of_residence_permit_iq_sa22.get",
+"description": "Retrieve the issued renewed iqama (Renewal of residence permit (Iqama))."
+},
+{
+"id": "general_director.renewal_of_residence_permit_iq_sa22.pay",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.renewal_of_residence_permit_iq_sa22.pay",
+"description": "Pay the fee of: Renewal of residence permit (Iqama)."
+},
+{
+"id": "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+"description": "Submit an application for: Extension of an exit and re-entry visa."
+},
+{
+"id": "general_director.extension_of_an_exit_and_re_en_sa23.get",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.extension_of_an_exit_and_re_en_sa23.get",
+"description": "Retrieve the issued extended exit reentry visa (Extension of an exit and re-entry visa)."
+},
+{
+"id": "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+"description": "Pay the fee of: Extension of an exit and re-entry visa."
+},
+{
+"id": "general_director.final_exit_visa_sa24.submit",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.final_exit_visa_sa24.submit",
+"description": "Submit an application for: Final exit visa."
+},
+{
+"id": "general_director.final_exit_visa_sa24.get",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.final_exit_visa_sa24.get",
+"description": "Retrieve the issued final exit visa (Final exit visa)."
+},
+{
+"id": "general_director.final_exit_visa_sa24.pay",
+"server": "s_general_directorate_of_passpor",
+"name": "general_director.final_exit_visa_sa24.pay",
+"description": "Pay the fee of: Final exit visa."
+},
+{
+"id": "helper.upload_renewal_of_a_health_certificat",
+"server": "s_third_party",
+"name": "helper.upload_renewal_of_a_health_certificat",
+"description": "Fill in and upload the forms of Renewal of a health certificate on your behalf."
+},
+{
+"id": "helper.upload_renewal_of_residence_permit_iq",
+"server": "s_third_party",
+"name": "helper.upload_renewal_of_residence_permit_iq",
+"description": "Fill in and upload the forms of Renewal of residence permit (Iqama) on your behalf."
+}
+]

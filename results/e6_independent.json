@@ -1,0 +1,41 @@
+{
+ "n": 45,
+ "selectflow": {
+  "independent_descriptions": 1.0,
+  "title_based_descriptions_same_requests": 1.0,
+  "tool_calls_independent": 6.088888888888889,
+  "independent_greece": 1.0,
+  "independent_saudi": 1.0
+ },
+ "all_tools": {
+  "independent_descriptions": 0.6444444444444445,
+  "title_based_descriptions_same_requests": 0.8666666666666667,
+  "tool_calls_independent": 5.466666666666667,
+  "independent_greece": 0.8666666666666667,
+  "independent_saudi": 0.2
+ },
+ "tool_search": {
+  "independent_descriptions": 0.2222222222222222,
+  "title_based_descriptions_same_requests": 0.7555555555555555,
+  "tool_calls_independent": 4.955555555555556,
+  "independent_greece": 0.23333333333333334,
+  "independent_saudi": 0.2
+ },
+ "selectflow_vs_all_tools": {
+  "diff_ci": [
+   0.35555555555555557,
+   0.2222222222222222,
+   0.4888888888888889
+  ],
+  "mcnemar_p": 3.0517578125e-05
+ },
+ "selectflow_vs_tool_search": {
+  "diff_ci": [
+   0.7777777777777778,
+   0.6444444444444445,
+   0.8888888888888888
+  ],
+  "mcnemar_p": 5.820766091346741e-11
+ },
+ "cost_usd": 9.46
+}

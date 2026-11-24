@@ -1,0 +1,76 @@
+{
+  "model": "claude-sonnet-5-5",
+  "debug_model": "claude-haiku-5-5",
+  "note_model": "Freeze the exact model identifier used for the paper and record the run dates.",
+  "prices_usd_per_mtok": {
+    "in": 2.0,
+    "out": 10.0,
+    "cache_read": 0.1,
+    "cache_write_5m": 2.5,
+    "batch_discount": 0.5,
+    "source": "https://platform.claude.com/docs/en/about-claude/pricing (checked 2026-11-23)"
+  },
+  "max_tokens_probe": 256,
+  "native_tool_search": {
+    "type": "tool_search_tool_bm25_20251119",
+    "name": "tool_search_tool_bm25"
+  },
+  "note_tool_search": "From https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool : tools are sent with defer_loading=true, never on the search tool itself. Check that the frozen model supports tool_search_tool_bm25_20251119 (the documentation lists Haiku 5.5; confirm Sonnet 5.5). Set to null to use the client-side search tools.",
+  "params": {
+    "k_max": 5,
+    "N": 12,
+    "n_min": 2,
+    "tau_mu": 0.5,
+    "tau_chi": 0.6,
+    "lam_q": 0.3,
+    "t_max": 60,
+    "rep_max": 2
+  },
+  "e1": {
+    "pilot_probes": 2000,
+    "toolkit_sizes": [
+      2,
+      3,
+      5,
+      8,
+      12,
+      20
+    ],
+    "split": [
+      0.7,
+      0.15,
+      0.15
+    ]
+  },
+  "e3": {
+    "repetitions": 3
+  },
+  "e4": {
+    "eps": 0.1,
+    "audit_fraction": 0.2
+  },
+  "e6": {
+    "variance_subset": 0.2,
+    "variance_runs": 3,
+    "max_turns": 12
+  },
+  "sensitivity": {
+    "k_max": [
+      3,
+      5,
+      8
+    ],
+    "federation_sizes": [
+      "small",
+      "medium",
+      "large"
+    ]
+  },
+  "data": {
+    "greece": "data/greece.json",
+    "saudi": "data/saudi.json",
+    "mcpbench_tools": "data/mcpbench_tools.json",
+    "requests": "data/requests.json",
+    "toucan_extract": 20000
+  }
+}

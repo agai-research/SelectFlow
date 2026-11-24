@@ -1,0 +1,1170 @@
+[
+{
+"id": "gr00|pay:gr00",
+"text": "Procedure: Announcement of Commencement of Operation of a Seaside Resort. Step to perform now: pay the fee for Announcement of Commencement of Operation of a Seaside Resort."
+},
+{
+"id": "gr00|retrieve:gr00",
+"text": "Procedure: Announcement of Commencement of Operation of a Seaside Resort. Step to perform now: obtain the out gr00."
+},
+{
+"id": "gr00|submit:gr00",
+"text": "Procedure: Announcement of Commencement of Operation of a Seaside Resort. Step to perform now: submit the application for Announcement of Commencement of Operation of a Seaside Resort."
+},
+{
+"id": "gr01|pay:gr01",
+"text": "Procedure: Announcement of Establishment and Operation of a Diving Crew. Step to perform now: pay the fee for Announcement of Establishment and Operation of a Diving Crew."
+},
+{
+"id": "gr01|retrieve:gr01",
+"text": "Procedure: Announcement of Establishment and Operation of a Diving Crew. Step to perform now: obtain the out gr01."
+},
+{
+"id": "gr01|submit:gr01",
+"text": "Procedure: Announcement of Establishment and Operation of a Diving Crew. Step to perform now: submit the application for Announcement of Establishment and Operation of a Diving Crew."
+},
+{
+"id": "gr02|retrieve:gr02",
+"text": "Procedure: Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them. Step to perform now: obtain the out gr02."
+},
+{
+"id": "gr02|submit:gr02",
+"text": "Procedure: Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them. Step to perform now: submit the application for Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them."
+},
+{
+"id": "gr03|pay:gr03",
+"text": "Procedure: Announcement of Operation of a Private Passenger Car Rental Business. Step to perform now: pay the fee for Announcement of Operation of a Private Passenger Car Rental Business."
+},
+{
+"id": "gr03|retrieve:gr03",
+"text": "Procedure: Announcement of Operation of a Private Passenger Car Rental Business. Step to perform now: obtain the out gr03."
+},
+{
+"id": "gr03|submit:gr03",
+"text": "Procedure: Announcement of Operation of a Private Passenger Car Rental Business. Step to perform now: submit the application for Announcement of Operation of a Private Passenger Car Rental Business."
+},
+{
+"id": "gr04|retrieve:gr04",
+"text": "Procedure: Announcement of Operation of a Ship Brokerage Office. Step to perform now: obtain the out gr04."
+},
+{
+"id": "gr04|submit:gr04",
+"text": "Procedure: Announcement of Operation of a Ship Brokerage Office. Step to perform now: submit the application for Announcement of Operation of a Ship Brokerage Office."
+},
+{
+"id": "gr05|pay:gr05",
+"text": "Procedure: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck. Step to perform now: pay the fee for Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck."
+},
+{
+"id": "gr05|retrieve:gr05",
+"text": "Procedure: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck. Step to perform now: obtain the out gr05."
+},
+{
+"id": "gr05|submit:gr05",
+"text": "Procedure: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck. Step to perform now: submit the application for Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck."
+},
+{
+"id": "gr06|pay:gr06",
+"text": "Procedure: Announcement of Recognition of a Scuba Diver Certification Body. Step to perform now: pay the fee for Announcement of Recognition of a Scuba Diver Certification Body."
+},
+{
+"id": "gr06|retrieve:gr06",
+"text": "Procedure: Announcement of Recognition of a Scuba Diver Certification Body. Step to perform now: obtain the out gr06."
+},
+{
+"id": "gr06|submit:gr06",
+"text": "Procedure: Announcement of Recognition of a Scuba Diver Certification Body. Step to perform now: submit the application for Announcement of Recognition of a Scuba Diver Certification Body."
+},
+{
+"id": "gr07|retrieve:gr07",
+"text": "Procedure: Announcement of Rental of Motor Boats and Small Speedboats. Step to perform now: obtain the out gr07."
+},
+{
+"id": "gr07|submit:gr07",
+"text": "Procedure: Announcement of Rental of Motor Boats and Small Speedboats. Step to perform now: submit the application for Announcement of Rental of Motor Boats and Small Speedboats."
+},
+{
+"id": "gr08|pay:gr08",
+"text": "Procedure: Announcement of the commencement of sales of plant protection products (PPPs). Step to perform now: pay the fee for Announcement of the commencement of sales of plant protection products (PPPs)."
+},
+{
+"id": "gr08|retrieve:gr08",
+"text": "Procedure: Announcement of the commencement of sales of plant protection products (PPPs). Step to perform now: obtain the out gr08."
+},
+{
+"id": "gr08|submit:gr08",
+"text": "Procedure: Announcement of the commencement of sales of plant protection products (PPPs). Step to perform now: submit the application for Announcement of the commencement of sales of plant protection products (PPPs)."
+},
+{
+"id": "gr09|retrieve:gr09",
+"text": "Procedure: Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person). Step to perform now: obtain the out gr09."
+},
+{
+"id": "gr09|submit:gr09",
+"text": "Procedure: Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person). Step to perform now: submit the application for Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person)."
+},
+{
+"id": "gr10|pay:gr10",
+"text": "Procedure: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship. Step to perform now: pay the fee for Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship."
+},
+{
+"id": "gr10|retrieve:gr10",
+"text": "Procedure: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship. Step to perform now: obtain the out gr10."
+},
+{
+"id": "gr10|submit:gr10",
+"text": "Procedure: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship. Step to perform now: submit the application for Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship."
+},
+{
+"id": "gr11|pay:gr11",
+"text": "Procedure: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV). Step to perform now: pay the fee for Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)."
+},
+{
+"id": "gr11|retrieve:gr11",
+"text": "Procedure: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV). Step to perform now: obtain the out gr11."
+},
+{
+"id": "gr11|submit:gr11",
+"text": "Procedure: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV). Step to perform now: submit the application for Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)."
+},
+{
+"id": "gr12|retrieve:gr12",
+"text": "Procedure: Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner. Step to perform now: obtain the out gr12."
+},
+{
+"id": "gr12|submit:gr12",
+"text": "Procedure: Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner. Step to perform now: submit the application for Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner."
+},
+{
+"id": "gr13|retrieve:gr13",
+"text": "Procedure: Announcement of the Operation of a Trade Fair - Domestic Trade Fair. Step to perform now: obtain the out gr13."
+},
+{
+"id": "gr13|submit:gr13",
+"text": "Procedure: Announcement of the Operation of a Trade Fair - Domestic Trade Fair. Step to perform now: submit the application for Announcement of the Operation of a Trade Fair - Domestic Trade Fair."
+},
+{
+"id": "gr14|retrieve:gr14",
+"text": "Procedure: Announcement of the Operation of a Trade Fair - International Trade Fair. Step to perform now: obtain the out gr14."
+},
+{
+"id": "gr14|submit:gr14",
+"text": "Procedure: Announcement of the Operation of a Trade Fair - International Trade Fair. Step to perform now: submit the application for Announcement of the Operation of a Trade Fair - International Trade Fair."
+},
+{
+"id": "gr15|pay:gr15",
+"text": "Procedure: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts. Step to perform now: pay the fee for Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts."
+},
+{
+"id": "gr15|retrieve:gr15",
+"text": "Procedure: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts. Step to perform now: obtain the out gr15."
+},
+{
+"id": "gr15|submit:gr15",
+"text": "Procedure: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts. Step to perform now: submit the application for Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts."
+},
+{
+"id": "gr16|pay:gr16",
+"text": "Procedure: Announcement of the Start of Circulation of a Waste-Receiving Ship. Step to perform now: pay the fee for Announcement of the Start of Circulation of a Waste-Receiving Ship."
+},
+{
+"id": "gr16|retrieve:gr16",
+"text": "Procedure: Announcement of the Start of Circulation of a Waste-Receiving Ship. Step to perform now: obtain the out gr16."
+},
+{
+"id": "gr16|submit:gr16",
+"text": "Procedure: Announcement of the Start of Circulation of a Waste-Receiving Ship. Step to perform now: submit the application for Announcement of the Start of Circulation of a Waste-Receiving Ship."
+},
+{
+"id": "gr17|pay:gr17",
+"text": "Procedure: Approval for the establishment and operation of a college by a natural person. Step to perform now: pay the fee for Approval for the establishment and operation of a college by a natural person."
+},
+{
+"id": "gr17|retrieve:gr17",
+"text": "Procedure: Approval for the establishment and operation of a college by a natural person. Step to perform now: obtain the out gr17."
+},
+{
+"id": "gr17|submit:gr17",
+"text": "Procedure: Approval for the establishment and operation of a college by a natural person. Step to perform now: submit the application for Approval for the establishment and operation of a college by a natural person."
+},
+{
+"id": "gr18|pay:gr18",
+"text": "Procedure: Approval for the operation of ski resorts. Step to perform now: pay the fee for Approval for the operation of ski resorts."
+},
+{
+"id": "gr18|retrieve:gr18",
+"text": "Procedure: Approval for the operation of ski resorts. Step to perform now: obtain the out gr18."
+},
+{
+"id": "gr18|submit:gr18",
+"text": "Procedure: Approval for the operation of ski resorts. Step to perform now: submit the application for Approval for the operation of ski resorts."
+},
+{
+"id": "gr19|retrieve:gr19",
+"text": "Procedure: Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry. Step to perform now: obtain the out gr19."
+},
+{
+"id": "gr19|submit:gr19",
+"text": "Procedure: Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry. Step to perform now: submit the application for Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry."
+},
+{
+"id": "gr20|pay:gr20",
+"text": "Procedure: Approval of the operation of recreational activities on land within tourist ports. Step to perform now: pay the fee for Approval of the operation of recreational activities on land within tourist ports."
+},
+{
+"id": "gr20|retrieve:gr20",
+"text": "Procedure: Approval of the operation of recreational activities on land within tourist ports. Step to perform now: obtain the out gr20."
+},
+{
+"id": "gr20|submit:gr20",
+"text": "Procedure: Approval of the operation of recreational activities on land within tourist ports. Step to perform now: submit the application for Approval of the operation of recreational activities on land within tourist ports."
+},
+{
+"id": "gr21|retrieve:gr21",
+"text": "Procedure: Attestation that a Shop may be established at the specific location. Step to perform now: obtain the out gr21."
+},
+{
+"id": "gr21|submit:gr21",
+"text": "Procedure: Attestation that a Shop may be established at the specific location. Step to perform now: submit the application for Attestation that a Shop may be established at the specific location."
+},
+{
+"id": "gr22|retrieve:gr22",
+"text": "Procedure: Authorisation to engage in the occupation of road haulage operator. Step to perform now: obtain the out gr22."
+},
+{
+"id": "gr22|submit:gr22",
+"text": "Procedure: Authorisation to engage in the occupation of road haulage operator. Step to perform now: submit the application for Authorisation to engage in the occupation of road haulage operator."
+},
+{
+"id": "gr23|retrieve:gr23",
+"text": "Procedure: Certificate of annual activity in short-term markets. Step to perform now: obtain the out gr23."
+},
+{
+"id": "gr23|submit:gr23",
+"text": "Procedure: Certificate of annual activity in short-term markets. Step to perform now: submit the application for Certificate of annual activity in short-term markets."
+},
+{
+"id": "gr24|pay:gr24",
+"text": "Procedure: Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps. Step to perform now: pay the fee for Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps."
+},
+{
+"id": "gr24|retrieve:gr24",
+"text": "Procedure: Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps. Step to perform now: obtain the out gr24."
+},
+{
+"id": "gr24|submit:gr24",
+"text": "Procedure: Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps. Step to perform now: submit the application for Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps."
+},
+{
+"id": "gr25|pay:gr25",
+"text": "Procedure: Certificate of Suitability for Administrative and Other Staff of a Casino Business. Step to perform now: pay the fee for Certificate of Suitability for Administrative and Other Staff of a Casino Business."
+},
+{
+"id": "gr25|retrieve:gr25",
+"text": "Procedure: Certificate of Suitability for Administrative and Other Staff of a Casino Business. Step to perform now: obtain the out gr25."
+},
+{
+"id": "gr25|submit:gr25",
+"text": "Procedure: Certificate of Suitability for Administrative and Other Staff of a Casino Business. Step to perform now: submit the application for Certificate of Suitability for Administrative and Other Staff of a Casino Business."
+},
+{
+"id": "gr26|retrieve:gr26",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest. Step to perform now: obtain the out gr26."
+},
+{
+"id": "gr26|submit:gr26",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest. Step to perform now: submit the application for Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest."
+},
+{
+"id": "gr27|pay:gr27",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity. Step to perform now: pay the fee for Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity."
+},
+{
+"id": "gr27|retrieve:gr27",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity. Step to perform now: obtain the out gr27."
+},
+{
+"id": "gr27|submit:gr27",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity. Step to perform now: submit the application for Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity."
+},
+{
+"id": "gr28|retrieve:gr28",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest. Step to perform now: obtain the out gr28."
+},
+{
+"id": "gr28|submit:gr28",
+"text": "Procedure: Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest. Step to perform now: submit the application for Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest."
+},
+{
+"id": "gr29|retrieve:gr29",
+"text": "Procedure: Change of Notification of the Establishment and Operation of Theatres and Cinemas. Step to perform now: obtain the out gr29."
+},
+{
+"id": "gr29|submit:gr29",
+"text": "Procedure: Change of Notification of the Establishment and Operation of Theatres and Cinemas. Step to perform now: submit the application for Change of Notification of the Establishment and Operation of Theatres and Cinemas."
+},
+{
+"id": "gr30|pay:gr30",
+"text": "Procedure: Copy of certificate of competence for instructors of speedboat operator candidates. Step to perform now: pay the fee for Copy of certificate of competence for instructors of speedboat operator candidates."
+},
+{
+"id": "gr30|retrieve:gr30",
+"text": "Procedure: Copy of certificate of competence for instructors of speedboat operator candidates. Step to perform now: obtain the out gr30."
+},
+{
+"id": "gr30|submit:gr30",
+"text": "Procedure: Copy of certificate of competence for instructors of speedboat operator candidates. Step to perform now: submit the application for Copy of certificate of competence for instructors of speedboat operator candidates."
+},
+{
+"id": "gr31|pay:gr31",
+"text": "Procedure: Establishment and Operation of Amateur Dance Schools by a Natural Person. Step to perform now: pay the fee for Establishment and Operation of Amateur Dance Schools by a Natural Person."
+},
+{
+"id": "gr31|retrieve:gr31",
+"text": "Procedure: Establishment and Operation of Amateur Dance Schools by a Natural Person. Step to perform now: obtain the out gr31."
+},
+{
+"id": "gr31|submit:gr31",
+"text": "Procedure: Establishment and Operation of Amateur Dance Schools by a Natural Person. Step to perform now: submit the application for Establishment and Operation of Amateur Dance Schools by a Natural Person."
+},
+{
+"id": "gr32|pay:gr32",
+"text": "Procedure: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons. Step to perform now: pay the fee for Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons."
+},
+{
+"id": "gr32|retrieve:gr32",
+"text": "Procedure: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons. Step to perform now: obtain the out gr32."
+},
+{
+"id": "gr32|submit:gr32",
+"text": "Procedure: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons. Step to perform now: submit the application for Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons."
+},
+{
+"id": "gr33|pay:gr33",
+"text": "Procedure: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks. Step to perform now: pay the fee for Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks."
+},
+{
+"id": "gr33|retrieve:gr33",
+"text": "Procedure: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks. Step to perform now: obtain the out gr33."
+},
+{
+"id": "gr33|submit:gr33",
+"text": "Procedure: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks. Step to perform now: submit the application for Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks."
+},
+{
+"id": "gr34|pay:gr34",
+"text": "Procedure: Establishment of a Limited Partnership through the One Stop Service. Step to perform now: pay the fee for Establishment of a Limited Partnership through the One Stop Service."
+},
+{
+"id": "gr34|retrieve:gr34",
+"text": "Procedure: Establishment of a Limited Partnership through the One Stop Service. Step to perform now: obtain the out gr34."
+},
+{
+"id": "gr34|submit:gr34",
+"text": "Procedure: Establishment of a Limited Partnership through the One Stop Service. Step to perform now: submit the application for Establishment of a Limited Partnership through the One Stop Service."
+},
+{
+"id": "gr35|retrieve:gr35",
+"text": "Procedure: Establishment of a Société Anonyme (SA) through the One Stop Service. Step to perform now: obtain the out gr35."
+},
+{
+"id": "gr35|submit:gr35",
+"text": "Procedure: Establishment of a Société Anonyme (SA) through the One Stop Service. Step to perform now: submit the application for Establishment of a Société Anonyme (SA) through the One Stop Service."
+},
+{
+"id": "gr36|retrieve:gr36",
+"text": "Procedure: European Health Insurance Card. Step to perform now: obtain the out gr36."
+},
+{
+"id": "gr36|submit:gr36",
+"text": "Procedure: European Health Insurance Card. Step to perform now: submit the application for European Health Insurance Card."
+},
+{
+"id": "gr37|retrieve:gr37",
+"text": "Procedure: Licence for setting up and operating a heliport. Step to perform now: obtain the out gr37."
+},
+{
+"id": "gr37|submit:gr37",
+"text": "Procedure: Licence for setting up and operating a heliport. Step to perform now: submit the application for Licence for setting up and operating a heliport."
+},
+{
+"id": "gr38|pay:gr38",
+"text": "Procedure: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them). Step to perform now: pay the fee for Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)."
+},
+{
+"id": "gr38|retrieve:gr38",
+"text": "Procedure: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them). Step to perform now: obtain the out gr38."
+},
+{
+"id": "gr38|submit:gr38",
+"text": "Procedure: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them). Step to perform now: submit the application for Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)."
+},
+{
+"id": "gr39|pay:gr39",
+"text": "Procedure: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.). Step to perform now: pay the fee for Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)."
+},
+{
+"id": "gr39|retrieve:gr39",
+"text": "Procedure: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.). Step to perform now: obtain the out gr39."
+},
+{
+"id": "gr39|submit:gr39",
+"text": "Procedure: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.). Step to perform now: submit the application for Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)."
+},
+{
+"id": "gr40|retrieve:gr40",
+"text": "Procedure: Licence for the Operation of Antique Shops. Step to perform now: obtain the out gr40."
+},
+{
+"id": "gr40|submit:gr40",
+"text": "Procedure: Licence for the Operation of Antique Shops. Step to perform now: submit the application for Licence for the Operation of Antique Shops."
+},
+{
+"id": "gr41|retrieve:gr41",
+"text": "Procedure: Licence for the Use of Public Spaces. Step to perform now: obtain the out gr41."
+},
+{
+"id": "gr41|submit:gr41",
+"text": "Procedure: Licence for the Use of Public Spaces. Step to perform now: submit the application for Licence for the Use of Public Spaces."
+},
+{
+"id": "gr42|retrieve:gr42",
+"text": "Procedure: Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles. Step to perform now: obtain the out gr42."
+},
+{
+"id": "gr42|submit:gr42",
+"text": "Procedure: Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles. Step to perform now: submit the application for Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles."
+},
+{
+"id": "gr43|pay:gr43",
+"text": "Procedure: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2. Step to perform now: pay the fee for Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2."
+},
+{
+"id": "gr43|retrieve:gr43",
+"text": "Procedure: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2. Step to perform now: obtain the out gr43."
+},
+{
+"id": "gr43|submit:gr43",
+"text": "Procedure: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2. Step to perform now: submit the application for Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2."
+},
+{
+"id": "gr44|pay:gr44",
+"text": "Procedure: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2. Step to perform now: pay the fee for Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2."
+},
+{
+"id": "gr44|retrieve:gr44",
+"text": "Procedure: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2. Step to perform now: obtain the out gr44."
+},
+{
+"id": "gr44|submit:gr44",
+"text": "Procedure: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2. Step to perform now: submit the application for Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2."
+},
+{
+"id": "gr45|pay:gr45",
+"text": "Procedure: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93. Step to perform now: pay the fee for Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93."
+},
+{
+"id": "gr45|retrieve:gr45",
+"text": "Procedure: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93. Step to perform now: obtain the out gr45."
+},
+{
+"id": "gr45|submit:gr45",
+"text": "Procedure: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93. Step to perform now: submit the application for Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93."
+},
+{
+"id": "gr46|pay:gr46",
+"text": "Procedure: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample. Step to perform now: pay the fee for Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample."
+},
+{
+"id": "gr46|retrieve:gr46",
+"text": "Procedure: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample. Step to perform now: obtain the out gr46."
+},
+{
+"id": "gr46|submit:gr46",
+"text": "Procedure: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample. Step to perform now: submit the application for Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample."
+},
+{
+"id": "gr47|pay:gr47",
+"text": "Procedure: Licensing of logistics facilities (storage and distribution centres). Step to perform now: pay the fee for Licensing of logistics facilities (storage and distribution centres)."
+},
+{
+"id": "gr47|retrieve:gr47",
+"text": "Procedure: Licensing of logistics facilities (storage and distribution centres). Step to perform now: obtain the out gr47."
+},
+{
+"id": "gr47|submit:gr47",
+"text": "Procedure: Licensing of logistics facilities (storage and distribution centres). Step to perform now: submit the application for Licensing of logistics facilities (storage and distribution centres)."
+},
+{
+"id": "gr48|pay:gr48",
+"text": "Procedure: Notification about operating parking areas for heavy-duty vehicles. Step to perform now: pay the fee for Notification about operating parking areas for heavy-duty vehicles."
+},
+{
+"id": "gr48|retrieve:gr48",
+"text": "Procedure: Notification about operating parking areas for heavy-duty vehicles. Step to perform now: obtain the out gr48."
+},
+{
+"id": "gr48|submit:gr48",
+"text": "Procedure: Notification about operating parking areas for heavy-duty vehicles. Step to perform now: submit the application for Notification about operating parking areas for heavy-duty vehicles."
+},
+{
+"id": "gr49|retrieve:gr49",
+"text": "Procedure: Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must. Step to perform now: obtain the out gr49."
+},
+{
+"id": "gr49|submit:gr49",
+"text": "Procedure: Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must. Step to perform now: submit the application for Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must."
+},
+{
+"id": "gr50|retrieve:gr50",
+"text": "Procedure: Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines. Step to perform now: obtain the out gr50."
+},
+{
+"id": "gr50|submit:gr50",
+"text": "Procedure: Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines. Step to perform now: submit the application for Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines."
+},
+{
+"id": "gr51|pay:gr51",
+"text": "Procedure: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto. Step to perform now: pay the fee for Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto."
+},
+{
+"id": "gr51|retrieve:gr51",
+"text": "Procedure: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto. Step to perform now: obtain the out gr51."
+},
+{
+"id": "gr51|submit:gr51",
+"text": "Procedure: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto. Step to perform now: submit the application for Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto."
+},
+{
+"id": "gr52|pay:gr52",
+"text": "Procedure: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities. Step to perform now: pay the fee for Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities."
+},
+{
+"id": "gr52|retrieve:gr52",
+"text": "Procedure: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities. Step to perform now: obtain the out gr52."
+},
+{
+"id": "gr52|submit:gr52",
+"text": "Procedure: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities. Step to perform now: submit the application for Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities."
+},
+{
+"id": "gr53|retrieve:gr53",
+"text": "Procedure: Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine. Step to perform now: obtain the out gr53."
+},
+{
+"id": "gr53|submit:gr53",
+"text": "Procedure: Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine. Step to perform now: submit the application for Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine."
+},
+{
+"id": "gr54|pay:gr54",
+"text": "Procedure: Notification of establishment and operation of a gym or sports school. Step to perform now: pay the fee for Notification of establishment and operation of a gym or sports school."
+},
+{
+"id": "gr54|retrieve:gr54",
+"text": "Procedure: Notification of establishment and operation of a gym or sports school. Step to perform now: obtain the out gr54."
+},
+{
+"id": "gr54|submit:gr54",
+"text": "Procedure: Notification of establishment and operation of a gym or sports school. Step to perform now: submit the application for Notification of establishment and operation of a gym or sports school."
+},
+{
+"id": "gr55|pay:gr55",
+"text": "Procedure: Notification of establishment and operation of beauty parlours. Step to perform now: pay the fee for Notification of establishment and operation of beauty parlours."
+},
+{
+"id": "gr55|retrieve:gr55",
+"text": "Procedure: Notification of establishment and operation of beauty parlours. Step to perform now: obtain the out gr55."
+},
+{
+"id": "gr55|submit:gr55",
+"text": "Procedure: Notification of establishment and operation of beauty parlours. Step to perform now: submit the application for Notification of establishment and operation of beauty parlours."
+},
+{
+"id": "gr56|pay:gr56",
+"text": "Procedure: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver. Step to perform now: pay the fee for Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver."
+},
+{
+"id": "gr56|retrieve:gr56",
+"text": "Procedure: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver. Step to perform now: obtain the out gr56."
+},
+{
+"id": "gr56|submit:gr56",
+"text": "Procedure: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver. Step to perform now: submit the application for Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver."
+},
+{
+"id": "gr57|retrieve:gr57",
+"text": "Procedure: Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent. Step to perform now: obtain the out gr57."
+},
+{
+"id": "gr57|submit:gr57",
+"text": "Procedure: Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent. Step to perform now: submit the application for Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent."
+},
+{
+"id": "gr58|pay:gr58",
+"text": "Procedure: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver. Step to perform now: pay the fee for Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver."
+},
+{
+"id": "gr58|retrieve:gr58",
+"text": "Procedure: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver. Step to perform now: obtain the out gr58."
+},
+{
+"id": "gr58|submit:gr58",
+"text": "Procedure: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver. Step to perform now: submit the application for Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver."
+},
+{
+"id": "gr59|pay:gr59",
+"text": "Procedure: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO). Step to perform now: pay the fee for Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)."
+},
+{
+"id": "gr59|retrieve:gr59",
+"text": "Procedure: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO). Step to perform now: obtain the out gr59."
+},
+{
+"id": "gr59|submit:gr59",
+"text": "Procedure: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO). Step to perform now: submit the application for Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)."
+},
+{
+"id": "gr60|pay:gr60",
+"text": "Procedure: Notification of Operation of a Vehicle Roadside Assistance Company. Step to perform now: pay the fee for Notification of Operation of a Vehicle Roadside Assistance Company."
+},
+{
+"id": "gr60|retrieve:gr60",
+"text": "Procedure: Notification of Operation of a Vehicle Roadside Assistance Company. Step to perform now: obtain the out gr60."
+},
+{
+"id": "gr60|submit:gr60",
+"text": "Procedure: Notification of Operation of a Vehicle Roadside Assistance Company. Step to perform now: submit the application for Notification of Operation of a Vehicle Roadside Assistance Company."
+},
+{
+"id": "gr61|pay:gr61",
+"text": "Procedure: Notification of operation of Car and Motorcycle Driving Schools and their branches. Step to perform now: pay the fee for Notification of operation of Car and Motorcycle Driving Schools and their branches."
+},
+{
+"id": "gr61|retrieve:gr61",
+"text": "Procedure: Notification of operation of Car and Motorcycle Driving Schools and their branches. Step to perform now: obtain the out gr61."
+},
+{
+"id": "gr61|submit:gr61",
+"text": "Procedure: Notification of operation of Car and Motorcycle Driving Schools and their branches. Step to perform now: submit the application for Notification of operation of Car and Motorcycle Driving Schools and their branches."
+},
+{
+"id": "gr62|retrieve:gr62",
+"text": "Procedure: Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines. Step to perform now: obtain the out gr62."
+},
+{
+"id": "gr62|submit:gr62",
+"text": "Procedure: Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines. Step to perform now: submit the application for Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines."
+},
+{
+"id": "gr63|retrieve:gr63",
+"text": "Procedure: Notification of Operation of Main Tourist Accommodation Facilities. Step to perform now: obtain the out gr63."
+},
+{
+"id": "gr63|submit:gr63",
+"text": "Procedure: Notification of Operation of Main Tourist Accommodation Facilities. Step to perform now: submit the application for Notification of Operation of Main Tourist Accommodation Facilities."
+},
+{
+"id": "gr64|pay:gr64",
+"text": "Procedure: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds. Step to perform now: pay the fee for Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds."
+},
+{
+"id": "gr64|retrieve:gr64",
+"text": "Procedure: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds. Step to perform now: obtain the out gr64."
+},
+{
+"id": "gr64|submit:gr64",
+"text": "Procedure: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds. Step to perform now: submit the application for Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds."
+},
+{
+"id": "gr65|pay:gr65",
+"text": "Procedure: Notification of Operation of Vehicle Roadside Assistance Partner. Step to perform now: pay the fee for Notification of Operation of Vehicle Roadside Assistance Partner."
+},
+{
+"id": "gr65|retrieve:gr65",
+"text": "Procedure: Notification of Operation of Vehicle Roadside Assistance Partner. Step to perform now: obtain the out gr65."
+},
+{
+"id": "gr65|submit:gr65",
+"text": "Procedure: Notification of Operation of Vehicle Roadside Assistance Partner. Step to perform now: submit the application for Notification of Operation of Vehicle Roadside Assistance Partner."
+},
+{
+"id": "gr66|pay:gr66",
+"text": "Procedure: Notification of provision of recreational diving services. Step to perform now: pay the fee for Notification of provision of recreational diving services."
+},
+{
+"id": "gr66|retrieve:gr66",
+"text": "Procedure: Notification of provision of recreational diving services. Step to perform now: obtain the out gr66."
+},
+{
+"id": "gr66|submit:gr66",
+"text": "Procedure: Notification of provision of recreational diving services. Step to perform now: submit the application for Notification of provision of recreational diving services."
+},
+{
+"id": "gr67|pay:gr67",
+"text": "Procedure: Notification of Relocation - Expansion of Gym or Sports School to a New Building. Step to perform now: pay the fee for Notification of Relocation - Expansion of Gym or Sports School to a New Building."
+},
+{
+"id": "gr67|retrieve:gr67",
+"text": "Procedure: Notification of Relocation - Expansion of Gym or Sports School to a New Building. Step to perform now: obtain the out gr67."
+},
+{
+"id": "gr67|submit:gr67",
+"text": "Procedure: Notification of Relocation - Expansion of Gym or Sports School to a New Building. Step to perform now: submit the application for Notification of Relocation - Expansion of Gym or Sports School to a New Building."
+},
+{
+"id": "gr68|pay:gr68",
+"text": "Procedure: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations. Step to perform now: pay the fee for Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations."
+},
+{
+"id": "gr68|retrieve:gr68",
+"text": "Procedure: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations. Step to perform now: obtain the out gr68."
+},
+{
+"id": "gr68|submit:gr68",
+"text": "Procedure: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations. Step to perform now: submit the application for Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations."
+},
+{
+"id": "gr69|pay:gr69",
+"text": "Procedure: Notification of the Commencement of Operation of Sheltered Parkings. Step to perform now: pay the fee for Notification of the Commencement of Operation of Sheltered Parkings."
+},
+{
+"id": "gr69|retrieve:gr69",
+"text": "Procedure: Notification of the Commencement of Operation of Sheltered Parkings. Step to perform now: obtain the out gr69."
+},
+{
+"id": "gr69|submit:gr69",
+"text": "Procedure: Notification of the Commencement of Operation of Sheltered Parkings. Step to perform now: submit the application for Notification of the Commencement of Operation of Sheltered Parkings."
+},
+{
+"id": "gr70|pay:gr70",
+"text": "Procedure: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation. Step to perform now: pay the fee for Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation."
+},
+{
+"id": "gr70|retrieve:gr70",
+"text": "Procedure: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation. Step to perform now: obtain the out gr70."
+},
+{
+"id": "gr70|submit:gr70",
+"text": "Procedure: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation. Step to perform now: submit the application for Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation."
+},
+{
+"id": "gr71|pay:gr71",
+"text": "Procedure: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession. Step to perform now: pay the fee for Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession."
+},
+{
+"id": "gr71|retrieve:gr71",
+"text": "Procedure: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession. Step to perform now: obtain the out gr71."
+},
+{
+"id": "gr71|submit:gr71",
+"text": "Procedure: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession. Step to perform now: submit the application for Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession."
+},
+{
+"id": "gr72|retrieve:gr72",
+"text": "Procedure: Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance). Step to perform now: obtain the out gr72."
+},
+{
+"id": "gr72|submit:gr72",
+"text": "Procedure: Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance). Step to perform now: submit the application for Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)."
+},
+{
+"id": "gr73|pay:gr73",
+"text": "Procedure: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest. Step to perform now: pay the fee for Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest."
+},
+{
+"id": "gr73|retrieve:gr73",
+"text": "Procedure: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest. Step to perform now: obtain the out gr73."
+},
+{
+"id": "gr73|submit:gr73",
+"text": "Procedure: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest. Step to perform now: submit the application for Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest."
+},
+{
+"id": "gr74|retrieve:gr74",
+"text": "Procedure: Notification of the Establishment and Operation of Theatres and Cinemas. Step to perform now: obtain the out gr74."
+},
+{
+"id": "gr74|submit:gr74",
+"text": "Procedure: Notification of the Establishment and Operation of Theatres and Cinemas. Step to perform now: submit the application for Notification of the Establishment and Operation of Theatres and Cinemas."
+},
+{
+"id": "gr75|pay:gr75",
+"text": "Procedure: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds. Step to perform now: pay the fee for Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds."
+},
+{
+"id": "gr75|retrieve:gr75",
+"text": "Procedure: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds. Step to perform now: obtain the out gr75."
+},
+{
+"id": "gr75|submit:gr75",
+"text": "Procedure: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds. Step to perform now: submit the application for Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds."
+},
+{
+"id": "gr76|pay:gr76",
+"text": "Procedure: Notification of the operation of Tourism Road Transport Enterprises. Step to perform now: pay the fee for Notification of the operation of Tourism Road Transport Enterprises."
+},
+{
+"id": "gr76|retrieve:gr76",
+"text": "Procedure: Notification of the operation of Tourism Road Transport Enterprises. Step to perform now: obtain the out gr76."
+},
+{
+"id": "gr76|submit:gr76",
+"text": "Procedure: Notification of the operation of Tourism Road Transport Enterprises. Step to perform now: submit the application for Notification of the operation of Tourism Road Transport Enterprises."
+},
+{
+"id": "gr77|pay:gr77",
+"text": "Procedure: Operating licence for a private company acting as security services provider (sole proprietorship). Step to perform now: pay the fee for Operating licence for a private company acting as security services provider (sole proprietorship)."
+},
+{
+"id": "gr77|retrieve:gr77",
+"text": "Procedure: Operating licence for a private company acting as security services provider (sole proprietorship). Step to perform now: obtain the out gr77."
+},
+{
+"id": "gr77|submit:gr77",
+"text": "Procedure: Operating licence for a private company acting as security services provider (sole proprietorship). Step to perform now: submit the application for Operating licence for a private company acting as security services provider (sole proprietorship)."
+},
+{
+"id": "gr78|pay:gr78",
+"text": "Procedure: Renewal of a licence to operate a high-speed craft. Step to perform now: pay the fee for Renewal of a licence to operate a high-speed craft."
+},
+{
+"id": "gr78|retrieve:gr78",
+"text": "Procedure: Renewal of a licence to operate a high-speed craft. Step to perform now: obtain the out gr78."
+},
+{
+"id": "gr78|submit:gr78",
+"text": "Procedure: Renewal of a licence to operate a high-speed craft. Step to perform now: submit the application for Renewal of a licence to operate a high-speed craft."
+},
+{
+"id": "gr79|pay:gr79",
+"text": "Procedure: Temporary (active) fire protection certificate. Step to perform now: pay the fee for Temporary (active) fire protection certificate."
+},
+{
+"id": "gr79|retrieve:gr79",
+"text": "Procedure: Temporary (active) fire protection certificate. Step to perform now: obtain the out gr79."
+},
+{
+"id": "gr79|submit:gr79",
+"text": "Procedure: Temporary (active) fire protection certificate. Step to perform now: submit the application for Temporary (active) fire protection certificate."
+},
+{
+"id": "gr80|retrieve:gr80",
+"text": "Procedure: Vehicle Technical Inspector (cross-border service provision). Step to perform now: obtain the out gr80."
+},
+{
+"id": "gr80|submit:gr80",
+"text": "Procedure: Vehicle Technical Inspector (cross-border service provision). Step to perform now: submit the application for Vehicle Technical Inspector (cross-border service provision)."
+},
+{
+"id": "grx_solemn_declaration_and_electro|retrieve:grx_solemn_declaration_and_electro",
+"text": "Procedure: Solemn declaration and electronic solemn declaration. Step to perform now: obtain the ext solemn declaration and electronic solemn declarati."
+},
+{
+"id": "grx_solemn_declaration_and_electro|submit:grx_solemn_declaration_and_electro",
+"text": "Procedure: Solemn declaration and electronic solemn declaration. Step to perform now: submit the application for Solemn declaration and electronic solemn declaration."
+},
+{
+"id": "grx_single_certificate_of_judicial|retrieve:grx_single_certificate_of_judicial",
+"text": "Procedure: Single Certificate of Judicial Solvency. Step to perform now: obtain the ext single certificate of judicial solvency."
+},
+{
+"id": "grx_single_certificate_of_judicial|submit:grx_single_certificate_of_judicial",
+"text": "Procedure: Single Certificate of Judicial Solvency. Step to perform now: submit the application for Single Certificate of Judicial Solvency."
+},
+{
+"id": "grx_copy_of_criminal_record|retrieve:grx_copy_of_criminal_record",
+"text": "Procedure: Copy of Criminal Record. Step to perform now: obtain the ext copy of criminal record."
+},
+{
+"id": "grx_copy_of_criminal_record|submit:grx_copy_of_criminal_record",
+"text": "Procedure: Copy of Criminal Record. Step to perform now: submit the application for Copy of Criminal Record."
+},
+{
+"id": "grx_certificate_of_active_fire_pro|retrieve:grx_certificate_of_active_fire_pro",
+"text": "Procedure: Certificate of (Active) Fire Protection. Step to perform now: obtain the ext certificate of active fire protection."
+},
+{
+"id": "grx_certificate_of_active_fire_pro|submit:grx_certificate_of_active_fire_pro",
+"text": "Procedure: Certificate of (Active) Fire Protection. Step to perform now: submit the application for Certificate of (Active) Fire Protection."
+},
+{
+"id": "grx_authorisation_and_electronic_a|retrieve:grx_authorisation_and_electronic_a",
+"text": "Procedure: Authorisation and Electronic Authorisation. Step to perform now: obtain the ext authorisation and electronic authorisation."
+},
+{
+"id": "grx_authorisation_and_electronic_a|submit:grx_authorisation_and_electronic_a",
+"text": "Procedure: Authorisation and Electronic Authorisation. Step to perform now: submit the application for Authorisation and Electronic Authorisation."
+},
+{
+"id": "grx_social_security_clearance_of_n|retrieve:grx_social_security_clearance_of_n",
+"text": "Procedure: Social security clearance of natural/legal persons (e-EFKA). Step to perform now: obtain the ext social security clearance of natural legal persons."
+},
+{
+"id": "grx_social_security_clearance_of_n|submit:grx_social_security_clearance_of_n",
+"text": "Procedure: Social security clearance of natural/legal persons (e-EFKA). Step to perform now: submit the application for Social security clearance of natural/legal persons (e-EFKA)."
+},
+{
+"id": "grx_decision_approving_environment|retrieve:grx_decision_approving_environment",
+"text": "Procedure: Decision approving environmental conditions (DAEC) for sub-category A projects/activities. Step to perform now: obtain the ext decision approving environmental conditions daec f."
+},
+{
+"id": "grx_decision_approving_environment|submit:grx_decision_approving_environment",
+"text": "Procedure: Decision approving environmental conditions (DAEC) for sub-category A projects/activities. Step to perform now: submit the application for Decision approving environmental conditions (DAEC) for sub-category A projects/activities."
+},
+{
+"id": "grx_certificate_of_no_outstanding_|retrieve:grx_certificate_of_no_outstanding_",
+"text": "Procedure: Certificate of no outstanding tax debts. Step to perform now: obtain the ext certificate of no outstanding tax debts."
+},
+{
+"id": "grx_certificate_of_no_outstanding_|submit:grx_certificate_of_no_outstanding_",
+"text": "Procedure: Certificate of no outstanding tax debts. Step to perform now: submit the application for Certificate of no outstanding tax debts."
+},
+{
+"id": "grx_myphoto_for_citizens|retrieve:grx_myphoto_for_citizens",
+"text": "Procedure: MyPhoto for citizens. Step to perform now: obtain the ext myphoto for citizens."
+},
+{
+"id": "grx_myphoto_for_citizens|submit:grx_myphoto_for_citizens",
+"text": "Procedure: MyPhoto for citizens. Step to perform now: submit the application for MyPhoto for citizens."
+},
+{
+"id": "grx_authorisation_for_the_operatio|retrieve:grx_authorisation_for_the_operatio",
+"text": "Procedure: Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment. Step to perform now: obtain the ext authorisation for the operation of an lpg or mixed."
+},
+{
+"id": "grx_authorisation_for_the_operatio|submit:grx_authorisation_for_the_operatio",
+"text": "Procedure: Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment. Step to perform now: submit the application for Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment."
+},
+{
+"id": "grx_operating_licence_for_a_cng_st|retrieve:grx_operating_licence_for_a_cng_st",
+"text": "Procedure: Operating licence for a CNG station or a mixed station in case of a concession of establishment. Step to perform now: obtain the ext operating licence for a cng station or a mixed sta."
+},
+{
+"id": "grx_operating_licence_for_a_cng_st|submit:grx_operating_licence_for_a_cng_st",
+"text": "Procedure: Operating licence for a CNG station or a mixed station in case of a concession of establishment. Step to perform now: submit the application for Operating licence for a CNG station or a mixed station in case of a concession of establishment."
+},
+{
+"id": "grx_social_security_contributions_|retrieve:grx_social_security_contributions_",
+"text": "Procedure: Social security contributions payment certificate from certified bodies (eEFKA). Step to perform now: obtain the ext social security contributions payment certificate ."
+},
+{
+"id": "grx_social_security_contributions_|submit:grx_social_security_contributions_",
+"text": "Procedure: Social security contributions payment certificate from certified bodies (eEFKA). Step to perform now: submit the application for Social security contributions payment certificate from certified bodies (eEFKA)."
+},
+{
+"id": "sa01|pay:sa01",
+"text": "Procedure: Issue a commercial registration (establishment). Step to perform now: pay the fee for Issue a commercial registration (establishment)."
+},
+{
+"id": "sa01|retrieve:sa01",
+"text": "Procedure: Issue a commercial registration (establishment). Step to perform now: obtain the commercial registration."
+},
+{
+"id": "sa01|submit:sa01",
+"text": "Procedure: Issue a commercial registration (establishment). Step to perform now: submit the application for Issue a commercial registration (establishment)."
+},
+{
+"id": "sa02|retrieve:sa02",
+"text": "Procedure: Issuing a commercial license. Step to perform now: obtain the commercial license."
+},
+{
+"id": "sa02|submit:sa02",
+"text": "Procedure: Issuing a commercial license. Step to perform now: submit the application for Issuing a commercial license."
+},
+{
+"id": "sa03|retrieve:sa03",
+"text": "Procedure: Issuing a fast-track commercial license. Step to perform now: obtain the commercial license."
+},
+{
+"id": "sa03|submit:sa03",
+"text": "Procedure: Issuing a fast-track commercial license. Step to perform now: submit the application for Issuing a fast-track commercial license."
+},
+{
+"id": "sa04|retrieve:sa04",
+"text": "Procedure: Renewing a commercial license. Step to perform now: obtain the renewed commercial license."
+},
+{
+"id": "sa04|submit:sa04",
+"text": "Procedure: Renewing a commercial license. Step to perform now: submit the application for Renewing a commercial license."
+},
+{
+"id": "sa05|retrieve:sa05",
+"text": "Procedure: Issuing a building permit. Step to perform now: obtain the building permit."
+},
+{
+"id": "sa05|submit:sa05",
+"text": "Procedure: Issuing a building permit. Step to perform now: submit the application for Issuing a building permit."
+},
+{
+"id": "sa06|retrieve:sa06",
+"text": "Procedure: Issuance of a building occupancy and compliance certificate. Step to perform now: obtain the occupancy certificate."
+},
+{
+"id": "sa06|submit:sa06",
+"text": "Procedure: Issuance of a building occupancy and compliance certificate. Step to perform now: submit the application for Issuance of a building occupancy and compliance certificate."
+},
+{
+"id": "sa07|pay:sa07",
+"text": "Procedure: Issuance of a health certificate for food workers. Step to perform now: pay the fee for Issuance of a health certificate for food workers."
+},
+{
+"id": "sa07|retrieve:sa07",
+"text": "Procedure: Issuance of a health certificate for food workers. Step to perform now: obtain the worker health certificate."
+},
+{
+"id": "sa07|submit:sa07",
+"text": "Procedure: Issuance of a health certificate for food workers. Step to perform now: submit the application for Issuance of a health certificate for food workers."
+},
+{
+"id": "sa08|pay:sa08",
+"text": "Procedure: Renewal of a health certificate. Step to perform now: pay the fee for Renewal of a health certificate."
+},
+{
+"id": "sa08|retrieve:sa08",
+"text": "Procedure: Renewal of a health certificate. Step to perform now: obtain the renewed health certificate."
+},
+{
+"id": "sa08|submit:sa08",
+"text": "Procedure: Renewal of a health certificate. Step to perform now: submit the application for Renewal of a health certificate."
+},
+{
+"id": "sa09|retrieve:sa09",
+"text": "Procedure: Issuance of a seasonal health certificate. Step to perform now: obtain the seasonal health certificate."
+},
+{
+"id": "sa09|submit:sa09",
+"text": "Procedure: Issuance of a seasonal health certificate. Step to perform now: submit the application for Issuance of a seasonal health certificate."
+},
+{
+"id": "sa10|retrieve:sa10",
+"text": "Procedure: Permit for 24-hour commercial activities. Step to perform now: obtain the permit 24h."
+},
+{
+"id": "sa10|submit:sa10",
+"text": "Procedure: Permit for 24-hour commercial activities. Step to perform now: submit the application for Permit for 24-hour commercial activities."
+},
+{
+"id": "sa11|retrieve:sa11",
+"text": "Procedure: Issuing a home delivery permit. Step to perform now: obtain the home delivery permit."
+},
+{
+"id": "sa11|submit:sa11",
+"text": "Procedure: Issuing a home delivery permit. Step to perform now: submit the application for Issuing a home delivery permit."
+},
+{
+"id": "sa12|retrieve:sa12",
+"text": "Procedure: Safety license (Salama portal). Step to perform now: obtain the civil defense safety report."
+},
+{
+"id": "sa12|submit:sa12",
+"text": "Procedure: Safety license (Salama portal). Step to perform now: submit the application for Safety license (Salama portal)."
+},
+{
+"id": "sa13|retrieve:sa13",
+"text": "Procedure: VAT registration for businesses. Step to perform now: obtain the vat number."
+},
+{
+"id": "sa13|submit:sa13",
+"text": "Procedure: VAT registration for businesses. Step to perform now: submit the application for VAT registration for businesses."
+},
+{
+"id": "sa14|retrieve:sa14",
+"text": "Procedure: VAT registration for individuals. Step to perform now: obtain the vat number individual."
+},
+{
+"id": "sa14|submit:sa14",
+"text": "Procedure: VAT registration for individuals. Step to perform now: submit the application for VAT registration for individuals."
+},
+{
+"id": "sa15|retrieve:sa15",
+"text": "Procedure: VAT registration for a group. Step to perform now: obtain the vat group registration."
+},
+{
+"id": "sa15|submit:sa15",
+"text": "Procedure: VAT registration for a group. Step to perform now: submit the application for VAT registration for a group."
+},
+{
+"id": "sa16|retrieve:sa16",
+"text": "Procedure: Zakat and income tax registration. Step to perform now: obtain the zakat registration."
+},
+{
+"id": "sa16|submit:sa16",
+"text": "Procedure: Zakat and income tax registration. Step to perform now: submit the application for Zakat and income tax registration."
+},
+{
+"id": "sa17|retrieve:sa17",
+"text": "Procedure: Verify VAT registration. Step to perform now: obtain the vat status."
+},
+{
+"id": "sa17|submit:sa17",
+"text": "Procedure: Verify VAT registration. Step to perform now: submit the application for Verify VAT registration."
+},
+{
+"id": "sa18|retrieve:sa18",
+"text": "Procedure: Update VAT registration details. Step to perform now: obtain the updated vat registration."
+},
+{
+"id": "sa18|submit:sa18",
+"text": "Procedure: Update VAT registration details. Step to perform now: submit the application for Update VAT registration details."
+},
+{
+"id": "sa19|retrieve:sa19",
+"text": "Procedure: Register a new establishment or branch in GOSI. Step to perform now: obtain the gosi certificate."
+},
+{
+"id": "sa19|submit:sa19",
+"text": "Procedure: Register a new establishment or branch in GOSI. Step to perform now: submit the application for Register a new establishment or branch in GOSI."
+},
+{
+"id": "sa20|retrieve:sa20",
+"text": "Procedure: Visa issuance for an establishment. Step to perform now: obtain the work visa."
+},
+{
+"id": "sa20|submit:sa20",
+"text": "Procedure: Visa issuance for an establishment. Step to perform now: submit the application for Visa issuance for an establishment."
+},
+{
+"id": "sa21|retrieve:sa21",
+"text": "Procedure: Employee transfer from another employer. Step to perform now: obtain the transferred employee."
+},
+{
+"id": "sa21|submit:sa21",
+"text": "Procedure: Employee transfer from another employer. Step to perform now: submit the application for Employee transfer from another employer."
+},
+{
+"id": "sa22|pay:sa22",
+"text": "Procedure: Renewal of residence permit (Iqama). Step to perform now: pay the fee for Renewal of residence permit (Iqama)."
+},
+{
+"id": "sa22|retrieve:sa22",
+"text": "Procedure: Renewal of residence permit (Iqama). Step to perform now: obtain the renewed iqama."
+},
+{
+"id": "sa22|submit:sa22",
+"text": "Procedure: Renewal of residence permit (Iqama). Step to perform now: submit the application for Renewal of residence permit (Iqama)."
+},
+{
+"id": "sa23|pay:sa23",
+"text": "Procedure: Extension of an exit and re-entry visa. Step to perform now: pay the fee for Extension of an exit and re-entry visa."
+},
+{
+"id": "sa23|retrieve:sa23",
+"text": "Procedure: Extension of an exit and re-entry visa. Step to perform now: obtain the extended exit reentry visa."
+},
+{
+"id": "sa23|submit:sa23",
+"text": "Procedure: Extension of an exit and re-entry visa. Step to perform now: submit the application for Extension of an exit and re-entry visa."
+},
+{
+"id": "sa24|pay:sa24",
+"text": "Procedure: Final exit visa. Step to perform now: pay the fee for Final exit visa."
+},
+{
+"id": "sa24|retrieve:sa24",
+"text": "Procedure: Final exit visa. Step to perform now: obtain the final exit visa."
+},
+{
+"id": "sa24|submit:sa24",
+"text": "Procedure: Final exit visa. Step to perform now: submit the application for Final exit visa."
+}
+]

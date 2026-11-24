@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+ext/
+data/toucan_sample.jsonl.gz
+*.pyc
+.env

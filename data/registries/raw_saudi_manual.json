@@ -1,0 +1,409 @@
+[
+ {
+  "id": "sa01",
+  "org": "Ministry of Commerce",
+  "title": "Issue a commercial registration (establishment)",
+  "purpose": "registration",
+  "requires": [],
+  "delivers": [
+   "commercial_registration"
+  ],
+  "companions": [],
+  "fee_sar": 200,
+  "fee_source": "secondary",
+  "duration_days": 3,
+  "duration_source": "secondary",
+  "conditions": "Through the Saudi Business Center; the owner must not hold another active sole-proprietorship registration; fees paid by SADAD or card. After issuance, registration is automatic with the Ministry of Human Resources, ZATCA, GOSI, Saudi Post (national address) and the Chamber of Commerce.",
+  "url": "https://mc.gov.sa/en/eservices/Pages/ServiceDetails.aspx?sID=38",
+  "source": "official"
+ },
+ {
+  "id": "sa02",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuing a commercial license",
+  "purpose": "authorization",
+  "requires": [
+   "commercial_registration",
+   "lease_or_title_deed",
+   "civil_defense_safety_report",
+   "building_permit"
+  ],
+  "delivers": [
+   "commercial_license",
+   "safety_permit"
+  ],
+  "fee_sar": null,
+  "duration_days": 10,
+  "duration_source": "official",
+  "conditions": "Electronic only. Attachments: photo of the shop front, lease contract, title deed or investment contract, sanitation contract (optional), safety equipment invoice or safety report from the Civil Defense, copy of the building permit. Issued together with the Civil Defense safety permit. 1 to 10 days; fees apply.",
+  "url": "https://new.balady.gov.sa/en/services/issuance-commercial-license",
+  "source": "official"
+ },
+ {
+  "id": "sa03",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuing a fast-track commercial license",
+  "purpose": "authorization",
+  "requires": [
+   "commercial_registration",
+   "lease_or_title_deed"
+  ],
+  "delivers": [
+   "commercial_license",
+   "safety_permit"
+  ],
+  "fee_sar": null,
+  "duration_days": 10,
+  "duration_source": "official",
+  "conditions": "Commercial license with a safety permit for some activities; log in as owner or establishment manager when linked to a commercial register. 1 to 10 days.",
+  "url": "https://balady.gov.sa/en/services/issuing-fast-track-commercial-license",
+  "source": "official"
+ },
+ {
+  "id": "sa04",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Renewing a commercial license",
+  "purpose": "modification",
+  "requires": [
+   "commercial_license",
+   "commercial_registration",
+   "lease_or_title_deed",
+   "civil_defense_safety_report"
+  ],
+  "delivers": [
+   "renewed_commercial_license"
+  ],
+  "conditions": "Not possible if the commercial registration has expired. Needs the lease, deed or investment contract and a safety equipment certificate or accredited technical report.",
+  "url": "https://balady.gov.sa/en/services/renewing-commercial-license",
+  "source": "official"
+ },
+ {
+  "id": "sa05",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuing a building permit",
+  "purpose": "authorization",
+  "requires": [
+   "title_deed"
+  ],
+  "delivers": [
+   "building_permit"
+  ],
+  "conditions": "Building or fencing permit applied for through an engineering office; permit details sent to the electricity and water companies, Civil Defense, the insurer and the real estate registry.",
+  "url": "https://balady.gov.sa/en/services/issuing-building-permit",
+  "source": "official"
+ },
+ {
+  "id": "sa06",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuance of a building occupancy and compliance certificate",
+  "purpose": "certification",
+  "requires": [
+   "building_permit"
+  ],
+  "delivers": [
+   "occupancy_certificate"
+  ],
+  "fee_sar": 0,
+  "fee_source": "official",
+  "conditions": "The compliance certificate is valid three years and issued with the occupancy certificate; no municipal fees.",
+  "url": "https://balady.gov.sa/en/faq",
+  "source": "official"
+ },
+ {
+  "id": "sa07",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuance of a health certificate for food workers",
+  "purpose": "certification",
+  "requires": [
+   "medical_examination_report"
+  ],
+  "delivers": [
+   "worker_health_certificate"
+  ],
+  "fee_sar": 60,
+  "fee_source": "official",
+  "duration_days": 10,
+  "duration_source": "official",
+  "conditions": "For workers in food and public-health establishments (restaurants, barbershops, laundries). Medical examination at a Ministry of Health approved centre; valid one year. 4 to 10 days.",
+  "url": "https://balady.gov.sa/en/services/issuance-health-certificate",
+  "source": "official"
+ },
+ {
+  "id": "sa08",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Renewal of a health certificate",
+  "purpose": "modification",
+  "requires": [
+   "worker_health_certificate",
+   "commercial_license",
+   "medical_examination_report"
+  ],
+  "delivers": [
+   "renewed_health_certificate"
+  ],
+  "fee_sar": 60,
+  "fee_source": "official",
+  "conditions": "Verification of the business license and of the worker's profession, medical examination, health education programme if applicable.",
+  "url": "https://balady.gov.sa/en/services/renewal-health-certificate",
+  "source": "official"
+ },
+ {
+  "id": "sa09",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuance of a seasonal health certificate",
+  "purpose": "certification",
+  "requires": [
+   "medical_examination_report"
+  ],
+  "delivers": [
+   "seasonal_health_certificate"
+  ],
+  "conditions": "Seasonal variant of the worker health certificate.",
+  "url": "https://www.balady.gov.sa/en/services/issuance-seasonal-health-certificate",
+  "source": "official"
+ },
+ {
+  "id": "sa10",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Permit for 24-hour commercial activities",
+  "purpose": "authorization",
+  "requires": [
+   "commercial_license"
+  ],
+  "delivers": [
+   "permit_24h"
+  ],
+  "duration_days": 10,
+  "duration_source": "official",
+  "conditions": "Linked to the commercial license and cancelled with it; renewable when 30 days or fewer remain.",
+  "url": "https://balady.gov.sa/en/services/24-hour-commercial-activities-permit",
+  "source": "official"
+ },
+ {
+  "id": "sa11",
+  "org": "Ministry of Municipalities and Housing (Balady)",
+  "title": "Issuing a home delivery permit",
+  "purpose": "authorization",
+  "requires": [
+   "commercial_license"
+  ],
+  "delivers": [
+   "home_delivery_permit"
+  ],
+  "conditions": "For licensed commercial entities.",
+  "url": "https://balady.gov.sa/en/all-products/10920",
+  "source": "official"
+ },
+ {
+  "id": "sa12",
+  "org": "General Directorate of Civil Defense",
+  "title": "Safety license (Salama portal)",
+  "purpose": "certification",
+  "requires": [
+   "commercial_registration",
+   "lease_or_title_deed",
+   "safety_maintenance_contract"
+  ],
+  "delivers": [
+   "civil_defense_safety_report"
+  ],
+  "conditions": "Requirements vary with the classification and size of the business; applications on the Salama portal.",
+  "url": "https://monshaat.gov.sa/en/guide/6520/6780/6873",
+  "source": "official"
+ },
+ {
+  "id": "sa13",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "VAT registration for businesses",
+  "purpose": "registration",
+  "requires": [
+   "commercial_registration"
+  ],
+  "delivers": [
+   "vat_number"
+  ],
+  "conditions": "For companies with an economic activity subject to VAT; a VAT account number is assigned upon registration.",
+  "url": "https://zatca.gov.sa/en/eServices/Pages/eServices-001.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa14",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "VAT registration for individuals",
+  "purpose": "registration",
+  "requires": [],
+  "delivers": [
+   "vat_number_individual"
+  ],
+  "duration_days": 5,
+  "duration_source": "official",
+  "conditions": "Individuals engaged in economic activity; mandatory above SAR 375,000 of annual revenue, optional between 187,500 and 375,000. 5 working days.",
+  "url": "https://www.zatca.gov.sa/en/eServices/Pages/eServices-002.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa15",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "VAT registration for a group",
+  "purpose": "registration",
+  "requires": [
+   "vat_number"
+  ],
+  "delivers": [
+   "vat_group_registration"
+  ],
+  "duration_days": 3,
+  "duration_source": "official",
+  "conditions": "Two or more legal persons registered as one VAT group. 3 working days.",
+  "url": "https://zatca.gov.sa/en/eServices/Pages/eservices-003.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa16",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "Zakat and income tax registration",
+  "purpose": "registration",
+  "requires": [
+   "commercial_registration"
+  ],
+  "delivers": [
+   "zakat_registration"
+  ],
+  "conditions": "After registration with the Ministry of Commerce; the TIN is generated automatically when the commercial registration is issued.",
+  "url": "https://zatca.gov.sa/en/eServices/Pages/eservices-048.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa17",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "Verify VAT registration",
+  "purpose": "information",
+  "requires": [],
+  "delivers": [
+   "vat_status"
+  ],
+  "duration_days": 0,
+  "duration_source": "official",
+  "conditions": "By VAT account number, commercial registration number or VAT certificate number; instant.",
+  "url": "https://zatca.gov.sa/en/eServices/Pages/eServices-007.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa18",
+  "org": "Zakat, Tax and Customs Authority",
+  "title": "Update VAT registration details",
+  "purpose": "modification",
+  "requires": [
+   "vat_number"
+  ],
+  "delivers": [
+   "updated_vat_registration"
+  ],
+  "duration_days": 3,
+  "duration_source": "official",
+  "conditions": "Amendments to registration details including financial details, with supporting documents. 3 working days.",
+  "url": "https://zatca.gov.sa/en/eServices/Pages/eservices-077.aspx",
+  "source": "official"
+ },
+ {
+  "id": "sa19",
+  "org": "General Organization for Social Insurance",
+  "title": "Register a new establishment or branch in GOSI",
+  "purpose": "registration",
+  "requires": [
+   "commercial_registration"
+  ],
+  "delivers": [
+   "gosi_certificate"
+  ],
+  "conditions": "After registration the establishment can obtain the GOSI certificate proving its registration.",
+  "url": "https://www.gosi.gov.sa/GOSIOnline/Contribution_&locale=en_US",
+  "source": "official"
+ },
+ {
+  "id": "sa20",
+  "org": "Ministry of Human Resources and Social Development",
+  "title": "Visa issuance for an establishment",
+  "purpose": "authorization",
+  "requires": [
+   "commercial_registration",
+   "gosi_certificate"
+  ],
+  "delivers": [
+   "work_visa"
+  ],
+  "conditions": "Valid commercial register (except activities that do not need one), existing establishment, wage-protection compliance, allowed activity; payment.",
+  "url": "https://www.hrsd.gov.sa/en/ministry-services/services/visa",
+  "source": "official"
+ },
+ {
+  "id": "sa21",
+  "org": "Ministry of Human Resources and Social Development",
+  "title": "Employee transfer from another employer",
+  "purpose": "modification",
+  "requires": [
+   "commercial_registration",
+   "employment_contract"
+  ],
+  "delivers": [
+   "transferred_employee"
+  ],
+  "conditions": "Through Qiwa; valid commercial register; employment contract for each worker.",
+  "url": "https://www.hrsd.gov.sa/en/ministry-services/services/employee-transfer",
+  "source": "official"
+ },
+ {
+  "id": "sa22",
+  "org": "General Directorate of Passports (Jawazat)",
+  "title": "Renewal of residence permit (Iqama)",
+  "purpose": "modification",
+  "requires": [
+   "iqama",
+   "passport",
+   "medical_insurance"
+  ],
+  "delivers": [
+   "renewed_iqama"
+  ],
+  "fee_sar": 51.75,
+  "fee_source": "secondary",
+  "conditions": "Through Absher or Muqeem; valid passport, fees paid, medical insurance; fines start three days after expiry.",
+  "url": "https://saudigazette.com.sa/article/648316",
+  "source": "secondary"
+ },
+ {
+  "id": "sa23",
+  "org": "General Directorate of Passports (Jawazat)",
+  "title": "Extension of an exit and re-entry visa",
+  "purpose": "modification",
+  "requires": [
+   "exit_reentry_visa",
+   "iqama"
+  ],
+  "delivers": [
+   "extended_exit_reentry_visa"
+  ],
+  "fee_sar": 103.5,
+  "fee_source": "secondary",
+  "conditions": "Through Absher or Muqeem, including for residents outside the Kingdom.",
+  "url": "https://saudigazette.com.sa/article/648316",
+  "source": "secondary"
+ },
+ {
+  "id": "sa24",
+  "org": "General Directorate of Passports (Jawazat)",
+  "title": "Final exit visa",
+  "purpose": "authorization",
+  "requires": [
+   "iqama"
+  ],
+  "delivers": [
+   "final_exit_visa"
+  ],
+  "fee_sar": 70,
+  "fee_source": "secondary",
+  "conditions": "The residence permit must be valid at least 30 days; the visa lasts at most 60 days.",
+  "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-sets-30-day-minimum-validity-on-residency-permit-for-issuing-final-exit-visas-1.500013681",
+  "source": "secondary"
+ }
+]

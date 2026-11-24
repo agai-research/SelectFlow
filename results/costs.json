@@ -1,0 +1,50 @@
+{
+ "E3_per_probe": {
+  "selectflow": {
+   "input_tokens": 767.417808219178,
+   "output_tokens": 79.09132420091325,
+   "usd_per_1000_probes": 1.1628744292237443
+  },
+  "bm25_topk": {
+   "input_tokens": 1091.458904109589,
+   "output_tokens": 88.36301369863014,
+   "usd_per_1000_probes": 1.5332739726027398
+  },
+  "qos_single": {
+   "input_tokens": 767.1027397260274,
+   "output_tokens": 79.9417808219178,
+   "usd_per_1000_probes": 1.1668116438356164
+  },
+  "attraction": {
+   "input_tokens": 798.0171232876712,
+   "output_tokens": 78.70205479452055,
+   "usd_per_1000_probes": 1.191527397260274
+  },
+  "tool_search": {
+   "input_tokens": 2855.763698630137,
+   "output_tokens": 198.28424657534248,
+   "usd_per_1000_probes": 3.8471849315068494
+  }
+ },
+ "E1_explicit_per_probe": {
+  "input_tokens": 3359.5192926045015,
+  "output_tokens": 53.941586280814576
+ },
+ "E1_vague_per_probe": {
+  "input_tokens": 3341.5,
+  "output_tokens": 85.41800643086816
+ },
+ "E6": {
+  "usd_per_request_all_three_systems": 0.1898939024390244,
+  "tool_calls": {
+   "selectflow": 6.195121951219512,
+   "all_tools": 7.646341463414634,
+   "tool_search": 7.512195121951219
+  },
+  "selectflow_plan_time_s": 16.952439024390245
+ },
+ "E2_time_s": {
+  "selectflow_derivation": 16.478048780487807,
+  "direct_generation": 2.0670731707317076
+ }
+}

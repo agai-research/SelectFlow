@@ -1,0 +1,781 @@
+{
+ "gr00": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr01": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr02": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr03": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr04": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr05": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr06": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr07": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr08": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr09": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr10": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr11": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr12": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr13": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr14": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr15": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr16": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr17": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr18": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr19": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr20": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr21": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr22": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr23": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr24": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr25": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "LOC",
+   "FIN"
+  ]
+ },
+ "gr26": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr27": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr28": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr29": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr30": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "BUS",
+   "LOC"
+  ]
+ },
+ "gr31": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr32": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr33": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr34": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr35": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr36": {
+  "purpose_ok": false,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "BUS",
+   "FIN",
+   "HLT"
+  ]
+ },
+ "gr37": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr38": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr39": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr40": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "FIN"
+  ]
+ },
+ "gr41": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr42": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr43": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr44": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr45": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr46": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr47": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr48": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr49": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr50": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr51": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr52": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr53": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr54": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr55": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr56": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr57": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr58": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr59": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr60": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr61": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr62": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr63": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr64": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr65": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr66": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr67": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr68": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr69": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr70": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr71": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr72": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "HLT"
+  ]
+ },
+ "gr73": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr74": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr75": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr76": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr77": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "HLT"
+  ],
+  "wrong_categories": []
+ },
+ "gr78": {
+  "purpose_ok": false,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "BUS",
+   "LOC"
+  ]
+ },
+ "gr79": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "gr80": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "FIN",
+   "LOC"
+  ]
+ },
+ "grx_solemn_declaration_and_electro": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "grx_single_certificate_of_judicial": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "grx_copy_of_criminal_record": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "grx_certificate_of_active_fire_pro": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "BUS",
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "grx_authorisation_and_electronic_a": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "grx_social_security_clearance_of_n": {
+  "purpose_ok": false,
+  "categories_ok": false,
+  "missing_categories": [
+   "BUS"
+  ],
+  "wrong_categories": []
+ },
+ "grx_decision_approving_environment": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "BUS",
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "grx_certificate_of_no_outstanding_": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "FIN"
+  ],
+  "wrong_categories": []
+ },
+ "grx_myphoto_for_citizens": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "grx_authorisation_for_the_operatio": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "BUS",
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "grx_operating_licence_for_a_cng_st": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "BUS",
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "grx_social_security_contributions_": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa01": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa02": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa03": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "sa04": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa05": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa06": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "FIN"
+  ]
+ },
+ "sa07": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "BUS",
+   "LOC"
+  ]
+ },
+ "sa08": {
+  "purpose_ok": false,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa09": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa10": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "sa11": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "sa12": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa13": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "FIN"
+  ],
+  "wrong_categories": []
+ },
+ "sa14": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa15": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "FIN"
+  ],
+  "wrong_categories": []
+ },
+ "sa16": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa17": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "FIN"
+  ],
+  "wrong_categories": [
+   "ID"
+  ]
+ },
+ "sa18": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa19": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [
+   "LOC"
+  ],
+  "wrong_categories": []
+ },
+ "sa20": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa21": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa22": {
+  "purpose_ok": false,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "LOC"
+  ]
+ },
+ "sa23": {
+  "purpose_ok": true,
+  "categories_ok": true,
+  "missing_categories": [],
+  "wrong_categories": []
+ },
+ "sa24": {
+  "purpose_ok": true,
+  "categories_ok": false,
+  "missing_categories": [],
+  "wrong_categories": [
+   "BUS"
+  ]
+ }
+}

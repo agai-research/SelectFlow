@@ -1,0 +1,1047 @@
+{
+ "descriptors": [
+  {
+   "id": "v1",
+   "org": "TaxAdm",
+   "purpose": "registration",
+   "In": [],
+   "Out": [
+    "tax_registration"
+   ],
+   "R": [
+    "get-tax-number",
+    "start-registration"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0,
+   "dur": 1,
+   "chi": {},
+   "title": "Register for tax",
+   "text": "commencement of operations tax registration number business",
+   "jurisdiction": null,
+   "cap_text": {
+    "start-registration": "start the tax registration of the business",
+    "get-tax-number": "obtain the tax registration number"
+   },
+   "record": "788475"
+  },
+  {
+   "id": "v2",
+   "org": "Municipality",
+   "purpose": "authorization",
+   "In": [
+    "tax_registration"
+   ],
+   "Out": [
+    "site_attestation"
+   ],
+   "R": [
+    "request-attestation",
+    "retrieve-attestation"
+   ],
+   "A": [
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0,
+   "dur": 15,
+   "chi": {},
+   "title": "Attest location",
+   "text": "attestation that a shop may be established at the location restaurant",
+   "jurisdiction": null,
+   "cap_text": {
+    "request-attestation": "request the site attestation from the municipality",
+    "retrieve-attestation": "retrieve the issued site attestation"
+   },
+   "record": "849448"
+  },
+  {
+   "id": "v3",
+   "org": "FireService",
+   "purpose": "authorization",
+   "In": [
+    "tax_registration"
+   ],
+   "Out": [
+    "fire_certificate"
+   ],
+   "R": [
+    "retrieve-certificate",
+    "submit-application"
+   ],
+   "A": [
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 35,
+   "dur": 1,
+   "chi": {},
+   "title": "Fire certificate",
+   "text": "certificate of active fire protection restaurant shop",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit-application": "submit the application for the fire certificate",
+    "retrieve-certificate": "retrieve the fire protection certificate"
+   },
+   "record": "429354"
+  },
+  {
+   "id": "v4",
+   "org": "Ministry",
+   "purpose": "notification",
+   "In": [
+    "fire_certificate",
+    "site_attestation"
+   ],
+   "Out": [
+    "receipt"
+   ],
+   "R": [
+    "pay-fee",
+    "retrieve-attestation",
+    "submit-notification"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0,
+   "dur": 1,
+   "chi": {},
+   "title": "Notify opening",
+   "text": "notification of establishment and operation of a shop of sanitary interest restaurant",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit-notification": "submit the notification of establishment of a new shop",
+    "pay-fee": "pay the notification fee",
+    "retrieve-attestation": "attach the site attestation"
+   },
+   "record": "556174"
+  },
+  {
+   "id": "v4b",
+   "org": "Ministry",
+   "purpose": "notification",
+   "In": [
+    "receipt"
+   ],
+   "Out": [
+    "receipt_change"
+   ],
+   "R": [
+    "submit-change"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Change of notification",
+   "text": "change of notification of an existing shop of sanitary interest",
+   "jurisdiction": null,
+   "cap_text": {},
+   "record": "440334"
+  }
+ ],
+ "tools": [
+  {
+   "id": "tax.registration.start",
+   "server": "s_TaxAdm",
+   "org": "TaxAdm",
+   "desc": "Start the tax registration of a new business",
+   "caps": {
+    "start-registration": 0.9
+   },
+   "cost": 500,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "tax_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "start-registration": 0.9
+   },
+   "psi": 0.1,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "tax.registration"
+  },
+  {
+   "id": "tax.number.get",
+   "server": "s_TaxAdm",
+   "org": "TaxAdm",
+   "desc": "Get the tax registration number of a business",
+   "caps": {
+    "get-tax-number": 0.9
+   },
+   "cost": 300,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "tax_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "get-tax-number": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "tax.number"
+  },
+  {
+   "id": "tax.debt.status",
+   "server": "s_TaxAdm",
+   "org": "TaxAdm",
+   "desc": "Check the tax debt status of a taxpayer",
+   "caps": {
+    "check-tax-status": 0.9,
+    "get-tax-number": 0.3
+   },
+   "cost": 350,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "check-tax-status": 0.9,
+    "get-tax-number": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.5
+   },
+   "true_ret": [
+    "BUS",
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "tax.debt"
+  },
+  {
+   "id": "muni.attestation.request",
+   "server": "s_Municipality",
+   "org": "Municipality",
+   "desc": "Request the attestation that a shop may be established at a location",
+   "caps": {
+    "request-attestation": 0.9
+   },
+   "cost": 450,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [],
+   "cons": [
+    "tax_registration"
+   ],
+   "inp": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "request-attestation": 0.9
+   },
+   "psi": 0.1,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "muni.attestation"
+  },
+  {
+   "id": "muni.attestation.get",
+   "server": "s_Municipality",
+   "org": "Municipality",
+   "desc": "Retrieve an issued site attestation",
+   "caps": {
+    "retrieve-attestation": 0.9
+   },
+   "cost": 400,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "site_attestation"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "retrieve-attestation": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "muni.attestation"
+  },
+  {
+   "id": "fire.certificate.get",
+   "server": "s_FireService",
+   "org": "FireService",
+   "desc": "Look up a fire protection certificate",
+   "caps": {
+    "retrieve-certificate": 0.9
+   },
+   "cost": 350,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "fire_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "retrieve-certificate": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.7
+   },
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "fire.certificate"
+  },
+  {
+   "id": "notify.new.submit",
+   "server": "s_Ministry",
+   "org": "Ministry",
+   "desc": "Submit the notification of establishment of a new shop of sanitary interest",
+   "caps": {
+    "submit-notification": 0.9
+   },
+   "cost": 600,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "receipt"
+   ],
+   "cons": [
+    "fire_certificate",
+    "site_attestation"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "submit-notification": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "notify.new"
+  },
+  {
+   "id": "notify.change.submit",
+   "server": "s_Ministry",
+   "org": "Ministry",
+   "desc": "Submit a notification for a shop of sanitary interest (change of an existing notification)",
+   "caps": {
+    "submit-notification": 0.85
+   },
+   "cost": 650,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [
+    "receipt_change"
+   ],
+   "cons": [
+    "fire_certificate",
+    "site_attestation"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "submit-notification": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {
+    "sim": 0.85,
+    "assertive": 1.0
+   },
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "notify.change"
+  },
+  {
+   "id": "notify.fee.pay",
+   "server": "s_Ministry",
+   "org": "Ministry",
+   "desc": "Pay the notification fee",
+   "caps": {
+    "pay-fee": 0.9
+   },
+   "cost": 300,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "pay-fee": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.8
+   },
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "notify.fee"
+  },
+  {
+   "id": "muni.upload",
+   "server": "s_Contractor",
+   "org": "Contractor",
+   "desc": "Upload documents to the municipal file (hosted by a contractor)",
+   "caps": {
+    "retrieve-attestation": 0.6
+   },
+   "cost": 300,
+   "qos": {
+    "lat": 1.0,
+    "pr": 0.0,
+    "av": 0.99,
+    "rel": 0.99
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {}
+   },
+   "adequacy": {
+    "retrieve-attestation": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {
+    "sim": 0.6
+   },
+   "true_ret": [],
+   "true_fwd": true,
+   "family": "muni"
+  }
+ ],
+ "servers": [
+  {
+   "id": "s_TaxAdm",
+   "org": "TaxAdm",
+   "preamble": 150
+  },
+  {
+   "id": "s_Municipality",
+   "org": "Municipality",
+   "preamble": 150
+  },
+  {
+   "id": "s_FireService",
+   "org": "FireService",
+   "preamble": 150
+  },
+  {
+   "id": "s_Ministry",
+   "org": "Ministry",
+   "preamble": 150
+  },
+  {
+   "id": "s_Contractor",
+   "org": "Contractor",
+   "preamble": 150
+  }
+ ],
+ "hosts": [
+  {
+   "id": "hP",
+   "org": "Contractor",
+   "budget": 4000
+  },
+  {
+   "id": "hT",
+   "org": "TaxAdm",
+   "budget": 4000
+  }
+ ],
+ "sharing": [
+  [
+   "authorization",
+   "BUS",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "TaxAdm",
+   "FireService"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "TaxAdm",
+   "Municipality"
+  ],
+  [
+   "authorization",
+   "ID",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "FireService"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "Municipality"
+  ],
+  [
+   "authorization",
+   "ID",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "TaxAdm",
+   "FireService"
+  ],
+  [
+   "authorization",
+   "ID",
+   "TaxAdm",
+   "Municipality"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "FireService"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "Municipality"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "BUS",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "BUS",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "BUS",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "BUS",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "BUS",
+   "REQ",
+   "Ministry"
+  ],
+  [
+   "notification",
+   "BUS",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "ID",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "ID",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "ID",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "ID",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "ID",
+   "REQ",
+   "Ministry"
+  ],
+  [
+   "notification",
+   "ID",
+   "REQ",
+   "Municipality"
+  ],
+  [
+   "notification",
+   "ID",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "LOC",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "LOC",
+   "FireService",
+   "Ministry"
+  ],
+  [
+   "notification",
+   "LOC",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "LOC",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "LOC",
+   "Municipality",
+   "Ministry"
+  ],
+  [
+   "notification",
+   "LOC",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "notification",
+   "LOC",
+   "REQ",
+   "Ministry"
+  ],
+  [
+   "notification",
+   "LOC",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "TaxAdm"
+  ],
+  [
+   "registration",
+   "BUS",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "FIN",
+   "REQ",
+   "TaxAdm"
+  ],
+  [
+   "registration",
+   "ID",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "TaxAdm"
+  ],
+  [
+   "registration",
+   "ID",
+   "TaxAdm",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "FireService",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Municipality",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "REQ",
+   "Contractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "TaxAdm",
+   "Contractor"
+  ]
+ ],
+ "cat": {
+  "tax_registration": [
+   "BUS",
+   "ID"
+  ],
+  "site_attestation": [
+   "LOC"
+  ],
+  "fire_certificate": [
+   "LOC"
+  ],
+  "receipt": [
+   "BUS"
+  ],
+  "receipt_change": [
+   "BUS"
+  ]
+ },
+ "categories": [
+  "BUS",
+  "FIN",
+  "ID",
+  "LOC"
+ ],
+ "certified": {
+  "fwd": [
+   "fire.certificate.get",
+   "muni.attestation.get",
+   "muni.attestation.request",
+   "notify.change.submit",
+   "notify.fee.pay",
+   "notify.new.submit",
+   "tax.debt.status",
+   "tax.number.get",
+   "tax.registration.start"
+  ],
+  "ret:BUS": [
+   "fire.certificate.get",
+   "muni.attestation.get",
+   "muni.attestation.request",
+   "notify.fee.pay"
+  ],
+  "ret:LOC": [
+   "notify.change.submit",
+   "notify.fee.pay",
+   "notify.new.submit",
+   "tax.debt.status",
+   "tax.number.get",
+   "tax.registration.start"
+  ],
+  "ret:FIN": [
+   "fire.certificate.get",
+   "muni.attestation.get",
+   "muni.attestation.request",
+   "notify.change.submit",
+   "notify.fee.pay",
+   "notify.new.submit",
+   "tax.number.get",
+   "tax.registration.start"
+  ],
+  "ret:ID": [
+   "fire.certificate.get",
+   "muni.attestation.get",
+   "muni.attestation.request",
+   "notify.change.submit",
+   "notify.fee.pay",
+   "notify.new.submit",
+   "tax.debt.status",
+   "tax.number.get",
+   "tax.registration.start"
+  ]
+ }
+}

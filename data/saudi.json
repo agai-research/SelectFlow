@@ -1,0 +1,6290 @@
+{
+ "descriptors": [
+  {
+   "id": "sa01",
+   "org": "Ministry of Commerce",
+   "purpose": "registration",
+   "In": [],
+   "Out": [
+    "commercial_registration"
+   ],
+   "R": [
+    "pay:sa01",
+    "retrieve:sa01",
+    "submit:sa01"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 200.0,
+   "dur": 3.0,
+   "chi": {},
+   "title": "Issue a commercial registration (establishment)",
+   "text": "Through the Saudi Business Center; the owner must not hold another active sole-proprietorship registration; fees paid by SADAD or card. After issuance, registration is automatic with the Ministry of Human Resources, ZATCA, GOSI, Saudi Post (national address) and the Chamber of Commerce.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa01": "submit the application for Issue a commercial registration (establishment)",
+    "retrieve:sa01": "obtain the commercial registration",
+    "pay:sa01": "pay the fee for Issue a commercial registration (establishment)"
+   },
+   "record": "https://mc.gov.sa/en/eservices/Pages/ServiceDetails.aspx?sID=38",
+   "orgs": []
+  },
+  {
+   "id": "sa02",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "authorization",
+   "In": [
+    "building_permit",
+    "civil_defense_safety_report",
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "Out": [
+    "commercial_license",
+    "safety_permit"
+   ],
+   "R": [
+    "retrieve:sa02",
+    "submit:sa02"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 10.0,
+   "chi": {},
+   "title": "Issuing a commercial license",
+   "text": "Electronic only. Attachments: photo of the shop front, lease contract, title deed or investment contract, sanitation contract (optional), safety equipment invoice or safety report from the Civil Defense, copy of the building permit. Issued together with the Civil Defense safety permit. 1 to 10 days; fees apply.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa02": "submit the application for Issuing a commercial license",
+    "retrieve:sa02": "obtain the commercial license"
+   },
+   "record": "https://new.balady.gov.sa/en/services/issuance-commercial-license",
+   "orgs": []
+  },
+  {
+   "id": "sa03",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "authorization",
+   "In": [
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "Out": [
+    "commercial_license",
+    "safety_permit"
+   ],
+   "R": [
+    "retrieve:sa03",
+    "submit:sa03"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 10.0,
+   "chi": {},
+   "title": "Issuing a fast-track commercial license",
+   "text": "Commercial license with a safety permit for some activities; log in as owner or establishment manager when linked to a commercial register. 1 to 10 days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa03": "submit the application for Issuing a fast-track commercial license",
+    "retrieve:sa03": "obtain the commercial license"
+   },
+   "record": "https://balady.gov.sa/en/services/issuing-fast-track-commercial-license",
+   "orgs": []
+  },
+  {
+   "id": "sa04",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "modification",
+   "In": [
+    "civil_defense_safety_report",
+    "commercial_license",
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "Out": [
+    "renewed_commercial_license"
+   ],
+   "R": [
+    "retrieve:sa04",
+    "submit:sa04"
+   ],
+   "A": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Renewing a commercial license",
+   "text": "Not possible if the commercial registration has expired. Needs the lease, deed or investment contract and a safety equipment certificate or accredited technical report.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa04": "submit the application for Renewing a commercial license",
+    "retrieve:sa04": "obtain the renewed commercial license"
+   },
+   "record": "https://balady.gov.sa/en/services/renewing-commercial-license",
+   "orgs": []
+  },
+  {
+   "id": "sa05",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "authorization",
+   "In": [
+    "title_deed"
+   ],
+   "Out": [
+    "building_permit"
+   ],
+   "R": [
+    "retrieve:sa05",
+    "submit:sa05"
+   ],
+   "A": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Issuing a building permit",
+   "text": "Building or fencing permit applied for through an engineering office; permit details sent to the electricity and water companies, Civil Defense, the insurer and the real estate registry.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa05": "submit the application for Issuing a building permit",
+    "retrieve:sa05": "obtain the building permit"
+   },
+   "record": "https://balady.gov.sa/en/services/issuing-building-permit",
+   "orgs": []
+  },
+  {
+   "id": "sa06",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "certification",
+   "In": [
+    "building_permit"
+   ],
+   "Out": [
+    "occupancy_certificate"
+   ],
+   "R": [
+    "retrieve:sa06",
+    "submit:sa06"
+   ],
+   "A": [
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Issuance of a building occupancy and compliance certificate",
+   "text": "The compliance certificate is valid three years and issued with the occupancy certificate; no municipal fees.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa06": "submit the application for Issuance of a building occupancy and compliance certificate",
+    "retrieve:sa06": "obtain the occupancy certificate"
+   },
+   "record": "https://balady.gov.sa/en/faq",
+   "orgs": []
+  },
+  {
+   "id": "sa07",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "certification",
+   "In": [
+    "medical_examination_report"
+   ],
+   "Out": [
+    "worker_health_certificate"
+   ],
+   "R": [
+    "pay:sa07",
+    "retrieve:sa07",
+    "submit:sa07"
+   ],
+   "A": [
+    "BUS",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 60.0,
+   "dur": 10.0,
+   "chi": {},
+   "title": "Issuance of a health certificate for food workers",
+   "text": "For workers in food and public-health establishments (restaurants, barbershops, laundries). Medical examination at a Ministry of Health approved centre; valid one year. 4 to 10 days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa07": "submit the application for Issuance of a health certificate for food workers",
+    "retrieve:sa07": "obtain the worker health certificate",
+    "pay:sa07": "pay the fee for Issuance of a health certificate for food workers"
+   },
+   "record": "https://balady.gov.sa/en/services/issuance-health-certificate",
+   "orgs": []
+  },
+  {
+   "id": "sa08",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "modification",
+   "In": [
+    "commercial_license",
+    "medical_examination_report",
+    "worker_health_certificate"
+   ],
+   "Out": [
+    "renewed_health_certificate"
+   ],
+   "R": [
+    "pay:sa08",
+    "retrieve:sa08",
+    "submit:sa08"
+   ],
+   "A": [
+    "BUS",
+    "HLT",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 60.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Renewal of a health certificate",
+   "text": "Verification of the business license and of the worker's profession, medical examination, health education programme if applicable.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa08": "submit the application for Renewal of a health certificate",
+    "retrieve:sa08": "obtain the renewed health certificate",
+    "pay:sa08": "pay the fee for Renewal of a health certificate"
+   },
+   "record": "https://balady.gov.sa/en/services/renewal-health-certificate",
+   "orgs": []
+  },
+  {
+   "id": "sa09",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "certification",
+   "In": [
+    "medical_examination_report"
+   ],
+   "Out": [
+    "seasonal_health_certificate"
+   ],
+   "R": [
+    "retrieve:sa09",
+    "submit:sa09"
+   ],
+   "A": [
+    "HLT",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Issuance of a seasonal health certificate",
+   "text": "Seasonal variant of the worker health certificate.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa09": "submit the application for Issuance of a seasonal health certificate",
+    "retrieve:sa09": "obtain the seasonal health certificate"
+   },
+   "record": "https://www.balady.gov.sa/en/services/issuance-seasonal-health-certificate",
+   "orgs": []
+  },
+  {
+   "id": "sa10",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "authorization",
+   "In": [
+    "commercial_license"
+   ],
+   "Out": [
+    "permit_24h"
+   ],
+   "R": [
+    "retrieve:sa10",
+    "submit:sa10"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 10.0,
+   "chi": {},
+   "title": "Permit for 24-hour commercial activities",
+   "text": "Linked to the commercial license and cancelled with it; renewable when 30 days or fewer remain.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa10": "submit the application for Permit for 24-hour commercial activities",
+    "retrieve:sa10": "obtain the permit 24h"
+   },
+   "record": "https://balady.gov.sa/en/services/24-hour-commercial-activities-permit",
+   "orgs": []
+  },
+  {
+   "id": "sa11",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "purpose": "authorization",
+   "In": [
+    "commercial_license"
+   ],
+   "Out": [
+    "home_delivery_permit"
+   ],
+   "R": [
+    "retrieve:sa11",
+    "submit:sa11"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Issuing a home delivery permit",
+   "text": "For licensed commercial entities.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa11": "submit the application for Issuing a home delivery permit",
+    "retrieve:sa11": "obtain the home delivery permit"
+   },
+   "record": "https://balady.gov.sa/en/all-products/10920",
+   "orgs": []
+  },
+  {
+   "id": "sa12",
+   "org": "General Directorate of Civil Defense",
+   "purpose": "certification",
+   "In": [
+    "commercial_registration",
+    "lease_or_title_deed",
+    "safety_maintenance_contract"
+   ],
+   "Out": [
+    "civil_defense_safety_report"
+   ],
+   "R": [
+    "retrieve:sa12",
+    "submit:sa12"
+   ],
+   "A": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Safety license (Salama portal)",
+   "text": "Requirements vary with the classification and size of the business; applications on the Salama portal.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa12": "submit the application for Safety license (Salama portal)",
+    "retrieve:sa12": "obtain the civil defense safety report"
+   },
+   "record": "https://monshaat.gov.sa/en/guide/6520/6780/6873",
+   "orgs": []
+  },
+  {
+   "id": "sa13",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "registration",
+   "In": [
+    "commercial_registration"
+   ],
+   "Out": [
+    "vat_number"
+   ],
+   "R": [
+    "retrieve:sa13",
+    "submit:sa13"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "VAT registration for businesses",
+   "text": "For companies with an economic activity subject to VAT; a VAT account number is assigned upon registration.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa13": "submit the application for VAT registration for businesses",
+    "retrieve:sa13": "obtain the vat number"
+   },
+   "record": "https://zatca.gov.sa/en/eServices/Pages/eServices-001.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa14",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "registration",
+   "In": [],
+   "Out": [
+    "vat_number_individual"
+   ],
+   "R": [
+    "retrieve:sa14",
+    "submit:sa14"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 5.0,
+   "chi": {},
+   "title": "VAT registration for individuals",
+   "text": "Individuals engaged in economic activity; mandatory above SAR 375,000 of annual revenue, optional between 187,500 and 375,000. 5 working days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa14": "submit the application for VAT registration for individuals",
+    "retrieve:sa14": "obtain the vat number individual"
+   },
+   "record": "https://www.zatca.gov.sa/en/eServices/Pages/eServices-002.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa15",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "registration",
+   "In": [
+    "vat_number"
+   ],
+   "Out": [
+    "vat_group_registration"
+   ],
+   "R": [
+    "retrieve:sa15",
+    "submit:sa15"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 3.0,
+   "chi": {},
+   "title": "VAT registration for a group",
+   "text": "Two or more legal persons registered as one VAT group. 3 working days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa15": "submit the application for VAT registration for a group",
+    "retrieve:sa15": "obtain the vat group registration"
+   },
+   "record": "https://zatca.gov.sa/en/eServices/Pages/eservices-003.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa16",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "registration",
+   "In": [
+    "commercial_registration"
+   ],
+   "Out": [
+    "zakat_registration"
+   ],
+   "R": [
+    "retrieve:sa16",
+    "submit:sa16"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Zakat and income tax registration",
+   "text": "After registration with the Ministry of Commerce; the TIN is generated automatically when the commercial registration is issued.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa16": "submit the application for Zakat and income tax registration",
+    "retrieve:sa16": "obtain the zakat registration"
+   },
+   "record": "https://zatca.gov.sa/en/eServices/Pages/eservices-048.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa17",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "information",
+   "In": [],
+   "Out": [
+    "vat_status"
+   ],
+   "R": [
+    "retrieve:sa17",
+    "submit:sa17"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Verify VAT registration",
+   "text": "By VAT account number, commercial registration number or VAT certificate number; instant.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa17": "submit the application for Verify VAT registration",
+    "retrieve:sa17": "obtain the vat status"
+   },
+   "record": "https://zatca.gov.sa/en/eServices/Pages/eServices-007.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa18",
+   "org": "Zakat, Tax and Customs Authority",
+   "purpose": "modification",
+   "In": [
+    "vat_number"
+   ],
+   "Out": [
+    "updated_vat_registration"
+   ],
+   "R": [
+    "retrieve:sa18",
+    "submit:sa18"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 3.0,
+   "chi": {},
+   "title": "Update VAT registration details",
+   "text": "Amendments to registration details including financial details, with supporting documents. 3 working days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa18": "submit the application for Update VAT registration details",
+    "retrieve:sa18": "obtain the updated vat registration"
+   },
+   "record": "https://zatca.gov.sa/en/eServices/Pages/eservices-077.aspx",
+   "orgs": []
+  },
+  {
+   "id": "sa19",
+   "org": "General Organization for Social Insurance",
+   "purpose": "registration",
+   "In": [
+    "commercial_registration"
+   ],
+   "Out": [
+    "gosi_certificate"
+   ],
+   "R": [
+    "retrieve:sa19",
+    "submit:sa19"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Register a new establishment or branch in GOSI",
+   "text": "After registration the establishment can obtain the GOSI certificate proving its registration.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa19": "submit the application for Register a new establishment or branch in GOSI",
+    "retrieve:sa19": "obtain the gosi certificate"
+   },
+   "record": "https://www.gosi.gov.sa/GOSIOnline/Contribution_&locale=en_US",
+   "orgs": []
+  },
+  {
+   "id": "sa20",
+   "org": "Ministry of Human Resources and Social Development",
+   "purpose": "authorization",
+   "In": [
+    "commercial_registration",
+    "gosi_certificate"
+   ],
+   "Out": [
+    "work_visa"
+   ],
+   "R": [
+    "retrieve:sa20",
+    "submit:sa20"
+   ],
+   "A": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Visa issuance for an establishment",
+   "text": "Valid commercial register (except activities that do not need one), existing establishment, wage-protection compliance, allowed activity; payment.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa20": "submit the application for Visa issuance for an establishment",
+    "retrieve:sa20": "obtain the work visa"
+   },
+   "record": "https://www.hrsd.gov.sa/en/ministry-services/services/visa",
+   "orgs": []
+  },
+  {
+   "id": "sa21",
+   "org": "Ministry of Human Resources and Social Development",
+   "purpose": "modification",
+   "In": [
+    "commercial_registration",
+    "employment_contract"
+   ],
+   "Out": [
+    "transferred_employee"
+   ],
+   "R": [
+    "retrieve:sa21",
+    "submit:sa21"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 0.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Employee transfer from another employer",
+   "text": "Through Qiwa; valid commercial register; employment contract for each worker.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa21": "submit the application for Employee transfer from another employer",
+    "retrieve:sa21": "obtain the transferred employee"
+   },
+   "record": "https://www.hrsd.gov.sa/en/ministry-services/services/employee-transfer",
+   "orgs": []
+  },
+  {
+   "id": "sa22",
+   "org": "General Directorate of Passports (Jawazat)",
+   "purpose": "modification",
+   "In": [
+    "iqama",
+    "medical_insurance",
+    "passport"
+   ],
+   "Out": [
+    "renewed_iqama"
+   ],
+   "R": [
+    "pay:sa22",
+    "retrieve:sa22",
+    "submit:sa22"
+   ],
+   "A": [
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "comp": [],
+   "fee": 51.75,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Renewal of residence permit (Iqama)",
+   "text": "Through Absher or Muqeem; valid passport, fees paid, medical insurance; fines start three days after expiry.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa22": "submit the application for Renewal of residence permit (Iqama)",
+    "retrieve:sa22": "obtain the renewed iqama",
+    "pay:sa22": "pay the fee for Renewal of residence permit (Iqama)"
+   },
+   "record": "https://saudigazette.com.sa/article/648316",
+   "orgs": []
+  },
+  {
+   "id": "sa23",
+   "org": "General Directorate of Passports (Jawazat)",
+   "purpose": "modification",
+   "In": [
+    "exit_reentry_visa",
+    "iqama"
+   ],
+   "Out": [
+    "extended_exit_reentry_visa"
+   ],
+   "R": [
+    "pay:sa23",
+    "retrieve:sa23",
+    "submit:sa23"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 103.5,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Extension of an exit and re-entry visa",
+   "text": "Through Absher or Muqeem, including for residents outside the Kingdom.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa23": "submit the application for Extension of an exit and re-entry visa",
+    "retrieve:sa23": "obtain the extended exit reentry visa",
+    "pay:sa23": "pay the fee for Extension of an exit and re-entry visa"
+   },
+   "record": "https://saudigazette.com.sa/article/648316",
+   "orgs": []
+  },
+  {
+   "id": "sa24",
+   "org": "General Directorate of Passports (Jawazat)",
+   "purpose": "authorization",
+   "In": [
+    "iqama"
+   ],
+   "Out": [
+    "final_exit_visa"
+   ],
+   "R": [
+    "pay:sa24",
+    "retrieve:sa24",
+    "submit:sa24"
+   ],
+   "A": [
+    "BUS",
+    "ID"
+   ],
+   "comp": [],
+   "fee": 70.0,
+   "dur": 0.0,
+   "chi": {},
+   "title": "Final exit visa",
+   "text": "The residence permit must be valid at least 30 days; the visa lasts at most 60 days.",
+   "jurisdiction": null,
+   "cap_text": {
+    "submit:sa24": "submit the application for Final exit visa",
+    "retrieve:sa24": "obtain the final exit visa",
+    "pay:sa24": "pay the fee for Final exit visa"
+   },
+   "record": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-sets-30-day-minimum-validity-on-residency-permit-for-issuing-final-exit-visas-1.500013681",
+   "orgs": []
+  }
+ ],
+ "tools": [
+  {
+   "id": "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "server": "s_ministry_of_commerce",
+   "org": "Ministry of Commerce",
+   "desc": "Submit an application for: Issue a commercial registration (establishment).",
+   "caps": {
+    "submit:sa01": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 2.57993899911763,
+    "pr": 0.0,
+    "av": 0.9927386320882091,
+    "rel": 0.9826171474249253
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa01": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa01"
+  },
+  {
+   "id": "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "server": "s_ministry_of_commerce",
+   "org": "Ministry of Commerce",
+   "desc": "Retrieve the issued commercial registration (Issue a commercial registration (establishment)).",
+   "caps": {
+    "retrieve:sa01": 0.9
+   },
+   "cost": 83,
+   "qos": {
+    "lat": 0.9990752257910012,
+    "pr": 0.0,
+    "av": 0.9853382416410582,
+    "rel": 0.9821480241235124
+   },
+   "prod": [
+    "commercial_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa01": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa01"
+  },
+  {
+   "id": "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "server": "s_ministry_of_commerce",
+   "org": "Ministry of Commerce",
+   "desc": "Pay the fee of: Issue a commercial registration (establishment).",
+   "caps": {
+    "pay:sa01": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 2.416256190393886,
+    "pr": 0.0,
+    "av": 0.9790993817823678,
+    "rel": 0.9842979086245707
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa01": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa01"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuing a commercial license.",
+   "caps": {
+    "submit:sa02": 0.9,
+    "submit:sa03": 0.8,
+    "submit:sa04": 0.8
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 1.8751315065285843,
+    "pr": 0.0,
+    "av": 0.9972433865558601,
+    "rel": 0.9851406056745217
+   },
+   "prod": [],
+   "cons": [
+    "building_permit",
+    "civil_defense_safety_report",
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa02": 0.9,
+    "submit:sa03": 0.0,
+    "submit:sa04": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa02"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued commercial license (Issuing a commercial license).",
+   "caps": {
+    "retrieve:sa02": 0.9
+   },
+   "cost": 77,
+   "qos": {
+    "lat": 1.0609621798792004,
+    "pr": 0.0,
+    "av": 0.9926741261247167,
+    "rel": 0.98855106990026
+   },
+   "prod": [
+    "commercial_license",
+    "safety_permit"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa02": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa02"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuing a fast-track commercial license.",
+   "caps": {
+    "submit:sa03": 0.9,
+    "submit:sa02": 0.8
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 0.9763671216785894,
+    "pr": 0.0,
+    "av": 0.9972923876790472,
+    "rel": 0.9994835642811296
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "inp": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa03": 0.9,
+    "submit:sa02": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa03"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued commercial license (Issuing a fast-track commercial license).",
+   "caps": {
+    "retrieve:sa03": 0.9
+   },
+   "cost": 80,
+   "qos": {
+    "lat": 2.4875865371907917,
+    "pr": 0.0,
+    "av": 0.9970649785131874,
+    "rel": 0.97930442707958
+   },
+   "prod": [
+    "commercial_license",
+    "safety_permit"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa03": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa03"
+  },
+  {
+   "id": "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Renewing a commercial license.",
+   "caps": {
+    "submit:sa04": 0.9,
+    "submit:sa02": 0.8
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 2.2705457203023474,
+    "pr": 0.0,
+    "av": 0.9969651486390398,
+    "rel": 0.9905195179574632
+   },
+   "prod": [],
+   "cons": [
+    "civil_defense_safety_report",
+    "commercial_license",
+    "commercial_registration",
+    "lease_or_title_deed"
+   ],
+   "inp": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa04": 0.9,
+    "submit:sa02": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa04"
+  },
+  {
+   "id": "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued renewed commercial license (Renewing a commercial license).",
+   "caps": {
+    "retrieve:sa04": 0.9
+   },
+   "cost": 79,
+   "qos": {
+    "lat": 1.5747853317223262,
+    "pr": 0.0,
+    "av": 0.9730210362420509,
+    "rel": 0.9830251550636135
+   },
+   "prod": [
+    "renewed_commercial_license"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa04": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa04"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuing a building permit.",
+   "caps": {
+    "submit:sa05": 0.9
+   },
+   "cost": 73,
+   "qos": {
+    "lat": 1.9493948282982645,
+    "pr": 0.0,
+    "av": 0.997390331597137,
+    "rel": 0.9989981910331227
+   },
+   "prod": [],
+   "cons": [
+    "title_deed"
+   ],
+   "inp": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa05": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa05"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued building permit (Issuing a building permit).",
+   "caps": {
+    "retrieve:sa05": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 1.587926396692336,
+    "pr": 0.0,
+    "av": 0.9959592978331492,
+    "rel": 0.9778147693117588
+   },
+   "prod": [
+    "building_permit"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa05": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "sa05"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuance of a building occupancy and compliance certificate.",
+   "caps": {
+    "submit:sa06": 0.9
+   },
+   "cost": 81,
+   "qos": {
+    "lat": 2.47357513293516,
+    "pr": 0.0,
+    "av": 0.9864609791150677,
+    "rel": 0.9704212510049205
+   },
+   "prod": [],
+   "cons": [
+    "building_permit"
+   ],
+   "inp": [
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa06": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa06"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued occupancy certificate (Issuance of a building occupancy and compliance certificate).",
+   "caps": {
+    "retrieve:sa06": 0.9
+   },
+   "cost": 86,
+   "qos": {
+    "lat": 2.2432026532906764,
+    "pr": 0.0,
+    "av": 0.981964706266728,
+    "rel": 0.994745349314447
+   },
+   "prod": [
+    "occupancy_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa06": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "sa06"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuance of a health certificate for food workers.",
+   "caps": {
+    "submit:sa07": 0.9,
+    "submit:sa09": 0.8
+   },
+   "cost": 79,
+   "qos": {
+    "lat": 2.1040136433259975,
+    "pr": 0.0,
+    "av": 0.9700342845794329,
+    "rel": 0.9848073359939598
+   },
+   "prod": [],
+   "cons": [
+    "medical_examination_report"
+   ],
+   "inp": [
+    "BUS",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa07": 0.9,
+    "submit:sa09": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa07"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued worker health certificate (Issuance of a health certificate for food workers).",
+   "caps": {
+    "retrieve:sa07": 0.9
+   },
+   "cost": 84,
+   "qos": {
+    "lat": 2.6425274938305083,
+    "pr": 0.0,
+    "av": 0.9773173263066139,
+    "rel": 0.9797561308824216
+   },
+   "prod": [
+    "worker_health_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa07": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "HLT"
+   ],
+   "true_fwd": false,
+   "family": "sa07"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Pay the fee of: Issuance of a health certificate for food workers.",
+   "caps": {
+    "pay:sa07": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 2.6502723266933677,
+    "pr": 0.0,
+    "av": 0.9757320127450717,
+    "rel": 0.9870253222186202
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa07": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa07"
+  },
+  {
+   "id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Renewal of a health certificate.",
+   "caps": {
+    "submit:sa08": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 0.9442630072610945,
+    "pr": 0.0,
+    "av": 0.9990262075087043,
+    "rel": 0.9940953840783961
+   },
+   "prod": [],
+   "cons": [
+    "commercial_license",
+    "medical_examination_report",
+    "worker_health_certificate"
+   ],
+   "inp": [
+    "BUS",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa08": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa08"
+  },
+  {
+   "id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued renewed health certificate (Renewal of a health certificate).",
+   "caps": {
+    "retrieve:sa08": 0.9
+   },
+   "cost": 80,
+   "qos": {
+    "lat": 1.50951784287604,
+    "pr": 0.0,
+    "av": 0.9724133745565761,
+    "rel": 0.9796016381401763
+   },
+   "prod": [
+    "renewed_health_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa08": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "HLT"
+   ],
+   "true_fwd": false,
+   "family": "sa08"
+  },
+  {
+   "id": "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Pay the fee of: Renewal of a health certificate.",
+   "caps": {
+    "pay:sa08": 0.9
+   },
+   "cost": 72,
+   "qos": {
+    "lat": 1.6714397348055496,
+    "pr": 0.0,
+    "av": 0.9979850147268072,
+    "rel": 0.9732717353779331
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa08": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa08"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuance of a seasonal health certificate.",
+   "caps": {
+    "submit:sa09": 0.9,
+    "submit:sa07": 0.8
+   },
+   "cost": 77,
+   "qos": {
+    "lat": 1.7884215644444885,
+    "pr": 0.0,
+    "av": 0.9911968422960067,
+    "rel": 0.9864232273398527
+   },
+   "prod": [],
+   "cons": [
+    "medical_examination_report"
+   ],
+   "inp": [
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa09": 0.9,
+    "submit:sa07": 0.0
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa09"
+  },
+  {
+   "id": "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued seasonal health certificate (Issuance of a seasonal health certificate).",
+   "caps": {
+    "retrieve:sa09": 0.9
+   },
+   "cost": 83,
+   "qos": {
+    "lat": 2.499060530886607,
+    "pr": 0.0,
+    "av": 0.9862085082091097,
+    "rel": 0.998915156379214
+   },
+   "prod": [
+    "seasonal_health_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa09": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "HLT"
+   ],
+   "true_fwd": false,
+   "family": "sa09"
+  },
+  {
+   "id": "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Permit for 24-hour commercial activities.",
+   "caps": {
+    "submit:sa10": 0.9
+   },
+   "cost": 77,
+   "qos": {
+    "lat": 1.9286011954957343,
+    "pr": 0.0,
+    "av": 0.9876285119252631,
+    "rel": 0.9833496707882655
+   },
+   "prod": [],
+   "cons": [
+    "commercial_license"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa10": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa10"
+  },
+  {
+   "id": "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued permit 24h (Permit for 24-hour commercial activities).",
+   "caps": {
+    "retrieve:sa10": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 1.909974526274387,
+    "pr": 0.0,
+    "av": 0.9815470343791798,
+    "rel": 0.9872695304249467
+   },
+   "prod": [
+    "permit_24h"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa10": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa10"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Submit an application for: Issuing a home delivery permit.",
+   "caps": {
+    "submit:sa11": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 1.0838896564874467,
+    "pr": 0.0,
+    "av": 0.9756817398566306,
+    "rel": 0.9756018858476666
+   },
+   "prod": [],
+   "cons": [
+    "commercial_license"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa11": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa11"
+  },
+  {
+   "id": "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "server": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "desc": "Retrieve the issued home delivery permit (Issuing a home delivery permit).",
+   "caps": {
+    "retrieve:sa11": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 1.9544875856452382,
+    "pr": 0.0,
+    "av": 0.9896997816696889,
+    "rel": 0.9842959297602815
+   },
+   "prod": [
+    "home_delivery_permit"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa11": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa11"
+  },
+  {
+   "id": "general_director.safety_license_salama_portal_sa12.submit",
+   "server": "s_general_directorate_of_civil_d",
+   "org": "General Directorate of Civil Defense",
+   "desc": "Submit an application for: Safety license (Salama portal).",
+   "caps": {
+    "submit:sa12": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 0.542525775228103,
+    "pr": 0.0,
+    "av": 0.992728117658993,
+    "rel": 0.9963031111246833
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration",
+    "lease_or_title_deed",
+    "safety_maintenance_contract"
+   ],
+   "inp": [
+    "BUS",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa12": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa12"
+  },
+  {
+   "id": "general_director.safety_license_salama_portal_sa12.get",
+   "server": "s_general_directorate_of_civil_d",
+   "org": "General Directorate of Civil Defense",
+   "desc": "Retrieve the issued civil defense safety report (Safety license (Salama portal)).",
+   "caps": {
+    "retrieve:sa12": 0.9
+   },
+   "cost": 80,
+   "qos": {
+    "lat": 2.793128743054958,
+    "pr": 0.0,
+    "av": 0.9952738066942055,
+    "rel": 0.9969451936407364
+   },
+   "prod": [
+    "civil_defense_safety_report"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa12": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "LOC"
+   ],
+   "true_fwd": false,
+   "family": "sa12"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: VAT registration for businesses.",
+   "caps": {
+    "submit:sa13": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 2.7923225875144775,
+    "pr": 0.0,
+    "av": 0.9862179977484417,
+    "rel": 0.9817388815070387
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa13": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa13"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued vat number (VAT registration for businesses).",
+   "caps": {
+    "retrieve:sa13": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 2.204265179606897,
+    "pr": 0.0,
+    "av": 0.9782690236393637,
+    "rel": 0.9943488612552364
+   },
+   "prod": [
+    "vat_number"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa13": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa13"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: VAT registration for individuals.",
+   "caps": {
+    "submit:sa14": 0.9
+   },
+   "cost": 75,
+   "qos": {
+    "lat": 2.593612106003191,
+    "pr": 0.0,
+    "av": 0.9968511690228002,
+    "rel": 0.9876940355059348
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa14": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa14"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued vat number individual (VAT registration for individuals).",
+   "caps": {
+    "retrieve:sa14": 0.9
+   },
+   "cost": 79,
+   "qos": {
+    "lat": 2.8643651577267253,
+    "pr": 0.0,
+    "av": 0.9873908503223682,
+    "rel": 0.9835168931989346
+   },
+   "prod": [
+    "vat_number_individual"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa14": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa14"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: VAT registration for a group.",
+   "caps": {
+    "submit:sa15": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 2.0826625222804505,
+    "pr": 0.0,
+    "av": 0.9998877351806071,
+    "rel": 0.9975082365384237
+   },
+   "prod": [],
+   "cons": [
+    "vat_number"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa15": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa15"
+  },
+  {
+   "id": "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued vat group registration (VAT registration for a group).",
+   "caps": {
+    "retrieve:sa15": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 2.441977727151605,
+    "pr": 0.0,
+    "av": 0.9724711896458994,
+    "rel": 0.9883834931512213
+   },
+   "prod": [
+    "vat_group_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa15": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa15"
+  },
+  {
+   "id": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: Zakat and income tax registration.",
+   "caps": {
+    "submit:sa16": 0.9
+   },
+   "cost": 75,
+   "qos": {
+    "lat": 1.6133993453167506,
+    "pr": 0.0,
+    "av": 0.9889044202123441,
+    "rel": 0.9953523272701454
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa16": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa16"
+  },
+  {
+   "id": "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued zakat registration (Zakat and income tax registration).",
+   "caps": {
+    "retrieve:sa16": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 0.956196179567012,
+    "pr": 0.0,
+    "av": 0.9919446766237254,
+    "rel": 0.9735140287962555
+   },
+   "prod": [
+    "zakat_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa16": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS",
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa16"
+  },
+  {
+   "id": "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: Verify VAT registration.",
+   "caps": {
+    "submit:sa17": 0.9
+   },
+   "cost": 72,
+   "qos": {
+    "lat": 0.895243449543137,
+    "pr": 0.0,
+    "av": 0.9938374891513173,
+    "rel": 0.9799760844765897
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa17": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa17"
+  },
+  {
+   "id": "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued vat status (Verify VAT registration).",
+   "caps": {
+    "retrieve:sa17": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 2.502965360640881,
+    "pr": 0.0,
+    "av": 0.9730182256064829,
+    "rel": 0.9743907546673691
+   },
+   "prod": [
+    "vat_status"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa17": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa17"
+  },
+  {
+   "id": "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Submit an application for: Update VAT registration details.",
+   "caps": {
+    "submit:sa18": 0.9
+   },
+   "cost": 74,
+   "qos": {
+    "lat": 2.183710728516345,
+    "pr": 0.0,
+    "av": 0.9713570220359683,
+    "rel": 0.987215981103675
+   },
+   "prod": [],
+   "cons": [
+    "vat_number"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa18": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa18"
+  },
+  {
+   "id": "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "server": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "desc": "Retrieve the issued updated vat registration (Update VAT registration details).",
+   "caps": {
+    "retrieve:sa18": 0.9
+   },
+   "cost": 79,
+   "qos": {
+    "lat": 2.757043239687407,
+    "pr": 0.0,
+    "av": 0.9860259390478217,
+    "rel": 0.9904176739768676
+   },
+   "prod": [
+    "updated_vat_registration"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa18": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa18"
+  },
+  {
+   "id": "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "server": "s_general_organization_for_socia",
+   "org": "General Organization for Social Insurance",
+   "desc": "Submit an application for: Register a new establishment or branch in GOSI.",
+   "caps": {
+    "submit:sa19": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 0.372081345587954,
+    "pr": 0.0,
+    "av": 0.9890499972973438,
+    "rel": 0.9881901525326265
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa19": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa19"
+  },
+  {
+   "id": "general_organiza.register_a_new_establishment_o_sa19.get",
+   "server": "s_general_organization_for_socia",
+   "org": "General Organization for Social Insurance",
+   "desc": "Retrieve the issued gosi certificate (Register a new establishment or branch in GOSI).",
+   "caps": {
+    "retrieve:sa19": 0.9
+   },
+   "cost": 81,
+   "qos": {
+    "lat": 1.85507295968516,
+    "pr": 0.0,
+    "av": 0.9817362822796848,
+    "rel": 0.9811041982100556
+   },
+   "prod": [
+    "gosi_certificate"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa19": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa19"
+  },
+  {
+   "id": "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "server": "s_ministry_of_human_resources_an",
+   "org": "Ministry of Human Resources and Social Development",
+   "desc": "Submit an application for: Visa issuance for an establishment.",
+   "caps": {
+    "submit:sa20": 0.9
+   },
+   "cost": 75,
+   "qos": {
+    "lat": 2.947394956747625,
+    "pr": 0.0,
+    "av": 0.9710917611283445,
+    "rel": 0.9706490952956507
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration",
+    "gosi_certificate"
+   ],
+   "inp": [
+    "BUS",
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa20": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa20"
+  },
+  {
+   "id": "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "server": "s_ministry_of_human_resources_an",
+   "org": "Ministry of Human Resources and Social Development",
+   "desc": "Retrieve the issued work visa (Visa issuance for an establishment).",
+   "caps": {
+    "retrieve:sa20": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 2.89478445664695,
+    "pr": 0.0,
+    "av": 0.9755491582419231,
+    "rel": 0.973716854932733
+   },
+   "prod": [
+    "work_visa"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa20": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa20"
+  },
+  {
+   "id": "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "server": "s_ministry_of_human_resources_an",
+   "org": "Ministry of Human Resources and Social Development",
+   "desc": "Submit an application for: Employee transfer from another employer.",
+   "caps": {
+    "submit:sa21": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 0.8685565766939454,
+    "pr": 0.0,
+    "av": 0.9940223977106254,
+    "rel": 0.9981090747593374
+   },
+   "prod": [],
+   "cons": [
+    "commercial_registration",
+    "employment_contract"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa21": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa21"
+  },
+  {
+   "id": "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "server": "s_ministry_of_human_resources_an",
+   "org": "Ministry of Human Resources and Social Development",
+   "desc": "Retrieve the issued transferred employee (Employee transfer from another employer).",
+   "caps": {
+    "retrieve:sa21": 0.9
+   },
+   "cost": 80,
+   "qos": {
+    "lat": 0.3615129543053776,
+    "pr": 0.0,
+    "av": 0.9827685649590046,
+    "rel": 0.9730450065812251
+   },
+   "prod": [
+    "transferred_employee"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa21": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa21"
+  },
+  {
+   "id": "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Submit an application for: Renewal of residence permit (Iqama).",
+   "caps": {
+    "submit:sa22": 0.9
+   },
+   "cost": 75,
+   "qos": {
+    "lat": 1.0017837024406464,
+    "pr": 0.0,
+    "av": 0.9766248781394895,
+    "rel": 0.9894077715950597
+   },
+   "prod": [],
+   "cons": [
+    "iqama",
+    "medical_insurance",
+    "passport"
+   ],
+   "inp": [
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa22": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa22"
+  },
+  {
+   "id": "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Retrieve the issued renewed iqama (Renewal of residence permit (Iqama)).",
+   "caps": {
+    "retrieve:sa22": 0.9
+   },
+   "cost": 78,
+   "qos": {
+    "lat": 1.2457937119706373,
+    "pr": 0.0,
+    "av": 0.9754095370458906,
+    "rel": 0.9851090951562966
+   },
+   "prod": [
+    "renewed_iqama"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa22": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "ID"
+   ],
+   "true_fwd": false,
+   "family": "sa22"
+  },
+  {
+   "id": "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Pay the fee of: Renewal of residence permit (Iqama).",
+   "caps": {
+    "pay:sa22": 0.9
+   },
+   "cost": 73,
+   "qos": {
+    "lat": 0.4063225091286694,
+    "pr": 0.0,
+    "av": 0.973027637235669,
+    "rel": 0.999647054461675
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa22": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa22"
+  },
+  {
+   "id": "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Submit an application for: Extension of an exit and re-entry visa.",
+   "caps": {
+    "submit:sa23": 0.9
+   },
+   "cost": 76,
+   "qos": {
+    "lat": 0.8382606342610701,
+    "pr": 0.0,
+    "av": 0.980756659039348,
+    "rel": 0.9919479491867608
+   },
+   "prod": [],
+   "cons": [
+    "exit_reentry_visa",
+    "iqama"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa23": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa23"
+  },
+  {
+   "id": "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Retrieve the issued extended exit reentry visa (Extension of an exit and re-entry visa).",
+   "caps": {
+    "retrieve:sa23": 0.9
+   },
+   "cost": 82,
+   "qos": {
+    "lat": 2.563481726022224,
+    "pr": 0.0,
+    "av": 0.99755446185986,
+    "rel": 0.975082738182924
+   },
+   "prod": [
+    "extended_exit_reentry_visa"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa23": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa23"
+  },
+  {
+   "id": "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Pay the fee of: Extension of an exit and re-entry visa.",
+   "caps": {
+    "pay:sa23": 0.9
+   },
+   "cost": 73,
+   "qos": {
+    "lat": 2.116129521647242,
+    "pr": 0.0,
+    "av": 0.9989964670912955,
+    "rel": 0.971741528314795
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa23": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa23"
+  },
+  {
+   "id": "general_director.final_exit_visa_sa24.submit",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Submit an application for: Final exit visa.",
+   "caps": {
+    "submit:sa24": 0.9
+   },
+   "cost": 70,
+   "qos": {
+    "lat": 2.1257448176083216,
+    "pr": 0.0,
+    "av": 0.9953627378110484,
+    "rel": 0.9802693762323575
+   },
+   "prod": [],
+   "cons": [
+    "iqama"
+   ],
+   "inp": [
+    "BUS",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa24": 0.9
+   },
+   "psi": 0.2,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": false,
+   "family": "sa24"
+  },
+  {
+   "id": "general_director.final_exit_visa_sa24.get",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Retrieve the issued final exit visa (Final exit visa).",
+   "caps": {
+    "retrieve:sa24": 0.9
+   },
+   "cost": 73,
+   "qos": {
+    "lat": 0.9768558160698015,
+    "pr": 0.0,
+    "av": 0.9879037418040824,
+    "rel": 0.9832694210109724
+   },
+   "prod": [
+    "final_exit_visa"
+   ],
+   "cons": [],
+   "inp": [
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "retrieve:sa24": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "BUS"
+   ],
+   "true_fwd": false,
+   "family": "sa24"
+  },
+  {
+   "id": "general_director.final_exit_visa_sa24.pay",
+   "server": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "desc": "Pay the fee of: Final exit visa.",
+   "caps": {
+    "pay:sa24": 0.9
+   },
+   "cost": 68,
+   "qos": {
+    "lat": 0.7720126080188912,
+    "pr": 0.0,
+    "av": 0.9841487624528886,
+    "rel": 0.9822971618697266
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "FIN",
+    "ID"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "pay:sa24": 0.9
+   },
+   "psi": 0.0,
+   "attrs": {},
+   "true_ret": [
+    "FIN"
+   ],
+   "true_fwd": false,
+   "family": "sa24"
+  },
+  {
+   "id": "helper.upload_renewal_of_a_health_certificat",
+   "server": "s_third_party",
+   "org": "ThirdParty",
+   "desc": "Fill in and upload the forms of Renewal of a health certificate on your behalf.",
+   "caps": {
+    "submit:sa08": 0.6
+   },
+   "cost": 79,
+   "qos": {
+    "lat": 2.3022508190087914,
+    "pr": 0.0,
+    "av": 0.9800774966342038,
+    "rel": 0.9713708948070525
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa08": 0.7
+   },
+   "psi": 0.1,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": true,
+   "family": "sa08"
+  },
+  {
+   "id": "helper.upload_renewal_of_residence_permit_iq",
+   "server": "s_third_party",
+   "org": "ThirdParty",
+   "desc": "Fill in and upload the forms of Renewal of residence permit (Iqama) on your behalf.",
+   "caps": {
+    "submit:sa22": 0.6
+   },
+   "cost": 80,
+   "qos": {
+    "lat": 0.8192357613606247,
+    "pr": 0.0,
+    "av": 0.980032050719875,
+    "rel": 0.9771824788055787
+   },
+   "prod": [],
+   "cons": [],
+   "inp": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ],
+   "input_schema": {
+    "type": "object",
+    "properties": {
+     "applicant_id": {
+      "type": "string"
+     },
+     "details": {
+      "type": "string"
+     }
+    }
+   },
+   "adequacy": {
+    "submit:sa22": 0.7
+   },
+   "psi": 0.1,
+   "attrs": {},
+   "true_ret": [],
+   "true_fwd": true,
+   "family": "sa22"
+  }
+ ],
+ "servers": [
+  {
+   "id": "s_general_directorate_of_civil_d",
+   "org": "General Directorate of Civil Defense",
+   "preamble": 120
+  },
+  {
+   "id": "s_general_directorate_of_passpor",
+   "org": "General Directorate of Passports (Jawazat)",
+   "preamble": 120
+  },
+  {
+   "id": "s_general_organization_for_socia",
+   "org": "General Organization for Social Insurance",
+   "preamble": 120
+  },
+  {
+   "id": "s_ministry_of_commerce",
+   "org": "Ministry of Commerce",
+   "preamble": 120
+  },
+  {
+   "id": "s_ministry_of_human_resources_an",
+   "org": "Ministry of Human Resources and Social Development",
+   "preamble": 120
+  },
+  {
+   "id": "s_ministry_of_municipalities_and",
+   "org": "Ministry of Municipalities and Housing (Balady)",
+   "preamble": 120
+  },
+  {
+   "id": "s_zakat_tax_and_customs_authorit",
+   "org": "Zakat, Tax and Customs Authority",
+   "preamble": 120
+  },
+  {
+   "id": "s_third_party",
+   "org": "ThirdParty",
+   "preamble": 100
+  }
+ ],
+ "hosts": [
+  {
+   "id": "hP",
+   "org": "PortalContractor",
+   "budget": 6000
+  },
+  {
+   "id": "hG",
+   "org": "GovCloud",
+   "budget": 6000
+  }
+ ],
+ "sharing": [
+  [
+   "authorization",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Organization for Social Insurance",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Commerce",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "REQ",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "FIN",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "HLT",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "ID",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "authorization",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Commerce",
+   "General Directorate of Civil Defense"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "REQ",
+   "General Directorate of Civil Defense"
+  ],
+  [
+   "certification",
+   "BUS",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "BUS",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "FIN",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "FIN",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "FIN",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "HLT",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "HLT",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "REQ",
+   "General Directorate of Civil Defense"
+  ],
+  [
+   "certification",
+   "ID",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "ID",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "REQ",
+   "General Directorate of Civil Defense"
+  ],
+  [
+   "certification",
+   "LOC",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "certification",
+   "LOC",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "certification",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "information",
+   "BUS",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "FIN",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "FIN",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "HLT",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "information",
+   "ID",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "information",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "information",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Commerce",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "modification",
+   "BUS",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "modification",
+   "FIN",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "modification",
+   "FIN",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "modification",
+   "FIN",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "FIN",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "HLT",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "modification",
+   "HLT",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "HLT",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "HLT",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "Ministry of Human Resources and Social Development"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "modification",
+   "ID",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "REQ",
+   "General Directorate of Passports (Jawazat)"
+  ],
+  [
+   "modification",
+   "LOC",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "REQ",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  [
+   "modification",
+   "LOC",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "modification",
+   "LOC",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "modification",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Commerce",
+   "General Organization for Social Insurance"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Commerce",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "General Organization for Social Insurance"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "Ministry of Commerce"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "registration",
+   "BUS",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "BUS",
+   "Zakat, Tax and Customs Authority",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "registration",
+   "FIN",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "REQ",
+   "Ministry of Commerce"
+  ],
+  [
+   "registration",
+   "FIN",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "registration",
+   "FIN",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "FIN",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "HLT",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "General Organization for Social Insurance"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "Ministry of Commerce"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "REQ",
+   "Zakat, Tax and Customs Authority"
+  ],
+  [
+   "registration",
+   "ID",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "ID",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Directorate of Civil Defense",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Directorate of Passports (Jawazat)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Organization for Social Insurance",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "General Organization for Social Insurance",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Commerce",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Commerce",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Human Resources and Social Development",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Ministry of Municipalities and Housing (Balady)",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "REQ",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "REQ",
+   "Ministry of Commerce"
+  ],
+  [
+   "registration",
+   "LOC",
+   "REQ",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "ThirdParty",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "ThirdParty",
+   "PortalContractor"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "GovCloud"
+  ],
+  [
+   "registration",
+   "LOC",
+   "Zakat, Tax and Customs Authority",
+   "PortalContractor"
+  ]
+ ],
+ "cat": {
+  "commercial_registration": [
+   "BUS"
+  ],
+  "building_permit": [
+   "LOC"
+  ],
+  "commercial_license": [
+   "BUS"
+  ],
+  "lease_or_title_deed": [
+   "LOC"
+  ],
+  "safety_permit": [
+   "BUS"
+  ],
+  "civil_defense_safety_report": [
+   "LOC"
+  ],
+  "renewed_commercial_license": [
+   "BUS"
+  ],
+  "title_deed": [
+   "LOC"
+  ],
+  "occupancy_certificate": [
+   "LOC"
+  ],
+  "medical_examination_report": [
+   "HLT",
+   "LOC"
+  ],
+  "worker_health_certificate": [
+   "HLT"
+  ],
+  "renewed_health_certificate": [
+   "HLT"
+  ],
+  "seasonal_health_certificate": [
+   "HLT"
+  ],
+  "permit_24h": [
+   "BUS"
+  ],
+  "home_delivery_permit": [
+   "BUS"
+  ],
+  "safety_maintenance_contract": [
+   "BUS"
+  ],
+  "vat_number": [
+   "BUS"
+  ],
+  "vat_number_individual": [
+   "BUS"
+  ],
+  "vat_group_registration": [
+   "BUS"
+  ],
+  "zakat_registration": [
+   "BUS",
+   "FIN"
+  ],
+  "vat_status": [
+   "BUS"
+  ],
+  "updated_vat_registration": [
+   "BUS"
+  ],
+  "gosi_certificate": [
+   "BUS"
+  ],
+  "work_visa": [
+   "BUS"
+  ],
+  "transferred_employee": [
+   "BUS"
+  ],
+  "employment_contract": [
+   "BUS"
+  ],
+  "renewed_iqama": [
+   "ID"
+  ],
+  "medical_insurance": [
+   "HLT"
+  ],
+  "passport": [
+   "ID",
+   "LOC"
+  ],
+  "iqama": [
+   "ID"
+  ],
+  "exit_reentry_visa": [
+   "BUS"
+  ],
+  "extended_exit_reentry_visa": [
+   "BUS"
+  ],
+  "final_exit_visa": [
+   "BUS"
+  ]
+ },
+ "categories": [
+  "BUS",
+  "FIN",
+  "HLT",
+  "ID",
+  "LOC"
+ ],
+ "certified": {
+  "fwd": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.get",
+   "general_director.final_exit_visa_sa24.pay",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.get",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.get",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ],
+  "ret:ID": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.get",
+   "general_director.final_exit_visa_sa24.pay",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.get",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.get",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ],
+  "ret:BUS": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.pay",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.get",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ],
+  "ret:LOC": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.get",
+   "general_director.final_exit_visa_sa24.pay",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.get",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ],
+  "ret:FIN": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.get",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.get",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.get",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.get",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.get",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ],
+  "ret:HLT": [
+   "general_director.extension_of_an_exit_and_re_en_sa23.get",
+   "general_director.extension_of_an_exit_and_re_en_sa23.pay",
+   "general_director.extension_of_an_exit_and_re_en_sa23.submit",
+   "general_director.final_exit_visa_sa24.get",
+   "general_director.final_exit_visa_sa24.pay",
+   "general_director.final_exit_visa_sa24.submit",
+   "general_director.renewal_of_residence_permit_iq_sa22.get",
+   "general_director.renewal_of_residence_permit_iq_sa22.pay",
+   "general_director.renewal_of_residence_permit_iq_sa22.submit",
+   "general_director.safety_license_salama_portal_sa12.get",
+   "general_director.safety_license_salama_portal_sa12.submit",
+   "general_organiza.register_a_new_establishment_o_sa19.get",
+   "general_organiza.register_a_new_establishment_o_sa19.submit",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.get",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.pay",
+   "ministry_of_comm.issue_a_commercial_registratio_sa01.submit",
+   "ministry_of_huma.employee_transfer_from_another_sa21.get",
+   "ministry_of_huma.employee_transfer_from_another_sa21.submit",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.get",
+   "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.get",
+   "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay",
+   "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit",
+   "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit",
+   "ministry_of_muni.issuing_a_building_permit_sa05.get",
+   "ministry_of_muni.issuing_a_building_permit_sa05.submit",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.get",
+   "ministry_of_muni.issuing_a_commercial_license_sa02.submit",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get",
+   "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get",
+   "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.get",
+   "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay",
+   "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.get",
+   "ministry_of_muni.renewing_a_commercial_license_sa04.submit",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.get",
+   "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get",
+   "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get",
+   "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.get",
+   "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.get",
+   "zakat_tax_and_cu.verify_vat_registration_sa17.submit",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get",
+   "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit"
+  ]
+ }
+}

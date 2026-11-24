@@ -1,0 +1,986 @@
+{
+ "req_gr01|vague_en": {
+  "faithful": true,
+  "reason": "The request asks who to notify and what to file in order to set up and run a diving team in Greece. That matches the goal of announcing the establishment and operation of a diving crew, and it adds no other goal."
+ },
+ "req_gr01|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to set up a diving crew in Greece, start operating it, and file the required declaration. That is the goal \"Announcement of Establishment and Operation of a Diving Crew\". No other goal is added."
+ },
+ "req_gr01|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks whom to notify, and what to submit, to form a diving team and start operating it legally in Greece. That is the same as the announcement of establishment and operation of a diving crew, and no other goal is added."
+ },
+ "req_gr02|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal. It covers installing a floating craft or permanently mooring a ship, plus setting up a food shop on it (a café or snack place is a shop of sanitary interest). Asking what to tell the authorities is the same as asking about the required announcement. No other goal is added."
+ },
+ "req_gr02|fr": {
+  "faithful": true,
+  "reason": "The request asks what has to be declared to set up a floating craft or a permanent mooring for ships in Greece and run a café or snack business on it. A café or snack is a shop of sanitary interest, so this matches the goal exactly: the announcement for the installation and for the establishment of such shops. No other goal is added."
+ },
+ "req_gr02|ar": {
+  "faithful": true,
+  "reason": "The request asks what to report to the authorities when installing a floating craft or permanent ship mooring in Greece and opening a small shop on it, such as a café or snack bar. Those are shops of sanitary interest, so this matches the announcement goal exactly. No other goal is added."
+ },
+ "req_gr03|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to open a car rental business and asks what to file to notify the authorities that it is starting. That matches the announcement of operation for a private passenger car rental business, and the request adds no other goal."
+ },
+ "req_gr03|fr": {
+  "faithful": true,
+  "reason": "The request asks what must be declared to the authorities to announce the start of a small car rental business for tourists in Greece. That is the goal: the announcement of operation of a private passenger car rental business. No other goal is added."
+ },
+ "req_gr03|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks what must be submitted to the authorities to report starting a small car rental business for tourists in Greece. That matches the goal: an announcement of operation of a private passenger car rental business. It adds no other goal."
+ },
+ "req_gr05|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to tell the authorities about collecting oily waste from ships with a tanker truck. That matches the announcement of operation for receiving ship oil residues by tank truck. No other goal is added."
+ },
+ "req_gr05|fr": {
+  "faithful": true,
+  "reason": "The request asks what to file to tell the authorities about collecting ship oil residues with a tank truck. That is the same as the goal, the Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck. No other goal is added, and the French wording is allowed."
+ },
+ "req_gr05|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It is from a small business owner in Greece who wants to notify the authorities that they will receive ship oil residues using a tank truck, and asks what they need to submit. This matches the goal of obtaining the Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck. No other goal is added."
+ },
+ "req_gr07|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to start renting out small motorboats and speedboats and asks what they must file to notify the authorities. That is the same as obtaining the Announcement of Rental of Motor Boats and Small Speedboats, and the request adds no other goal."
+ },
+ "req_gr07|fr": {
+  "faithful": true,
+  "reason": "The French request asks which declaration to make to the authorities to start renting small motor boats and speedboats in Greece. That is the same as obtaining the Announcement of Rental of Motor Boats and Small Speedboats, and no other goal is added."
+ },
+ "req_gr07|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks which notice must be filed with the authorities to start renting small motor boats and speedboats in Greece. That matches the goal, the Announcement of Rental of Motor Boats and Small Speedboats, and adds no other goal."
+ },
+ "req_gr08|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that the citizen is starting to sell pesticides and crop protection products, which are plant protection products (PPPs). That is the announcement of commencement of PPP sales. Opening a shop is only background, and no other goal is added."
+ },
+ "req_gr08|fr": {
+  "faithful": true,
+  "reason": "The request asks what to file to tell the authorities that sales of pesticides and crop protection products are starting. That is the announcement of the start of PPP sales. Opening the shop is just context. No other goal is added."
+ },
+ "req_gr08|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It describes opening a shop in Greece that sells pesticides and crop protection products, and asks what must be submitted to tell the authorities that sales have started. That is the same as the goal: announcing the start of sales of plant protection products. It adds no other goal."
+ },
+ "req_gr09|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal: it comes from an individual (natural person) who wants to notify the authorities that they are starting the profession of dealing in second-hand gold jewelry and valuables (announcement of commencement). It adds no other goal."
+ },
+ "req_gr09|fr": {
+  "faithful": true,
+  "reason": "The request matches the goal. The citizen is a private individual (natural person) who wants to declare to the authorities that they are starting work as a silversmith/goldsmith or as a buyer-seller of second-hand gold jewellery and valuables in Greece. That is the commencement announcement described in the goal, and the request adds no other goal."
+ },
+ "req_gr09|ar": {
+  "faithful": true,
+  "reason": "The request comes from a natural person who wants to tell the authorities they are starting work as a smith (صائغ) or buying and selling used gold jewellery and valuables. That is exactly the goal of announcing the start of this profession as a natural person. The request adds no other goal."
+ },
+ "req_gr10|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal: notifying the authorities that a shop is being set up and run on a seagoing ship in Greece. It says \"small shop\" instead of \"shop of sanitary interest,\" but that is a lay paraphrase of the same procedure, not a different goal. No other goal is added."
+ },
+ "req_gr10|fr": {
+  "faithful": true,
+  "reason": "The request matches the goal: the citizen wants to open a shop on a seagoing ship in Greece and tell the authorities, which is what this announcement procedure covers. The request does not say \"sanitary interest\", but that reads as ordinary wording from someone who doesn't know the official term, not a different goal. No other goal is added."
+ },
+ "req_gr10|ar": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities in Greece about opening a shop on a seagoing ship. That matches the goal of announcing the establishment and operation of a shop on a seagoing ship. It does not say \"of sanitary interest\", but that is a technical category a citizen would not normally name, and it does not change the goal. No other goal is added."
+ },
+ "req_gr11|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to tell the authorities that their private vehicle technical inspection centre (KTEO) in Greece is starting to operate. That is exactly the goal: the announcement of operation of a private CTIV. No other goal is added."
+ },
+ "req_gr11|fr": {
+  "faithful": true,
+  "reason": "The request asks how to tell the authorities that a private vehicle technical inspection centre in Greece is starting operations. That matches the goal: announcing the operation of a private CTIV. No other goal is added."
+ },
+ "req_gr11|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks how to notify the authorities that a private vehicle technical inspection centre in Greece is starting operation. That is the same as announcing the operation of a private CTIV, and the request adds no other goal."
+ },
+ "req_gr12|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal and adds nothing else. The citizen bought a private vehicle inspection station (KTEO) from its previous owner and wants to tell the authorities it is operating under their name. That is the announcement of a private IKTEO's operation after transfer to a new owner."
+ },
+ "req_gr12|fr": {
+  "faithful": true,
+  "reason": "The citizen bought a private vehicle technical inspection centre (IKTEO) in Greece and wants to tell the authorities that it is operating again under their name after the change of owner. That is exactly the stated goal, the operation announcement after transfer to a new owner, and no other goal is added. The request being in French doesn't matter."
+ },
+ "req_gr12|ar": {
+  "faithful": true,
+  "reason": "The citizen bought a private vehicle technical inspection centre (a private KTEO, i.e. an IKTEO) from its previous owner. They want to tell the authorities that it now operates in their name after the transfer. This is exactly the announcement in the goal, and no other goal is added."
+ },
+ "req_gr13|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a trade fair is going to take place, which is the announcement of its operation. Since the fair is in Greece and aimed at local businesses, it fits a domestic trade fair. No other goal is added."
+ },
+ "req_gr13|fr": {
+  "faithful": true,
+  "reason": "The citizen is organising a trade fair in Greece for local businesses, which makes it a domestic fair. They want to notify the authorities that it is taking place, which is the same thing as announcing the operation of a domestic trade fair. The request adds no other goal."
+ },
+ "req_gr13|ar": {
+  "faithful": true,
+  "reason": "The citizen is organizing a trade fair in Greece for local (domestic) companies and wants to notify the authorities that it is taking place. That is the announcement of operating a domestic trade fair, and no other goal is added."
+ },
+ "req_gr14|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to officially notify the authorities that an international trade fair will be held. That matches the goal \"Announcement of the Operation of a Trade Fair - International Trade Fair\" and adds no other goal."
+ },
+ "req_gr14|fr": {
+  "faithful": true,
+  "reason": "The request is about officially announcing that an international trade fair is being held in Greece, which matches the goal. It adds no other goal, and the French language is acceptable."
+ },
+ "req_gr14|ar": {
+  "faithful": true,
+  "reason": "The citizen is organizing a large international trade fair in Greece and asks how to formally notify the authorities that it will take place. That is exactly the goal of announcing the operation of an international trade fair, and the request adds no other goal."
+ },
+ "req_gr15|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to officially announce that the facility is starting to receive oil residues involving tankers and boats (floating craft). That matches the goal, and the request adds no other goal."
+ },
+ "req_gr15|fr": {
+  "faithful": true,
+  "reason": "The request asks how to officially announce the start of receiving oil residues from tankers and floating crafts. That matches the stated goal, and it adds no other goal. Writing it in French is fine."
+ },
+ "req_gr15|ar": {
+  "faithful": true,
+  "reason": "The request asks how to officially announce that the citizen's port facility is starting to receive oil residues from tankers and floating crafts. That is exactly the stated goal. Mentioning the facility and its location in Greece is background, not an extra goal."
+ },
+ "req_gr16|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to officially notify the authorities that a waste-collecting vessel is about to start operating. That is the same as the goal, an announcement that a waste-receiving ship is starting circulation. No other goal is added."
+ },
+ "req_gr16|fr": {
+  "faithful": true,
+  "reason": "The request is about officially telling the authorities that a waste-receiving ship operating in a Greek port is starting to sail and operate. That matches the goal of announcing the start of circulation of a waste-receiving ship, and no other goal is added. The request is in French, which is allowed."
+ },
+ "req_gr16|ar": {
+  "faithful": true,
+  "reason": "The citizen runs a ship that collects waste from other ships at a Greek port. They want to formally tell the authorities that the ship is starting operation and circulation. That matches the goal, an announcement that a waste-receiving ship is starting circulation, and no other goal is added."
+ },
+ "req_gr17|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for approval for a private individual (a natural person) to set up and run a college. That matches the goal exactly, and no other goal is added."
+ },
+ "req_gr17|fr": {
+  "faithful": true,
+  "reason": "The request is in French and says the same thing as the goal. The writer is a private individual (\"un particulier\", i.e. a natural person) who wants to open and run (\"ouvrir et diriger\") their own college and asks how to get approval from the authorities (\"le feu vert des autorités\"). The mention of Greece only gives the setting and does not add a new goal. No other goal is added."
+ },
+ "req_gr17|ar": {
+  "faithful": true,
+  "reason": "The citizen says they are a private individual (a natural person) who wants to open and run their own private college in Greece, and asks how to get the authorities' approval. That matches the goal of approval to establish and operate a college by a natural person. No other goal is added."
+ },
+ "req_gr20|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for permission to run recreational activities on the land area of a tourist marina, which is exactly the goal of approval for land-based recreational activities in tourist ports. No other goal is added."
+ },
+ "req_gr20|fr": {
+  "faithful": true,
+  "reason": "The request asks which authorisation is needed to run recreational activities on the land part of a tourist port (port de plaisance). That is the stated goal, and nothing else is asked."
+ },
+ "req_gr20|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks which approval is needed to run recreational activities on land belonging to a tourist port in Greece. That is the same goal: getting approval to operate recreational activities on land within tourist ports. It adds no other goal."
+ },
+ "req_gr21|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for an official document confirming that a shop may be set up at a specific address. That matches the goal of getting an attestation that a shop may be established at that location, and no other goal is added."
+ },
+ "req_gr21|fr": {
+  "faithful": true,
+  "reason": "The French request asks for an official document confirming the right to set up a shop at a specific address. That matches the goal, an attestation that a shop may be established at that location. Opening the shop is the context for the request, not a second goal."
+ },
+ "req_gr21|ar": {
+  "faithful": true,
+  "reason": "The Arabic request asks for an official document proving the citizen may set up a shop at a specific address. That matches the goal of an attestation that a shop may be established at that location, and it adds no other goal."
+ },
+ "req_gr22|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for official permission to work as a road haulage operator, meaning running lorries and carrying goods on the road for others. That matches the goal. Saying they want to start a trucking business only gives the context and does not add a separate goal."
+ },
+ "req_gr22|fr": {
+  "faithful": true,
+  "reason": "The citizen asks for the official authorisation to work as a road freight (haulage) operator with trucks, which is the goal. Mentioning that they want to start a company only explains why they need it. It doesn't add a second request. The request being in French is fine."
+ },
+ "req_gr22|ar": {
+  "faithful": true,
+  "reason": "The citizen asks, in Arabic, for official authorisation to practise the profession of transporting goods by truck in Greece. That matches the authorisation to work as a road haulage operator. Setting up the company is the reason they give for the request. They do not ask for help with registering the company or for any other service, so no extra goal is added."
+ },
+ "req_gr25|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for an official certificate showing the person is suitable to work in an office/admin role at a Greek casino. That matches the Certificate of Suitability for Administrative and Other Staff of a Casino Business, and no other goal is added."
+ },
+ "req_gr25|fr": {
+  "faithful": true,
+  "reason": "The request asks for an official document proving suitability for an administrative (not croupier) job in a Greek casino. That matches the Certificate of Suitability for Administrative and Other Staff of a Casino Business, and no other goal is added."
+ },
+ "req_gr25|ar": {
+  "faithful": true,
+  "reason": "The request asks for an official document proving the person is suitable to work as administrative staff, not as a dealer, at a casino in Greece. That is exactly the Certificate of Suitability for Administrative and Other Staff of a Casino Business. No other goal is added."
+ },
+ "req_gr26|vague_en": {
+  "faithful": true,
+  "reason": "The citizen has a shop of sanitary interest, such as a hairdresser or a health-related business, in Greece. They want to update details they gave when they notified the authorities of its opening. That matches the goal of changing the notification of establishment and operation. The request adds no other goal."
+ },
+ "req_gr26|fr": {
+  "faithful": true,
+  "reason": "The request (in French) asks how to update the declaration made when opening a shop of sanitary interest in Greece, such as a hair salon, after some of the declared details changed. That is the same as the goal \"Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest,\" and no other goal is added."
+ },
+ "req_gr26|ar": {
+  "faithful": true,
+  "reason": "The request asks how to update the notification filed when opening a shop of sanitary interest, such as a barber shop, after some of its details changed. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr27|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal and adds nothing else. The citizen runs a retail food and drinks shop and wants to update the notification filed when the shop opened, which is the \"change of notification.\" The reason is to start selling something new, which is the \"addition of a new activity.\" Leaving out technical terms like \"Category III of the Sanitary Ordinance\" is a fair plain-language paraphrase."
+ },
+ "req_gr27|fr": {
+  "faithful": true,
+  "reason": "The citizen runs a small food and beverage shop (retail sale of food and beverages) and wants to update the notification made when the shop opened so that a new activity is added. That is a change of the establishment/operation notification with the addition of a new activity. The request does not add any other goal. It leaves out the technical labels (\"sanitary interest\", \"Category III\"), but it still describes the same procedure."
+ },
+ "req_gr27|ar": {
+  "faithful": true,
+  "reason": "The citizen owns a small shop that sells food and beverages. They want to add a new activity, so they need to change the notification they filed when the shop opened. That matches the goal: changing the notification for a Category III retail food and beverage shop by adding a new activity. The request adds no other goal."
+ },
+ "req_gr28|vague_en": {
+  "faithful": true,
+  "reason": "In Greece, hair and beauty salons count as shops providing services of sanitary interest. The citizen wants to update the notification they filed when opening the shop because something has changed, which is exactly the \"Change of Notification\" goal. The request adds no other goal."
+ },
+ "req_gr28|fr": {
+  "faithful": true,
+  "reason": "The citizen runs a hair and beauty salon in Greece. Greece classes these as shops providing services of sanitary interest. The citizen asks how to update the opening declaration they filed with the authorities because some details have changed. That is the goal of changing the establishment and operation notification, and the request adds no other goal."
+ },
+ "req_gr28|ar": {
+  "faithful": true,
+  "reason": "The citizen runs a barbershop and beauty salon in Greece, which counts as a shop providing services of sanitary interest. They want to change the notification they filed when they opened. This matches the goal exactly, and no other goal is added."
+ },
+ "req_gr29|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to update the details declared when the cinema was opened. That is the same as changing the notification of a cinema's establishment and operation. It adds no other goal."
+ },
+ "req_gr29|fr": {
+  "faithful": true,
+  "reason": "The citizen runs a cinema in Greece and wants to update details they declared when it opened. That is the same goal as changing the notification of a cinema's establishment and operation. The request adds no other goal, and being written in French is fine."
+ },
+ "req_gr29|ar": {
+  "faithful": true,
+  "reason": "The citizen runs a cinema in Greece and wants to update details they declared when it opened. That is the same as changing the notification of establishment and operation of a theatre or cinema. The request adds no other goal."
+ },
+ "req_gr30|vague_en": {
+  "faithful": true,
+  "reason": "The citizen trains speedboat license candidates and lost their instructor certificate. They ask how to get another copy, which is the same as obtaining a duplicate of the certificate of competence for speedboat operator instructors. The request adds no other goal."
+ },
+ "req_gr30|fr": {
+  "faithful": true,
+  "reason": "The French request comes from an instructor who trains speedboat operator candidates. He lost his certificate of competence and asks how to get a copy. That matches the goal exactly and adds no other goal."
+ },
+ "req_gr30|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. The citizen says they are an instructor for speedboat licence candidates, that they lost their certificate of competence, and asks how to get a copy. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr31|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for permission to set up and run an amateur dance school as an individual (natural person). That matches the goal of establishing and operating an amateur dance school by a natural person. Nothing extra is asked for."
+ },
+ "req_gr31|fr": {
+  "faithful": true,
+  "reason": "The request asks how to get permission to set up and run an amateur dance school in Greece as an individual. That matches the goal: establishing and operating an amateur dance school as a natural person. It adds no other goal."
+ },
+ "req_gr31|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to open and run a small amateur dance school in Greece as an individual rather than a company, and asks how to get the licence for it. That is exactly the goal: establishing and operating an amateur dance school as a natural person. The request is in Arabic, which is allowed, and it adds no other goal."
+ },
+ "req_gr32|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to get permission for a natural person to set up and run higher-level schools of dramatic art and dance. That is exactly the stated goal. Calling them \"university level\" is a fair paraphrase of \"higher schools\", and \"as an individual\" matches \"by natural persons\". No other goal is added."
+ },
+ "req_gr32|fr": {
+  "faithful": true,
+  "reason": "The request asks how a private individual (natural person) in Greece can get authorization to set up and run a higher school of dramatic art and dance. That covers both establishment and operation, so it matches the goal. No other goal is added."
+ },
+ "req_gr32|ar": {
+  "faithful": true,
+  "reason": "The request asks how a natural person in Greece can get a license to set up and run a higher school of dramatic art and a higher school of dance. That matches the goal exactly and adds no other goal. Writing it in Arabic is fine."
+ },
+ "req_gr33|vague_en": {
+  "faithful": true,
+  "reason": "The request asks which permits are needed to set up an amusement park with rides, and possibly an ice rink, and run it legally in Greece. That covers the establishment authorisation, the operating authorisation and the notification of operation. Circuses aren't mentioned, but they are just one of the facility types the procedure covers. The request adds no other goal."
+ },
+ "req_gr33|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to open an amusement park with rides, and possibly an ice rink, in Greece. They ask which authorisations they need to set it up and run it legally. This matches the goal: authorisation to establish and operate amusement parks or ice rinks, plus notification of operation. The request adds no other goal, and writing it in French is acceptable."
+ },
+ "req_gr33|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to open a small amusement park in Greece, possibly with an ice rink, and asks which licences they need to set it up and run it legally. That matches the goal's establishment and operating authorisations for amusement parks and ice rinks. Circuses aren't mentioned, but they're simply part of the same service's scope. The request adds no other goal."
+ },
+ "req_gr37|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for permission to build and legally run a helicopter landing pad, which is a heliport. That matches a licence for setting up and operating a heliport, and it adds no other goal."
+ },
+ "req_gr37|fr": {
+  "faithful": true,
+  "reason": "The request asks which authorisation is needed to set up and legally operate a small helicopter landing area, which is a heliport. That is exactly the goal of a licence for setting up and operating a heliport. No other goal is added. Mentioning Greece and the business is just context, and French is an acceptable language."
+ },
+ "req_gr37|ar": {
+  "faithful": true,
+  "reason": "The request (in Arabic) asks which licence is needed to set up and legally run a small helicopter landing pad (heliport) for the person's company in Greece. That matches the goal of getting a licence to set up and operate a heliport, and it adds no other goal."
+ },
+ "req_gr38|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for permission to set up and legally run a music school in Greece. That matches the licence for establishing and operating music educational institutions. It adds no other goal."
+ },
+ "req_gr38|fr": {
+  "faithful": true,
+  "reason": "The request asks how to get permission to set up and legally run a music school in Greece. That is the same goal as the licence for establishing and operating music educational institutions, and no other goal is added."
+ },
+ "req_gr38|ar": {
+  "faithful": true,
+  "reason": "The request asks for legal permission to set up and run a music school in Greece. That is the stated goal, a licence to establish and operate a music educational institution. It adds no other goal, and the request being in Arabic is acceptable."
+ },
+ "req_gr39|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for permission to start running a real estate investment company in Greece. This matches the operating licence for an A.E.L.A. (Real Estate Investment Company). Setting up the company is background, not a separate request, so no other goal is added."
+ },
+ "req_gr39|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get the authorisation to start operating a real estate investment company in Greece. That is the operating licence for an A.E.L.A. Mentioning that they want to set up the company only explains why they need the licence. It doesn't add a separate request. The request being in French is fine."
+ },
+ "req_gr39|ar": {
+  "faithful": true,
+  "reason": "The citizen asks how to get the licence needed to start operating a real estate investment company in Greece. That matches the operating licence for an A.E.L.A. Mentioning setting up the company only explains the situation. The actual question is about the licence, so no separate goal is added."
+ },
+ "req_gr40|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to get permission to run an antiques shop. That is the same as obtaining a licence for the operation of antique shops, and it adds no other goal."
+ },
+ "req_gr40|fr": {
+  "faithful": true,
+  "reason": "The request is in French. It asks what to do to get authorisation to operate an antique shop in Greece, which matches the licence for operating antique shops. It adds no other goal."
+ },
+ "req_gr40|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic and says the citizen wants to open an antiques shop in Greece and asks what to do to get the licence needed to run it. That is exactly the goal of obtaining a Licence for the Operation of Antique Shops, and no other goal is added."
+ },
+ "req_gr42|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for the permit needed to open a station that supplies LNG to vehicles, either LNG only (pure) or alongside regular fuel (mixed). That matches the goal: a licence to establish and/or operate a pure or mixed LNG service station. No other goal is added."
+ },
+ "req_gr42|fr": {
+  "faithful": true,
+  "reason": "The request asks for the authorization to set up and run a station that supplies LNG to vehicles, either LNG only (pure) or alongside conventional fuels (mixed). This matches the goal exactly and adds no other goal. Writing it in French is fine."
+ },
+ "req_gr42|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic and asks which licence is needed to set up and run a station in Greece that supplies LNG to vehicles, either LNG-only (pure) or mixed with conventional fuel. That is exactly the stated goal: a licence to establish and/or operate a pure or mixed LNG service station. No other goal is added."
+ },
+ "req_gr43|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for the permit to legally manufacture fireworks in Greece. It covers small consumer fireworks, bigger display fireworks and stage/theatre pyrotechnics, which correspond to categories 1–4 and the theatrical categories T1/T2/P1/P2. That matches the goal, the manufacturing licence, and adds no other goal."
+ },
+ "req_gr43|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to make fireworks in Greece: small consumer articles, stronger display fireworks and pyrotechnics for theatre. They ask which authorisation lets them do this legally. That matches the manufacturing licence for fireworks categories 1–4 and theatre categories T1, T2, P1 and P2, and no other goal is added."
+ },
+ "req_gr43|ar": {
+  "faithful": true,
+  "reason": "The request asks which licence is needed to legally manufacture fireworks in Greece. It covers small consumer fireworks, larger display fireworks and theatrical pyrotechnics, which matches categories 1–4 and T1/T2/P1/P2. It adds no other goal."
+ },
+ "req_gr44|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what permission is needed to sell fireworks in Greece. It covers consumer fireworks, bigger display fireworks and stage/theatre effects. That matches a trade licence for fireworks categories 1–4 and theatrical/pyrotechnic categories T1, T2, P1 and P2. The request adds no other goal."
+ },
+ "req_gr44|fr": {
+  "faithful": true,
+  "reason": "The request asks how to get authorisation to sell fireworks in Greece. It covers consumer items and larger display fireworks (categories 1–4) and theatre and stage effects (T1/T2, P1/P2). This matches the trading licence in the goal, and no other goal is added."
+ },
+ "req_gr44|ar": {
+  "faithful": true,
+  "reason": "The request asks how to get permission to sell fireworks in Greece, from small consumer types up to larger display types and theatre effects. That matches the licence to trade fireworks in categories 1–4 and theatrical categories T1, T2, P1 and P2. It adds no other goal."
+ },
+ "req_gr45|vague_en": {
+  "faithful": true,
+  "reason": "The citizen asks which permit they need to trade in (sell) air guns and similar items. That matches the goal: a licence to trade in air rifles and the other objects listed in Law 2168/93. The request adds no other goal."
+ },
+ "req_gr45|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to sell air rifles and similar items in their shop and asks which licence they need. That is the same goal: a licence to trade in air rifles and the other objects listed in Law 2168/93. No other goal is added."
+ },
+ "req_gr45|ar": {
+  "faithful": true,
+  "reason": "The request asks which licence is needed to sell air rifles and similar items in a shop. That matches the goal of getting a licence to trade in air rifles and the other objects covered by Law 2168/93. It adds no other goal."
+ },
+ "req_gr46|vague_en": {
+  "faithful": true,
+  "reason": "The request asks which permit is needed to legally trade in handguns, shotguns, hunting guns, rifles, ammunition, gunpowder and spare parts. This matches the firearms trading licence. Opening a shop is only background to that same goal, so nothing extra is added."
+ },
+ "req_gr46|fr": {
+  "faithful": true,
+  "reason": "The citizen asks which authorisation they need to open a shop in Greece that legally sells handguns, hunting rifles, carbines, ammunition, powder and spare parts. That matches the goal, a licence to trade in revolvers, pistols, shotguns, hunting weapons, rifles, spare parts, cartridges and hunting powder. No other goal is added. The request does not mention the category A/B sample detail, but it still describes the same licence."
+ },
+ "req_gr46|ar": {
+  "faithful": true,
+  "reason": "The citizen asks which licence they need to legally trade firearms in Greece: pistols, hunting rifles, long firearms, ammunition, powder and spare parts. This matches the goal of getting the firearms trading licence. Opening a shop is just how they plan to do that trade, so it is not a separate goal, and no other goal is added."
+ },
+ "req_gr47|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to get official approval to run a warehouse and distribution centre. That is the same as licensing a logistics facility for storage and distribution, and it adds no other goal."
+ },
+ "req_gr47|fr": {
+  "faithful": true,
+  "reason": "The request asks how to get official permission to run a warehouse and distribution centre in Greece. That is the licensing of logistics facilities (storage and distribution centres), and no other goal is added."
+ },
+ "req_gr47|ar": {
+  "faithful": true,
+  "reason": "The citizen is setting up a warehouse and distribution centre in Greece to store and ship goods, and asks how to get official approval to operate it. That is the licensing of a logistics facility, and the request adds no other goal."
+ },
+ "req_gr48|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what must be reported to the authorities before starting a parking lot for trucks and buses, which are heavy-duty vehicles. That matches the goal of notifying the authorities about operating a heavy-duty vehicle parking area. It adds no other goal."
+ },
+ "req_gr48|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to run a parking area for heavy goods vehicles and asks what they must declare to the authorities before starting. That is the same as the goal, a notification about operating heavy-duty vehicle parking areas. The request adds no other goal, and mentioning Greece only gives the setting."
+ },
+ "req_gr48|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. The citizen wants to run a parking area for trucks and heavy vehicles in Greece and asks what they must notify the authorities of before starting. That is the same as the goal of submitting a notification about operating parking areas for heavy-duty vehicles. No other goal is added."
+ },
+ "req_gr49|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal. The citizen wants to tell the authorities that their plant making concentrated grape juice is starting operations. That is a lay description of notifying the commencement of operation of a factory making concentrated grape must. \"Grape juice\" here is a plain-language way of saying \"grape must,\" and no other goal is added."
+ },
+ "req_gr49|fr": {
+  "faithful": true,
+  "reason": "The citizen says they will soon start a factory that produces concentrated grape must and need to tell the authorities that operations are officially beginning. That is exactly a notification of commencement of operation for this kind of factory, and no other goal is added."
+ },
+ "req_gr49|ar": {
+  "faithful": true,
+  "reason": "The request matches the goal. The citizen will soon start running a factory that makes concentrated grape juice and needs to formally notify the authorities that operations have begun. \"Concentrated grape juice\" is a reasonable everyday way to say \"concentrated grape must\". No other goal is added."
+ },
+ "req_gr50|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that a workshop for bottling wine and flavoured (aromatised) wines is starting operation. That matches the goal, and no other goal is added."
+ },
+ "req_gr50|fr": {
+  "faithful": true,
+  "reason": "The request asks what to file to tell the authorities that a wine and aromatised wine bottling workshop in Greece is starting operation. That is exactly the notification of commencement in the goal, and no other goal is added."
+ },
+ "req_gr50|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. The citizen is opening a small workshop in Greece to bottle wines and aromatised wines, and asks what they must submit to tell the authorities that operations are starting. That is exactly the notification of commencement of operation for a wine and aromatised-wine bottling workshop. No other goal is added."
+ },
+ "req_gr51|vague_en": {
+  "faithful": true,
+  "reason": "The request describes notifying authorities that a business producing or marketing agricultural propagating material (seeds and plants for farmers) is starting up, and notifying them of later changes. That is exactly the stated goal, and the request adds no other goal."
+ },
+ "req_gr51|fr": {
+  "faithful": true,
+  "reason": "The request is in French. It asks to notify the authorities that an undertaking producing and marketing agricultural seeds and plants is starting operation, and to report any later changes. That matches the goal exactly and adds no other goal."
+ },
+ "req_gr51|ar": {
+  "faithful": true,
+  "reason": "The request is about notifying the authorities that a business producing and selling seeds and seedlings, which counts as agricultural plant propagating material, is starting operation, and later notifying them of changes. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr52|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to tell the authorities that a car wash and oil change (lubrication) business for passenger cars is starting operation. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr52|fr": {
+  "faithful": true,
+  "reason": "The request is about telling the authorities that a passenger car washing and lubricating station in Greece is starting operation. That matches the goal exactly, and no other goal is added."
+ },
+ "req_gr52|ar": {
+  "faithful": true,
+  "reason": "The request matches the goal and adds nothing else. The citizen says they are about to open a washing and lubricating station for private (passenger) cars in Greece, wants to notify the competent authorities that operations are starting, and asks what steps to take. That is the same as the target procedure, the notification of commencement of operation."
+ },
+ "req_gr53|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that sparkling wine production is starting. That is exactly the stated goal, a notification of commencement of sparkling wine production. The request doesn't specify natural or carbonated sparkling wine, but the procedure covers both. No other goal is added."
+ },
+ "req_gr53|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that production of sparkling wine (natural or carbonated) is starting in Greece. That is exactly the notification of commencement of production, and no other goal is added."
+ },
+ "req_gr53|ar": {
+  "faithful": true,
+  "reason": "The request says the citizen will start producing natural or artificial (carbonated) sparkling wine in Greece and needs to notify the authorities that production is starting. That matches the goal exactly, and no other goal is added."
+ },
+ "req_gr54|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to know what to file with the authorities to legally open and run a gym. That is the notification of establishment and operation of a gym or sports school. The kids' fitness classes are part of running the gym or sports school, not a separate goal."
+ },
+ "req_gr54|fr": {
+  "faithful": true,
+  "reason": "The citizen asks what they must declare to the authorities to open and legally run a small gym. That is the notification of establishing and operating a gym or sports school. The children's fitness classes are part of the gym's activity, not a separate goal, and no other procedure is requested."
+ },
+ "req_gr54|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to know what to submit to the authorities to open and legally run a small gym. That matches notifying the establishment and operation of a gym or sports school. The children's fitness classes are part of the same gym and fit the \"sports school\" part of the goal, so no separate goal is added."
+ },
+ "req_gr55|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a beauty salon is being set up and starting to operate. That is the same as the goal, a notification of establishment and operation of beauty parlours. No other goal is added."
+ },
+ "req_gr55|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a beauty parlour is being set up and starting to operate in Greece. That is exactly the stated goal of notifying the establishment and operation of beauty parlours. No other goal is added, and writing in French is fine."
+ },
+ "req_gr55|ar": {
+  "faithful": true,
+  "reason": "The Arabic request asks how to notify the competent authorities that the citizen is setting up and starting to run a beauty salon in Greece. That is exactly the goal of notifying the establishment and operation of a beauty parlour, and no other goal is added."
+ },
+ "req_gr56|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities about starting to lease private passenger cars with a driver. That is exactly the stated goal, and nothing else is added."
+ },
+ "req_gr56|fr": {
+  "faithful": true,
+  "reason": "The request is in French. It asks what to declare to the authorities to start renting private passenger cars with a driver in Greece. That is the notification of exercising this leasing activity, and no other goal is added."
+ },
+ "req_gr56|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to start renting out private passenger cars with a driver in Greece. They ask what they must submit to notify the authorities that they are carrying out this activity. That is exactly the notification in the goal, and the request adds no other goal."
+ },
+ "req_gr57|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to start renting a furnished apartment and rooms to tourists in Greece and asks what to file to operate legally. That matches the notification of operation for tourist furnished residences and rooms for rent, and the request adds no other goal."
+ },
+ "req_gr57|fr": {
+  "faithful": true,
+  "reason": "The request is in French and asks which declaration the citizen must file to legally rent a furnished apartment and rooms to tourists in Greece. That matches the goal, a notification of operation for tourist furnished residences and furnished rooms for rent. No other goal is added."
+ },
+ "req_gr57|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to start renting a furnished apartment and rooms to tourists in Greece and asks which procedure lets them operate legally. That is the notification of operation for tourist furnished residences and furnished rooms for rent. The request adds no other goal."
+ },
+ "req_gr58|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that a business renting motorcycles, tricycles and quadricycles over 50cc without a driver is operating. That is exactly the stated goal. Mentioning tourists and Greece only adds context, not a second goal."
+ },
+ "req_gr58|fr": {
+  "faithful": true,
+  "reason": "The French request asks how to notify the authorities that a business renting motorcycles, tricycles and quadricycles over 50 cc without a driver is operating. That is the stated goal, and no other goal is added. Naming Greece as the location does not add a second goal."
+ },
+ "req_gr58|ar": {
+  "faithful": true,
+  "reason": "The request asks what to submit to notify the authorities that a business renting motorcycles, tricycles and quadricycles over 50 cc without a driver has started operating. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr59|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities about starting a school that teaches driving theory to learner drivers. That is the same goal as notifying the operation of a Theory Training Centre for Candidate Drivers (KETHEYO). It adds no other goal."
+ },
+ "req_gr59|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that the citizen is starting a theory training centre for future drivers. That is exactly the KETHEYO operation notification, and no other goal is added."
+ },
+ "req_gr59|ar": {
+  "faithful": true,
+  "reason": "The request says the citizen wants to open a centre that teaches the theory part to driving-licence candidates and has to notify the authorities that it has started operating. That is the notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO). It adds no other goal."
+ },
+ "req_gr60|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that a vehicle roadside assistance business is starting to operate. That matches the goal and adds no other goal."
+ },
+ "req_gr60|fr": {
+  "faithful": true,
+  "reason": "The request, written in French, asks what has to be filed to tell the authorities that a vehicle breakdown and roadside assistance business is starting operations in Greece. That is the same as obtaining a notification of operation for a vehicle roadside assistance company, and the request adds no other goal."
+ },
+ "req_gr60|ar": {
+  "faithful": true,
+  "reason": "The request asks what to submit to notify the authorities that a roadside assistance company for broken-down vehicles in Greece is starting operation. That is the same as the goal, the notification of operation of a vehicle roadside assistance company. No other goal is added."
+ },
+ "req_gr61|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a car and motorcycle driving school, or a branch of one, is starting to operate. That matches the goal exactly and adds no other goal."
+ },
+ "req_gr61|fr": {
+  "faithful": true,
+  "reason": "The request is in French. It asks how to notify the authorities that a car and motorcycle driving school, or one of its branches, is starting to operate in Greece. That matches the goal, and nothing else is added."
+ },
+ "req_gr61|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It asks how to notify the authorities that a school for teaching car and motorcycle driving, or a branch of one, is starting operation. That matches the goal, and no other goal is added."
+ },
+ "req_gr63|vague_en": {
+  "faithful": true,
+  "reason": "The citizen is opening a hotel, which counts as a main tourist accommodation facility. They want to tell the authorities that it will start operating, and that is the operation notification. The request adds no other goal."
+ },
+ "req_gr63|fr": {
+  "faithful": true,
+  "reason": "The citizen asks, in French, how to notify the Greek authorities that a hotel they are opening will start operating. Hotels are main tourist accommodation facilities, so this is exactly the stated goal, and the request adds no other goal."
+ },
+ "req_gr63|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic and says the citizen is opening a hotel in Greece and needs to notify the authorities that it is starting operation. A hotel is a main tourist accommodation facility, so this matches the goal of notifying operation of such a facility. No other goal is added."
+ },
+ "req_gr64|vague_en": {
+  "faithful": true,
+  "reason": "The request is about notifying the authorities so the citizen can start operating an outdoor car park for cars and motorbikes. That is the notification-of-operation procedure in the goal. Leaving out mopeds does not change the procedure, and the request adds no other goal."
+ },
+ "req_gr64|fr": {
+  "faithful": true,
+  "reason": "The request asks what must be declared to the authorities before starting to run an outdoor car and motorcycle parking facility in Greece. That matches the goal: the notification of operation for outdoor parking facilities. It adds no other goal. Leaving out mopeds does not change which procedure is meant."
+ },
+ "req_gr64|ar": {
+  "faithful": true,
+  "reason": "The request asks what to notify the authorities of in order to start running an outdoor parking facility for cars and motorcycles in Greece, which is the same as the notification-of-operation goal. Leaving out mopeds does not change which procedure is meant, and the request adds no other goal."
+ },
+ "req_gr65|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that the citizen is starting to work as a vehicle roadside assistance partner. That is the target procedure, Notification of Operation of Vehicle Roadside Assistance Partner. The mention of running a towing business is just background, not a second goal."
+ },
+ "req_gr65|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to tell the authorities that they are starting work as a vehicle roadside assistance partner in Greece. That is the same as the goal, the notification of operation of a vehicle roadside assistance partner. The request is in French, which is allowed, and it adds no other goal."
+ },
+ "req_gr65|ar": {
+  "faithful": true,
+  "reason": "The citizen runs a towing and roadside assistance business in Greece. They want to notify the authorities that they are starting to operate as a vehicle roadside assistance partner. That is exactly the stated goal, and the request adds no other goal."
+ },
+ "req_gr66|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to start offering recreational diving services to tourists and asks whether, and how, they must notify the authorities first. That matches the goal of obtaining a notification of provision of recreational diving services, and no other goal is added."
+ },
+ "req_gr66|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities before starting recreational diving services for tourists in Greece. That matches the goal of filing a notification of provision of recreational diving services, and no other goal is added."
+ },
+ "req_gr66|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to start offering recreational diving services in Greece and asks how to notify the authorities before starting. That is the same as the goal, a notification of provision of recreational diving services. No other goal is added."
+ },
+ "req_gr67|vague_en": {
+  "faithful": true,
+  "reason": "The citizen says their gym is moving into a bigger building, which is both a relocation and an expansion to a new building, and they want to tell the authorities about it. That is exactly the goal: notifying the authorities that a gym or sports school is relocating or expanding to a new building. No other goal is added."
+ },
+ "req_gr67|fr": {
+  "faithful": true,
+  "reason": "The citizen says their gym is moving to larger premises and asks how to notify the authorities of the new address. That matches the goal of notifying a gym's relocation or expansion to a new building. No other goal is added, and the request being in French is fine."
+ },
+ "req_gr67|ar": {
+  "faithful": true,
+  "reason": "The citizen says they are moving their gym to a larger building and need to tell the authorities the new location. That is the same as notifying a relocation or expansion of a gym to a new building. No other goal is added."
+ },
+ "req_gr68|vague_en": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that an intercity bus station with no fuel pumps is starting operations. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr68|fr": {
+  "faithful": true,
+  "reason": "The request asks what to file to notify the authorities that operation of an intercity bus station without fuel pumps is starting. That is exactly the stated goal, and no other goal is added."
+ },
+ "req_gr68|ar": {
+  "faithful": true,
+  "reason": "The request asks what to submit to notify the authorities that an intercity bus station in Greece with no fuel pumps on site is starting operation. That matches the goal exactly and adds no other goal."
+ },
+ "req_gr69|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to tell the authorities that a newly built covered car park has started operating. That matches notifying the start of operation of a sheltered parking, and no other goal is added."
+ },
+ "req_gr69|fr": {
+  "faithful": true,
+  "reason": "The request asks how to tell the authorities that the citizen is starting to operate a covered (sheltered) parking facility they just set up. That is exactly the goal, a notification that operation of sheltered parking is starting, and no other goal is added. French is allowed."
+ },
+ "req_gr69|ar": {
+  "faithful": true,
+  "reason": "The request says the citizen just finished building a covered car park and wants to notify the authorities that it has started operating. That is exactly the goal (notification that a sheltered parking has started operating), and no other goal is added."
+ },
+ "req_gr70|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal. A guesthouse is a tourist accommodation. \"Open our pool to guests\" is the start of operation, and \"update the pool's info we gave before\" is a change of details. Asking where to let the authorities know is asking how to file the notification. Nothing else is asked for."
+ },
+ "req_gr70|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a swimming pool at a tourist accommodation is starting operation, or that its declared details have changed. That is exactly the goal, written in French, and no other goal is added."
+ },
+ "req_gr70|ar": {
+  "faithful": true,
+  "reason": "The request is written in Arabic. It asks where to notify the authorities that a swimming pool at a tourist accommodation in Greece is starting operation, or that its previously submitted details have changed. This is exactly the stated goal, and the request adds no other goal."
+ },
+ "req_gr71|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal: notifying the authorities that a truck station for loading and unloading goods, held under a concession, is starting operation. It doesn't name \"type A\", but it adds no other goal and doesn't contradict the procedure."
+ },
+ "req_gr71|fr": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that operation has started at a truck station for loading and unloading goods, run under a concession. That matches the goal, and no other goal is added. It does not say 'type A', but nothing in it conflicts with that."
+ },
+ "req_gr71|ar": {
+  "faithful": true,
+  "reason": "The request matches the goal. The citizen says they got a concession to run a truck station for loading and unloading goods, and they ask how to notify the authorities that operation has started. That is the goal as stated. The request doesn't name \"type A\", but it leaves nothing out that would change the goal and adds no other goal."
+ },
+ "req_gr72|vague_en": {
+  "faithful": true,
+  "reason": "The citizen is opening a small shop that sells food and drinks in Greece and wants to notify the authorities so they can legally start operating. That matches the goal: notifying the authorities that a retail food and beverage shop of sanitary interest is being set up and will operate. The request doesn't name \"Category III\" or the Sanitary Ordinance, but it describes the same procedure in plain words and adds no other goal."
+ },
+ "req_gr72|fr": {
+  "faithful": true,
+  "reason": "The citizen is opening a small retail shop selling food and beverages in Greece and must notify the authorities before selling legally. This matches the goal: notifying the authorities that a retail food and beverage shop of sanitary interest is being set up and will operate. The request doesn't name Category III, but it doesn't need to because it describes the same kind of business. No other goal is added."
+ },
+ "req_gr72|ar": {
+  "faithful": true,
+  "reason": "The request (in Arabic) says the citizen is opening a small shop in Greece to sell food and beverages and needs to notify the authorities so they can start selling legally. That matches the notification of establishing and operating a retail food and beverage shop of sanitary interest. It adds no other goal. Not naming the category of the sanitary ordinance is acceptable."
+ },
+ "req_gr73|vague_en": {
+  "faithful": true,
+  "reason": "In Greece, hair salons and beauty shops count as shops that provide services of sanitary interest. The citizen wants to tell the authorities the shop is opening and to sort out the paperwork needed to operate legally. That matches the notification of establishment and operation. \"Get the paperwork in order\" is too vague to count as a separate goal."
+ },
+ "req_gr73|fr": {
+  "faithful": true,
+  "reason": "The citizen is opening a hair salon or beauty institute, which counts as a shop providing services of sanitary interest. They want to notify the authorities that it is opening and operating so they can work legally, which is exactly the stated notification. No other goal is added."
+ },
+ "req_gr73|ar": {
+  "faithful": true,
+  "reason": "The request is to notify the authorities that a barbershop or small beauty salon is opening in Greece so it can operate legally. In Greece these businesses count as shops providing services of sanitary interest, so the request matches the goal: notifying the establishment and operation of such a shop. \"Completing the necessary procedures\" refers to this same notification process, not a separate goal."
+ },
+ "req_gr74|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to tell the authorities they are setting up and starting to run a cinema. That is the notification of establishment and operation of theatres and cinemas. No other goal is added."
+ },
+ "req_gr74|fr": {
+  "faithful": true,
+  "reason": "The request is in French and asks what to file to notify the Greek authorities about setting up and running a small cinema. That matches the goal, notification of the establishment and operation of theatres and cinemas. No other goal is added."
+ },
+ "req_gr74|ar": {
+  "faithful": true,
+  "reason": "The request asks how to notify the authorities that a small cinema in Greece is being set up and starting to operate. That is the goal: notification of the establishment and operation of a cinema. No other goal is added."
+ },
+ "req_gr75|vague_en": {
+  "faithful": true,
+  "reason": "The request is to notify the authorities that a repair and maintenance workshop for cars and motorbikes is starting up, which is the stated goal. Mopeds aren't mentioned, but that doesn't change the procedure, and no other goal is added."
+ },
+ "req_gr75|fr": {
+  "faithful": true,
+  "reason": "The request asks to declare the start of operations of a car and motorcycle repair and maintenance garage in Greece. That is the same as the notification of operation for such workshops. It adds no other goal. Mopeds aren't mentioned, but the same notification covers them, so this doesn't change the goal."
+ },
+ "req_gr75|ar": {
+  "faithful": true,
+  "reason": "The request says the citizen is opening a car and motorcycle repair and maintenance workshop and needs to notify the authorities that it is starting operation. That matches the goal of filing an operation notification for this type of workshop. Mopeds are not mentioned, but nothing is contradicted, and no other goal is added."
+ },
+ "req_gr77|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal. \"One-man security guard business\" means a sole proprietorship that provides private security services. \"Green light to operate legally\" means the operating licence. No other goal is added."
+ },
+ "req_gr77|fr": {
+  "faithful": true,
+  "reason": "The request, written in French, asks how to get the authorisation to legally run a sole-proprietorship guarding and security business in Greece. That is the same goal: an operating licence for a security services provider set up as a sole proprietorship. No other goal is added."
+ },
+ "req_gr77|ar": {
+  "faithful": true,
+  "reason": "The request asks how to get the licence needed to legally operate a sole proprietorship that provides guarding and security services in Greece. That is the stated goal, an operating licence for a private security services company set up as a sole proprietorship. The request adds no other goal."
+ },
+ "req_gr78|vague_en": {
+  "faithful": true,
+  "reason": "The request matches the goal. \"Extend\" a permission that \"is about to run out\" means renewal. \"Permission to drive our fast passenger boat\" is a plain-language way of saying \"licence to operate a high-speed craft\". \"Passenger\" just makes the craft more specific and does not add a second goal. One caveat: \"permission to drive\" sounds like a personal operator's licence, while \"licence to operate\" could also mean a permit for the vessel itself. The goal's wording covers both readings, so this does not make the request unfaithful."
+ },
+ "req_gr78|fr": {
+  "faithful": true,
+  "reason": "The request is in French and asks to extend (\"prolonger\") the soon-to-expire authorisation to operate a fast passenger boat (\"bateau rapide à passagers\"). That matches renewing a licence to operate a high-speed craft. The wish to keep sailing is the reason for the renewal, not a second goal."
+ },
+ "req_gr78|ar": {
+  "faithful": true,
+  "reason": "The Arabic request says the operating licence for their high-speed passenger craft is about to expire and needs to be extended so they can keep operating it. That is the same as renewing a licence to operate a high-speed craft, and no other goal is added."
+ },
+ "req_gr79|vague_en": {
+  "faithful": true,
+  "reason": "The request asks for a temporary document showing the shop meets fire safety rules while full approval is pending. That matches the goal of getting a temporary (active) fire protection certificate, and the request adds no other goal."
+ },
+ "req_gr79|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get a temporary document showing that their shop in Greece meets fire safety rules while final approval is pending. That matches the temporary (active) fire protection certificate. The request adds no other goal."
+ },
+ "req_gr79|ar": {
+  "faithful": true,
+  "reason": "The citizen runs a shop in Greece and asks how to get a temporary document from the fire service that proves the premises meets fire safety requirements until final approval is issued. That is the temporary fire protection certificate. The request doesn't name active fire protection, but nothing in it conflicts with that, and it adds no other goal."
+ },
+ "req_sa02|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to get the official permission needed to run a shop legally in Saudi Arabia. That matches obtaining a commercial license, and no other goal is added."
+ },
+ "req_sa02|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get the official authorization they need to run a shop or business legally in Saudi Arabia. That is the goal of getting a commercial license. No other goal is added, and the request being in French is acceptable."
+ },
+ "req_sa02|ar": {
+  "faithful": true,
+  "reason": "The citizen wants to open a shop in Saudi Arabia and asks how to get the official permit to operate legally. That is a request for a commercial license, and no other goal is added. The request being in Arabic doesn't matter."
+ },
+ "req_sa03|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants a trade permit (a commercial license) fast, without waiting weeks. That is the same as the stated goal of getting a fast-track commercial license. Starting the business is only the reason for the request, not a second goal."
+ },
+ "req_sa03|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get a commercial authorisation quickly so they can start their business in Saudi Arabia without waiting weeks. That is the goal of obtaining a fast-track commercial license. Mentioning the business launch only explains why they need it and does not add a separate goal. Writing in French is fine."
+ },
+ "req_sa03|ar": {
+  "faithful": true,
+  "reason": "The citizen asks how to get a commercial license quickly so they don't wait weeks. That matches the goal of getting a fast-track commercial license. Saying they want to start their business in Saudi Arabia only explains why they need it and adds no separate goal."
+ },
+ "req_sa04|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to extend a shop's operating permit for another year before it expires. That is the same as renewing a commercial license, and no other goal is added."
+ },
+ "req_sa04|fr": {
+  "faithful": true,
+  "reason": "The request is in French and asks how to extend the citizen's business operating authorization, which is about to expire, for another year. That is the same as renewing a commercial license, and no other goal is added."
+ },
+ "req_sa04|ar": {
+  "faithful": true,
+  "reason": "The request is in Arabic. It says the operating license for the citizen's commercial shop is about to expire and asks how to extend it for another year. That is the same as renewing a commercial license, and it adds no other goal."
+ },
+ "req_sa06|vague_en": {
+  "faithful": true,
+  "reason": "The citizen has a finished building and asks for the official document saying it is safe and built to code so people can use it. That is the occupancy and compliance certificate, and no other goal is added."
+ },
+ "req_sa06|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get the official document showing that a finished building meets the standards and can be occupied. That is the building occupancy and compliance certificate, and no other goal is added."
+ },
+ "req_sa06|ar": {
+  "faithful": true,
+  "reason": "The citizen has finished construction and asks how to get the official document showing the building meets the requirements and can be used and occupied. That is the building occupancy and compliance certificate. No other goal is added."
+ },
+ "req_sa08|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to extend a health card for food-service work that's about to expire. That is a request to renew a health certificate. No other goal is added."
+ },
+ "req_sa08|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to extend a health card needed to work in food service because it will expire soon. That is a request to renew a health certificate. The request adds no other goal."
+ },
+ "req_sa08|ar": {
+  "faithful": true,
+  "reason": "The request (in Arabic) says the citizen's health certificate for working in restaurants is about to expire and asks how to renew it. That matches the goal of renewing a health certificate, and no other goal is added."
+ },
+ "req_sa10|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants permission to keep a shop in Saudi Arabia open 24 hours. That matches the goal of getting a permit for 24-hour commercial activities, and the request adds no other goal."
+ },
+ "req_sa10|fr": {
+  "faithful": true,
+  "reason": "The citizen owns a business in Saudi Arabia and asks which authorization lets them stay open 24 hours a day. That is the same goal as obtaining a permit for 24-hour commercial activities, and the request adds no other goal."
+ },
+ "req_sa10|ar": {
+  "faithful": true,
+  "reason": "The request asks what is needed to be allowed to operate a commercial activity in Saudi Arabia around the clock, day and night. That matches obtaining a 24-hour commercial activities permit, and no other goal is added."
+ },
+ "req_sa11|vague_en": {
+  "faithful": true,
+  "reason": "The citizen asks for approval so their shop can deliver orders to homes. That is the same as getting a home delivery permit, and the request adds no other goal."
+ },
+ "req_sa11|fr": {
+  "faithful": true,
+  "reason": "The request asks for permission for the citizen's business to deliver orders to customers' homes. That is the same as getting a home delivery permit, and no other goal is added."
+ },
+ "req_sa11|ar": {
+  "faithful": true,
+  "reason": "The request asks for a permit so the shop can deliver orders to customers' homes. That matches the goal of getting a home delivery permit, and it adds no other goal."
+ },
+ "req_sa12|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to get official approval that a shop meets fire and safety rules through the Salama website. That is the Salama safety license, and the request adds no other goal."
+ },
+ "req_sa12|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how to get the authorization, through the Salama website, showing that their shop in Saudi Arabia meets fire safety standards. That is the Safety license from the Salama portal, and the request adds no other goal."
+ },
+ "req_sa12|ar": {
+  "faithful": true,
+  "reason": "The citizen asks how to get a license showing their commercial site meets fire safety requirements, and names the Salama platform. That is the safety license from the Salama portal, and no other goal is added."
+ },
+ "req_sa13|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to register a new business so it can charge and collect VAT. That is exactly VAT registration for businesses, and no other goal is added."
+ },
+ "req_sa13|fr": {
+  "faithful": true,
+  "reason": "The request asks how to register for VAT so a new business in Saudi Arabia can charge and collect VAT. That matches the goal of getting VAT registration for a business, and no other goal is added."
+ },
+ "req_sa13|ar": {
+  "faithful": true,
+  "reason": "The request (in Arabic) says the person started a business in Saudi Arabia, needs to be able to charge VAT to customers, and asks how to register. That matches the goal of VAT registration for a business, and no other goal is added."
+ },
+ "req_sa15|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how several related companies can sign up to charge and report tax under one registration in Saudi Arabia. Saudi Arabia levies VAT, not a separate sales tax, so 'sales tax' here loosely means VAT. That makes this a request for VAT group registration, and it adds no other goal."
+ },
+ "req_sa15|fr": {
+  "faithful": true,
+  "reason": "The citizen asks how several companies in a group can register to invoice and file sales tax under one registration in Saudi Arabia. That is VAT group registration, and the request adds no other goal."
+ },
+ "req_sa15|ar": {
+  "faithful": true,
+  "reason": "The citizen asks how several companies operating as one group can apply to collect and file VAT under a single registration in Saudi Arabia. This is a VAT group registration, and no other goal is added. They call the tax \"sales tax\" (ضريبة المبيعات), but that is just informal wording for VAT."
+ },
+ "req_sa16|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how a new business in Saudi Arabia registers with the tax authority so it can pay what it owes. That matches zakat and income tax registration, and no other goal is added. It's a bit vague because it doesn't name zakat or income tax, but it still describes the same registration goal."
+ },
+ "req_sa16|fr": {
+  "faithful": true,
+  "reason": "The citizen has just started a business in Saudi Arabia and wants to register with the tax authority (ZATCA) so they can pay what they owe. That matches the goal of zakat and income tax registration, the basic registration every new business must complete, even though it is worded more generally. No other goal is added. Writing in French is fine."
+ },
+ "req_sa16|ar": {
+  "faithful": true,
+  "reason": "The citizen has started a new business in Saudi Arabia and asks how to register with the tax authority so they can pay what they owe. That matches registering for zakat and income tax with ZATCA, Saudi Arabia's Zakat, Tax and Customs Authority. The request adds no other goal. The wording is general, but it fits the stated registration."
+ },
+ "req_sa18|vague_en": {
+  "faithful": true,
+  "reason": "The citizen wants to update their company's changed details on its VAT account with the Saudi tax authority. That is the goal of updating VAT registration details, and the request adds no other goal."
+ },
+ "req_sa18|fr": {
+  "faithful": true,
+  "reason": "The French request asks to update the company's changed information with the tax authority for its VAT account in Saudi Arabia. That is the goal of updating VAT registration details, and the request adds no other goal."
+ },
+ "req_sa18|ar": {
+  "faithful": true,
+  "reason": "The citizen says their company's details have changed and they need to update them with ZATCA in their VAT account. That is the goal of updating VAT registration details, and nothing else is asked for."
+ },
+ "req_sa19|vague_en": {
+  "faithful": true,
+  "reason": "The request asks to add a new company branch with social insurance (GOSI), which is exactly the goal of registering a new establishment or branch. Enrolling staff is given as the reason for registering, not as a separate request."
+ },
+ "req_sa19|fr": {
+  "faithful": true,
+  "reason": "The request asks to register a newly opened branch with the social insurance organization (GOSI). That is exactly the goal. Declaring employees there is given as the reason for registering, not as a separate request."
+ },
+ "req_sa19|ar": {
+  "faithful": true,
+  "reason": "The citizen opened a new branch of their company and wants to register it with social insurance (GOSI). That matches the goal. Adding employees afterward is the reason they give, not a separate request."
+ },
+ "req_sa20|vague_en": {
+  "faithful": true,
+  "reason": "The citizen runs a company (an establishment) and asks to get visas approved for staff coming from abroad. That is the goal of getting visas issued for an establishment. Bringing in staff is the reason for the request, not a second goal. One caveat: if \"establishment\" was meant as personal settlement or residence, the request would not match. The most natural reading here is a business establishment."
+ },
+ "req_sa20|fr": {
+  "faithful": true,
+  "reason": "The request is from someone who runs a business in Saudi Arabia and needs visas to bring staff from abroad. That is the same as getting visas issued for an establishment, and no other goal is added. It is written in French, which is allowed."
+ },
+ "req_sa20|ar": {
+  "faithful": true,
+  "reason": "The request says the person runs an establishment in Saudi Arabia and needs visas to bring new employees from abroad. That is the goal of getting visas issued for an establishment, and no other goal is added."
+ },
+ "req_sa21|vague_en": {
+  "faithful": true,
+  "reason": "The request asks how to move a worker from another company to the requester's business. That is exactly an employee transfer from another employer, and it adds no other goal."
+ },
+ "req_sa21|fr": {
+  "faithful": true,
+  "reason": "The citizen wants to bring over an employee who currently works for another company and asks how to do it. That matches the goal of getting an employee transferred from another employer. Asking about the procedure is just how they pursue that goal, and the request adds no other goal."
+ },
+ "req_sa21|ar": {
+  "faithful": true,
+  "reason": "The Arabic request says: \"I want to transfer a worker who currently works for another employer so they can work for me at my establishment. What are the steps?\" This matches the goal of transferring an employee from another employer. Asking for the steps is part of getting that service, not a separate goal, and nothing else is added."
+ }
+}

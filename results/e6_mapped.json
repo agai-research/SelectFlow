@@ -1,0 +1,36 @@
+{
+ "n": 45,
+ "selectflow_mapped_cards": 0.8666666666666667,
+ "selectflow_mapped_by_country": {
+  "greece": 0.9,
+  "saudi": 0.8
+ },
+ "selectflow_true_cards": 1.0,
+ "all_tools": 0.6444444444444445,
+ "tool_search": 0.2222222222222222,
+ "toolkit_size_mapped": 2.3429629629629627,
+ "tool_calls_mapped": 5.711111111111111,
+ "left_to_requester_mapped": 0.1111111111111111,
+ "mapped_selectflow_vs_all_tools": {
+  "diff_ci": [
+   0.2222222222222222,
+   0.06666666666666667,
+   0.37777777777777777
+  ],
+  "mcnemar_p": 0.021270751953125
+ },
+ "mapped_selectflow_vs_tool_search": {
+  "diff_ci": [
+   0.6444444444444445,
+   0.4666666666666667,
+   0.8
+  ],
+  "mcnemar_p": 1.3085082173347473e-07
+ },
+ "cost_usd": 0.89,
+ "mapping_quality": {
+  "precision": 0.30777903043968435,
+  "recall": 0.8863636363636364,
+  "threshold": 0.5
+ }
+}

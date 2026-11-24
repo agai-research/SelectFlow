@@ -1,0 +1,2855 @@
+[
+{
+"v": "scientific_computing_unit_converter_000",
+"K": [
+"Scientific Computing.subtract_matrices",
+"NixOS.home_manager_info",
+"DEX Paprika.getDexPools",
+"Weather Data.get_weather_forecast_tool",
+"NASA Data.get_earth_imagery",
+"National Parks.getParkDetails",
+"NixOS.darwin_options_by_prefix",
+"National Parks.findParks"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_000",
+"K": [
+"Medical Calculator.curb65_score",
+"Medical Calculator.corrected_sodium_hillier",
+"Medical Calculator.fractional_excretion_of_sodium",
+"Medical Calculator.ibw_abw_calculator",
+"Medical Calculator.phq9_score",
+"Hugging Face.get-dataset-info",
+"Bibliomantic.get_hexagram_details",
+"Medical Calculator.steroid_conversion",
+"Car Price Evaluator.get_vehicles_by_type",
+"Bibliomantic.i_ching_divination",
+"DEX Paprika.getPoolTransactions",
+"DEX Paprika.getNetworks"
+],
+"chosen": null
+},
+{
+"v": "reddit_001",
+"K": [
+"Hugging Face.get-daily-papers",
+"Paper Search.search_google_scholar",
+"Medical Calculator.caprini_score",
+"Scientific Computing.plot_function",
+"Medical Calculator.heart_score"
+],
+"chosen": null
+},
+{
+"v": "fruityvice_000",
+"K": [
+"FruityVice.get_fruit_nutrition",
+"NASA Data.get_notifications",
+"NASA Data.get_coronal_mass_ejection",
+"DEX Paprika.getStats",
+"Medical Calculator.egfr_epi_cr_cys",
+"Medical Calculator.wells_pe_criteria",
+"BioMCP.trial_references_getter",
+"Medical Calculator.has_bled_score"
+],
+"chosen": "FruityVice.get_fruit_nutrition"
+},
+{
+"v": "nixos_001",
+"K": [
+"NixOS.nixhub_package_versions",
+"NixOS.home_manager_info",
+"Hugging Face.get-daily-papers",
+"Movie Recommender.get_movies",
+"DEX Paprika.getTokenDetails",
+"Game Trends.get_epic_free_games",
+"DEX Paprika.getDexPools",
+"Scientific Computing.directional_deriv"
+],
+"chosen": "NixOS.nixhub_package_versions"
+},
+{
+"v": "context7_000",
+"K": [
+"Context7.resolve-library-id",
+"Context7.get-library-docs"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "metropolitan_museum_huge_icons_wikipedia_000",
+"K": [
+"Wikipedia.summarize_article_for_query",
+"OSINT Intelligence.dig_lookup",
+"Reddit.fetch_reddit_post_content",
+"Medical Calculator.corrected_sodium_hillier",
+"DEX Paprika.search",
+"OSINT Intelligence.osint_overview",
+"BioMCP.openfda_shortage_getter",
+"Medical Calculator.ibw_calculator",
+"BioMCP.drug_getter",
+"Math MCP.ceiling",
+"Unit Converter.convert_batch",
+"Medical Calculator.ariscat_score"
+],
+"chosen": null
+},
+{
+"v": "medical_calculator_wikipedia_fruityvice_000",
+"K": [
+"DEX Paprika.getPoolTransactions",
+"BioMCP.trial_references_getter",
+"NASA Data.get_epic_imagery",
+"Scientific Computing.gradient",
+"DEX Paprika.getNetworkDexes"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_huge_icons_wikipedia_001",
+"K": [
+"Wikipedia.get_summary",
+"Wikipedia.get_article",
+"Huge Icons.get_platform_usage",
+"Scientific Computing.laplacian",
+"BioMCP.article_searcher",
+"Math MCP.sum",
+"Scientific Computing.matrix_inverse",
+"Medical Calculator.corrected_sodium_katz",
+"Unit Converter.convert_length",
+"Medical Calculator.caprini_score",
+"BioMCP.trial_references_getter",
+"Paper Search.search_semantic",
+"Scientific Computing.vector_project",
+"BioMCP.nci_biomarker_searcher",
+"Paper Search.read_arxiv_paper",
+"Scientific Computing.add_matrices",
+"Paper Search.download_iacr",
+"Scientific Computing.vector_cross_product",
+"BioMCP.trial_searcher",
+"Medical Calculator.fractional_excretion_of_sodium"
+],
+"chosen": null
+},
+{
+"v": "unit_converter_000",
+"K": [
+"Medical Calculator.map_calculator",
+"Game Trends.get_steam_trending_games",
+"Medical Calculator.free_water_deficit",
+"Scientific Computing.vector_dot_product",
+"Medical Calculator.ldl_calculated",
+"Scientific Computing.transpose",
+"Medical Calculator.wells_pe_criteria",
+"Paper Search.search_biorxiv",
+"Paper Search.search_medrxiv",
+"Paper Search.search_semantic",
+"Medical Calculator.centor_score_modified",
+"Paper Search.download_medrxiv"
+],
+"chosen": null
+},
+{
+"v": "weather_data_000",
+"K": [
+"Medical Calculator.has_bled_score",
+"Math MCP.multiply",
+"BioMCP.variant_getter"
+],
+"chosen": null
+},
+{
+"v": "time_mcp_000",
+"K": [
+"Medical Calculator.homa_ir",
+"DEX Paprika.getNetworkPools",
+"Game Trends.get_steam_top_sellers",
+"Medical Calculator.corrected_sodium",
+"Game Trends.get_api_health",
+"Game Trends.get_all_trending_games",
+"Medical Calculator.framingham_risk_score",
+"Medical Calculator.ibw_calculator",
+"Game Trends.get_epic_trending_games",
+"Game Trends.get_epic_free_games",
+"Medical Calculator.glasgow_coma_scale",
+"Medical Calculator.free_water_deficit",
+"Medical Calculator.sepsis_criteria",
+"Hugging Face.get-dataset-info",
+"Medical Calculator.perc_rule",
+"OSINT Intelligence.host_lookup",
+"Medical Calculator.serum_anion_gap",
+"DEX Paprika.getPoolOHLCV",
+"Medical Calculator.gad7_score",
+"OKX Exchange.get_price"
+],
+"chosen": null
+},
+{
+"v": "fruityvice_001",
+"K": [
+"NASA Data.get_earth_assets",
+"Unit Converter.list_supported_units",
+"Medical Calculator.egfr_epi",
+"Paper Search.download_iacr",
+"NixOS.nixhub_package_versions",
+"Bibliomantic.bibliomantic_consultation",
+"Hugging Face.get-collection-info",
+"Medical Calculator.sofa_score",
+"Medical Calculator.ariscat_score",
+"Paper Search.download_pubmed",
+"Paper Search.search_biorxiv",
+"Medical Calculator.gad7_score"
+],
+"chosen": null
+},
+{
+"v": "biomcp_001",
+"K": [
+"BioMCP.nci_organization_getter",
+"BioMCP.drug_getter",
+"OpenAPI Explorer.getApiOperation",
+"Paper Search.search_arxiv",
+"Paper Search.read_semantic_paper",
+"Paper Search.read_arxiv_paper",
+"National Parks.getCampgrounds",
+"National Parks.getParkDetails",
+"Wikipedia.get_article",
+"Call for Papers.get_events",
+"Weather Data.get_weather_forecast_tool",
+"Paper Search.read_pubmed_paper",
+"Paper Search.search_google_scholar",
+"Wikipedia.get_links",
+"Weather Data.search_locations_tool",
+"Paper Search.download_iacr",
+"Paper Search.download_pubmed",
+"Paper Search.read_iacr_paper",
+"National Parks.getEvents",
+"Paper Search.download_arxiv"
+],
+"chosen": "Paper Search.search_google_scholar"
+},
+{
+"v": "scientific_computing_unit_converter_001",
+"K": [
+"Scientific Computing.matrix_inverse",
+"BioMCP.openfda_adverse_searcher",
+"BioMCP.gene_getter",
+"Paper Search.download_arxiv",
+"NASA Data.get_solar_flare",
+"Medical Calculator.ibw_calculator",
+"NASA Data.get_solar_energetic_particle",
+"OSINT Intelligence.osint_overview",
+"Medical Calculator.bmi_bsa_calculator",
+"Hugging Face.search-collections",
+"Medical Calculator.ciwa_ar_score",
+"National Parks.getVisitorCenters",
+"NASA Data.get_astronomy_picture_of_day",
+"Medical Calculator.egfr_epi_cr_cys",
+"Weather Data.get_weather_forecast_tool",
+"Paper Search.read_pubmed_paper",
+"Wikipedia.get_related_topics",
+"Medical Calculator.homa_ir",
+"DEX Paprika.getStats",
+"Medical Calculator.sofa_score"
+],
+"chosen": null
+},
+{
+"v": "nixos_000",
+"K": [
+"NixOS.nixos_flakes_search",
+"NixOS.nixhub_find_version",
+"NixOS.darwin_search"
+],
+"chosen": "NixOS.nixhub_find_version"
+},
+{
+"v": "national_parks_001",
+"K": [
+"National Parks.getParkDetails",
+"National Parks.getCampgrounds",
+"National Parks.findParks",
+"OpenAPI Explorer.getApiOverview",
+"Unit Converter.convert_power",
+"NixOS.nixos_info",
+"Unit Converter.convert_density",
+"NixOS.home_manager_stats",
+"NixOS.darwin_stats",
+"DEX Paprika.getPoolTransactions",
+"Weather Data.search_locations_tool",
+"Paper Search.download_biorxiv"
+],
+"chosen": "National Parks.findParks"
+},
+{
+"v": "car_price_evaluator_001",
+"K": [
+"Car Price Evaluator.search_car_price",
+"Car Price Evaluator.get_vehicles_by_type",
+"Car Price Evaluator.get_car_brands"
+],
+"chosen": "Car Price Evaluator.get_car_brands"
+},
+{
+"v": "math_mcp_001",
+"K": [
+"Math MCP.mean",
+"Unit Converter.convert_power",
+"Paper Search.download_semantic"
+],
+"chosen": null
+},
+{
+"v": "context7_001",
+"K": [
+"Context7.resolve-library-id",
+"Context7.get-library-docs"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "nasa_data_google_maps_wikipedia_000",
+"K": [
+"Wikipedia.get_sections",
+"NixOS.darwin_stats",
+"National Parks.getVisitorCenters",
+"NASA Data.get_notifications",
+"Wikipedia.extract_key_facts",
+"NASA Data.get_magnetopause_crossing",
+"Hugging Face.get-collection-info",
+"Math MCP.floor",
+"Game Trends.get_epic_trending_games",
+"Unit Converter.list_supported_units",
+"Paper Search.download_medrxiv",
+"Paper Search.search_semantic",
+"OSINT Intelligence.dnstwist_lookup",
+"Medical Calculator.corrected_calcium",
+"Medical Calculator.calculate_mme",
+"Medical Calculator.bmi_calculator",
+"NixOS.home_manager_list_options",
+"OKX Exchange.get_candlesticks",
+"Medical Calculator.serum_anion_gap",
+"Medical Calculator.curb65_score"
+],
+"chosen": "NASA Data.get_notifications"
+},
+{
+"v": "hugging_face_paper_search_002",
+"K": [
+"Hugging Face.get-model-info",
+"Paper Search.read_arxiv_paper",
+"Paper Search.download_iacr",
+"DEX Paprika.getNetworkPools",
+"Wikipedia.get_article",
+"NASA Data.get_hight_speed_stream",
+"Bibliomantic.i_ching_divination",
+"NASA Data.get_coronal_mass_ejection"
+],
+"chosen": "Hugging Face.get-model-info"
+},
+{
+"v": "google_maps_000",
+"K": [
+"OKX Exchange.get_candlesticks",
+"DEX Paprika.getPoolTransactions"
+],
+"chosen": null
+},
+{
+"v": "wikipedia_paper_search_001",
+"K": [
+"Wikipedia.get_sections",
+"Paper Search.download_biorxiv",
+"Paper Search.read_semantic_paper"
+],
+"chosen": "Wikipedia.get_sections"
+},
+{
+"v": "nasa_data_000",
+"K": [
+"NASA Data.get_coronal_mass_ejection",
+"NASA Data.get_epic_dates",
+"NASA Data.get_asteroid_lookup",
+"Paper Search.search_semantic",
+"DEX Paprika.getTokenDetails",
+"Medical Calculator.bmi_bsa_calculator",
+"Wikipedia.get_sections",
+"Medical Calculator.corrected_calcium"
+],
+"chosen": "NASA Data.get_coronal_mass_ejection"
+},
+{
+"v": "metropolitan_museum_huge_icons_wikipedia_001",
+"K": [
+"Wikipedia.get_article",
+"Wikipedia.search_wikipedia",
+"Paper Search.read_pubmed_paper",
+"BioMCP.openfda_adverse_searcher",
+"BioMCP.openfda_adverse_getter"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_001",
+"K": [
+"BioMCP.get_performance_metrics",
+"BioMCP.trial_searcher",
+"BioMCP.variant_getter",
+"NASA Data.get_earth_imagery",
+"NASA Data.get_mars_rover_manifest",
+"Medical Calculator.map_calculator",
+"Context7.resolve-library-id",
+"National Parks.getAlerts"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_001",
+"K": [
+"Scientific Computing.gradient",
+"Scientific Computing.find_orthonormal_basis",
+"Scientific Computing.curl"
+],
+"chosen": "Scientific Computing.gradient"
+},
+{
+"v": "hugging_face_paper_search_002",
+"K": [
+"Hugging Face.get-paper-info",
+"Hugging Face.search-collections",
+"Paper Search.search_iacr",
+"Bibliomantic.server_error",
+"DEX Paprika.getPoolDetails",
+"NASA Data.get_notifications",
+"Reddit.fetch_reddit_post_content",
+"NASA Data.get_mars_rover_manifest",
+"NASA Data.get_epic_imagery",
+"DEX Paprika.getNetworkPools",
+"FruityVice.get_fruit_nutrition",
+"OSINT Intelligence.host_lookup"
+],
+"chosen": "Hugging Face.search-collections"
+},
+{
+"v": "wikipedia_000",
+"K": [
+"Wikipedia.extract_key_facts",
+"Unit Converter.convert_angle",
+"Medical Calculator.bsa_calculator",
+"BioMCP.trial_searcher",
+"BioMCP.openfda_label_getter"
+],
+"chosen": "Wikipedia.extract_key_facts"
+},
+{
+"v": "openapi_explorer_paper_search_hugging_face_001",
+"K": [
+"OpenAPI Explorer.getApiOverview",
+"Paper Search.search_biorxiv",
+"Scientific Computing.curl"
+],
+"chosen": "OpenAPI Explorer.getApiOverview"
+},
+{
+"v": "openapi_explorer_001",
+"K": [
+"OpenAPI Explorer.getApiOperation",
+"OpenAPI Explorer.getApiOverview",
+"Paper Search.search_arxiv",
+"Unit Converter.convert_mass",
+"NixOS.nixos_stats",
+"Medical Calculator.abw_calculator",
+"Unit Converter.convert_length",
+"Medical Calculator.phq9_score",
+"NixOS.nixos_search",
+"Medical Calculator.egfr_epi_cr_cys",
+"Unit Converter.list_supported_units",
+"Math MCP.sum"
+],
+"chosen": "OpenAPI Explorer.getApiOverview"
+},
+{
+"v": "unit_converter_001",
+"K": [
+"Unit Converter.convert_time",
+"Unit Converter.convert_density",
+"NixOS.home_manager_stats"
+],
+"chosen": "Unit Converter.convert_time"
+},
+{
+"v": "unit_converter_001",
+"K": [
+"Unit Converter.convert_temperature",
+"Unit Converter.convert_length",
+"NixOS.nixos_search"
+],
+"chosen": "Unit Converter.convert_temperature"
+},
+{
+"v": "wikipedia_nasa_data_001",
+"K": [
+"NASA Data.get_earth_imagery",
+"NixOS.nixos_info",
+"NixOS.darwin_search",
+"Paper Search.search_medrxiv",
+"Scientific Computing.plot_function",
+"OKX Exchange.get_candlesticks",
+"OSINT Intelligence.osint_overview",
+"Paper Search.download_medrxiv",
+"Scientific Computing.compute_eigen",
+"Paper Search.search_iacr",
+"OSINT Intelligence.whois_lookup",
+"Huge Icons.get_platform_usage",
+"Scientific Computing.vector_dot_product",
+"OKX Exchange.get_price",
+"Scientific Computing.gradient",
+"Paper Search.search_semantic",
+"Huge Icons.list_icons",
+"Paper Search.read_medrxiv_paper",
+"Scientific Computing.view_tensor",
+"NixOS.nixos_flakes_stats"
+],
+"chosen": null
+},
+{
+"v": "paper_search_004",
+"K": [
+"Paper Search.search_semantic",
+"Paper Search.download_iacr",
+"Unit Converter.convert_length",
+"NASA Data.browse_asteroids",
+"OSINT Intelligence.whois_lookup",
+"BioMCP.openfda_recall_getter",
+"Medical Calculator.revised_cardiac_risk_index",
+"Unit Converter.convert_pressure",
+"Medical Calculator.heart_score",
+"Medical Calculator.wells_pe_criteria",
+"Unit Converter.convert_energy",
+"BioMCP.disease_getter"
+],
+"chosen": "Paper Search.search_semantic"
+},
+{
+"v": "wikipedia_paper_search_003",
+"K": [
+"Game Trends.get_steam_top_sellers",
+"DEX Paprika.getPoolDetails",
+"Hugging Face.search-collections",
+"Game Trends.get_steam_most_played",
+"DEX Paprika.getNetworks",
+"Context7.resolve-library-id",
+"DEX Paprika.getPoolTransactions",
+"Hugging Face.search-spaces",
+"Hugging Face.search-models",
+"OpenAPI Explorer.getApiOverview",
+"National Parks.getVisitorCenters",
+"Game Trends.get_steam_trending_games",
+"FruityVice.get_fruit_nutrition",
+"Game Trends.get_all_trending_games",
+"National Parks.getCampgrounds",
+"Hugging Face.get-collection-info",
+"Hugging Face.get-model-info",
+"Hugging Face.get-daily-papers",
+"DEX Paprika.getStats",
+"National Parks.getAlerts"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_math_mcp_000",
+"K": [
+"Scientific Computing.vector_dot_product",
+"National Parks.getVisitorCenters"
+],
+"chosen": null
+},
+{
+"v": "paper_search_002",
+"K": [
+"Paper Search.read_medrxiv_paper",
+"Paper Search.download_medrxiv",
+"Medical Calculator.glasgow_coma_scale"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_huge_icons_wikipedia_001",
+"K": [
+"Wikipedia.summarize_article_for_query",
+"Huge Icons.get_platform_usage",
+"Huge Icons.search_icons"
+],
+"chosen": null
+},
+{
+"v": "hugging_face_000",
+"K": [
+"Paper Search.search_medrxiv",
+"Paper Search.download_arxiv",
+"NASA Data.get_hight_speed_stream",
+"Paper Search.search_iacr",
+"NASA Data.get_coronal_mass_ejection",
+"NixOS.nixos_info",
+"DEX Paprika.getPoolOHLCV",
+"Wikipedia.get_sections"
+],
+"chosen": null
+},
+{
+"v": "national_parks_weather_data_001",
+"K": [
+"Scientific Computing.multiply_matrices",
+"Unit Converter.convert_force",
+"Unit Converter.convert_temperature",
+"NixOS.nixos_stats",
+"DEX Paprika.getTokenDetails",
+"Paper Search.read_iacr_paper",
+"Unit Converter.convert_power",
+"Paper Search.read_medrxiv_paper"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Game Trends.get_steam_trending_games",
+"Reddit.fetch_reddit_post_content",
+"Huge Icons.list_icons",
+"Wikipedia.get_summary",
+"Medical Calculator.bmi_bsa_calculator",
+"BioMCP.openfda_approval_getter",
+"Medical Calculator.bp_children",
+"Medical Calculator.psi_port_score"
+],
+"chosen": "Game Trends.get_steam_trending_games"
+},
+{
+"v": "reddit_dex_paprika_000",
+"K": [
+"DEX Paprika.getNetworkPools",
+"DEX Paprika.getDexPools",
+"DEX Paprika.getPoolDetails",
+"Scientific Computing.rank",
+"Scientific Computing.vector_project",
+"OKX Exchange.get_price",
+"Scientific Computing.multiply_matrices",
+"NixOS.nixhub_package_versions",
+"NixOS.home_manager_options_by_prefix",
+"National Parks.getAlerts",
+"National Parks.getVisitorCenters",
+"NixOS.nixos_flakes_search"
+],
+"chosen": "DEX Paprika.getNetworkPools"
+},
+{
+"v": "movie_recommender_001",
+"K": [
+"Movie Recommender.get_movies",
+"DEX Paprika.getPoolTransactions",
+"Wikipedia.get_sections",
+"Weather Data.search_locations_tool",
+"NixOS.nixos_stats"
+],
+"chosen": "Movie Recommender.get_movies"
+},
+{
+"v": "national_parks_weather_data_000",
+"K": [
+"Weather Data.search_locations_tool",
+"Scientific Computing.divergence",
+"Medical Calculator.has_bled_score",
+"DEX Paprika.getNetworkDexes",
+"Medical Calculator.map_calculator",
+"Medical Calculator.sofa_score",
+"NixOS.nixhub_find_version",
+"Scientific Computing.matrix_inverse",
+"Medical Calculator.chads2_vasc_score",
+"Scientific Computing.svd_decompose",
+"DEX Paprika.getStats",
+"DEX Paprika.getTokenDetails",
+"Scientific Computing.vector_cross_product",
+"Medical Calculator.caprini_score",
+"Medical Calculator.nihss_score",
+"Scientific Computing.find_orthonormal_basis",
+"Medical Calculator.ldl_calculated",
+"Medical Calculator.mdrd_gfr",
+"Hugging Face.get-daily-papers",
+"Hugging Face.get-collection-info"
+],
+"chosen": "Weather Data.search_locations_tool"
+},
+{
+"v": "game_trends_reddit_001",
+"K": [
+"Game Trends.get_steam_top_sellers",
+"Medical Calculator.bmi_calculator",
+"Scientific Computing.multiply_matrices",
+"National Parks.getAlerts",
+"Medical Calculator.ibw_calculator",
+"NASA Data.get_mars_rover_manifest",
+"Scientific Computing.find_orthonormal_basis",
+"Wikipedia.summarize_article_section",
+"NASA Data.get_epic_imagery_by_date",
+"NASA Data.get_solar_flare",
+"National Parks.getEvents",
+"Medical Calculator.caprini_score",
+"Medical Calculator.ldl_calculated",
+"Medical Calculator.child_pugh_score",
+"Scientific Computing.divergence",
+"Medical Calculator.sofa_score",
+"Medical Calculator.ciwa_ar_score",
+"Medical Calculator.stop_bang_score",
+"Paper Search.download_iacr",
+"Paper Search.download_medrxiv"
+],
+"chosen": "Game Trends.get_steam_top_sellers"
+},
+{
+"v": "hugging_face_paper_search_wikipedia_003",
+"K": [
+"Wikipedia.get_links",
+"Hugging Face.get-daily-papers",
+"National Parks.getVisitorCenters",
+"Math MCP.ceiling",
+"OSINT Intelligence.osint_overview",
+"Weather Data.search_locations_tool",
+"Weather Data.get_current_weather_tool",
+"Unit Converter.convert_density"
+],
+"chosen": null
+},
+{
+"v": "hugging_face_001",
+"K": [
+"Hugging Face.get-space-info",
+"National Parks.getEvents",
+"NASA Data.get_solar_flare",
+"Context7.resolve-library-id",
+"Medical Calculator.map_calculator",
+"Medical Calculator.corrected_sodium_katz",
+"Car Price Evaluator.search_car_price",
+"Medical Calculator.crcl_cockcroft_gault",
+"Medical Calculator.mdrd_gfr",
+"Scientific Computing.subtract_matrices",
+"Unit Converter.convert_area",
+"Medical Calculator.homa_ir"
+],
+"chosen": null
+},
+{
+"v": "national_parks_weather_data_000",
+"K": [
+"Medical Calculator.bsa_calculator",
+"Medical Calculator.has_bled_score"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_wikipedia_001",
+"K": [
+"Wikipedia.summarize_article_for_query",
+"Hugging Face.get-model-info"
+],
+"chosen": "Wikipedia.summarize_article_for_query"
+},
+{
+"v": "metropolitan_museum_001",
+"K": [
+"Medical Calculator.gad7_score",
+"Medical Calculator.corrected_sodium",
+"Medical Calculator.qtc_calculator",
+"Medical Calculator.bsa_calculator",
+"Wikipedia.summarize_article_for_query",
+"NASA Data.get_earth_imagery",
+"Movie Recommender.get_movies",
+"Medical Calculator.calculate_mme",
+"Medical Calculator.ariscat_score",
+"OKX Exchange.get_candlesticks",
+"Hugging Face.get-daily-papers",
+"Medical Calculator.gupta_perioperative_mica",
+"NASA Data.get_coronal_mass_ejection",
+"Medical Calculator.fib4_index",
+"Wikipedia.get_related_topics",
+"OSINT Intelligence.whois_lookup",
+"Medical Calculator.free_water_deficit",
+"NASA Data.get_geomagnetic_storm",
+"NASA Data.get_mars_rover_manifest",
+"Hugging Face.get-model-info"
+],
+"chosen": null
+},
+{
+"v": "hugging_face_paper_search_001",
+"K": [
+"Paper Search.search_semantic",
+"Paper Search.search_arxiv",
+"Paper Search.download_iacr"
+],
+"chosen": "Paper Search.search_semantic"
+},
+{
+"v": "osint_intelligence_000",
+"K": [
+"OSINT Intelligence.nmap_scan",
+"OSINT Intelligence.whois_lookup",
+"OSINT Intelligence.osint_overview",
+"Scientific Computing.matrix_inverse",
+"Bibliomantic.i_ching_divination",
+"Scientific Computing.laplacian",
+"Hugging Face.get-space-info",
+"DEX Paprika.getNetworks",
+"Hugging Face.search-datasets",
+"Context7.get-library-docs",
+"Game Trends.get_api_health",
+"Wikipedia.search_wikipedia"
+],
+"chosen": "OSINT Intelligence.osint_overview"
+},
+{
+"v": "paper_search_call_for_papers_wikipedia_002",
+"K": [
+"Call for Papers.get_events",
+"BioMCP.think"
+],
+"chosen": "BioMCP.think"
+},
+{
+"v": "fruityvice_000",
+"K": [
+"FruityVice.get_fruit_nutrition",
+"Medical Calculator.corrected_sodium_hillier",
+"BioMCP.openfda_adverse_getter"
+],
+"chosen": "FruityVice.get_fruit_nutrition"
+},
+{
+"v": "math_mcp_000",
+"K": [
+"Math MCP.division",
+"Math MCP.add",
+"Math MCP.min",
+"BioMCP.search",
+"Bibliomantic.bibliomantic_consultation",
+"Paper Search.download_pubmed",
+"BioMCP.gene_getter",
+"Huge Icons.list_icons",
+"Hugging Face.get-paper-info",
+"BioMCP.drug_getter",
+"Paper Search.read_biorxiv_paper",
+"BioMCP.trial_references_getter",
+"Hugging Face.get-dataset-info",
+"BioMCP.nci_disease_searcher",
+"Paper Search.read_pubmed_paper",
+"BioMCP.trial_protocol_getter",
+"BioMCP.nci_intervention_getter",
+"DEX Paprika.getTokenPools",
+"Hugging Face.get-space-info",
+"Car Price Evaluator.search_car_price"
+],
+"chosen": "Math MCP.add"
+},
+{
+"v": "wikipedia_nasa_data_001",
+"K": [
+"Wikipedia.get_summary",
+"NASA Data.get_geomagnetic_storm",
+"NASA Data.get_epic_imagery",
+"Wikipedia.summarize_article_for_query",
+"Scientific Computing.gradient"
+],
+"chosen": "NASA Data.get_geomagnetic_storm"
+},
+{
+"v": "bibliomantic_000",
+"K": [
+"Bibliomantic.get_hexagram_details",
+"Wikipedia.get_links"
+],
+"chosen": "Bibliomantic.get_hexagram_details"
+},
+{
+"v": "math_mcp_000",
+"K": [
+"Math MCP.mean",
+"Math MCP.subtract",
+"BioMCP.openfda_shortage_getter",
+"Huge Icons.list_icons",
+"Paper Search.read_biorxiv_paper",
+"BioMCP.nci_organization_searcher",
+"BioMCP.openfda_approval_searcher",
+"BioMCP.nci_disease_searcher",
+"Bibliomantic.i_ching_divination",
+"Paper Search.search_semantic",
+"Car Price Evaluator.get_car_brands",
+"BioMCP.disease_getter"
+],
+"chosen": null
+},
+{
+"v": "openapi_explorer_paper_search_hugging_face_001",
+"K": [
+"Hugging Face.search-datasets",
+"NASA Data.get_coronal_mass_ejection",
+"Scientific Computing.qr_decompose",
+"OSINT Intelligence.dnstwist_lookup",
+"Medical Calculator.psi_port_score",
+"Medical Calculator.map_calculator",
+"Medical Calculator.child_pugh_score",
+"NASA Data.get_geomagnetic_storm",
+"Medical Calculator.mdrd_gfr",
+"Scientific Computing.gradient",
+"OSINT Intelligence.host_lookup",
+"OSINT Intelligence.nmap_scan",
+"Medical Calculator.prevent_cvd_risk",
+"Medical Calculator.sepsis_criteria",
+"Movie Recommender.get_movies",
+"OKX Exchange.get_price",
+"Car Price Evaluator.get_car_brands",
+"Scientific Computing.plot_vector_field",
+"Medical Calculator.nihss_score",
+"NASA Data.get_radiation_belt_enhancement"
+],
+"chosen": null
+},
+{
+"v": "medical_calculator_wikipedia_fruityvice_000",
+"K": [
+"BioMCP.openfda_label_getter",
+"National Parks.getVisitorCenters",
+"DEX Paprika.getTokenPools",
+"Scientific Computing.compute_eigen",
+"Scientific Computing.vector_project"
+],
+"chosen": null
+},
+{
+"v": "weather_data_000",
+"K": [
+"Weather Data.search_locations_tool",
+"Wikipedia.get_related_topics",
+"Medical Calculator.pregnancy_calculator"
+],
+"chosen": "Weather Data.search_locations_tool"
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_001",
+"K": [
+"Math MCP.max",
+"NASA Data.get_earth_imagery",
+"Paper Search.search_semantic",
+"Scientific Computing.vector_cross_product",
+"Scientific Computing.rank",
+"Math MCP.ceiling",
+"BioMCP.article_getter",
+"Bibliomantic.bibliomantic_consultation",
+"Medical Calculator.free_water_deficit",
+"DEX Paprika.getPoolTransactions",
+"BioMCP.trial_searcher",
+"Medical Calculator.fractional_excretion_of_sodium"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_unit_converter_000",
+"K": [
+"Unit Converter.convert_mass",
+"Medical Calculator.glasgow_coma_scale",
+"Math MCP.division",
+"BioMCP.nci_disease_searcher",
+"Medical Calculator.psi_port_score",
+"BioMCP.trial_outcomes_getter",
+"Math MCP.min",
+"Math MCP.mean",
+"Wikipedia.get_related_topics",
+"Math MCP.mode",
+"Hugging Face.get-daily-papers",
+"Unit Converter.convert_computer_data",
+"NixOS.nixos_stats",
+"National Parks.getEvents",
+"NASA Data.get_wsa_enlil_simulation",
+"Scientific Computing.divergence",
+"OSINT Intelligence.dnsrecon_lookup",
+"Scientific Computing.plot_function",
+"Medical Calculator.curb65_score",
+"Medical Calculator.duke_activity_status_index"
+],
+"chosen": null
+},
+{
+"v": "okx_exchange_001",
+"K": [
+"OKX Exchange.get_candlesticks",
+"Weather Data.search_locations_tool",
+"Paper Search.download_arxiv"
+],
+"chosen": "OKX Exchange.get_candlesticks"
+},
+{
+"v": "fruityvice_000",
+"K": [
+"FruityVice.get_fruit_nutrition",
+"Context7.resolve-library-id",
+"Game Trends.get_steam_trending_games",
+"Medical Calculator.serum_anion_gap",
+"BioMCP.nci_intervention_searcher",
+"NASA Data.get_epic_dates",
+"NASA Data.get_magnetopause_crossing",
+"Medical Calculator.glasgow_coma_scale"
+],
+"chosen": "FruityVice.get_fruit_nutrition"
+},
+{
+"v": "hugging_face_000",
+"K": [
+"Hugging Face.search-spaces",
+"Hugging Face.search-collections",
+"Hugging Face.search-datasets"
+],
+"chosen": "Hugging Face.search-datasets"
+},
+{
+"v": "google_maps_000",
+"K": [
+"NASA Data.browse_asteroids",
+"NASA Data.get_radiation_belt_enhancement",
+"BioMCP.openfda_shortage_searcher",
+"Scientific Computing.gradient",
+"BioMCP.nci_intervention_getter",
+"Medical Calculator.perc_rule",
+"BioMCP.think",
+"Medical Calculator.curb65_score"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_huge_icons_wikipedia_000",
+"K": [
+"Wikipedia.get_links",
+"Wikipedia.get_sections",
+"Reddit.fetch_reddit_hot_threads",
+"Math MCP.floor",
+"BioMCP.openfda_adverse_getter"
+],
+"chosen": null
+},
+{
+"v": "math_mcp_000",
+"K": [
+"Math MCP.mean",
+"Math MCP.round",
+"DEX Paprika.getTokenDetails",
+"DEX Paprika.search",
+"Hugging Face.get-dataset-info",
+"BioMCP.openfda_approval_searcher",
+"BioMCP.variant_searcher",
+"Huge Icons.list_icons"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_unit_converter_001",
+"K": [
+"NASA Data.get_mars_rover_photos",
+"OSINT Intelligence.dnsrecon_lookup",
+"BioMCP.openfda_label_getter",
+"Medical Calculator.corrected_sodium",
+"BioMCP.openfda_adverse_getter"
+],
+"chosen": null
+},
+{
+"v": "car_price_evaluator_001",
+"K": [
+"Car Price Evaluator.search_car_price",
+"Car Price Evaluator.get_car_brands",
+"National Parks.getParkDetails",
+"Bibliomantic.server_statistics",
+"DEX Paprika.getNetworkPools",
+"BioMCP.openfda_recall_searcher",
+"Wikipedia.get_sections",
+"Hugging Face.get-daily-papers"
+],
+"chosen": "Car Price Evaluator.get_car_brands"
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_000",
+"K": [
+"Medical Calculator.duke_activity_status_index",
+"Bibliomantic.server_error",
+"Medical Calculator.framingham_risk_score",
+"Game Trends.get_epic_trending_games",
+"Hugging Face.search-collections"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_001",
+"K": [
+"BioMCP.variant_getter",
+"Scientific Computing.transpose",
+"NASA Data.get_hight_speed_stream",
+"BioMCP.openfda_device_searcher",
+"NixOS.nixos_info",
+"Unit Converter.convert_length",
+"BioMCP.nci_intervention_getter",
+"DEX Paprika.getNetworkDexes",
+"Hugging Face.get-space-info",
+"Game Trends.get_steam_top_sellers",
+"Paper Search.download_medrxiv",
+"OpenAPI Explorer.getApiOverview",
+"Math MCP.add",
+"NixOS.darwin_search",
+"BioMCP.openfda_recall_getter",
+"Math MCP.mean",
+"NASA Data.get_solar_flare",
+"Math MCP.min",
+"BioMCP.article_searcher",
+"Unit Converter.convert_power"
+],
+"chosen": null
+},
+{
+"v": "call_for_papers_001",
+"K": [
+"Call for Papers.get_events",
+"Medical Calculator.meld_3",
+"DEX Paprika.getDexPools",
+"NixOS.darwin_info",
+"DEX Paprika.search",
+"OpenAPI Explorer.getApiOverview",
+"Scientific Computing.create_tensor",
+"DEX Paprika.getNetworks",
+"NASA Data.get_asteroids_feed",
+"Scientific Computing.multiply_matrices",
+"Medical Calculator.crcl_cockcroft_gault",
+"Medical Calculator.glasgow_coma_scale",
+"Medical Calculator.homa_ir",
+"Paper Search.search_biorxiv",
+"Game Trends.get_steam_most_played",
+"DEX Paprika.getNetworkDexes",
+"OSINT Intelligence.osint_overview",
+"Medical Calculator.bmi_calculator",
+"Medical Calculator.bsa_calculator",
+"Medical Calculator.serum_osmolarity"
+],
+"chosen": "Call for Papers.get_events"
+},
+{
+"v": "unit_converter_001",
+"K": [
+"NASA Data.get_solar_energetic_particle",
+"Medical Calculator.caprini_score",
+"NASA Data.get_coronal_mass_ejection",
+"BioMCP.get_performance_metrics",
+"Huge Icons.search_icons"
+],
+"chosen": null
+},
+{
+"v": "medical_calculator_wikipedia_fruityvice_000",
+"K": [
+"Scientific Computing.divergence",
+"NASA Data.get_hight_speed_stream",
+"BioMCP.openfda_label_searcher",
+"Scientific Computing.subtract_matrices",
+"NASA Data.get_asteroid_lookup",
+"Scientific Computing.vector_cross_product",
+"NASA Data.get_solar_energetic_particle",
+"NASA Data.get_epic_imagery",
+"Scientific Computing.plot_vector_field",
+"BioMCP.search",
+"NASA Data.get_epic_imagery_by_date",
+"Scientific Computing.find_orthonormal_basis",
+"OKX Exchange.get_candlesticks",
+"BioMCP.gene_getter",
+"National Parks.getAlerts",
+"Scientific Computing.plot_function",
+"Scientific Computing.delete_tensor",
+"Scientific Computing.qr_decompose",
+"NASA Data.browse_asteroids",
+"NASA Data.get_wsa_enlil_simulation"
+],
+"chosen": null
+},
+{
+"v": "call_for_papers_001",
+"K": [
+"Call for Papers.get_events",
+"Medical Calculator.corrected_calcium",
+"Unit Converter.convert_mass",
+"Medical Calculator.calculate_mme",
+"Unit Converter.convert_area",
+"Medical Calculator.bp_children",
+"NASA Data.get_magnetopause_crossing",
+"Math MCP.division"
+],
+"chosen": "Call for Papers.get_events"
+},
+{
+"v": "metropolitan_museum_001",
+"K": [
+"Hugging Face.get-collection-info",
+"Wikipedia.get_summary",
+"OSINT Intelligence.osint_overview",
+"Movie Recommender.get_movies",
+"NASA Data.get_magnetopause_crossing"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_000",
+"K": [
+"OSINT Intelligence.osint_overview",
+"Medical Calculator.curb65_score",
+"Unit Converter.convert_batch",
+"Medical Calculator.bmi_bsa_calculator",
+"DEX Paprika.getPoolTransactions",
+"DEX Paprika.getNetworks",
+"Medical Calculator.glasgow_coma_scale",
+"Medical Calculator.bsa_calculator"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_001",
+"K": [
+"Math MCP.subtract",
+"Scientific Computing.directional_deriv",
+"Math MCP.floor"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Game Trends.get_epic_free_games",
+"Reddit.fetch_reddit_hot_threads",
+"Reddit.fetch_reddit_post_content"
+],
+"chosen": "Game Trends.get_epic_free_games"
+},
+{
+"v": "time_mcp_001",
+"K": [
+"Medical Calculator.psi_port_score",
+"NASA Data.get_earth_imagery"
+],
+"chosen": null
+},
+{
+"v": "paper_search_004",
+"K": [
+"Paper Search.read_pubmed_paper",
+"Paper Search.search_pubmed",
+"Paper Search.read_iacr_paper"
+],
+"chosen": "Paper Search.search_pubmed"
+},
+{
+"v": "scientific_computing_unit_converter_000",
+"K": [
+"Unit Converter.convert_temperature",
+"Scientific Computing.laplacian",
+"BioMCP.openfda_label_getter",
+"Scientific Computing.subtract_matrices",
+"Wikipedia.summarize_article_for_query",
+"Medical Calculator.fib4_index",
+"Medical Calculator.caprini_score",
+"BioMCP.trial_searcher"
+],
+"chosen": null
+},
+{
+"v": "wikipedia_nasa_data_000",
+"K": [
+"Wikipedia.get_sections",
+"Medical Calculator.qtc_calculator",
+"NixOS.darwin_stats",
+"Medical Calculator.bmi_calculator",
+"Medical Calculator.curb65_score"
+],
+"chosen": null
+},
+{
+"v": "national_parks_weather_data_000",
+"K": [
+"Weather Data.get_live_temp",
+"BioMCP.nci_organization_getter"
+],
+"chosen": null
+},
+{
+"v": "nixos_001",
+"K": [
+"Game Trends.get_steam_most_played",
+"Wikipedia.get_summary",
+"Scientific Computing.gradient",
+"Hugging Face.get-space-info",
+"OpenAPI Explorer.getApiOverview",
+"Scientific Computing.find_orthonormal_basis",
+"Scientific Computing.svd_decompose",
+"Reddit.fetch_reddit_post_content",
+"Game Trends.get_api_health",
+"Scientific Computing.plot_function",
+"Game Trends.get_all_trending_games",
+"Scientific Computing.rank"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_unit_converter_000",
+"K": [
+"Scientific Computing.scale_matrix",
+"National Parks.getParkDetails",
+"NASA Data.get_exoplanet_data",
+"National Parks.getAlerts",
+"DEX Paprika.getPoolDetails",
+"Bibliomantic.server_error",
+"Bibliomantic.get_hexagram_details",
+"NASA Data.browse_asteroids",
+"National Parks.getEvents",
+"NixOS.home_manager_search",
+"NixOS.nixos_info",
+"National Parks.getVisitorCenters"
+],
+"chosen": null
+},
+{
+"v": "context7_001",
+"K": [
+"Context7.resolve-library-id",
+"Medical Calculator.stop_bang_score",
+"OSINT Intelligence.dnsrecon_lookup",
+"Weather Data.get_live_temp",
+"Reddit.fetch_reddit_hot_threads"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "nixos_context7_000",
+"K": [
+"NixOS.nixos_stats",
+"NixOS.home_manager_list_options",
+"NixOS.home_manager_options_by_prefix",
+"Hugging Face.get-paper-info",
+"Hugging Face.get-model-info",
+"National Parks.getEvents",
+"Car Price Evaluator.get_vehicles_by_type",
+"Car Price Evaluator.get_car_brands",
+"Bibliomantic.server_statistics",
+"Unit Converter.convert_force",
+"Unit Converter.convert_area",
+"Unit Converter.convert_time",
+"Hugging Face.get-dataset-info",
+"NASA Data.get_asteroid_lookup",
+"Hugging Face.get-space-info",
+"NASA Data.get_asteroids_feed",
+"National Parks.getAlerts",
+"Scientific Computing.laplacian",
+"Unit Converter.convert_length",
+"Scientific Computing.svd_decompose"
+],
+"chosen": "NixOS.nixos_stats"
+},
+{
+"v": "unit_converter_001",
+"K": [
+"Unit Converter.convert_mass",
+"Hugging Face.get-space-info"
+],
+"chosen": "Unit Converter.convert_mass"
+},
+{
+"v": "nixos_context7_001",
+"K": [
+"NixOS.home_manager_info",
+"NixOS.darwin_info",
+"NixOS.home_manager_search",
+"Hugging Face.search-collections",
+"Scientific Computing.find_orthonormal_basis",
+"Wikipedia.get_links",
+"BioMCP.openfda_shortage_searcher",
+"BioMCP.nci_organization_searcher"
+],
+"chosen": null
+},
+{
+"v": "time_mcp_000",
+"K": [
+"Medical Calculator.homa_ir",
+"Medical Calculator.has_bled_score"
+],
+"chosen": null
+},
+{
+"v": "nixos_001",
+"K": [
+"NixOS.nixos_info",
+"NixOS.nixhub_package_versions",
+"Hugging Face.get-model-info",
+"Game Trends.get_api_health",
+"Reddit.fetch_reddit_hot_threads",
+"Scientific Computing.find_orthonormal_basis",
+"Wikipedia.get_links",
+"Game Trends.get_all_trending_games"
+],
+"chosen": "NixOS.nixhub_package_versions"
+},
+{
+"v": "nixos_context7_000",
+"K": [
+"Scientific Computing.curl",
+"OSINT Intelligence.whois_lookup",
+"NASA Data.get_mars_rover_photos"
+],
+"chosen": null
+},
+{
+"v": "google_maps_weather_data_000",
+"K": [
+"Weather Data.search_locations_tool",
+"Weather Data.get_weather_forecast_tool",
+"Weather Data.get_current_weather_tool",
+"National Parks.getVisitorCenters",
+"Medical Calculator.corrected_sodium_katz"
+],
+"chosen": "Weather Data.get_current_weather_tool"
+},
+{
+"v": "wikipedia_nasa_data_000",
+"K": [
+"Wikipedia.summarize_article_section",
+"National Parks.getVisitorCenters",
+"BioMCP.openfda_approval_searcher",
+"BioMCP.trial_outcomes_getter",
+"Paper Search.read_pubmed_paper"
+],
+"chosen": null
+},
+{
+"v": "paper_search_call_for_papers_wikipedia_002",
+"K": [
+"Wikipedia.summarize_article_for_query",
+"BioMCP.trial_protocol_getter",
+"NixOS.nixhub_package_versions",
+"NixOS.nixos_info",
+"NixOS.nixos_flakes_search",
+"BioMCP.openfda_recall_searcher",
+"Game Trends.get_all_trending_games",
+"BioMCP.openfda_shortage_getter",
+"BioMCP.openfda_recall_getter",
+"NixOS.darwin_list_options",
+"National Parks.getAlerts",
+"BioMCP.openfda_adverse_searcher",
+"BioMCP.gene_getter",
+"BioMCP.alphagenome_predictor",
+"Bibliomantic.get_hexagram_details",
+"OpenAPI Explorer.getApiOperation",
+"BioMCP.openfda_adverse_getter",
+"NixOS.home_manager_stats",
+"BioMCP.nci_disease_searcher",
+"Weather Data.search_locations_tool"
+],
+"chosen": "Wikipedia.summarize_article_for_query"
+},
+{
+"v": "google_maps_weather_data_000",
+"K": [
+"Weather Data.search_locations_tool",
+"Weather Data.get_weather_forecast_tool",
+"Weather Data.get_current_weather_tool",
+"Medical Calculator.crcl_cockcroft_gault",
+"BioMCP.get_performance_metrics"
+],
+"chosen": "Weather Data.get_weather_forecast_tool"
+},
+{
+"v": "car_price_evaluator_000",
+"K": [
+"Car Price Evaluator.get_vehicles_by_type",
+"Car Price Evaluator.get_car_brands",
+"Medical Calculator.framingham_risk_score",
+"Unit Converter.convert_pressure",
+"Medical Calculator.meld_3",
+"NASA Data.get_magnetopause_crossing",
+"NASA Data.get_exoplanet_data",
+"BioMCP.get_performance_metrics"
+],
+"chosen": "Car Price Evaluator.get_vehicles_by_type"
+},
+{
+"v": "openapi_explorer_000",
+"K": [
+"OpenAPI Explorer.getApiOperation",
+"NASA Data.get_earth_imagery",
+"NASA Data.get_asteroids_feed",
+"National Parks.getCampgrounds",
+"NixOS.darwin_search"
+],
+"chosen": null
+},
+{
+"v": "osint_intelligence_001",
+"K": [
+"OSINT Intelligence.dnstwist_lookup",
+"OSINT Intelligence.dnsrecon_lookup",
+"OSINT Intelligence.dig_lookup",
+"Weather Data.search_locations_tool",
+"Scientific Computing.vector_dot_product"
+],
+"chosen": "OSINT Intelligence.dnsrecon_lookup"
+},
+{
+"v": "wikipedia_nasa_data_001",
+"K": [
+"NASA Data.get_astronomy_picture_of_day",
+"NASA Data.get_exoplanet_data",
+"Wikipedia.summarize_article_section",
+"Paper Search.read_pubmed_paper",
+"Scientific Computing.subtract_matrices",
+"Scientific Computing.multiply_matrices",
+"Scientific Computing.transpose",
+"Scientific Computing.determinant",
+"Context7.get-library-docs",
+"NixOS.nixhub_package_versions",
+"NixOS.nixos_stats",
+"Scientific Computing.laplacian",
+"NixOS.nixos_flakes_search",
+"Paper Search.read_semantic_paper",
+"Context7.resolve-library-id",
+"Scientific Computing.qr_decompose",
+"Scientific Computing.svd_decompose",
+"OKX Exchange.get_candlesticks",
+"Paper Search.search_google_scholar",
+"Scientific Computing.curl"
+],
+"chosen": null
+},
+{
+"v": "nixos_context7_001",
+"K": [
+"NixOS.nixhub_package_versions",
+"Math MCP.min"
+],
+"chosen": "NixOS.nixhub_package_versions"
+},
+{
+"v": "hugging_face_paper_search_wikipedia_003",
+"K": [
+"Wikipedia.get_article",
+"Paper Search.download_iacr",
+"Paper Search.read_arxiv_paper"
+],
+"chosen": "Wikipedia.get_article"
+},
+{
+"v": "nasa_data_google_maps_wikipedia_001",
+"K": [
+"Wikipedia.get_related_topics",
+"NASA Data.get_hight_speed_stream",
+"NASA Data.get_epic_dates",
+"Unit Converter.convert_angle",
+"OpenAPI Explorer.getApiOperation",
+"Unit Converter.convert_power",
+"NixOS.home_manager_options_by_prefix",
+"DEX Paprika.getDexPools",
+"Unit Converter.convert_density",
+"Unit Converter.convert_temperature",
+"OpenAPI Explorer.getApiOverview",
+"NixOS.darwin_info"
+],
+"chosen": "NASA Data.get_epic_dates"
+},
+{
+"v": "openapi_explorer_001",
+"K": [
+"OpenAPI Explorer.getApiOperation",
+"OpenAPI Explorer.getApiOverview",
+"Paper Search.download_iacr",
+"Medical Calculator.wells_pe_criteria",
+"Math MCP.division",
+"Car Price Evaluator.search_car_price",
+"NixOS.nixos_flakes_stats",
+"Unit Converter.convert_mass",
+"Unit Converter.convert_volume",
+"Medical Calculator.serum_anion_gap",
+"Medical Calculator.psi_port_score",
+"Paper Search.read_medrxiv_paper",
+"NixOS.nixos_info",
+"Medical Calculator.homa_ir",
+"Call for Papers.get_events",
+"Medical Calculator.calculate_mme",
+"Paper Search.download_pubmed",
+"Paper Search.search_biorxiv",
+"Unit Converter.convert_length",
+"Paper Search.download_arxiv"
+],
+"chosen": "OpenAPI Explorer.getApiOverview"
+},
+{
+"v": "medical_calculator_000",
+"K": [
+"Medical Calculator.has_bled_score",
+"Medical Calculator.corrected_sodium_hillier",
+"Medical Calculator.abw_calculator"
+],
+"chosen": "Medical Calculator.abw_calculator"
+},
+{
+"v": "reddit_dex_paprika_001",
+"K": [
+"DEX Paprika.getNetworkPools",
+"OSINT Intelligence.host_lookup",
+"Medical Calculator.framingham_risk_score",
+"Medical Calculator.mdrd_gfr",
+"Paper Search.search_iacr",
+"Medical Calculator.corrected_sodium",
+"Scientific Computing.plot_function",
+"FruityVice.get_fruit_nutrition",
+"Medical Calculator.revised_cardiac_risk_index",
+"National Parks.getCampgrounds",
+"Unit Converter.convert_power",
+"Huge Icons.get_platform_usage",
+"Wikipedia.get_related_topics",
+"Medical Calculator.corrected_calcium",
+"NixOS.nixhub_find_version",
+"BioMCP.disease_getter",
+"Game Trends.get_epic_trending_games",
+"NASA Data.get_earth_assets",
+"Medical Calculator.bmi_bsa_calculator",
+"NixOS.nixos_flakes_stats"
+],
+"chosen": "DEX Paprika.getNetworkPools"
+},
+{
+"v": "nixos_001",
+"K": [
+"NixOS.home_manager_info",
+"NixOS.nixos_search",
+"NixOS.nixos_flakes_stats",
+"Game Trends.get_steam_top_sellers",
+"NASA Data.get_geomagnetic_storm",
+"Medical Calculator.sepsis_criteria",
+"BioMCP.openfda_label_searcher",
+"NASA Data.get_radiation_belt_enhancement"
+],
+"chosen": "NixOS.nixos_search"
+},
+{
+"v": "nixos_000",
+"K": [
+"NixOS.darwin_search",
+"NixOS.darwin_options_by_prefix",
+"Car Price Evaluator.get_vehicles_by_type",
+"Movie Recommender.get_movies",
+"National Parks.getEvents"
+],
+"chosen": "NixOS.darwin_search"
+},
+{
+"v": "scientific_computing_000",
+"K": [
+"Scientific Computing.vector_project",
+"Scientific Computing.transpose"
+],
+"chosen": null
+},
+{
+"v": "wikipedia_nasa_data_000",
+"K": [
+"NASA Data.get_astronomy_picture_of_day",
+"Hugging Face.search-models"
+],
+"chosen": null
+},
+{
+"v": "hugging_face_paper_search_002",
+"K": [
+"Medical Calculator.gupta_perioperative_mica",
+"Paper Search.search_google_scholar"
+],
+"chosen": "Paper Search.search_google_scholar"
+},
+{
+"v": "time_mcp_000",
+"K": [
+"Medical Calculator.serum_osmolarity",
+"Paper Search.search_arxiv",
+"Medical Calculator.gad7_score",
+"Unit Converter.convert_temperature",
+"Weather Data.get_weather_forecast_tool"
+],
+"chosen": null
+},
+{
+"v": "math_mcp_001",
+"K": [
+"Math MCP.mode",
+"NASA Data.get_astronomy_picture_of_day",
+"Game Trends.get_steam_most_played",
+"NixOS.home_manager_list_options",
+"Bibliomantic.bibliomantic_consultation",
+"OpenAPI Explorer.getApiOperation",
+"Weather Data.search_locations_tool",
+"Scientific Computing.compute_eigen",
+"BioMCP.trial_searcher",
+"Medical Calculator.chads2_vasc_score",
+"Unit Converter.convert_density",
+"Paper Search.read_pubmed_paper",
+"Medical Calculator.mdrd_gfr",
+"OpenAPI Explorer.getApiOverview",
+"Medical Calculator.ibw_abw_calculator",
+"Medical Calculator.corrected_calcium",
+"Medical Calculator.fractional_excretion_of_sodium",
+"Medical Calculator.centor_score_modified",
+"BioMCP.fetch",
+"National Parks.getParkDetails"
+],
+"chosen": null
+},
+{
+"v": "context7_000",
+"K": [
+"Context7.get-library-docs",
+"Context7.resolve-library-id"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "context7_000",
+"K": [
+"Context7.resolve-library-id",
+"Context7.get-library-docs",
+"BioMCP.openfda_shortage_searcher",
+"Medical Calculator.corrected_calcium",
+"NixOS.nixhub_find_version",
+"NASA Data.get_exoplanet_data",
+"Movie Recommender.get_movies",
+"Game Trends.get_epic_trending_games",
+"Huge Icons.get_platform_usage",
+"Scientific Computing.directional_deriv",
+"NixOS.home_manager_search",
+"BioMCP.trial_outcomes_getter"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "nasa_data_001",
+"K": [
+"BioMCP.nci_disease_searcher",
+"BioMCP.get_performance_metrics",
+"Scientific Computing.plot_function",
+"BioMCP.nci_intervention_searcher",
+"BioMCP.trial_outcomes_getter",
+"BioMCP.trial_getter",
+"Scientific Computing.determinant",
+"Game Trends.get_epic_free_games",
+"Game Trends.get_epic_trending_games",
+"BioMCP.openfda_label_searcher",
+"Context7.resolve-library-id",
+"Scientific Computing.create_tensor",
+"BioMCP.openfda_device_getter",
+"BioMCP.nci_organization_getter",
+"BioMCP.openfda_shortage_getter",
+"Scientific Computing.multiply_matrices",
+"Scientific Computing.curl",
+"Game Trends.get_steam_top_sellers",
+"BioMCP.nci_intervention_getter",
+"BioMCP.trial_references_getter"
+],
+"chosen": null
+},
+{
+"v": "google_maps_000",
+"K": [
+"Medical Calculator.qtc_calculator",
+"BioMCP.nci_organization_searcher",
+"NASA Data.get_radiation_belt_enhancement",
+"BioMCP.trial_references_getter",
+"Scientific Computing.gradient",
+"Medical Calculator.ciwa_ar_score",
+"NASA Data.get_notifications",
+"Medical Calculator.pregnancy_calculator"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Game Trends.get_steam_trending_games",
+"Reddit.fetch_reddit_post_content",
+"Wikipedia.get_links",
+"Unit Converter.convert_time",
+"Weather Data.search_locations_tool",
+"BioMCP.think",
+"Paper Search.search_biorxiv",
+"Game Trends.get_epic_trending_games",
+"Medical Calculator.egfr_epi_cr_cys",
+"Bibliomantic.server_statistics",
+"Scientific Computing.plot_function",
+"BioMCP.trial_protocol_getter"
+],
+"chosen": "Game Trends.get_steam_trending_games"
+},
+{
+"v": "dex_paprika_001",
+"K": [
+"DEX Paprika.getPoolDetails",
+"DEX Paprika.getPoolOHLCV",
+"Unit Converter.convert_volume",
+"Unit Converter.convert_speed",
+"OpenAPI Explorer.getApiOverview"
+],
+"chosen": "OpenAPI Explorer.getApiOverview"
+},
+{
+"v": "fruityvice_000",
+"K": [
+"NixOS.darwin_stats",
+"Unit Converter.convert_speed",
+"Paper Search.download_iacr",
+"Scientific Computing.plot_function",
+"Medical Calculator.heart_score",
+"BioMCP.alphagenome_predictor",
+"Medical Calculator.calculate_mme",
+"Movie Recommender.get_movies"
+],
+"chosen": null
+},
+{
+"v": "context7_000",
+"K": [
+"Context7.resolve-library-id",
+"Context7.get-library-docs",
+"NASA Data.get_mars_rover_manifest",
+"Unit Converter.convert_area",
+"Call for Papers.get_events"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "biomcp_000",
+"K": [
+"BioMCP.search",
+"NixOS.home_manager_search",
+"NixOS.darwin_search",
+"Scientific Computing.curl",
+"BioMCP.trial_references_getter"
+],
+"chosen": "BioMCP.search"
+},
+{
+"v": "nixos_001",
+"K": [
+"Scientific Computing.divergence",
+"Scientific Computing.transpose",
+"Wikipedia.get_related_topics",
+"Scientific Computing.view_tensor",
+"Hugging Face.search-collections",
+"DEX Paprika.getNetworkDexes",
+"Scientific Computing.delete_tensor",
+"Scientific Computing.directional_deriv",
+"Scientific Computing.vector_project",
+"Scientific Computing.plot_function",
+"DEX Paprika.getTokenDetails",
+"Wikipedia.extract_key_facts"
+],
+"chosen": null
+},
+{
+"v": "huge_icons_001",
+"K": [
+"Medical Calculator.heart_score",
+"Medical Calculator.egfr_epi",
+"Medical Calculator.glasgow_coma_scale",
+"Medical Calculator.serum_osmolarity",
+"DEX Paprika.getTokenDetails",
+"Medical Calculator.perc_rule",
+"Medical Calculator.sofa_score",
+"Math MCP.division"
+],
+"chosen": null
+},
+{
+"v": "wikipedia_000",
+"K": [
+"BioMCP.nci_biomarker_searcher",
+"Unit Converter.convert_speed",
+"Scientific Computing.vector_project"
+],
+"chosen": null
+},
+{
+"v": "math_mcp_001",
+"K": [
+"Math MCP.subtract",
+"Math MCP.floor",
+"Math MCP.round",
+"Unit Converter.convert_batch",
+"OSINT Intelligence.dnsrecon_lookup"
+],
+"chosen": null
+},
+{
+"v": "paper_search_biomcp_000",
+"K": [
+"NixOS.home_manager_options_by_prefix",
+"NixOS.home_manager_list_options",
+"Medical Calculator.homa_ir",
+"Math MCP.ceiling",
+"NixOS.home_manager_info",
+"Math MCP.multiply",
+"Math MCP.sum",
+"Medical Calculator.mdrd_gfr",
+"Medical Calculator.qtc_calculator",
+"Medical Calculator.ciwa_ar_score",
+"Medical Calculator.abw_calculator",
+"Unit Converter.convert_power"
+],
+"chosen": null
+},
+{
+"v": "bibliomantic_000",
+"K": [
+"Bibliomantic.server_error",
+"Bibliomantic.get_hexagram_details",
+"Bibliomantic.server_statistics"
+],
+"chosen": "Bibliomantic.server_statistics"
+},
+{
+"v": "wikipedia_001",
+"K": [
+"Wikipedia.get_related_topics",
+"Wikipedia.summarize_article_for_query",
+"Wikipedia.get_links",
+"BioMCP.trial_locations_getter",
+"BioMCP.alphagenome_predictor"
+],
+"chosen": "Wikipedia.summarize_article_for_query"
+},
+{
+"v": "wikipedia_paper_search_003",
+"K": [
+"Paper Search.search_biorxiv",
+"Paper Search.download_pubmed",
+"OpenAPI Explorer.getApiOperation",
+"Context7.resolve-library-id",
+"Bibliomantic.i_ching_divination",
+"Hugging Face.get-model-info",
+"Bibliomantic.server_statistics",
+"DEX Paprika.search",
+"Bibliomantic.server_error",
+"OpenAPI Explorer.getApiOverview",
+"Hugging Face.search-datasets",
+"National Parks.getParkDetails"
+],
+"chosen": "Paper Search.search_biorxiv"
+},
+{
+"v": "national_parks_weather_data_001",
+"K": [
+"National Parks.getParkDetails",
+"Weather Data.get_current_weather_tool",
+"Weather Data.get_weather_forecast_tool",
+"Unit Converter.convert_speed",
+"Scientific Computing.curl"
+],
+"chosen": "National Parks.getParkDetails"
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_000",
+"K": [
+"Medical Calculator.egfr_epi",
+"NixOS.darwin_search",
+"Scientific Computing.matrix_inverse",
+"Paper Search.search_medrxiv",
+"DEX Paprika.getNetworkPools",
+"Hugging Face.get-collection-info",
+"NixOS.nixos_stats",
+"Wikipedia.extract_key_facts"
+],
+"chosen": "Paper Search.search_medrxiv"
+},
+{
+"v": "wikipedia_001",
+"K": [
+"Wikipedia.summarize_article_section",
+"Wikipedia.extract_key_facts"
+],
+"chosen": "Wikipedia.extract_key_facts"
+},
+{
+"v": "bibliomantic_001",
+"K": [
+"NixOS.home_manager_list_options",
+"Scientific Computing.qr_decompose",
+"Scientific Computing.divergence"
+],
+"chosen": null
+},
+{
+"v": "weather_data_000",
+"K": [
+"Weather Data.get_current_weather_tool",
+"Weather Data.get_weather_forecast_tool",
+"Weather Data.search_locations_tool",
+"BioMCP.trial_getter",
+"BioMCP.article_getter",
+"Medical Calculator.mdrd_gfr",
+"OSINT Intelligence.nmap_scan",
+"Math MCP.division"
+],
+"chosen": "Weather Data.search_locations_tool"
+},
+{
+"v": "osint_intelligence_001",
+"K": [
+"OSINT Intelligence.osint_overview",
+"Scientific Computing.compute_eigen",
+"Scientific Computing.directional_deriv"
+],
+"chosen": "OSINT Intelligence.osint_overview"
+},
+{
+"v": "unit_converter_math_mcp_001",
+"K": [
+"Unit Converter.convert_energy",
+"Unit Converter.convert_speed",
+"Math MCP.division",
+"Medical Calculator.crcl_cockcroft_gault",
+"BioMCP.openfda_label_searcher",
+"NASA Data.get_geomagnetic_storm",
+"NixOS.home_manager_options_by_prefix",
+"Hugging Face.search-models",
+"OKX Exchange.get_candlesticks",
+"Bibliomantic.i_ching_divination",
+"Paper Search.download_medrxiv",
+"Math MCP.mode"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Game Trends.get_all_trending_games",
+"Game Trends.get_epic_trending_games",
+"Game Trends.get_steam_top_sellers",
+"Context7.get-library-docs",
+"Paper Search.read_pubmed_paper",
+"Paper Search.download_arxiv",
+"Paper Search.download_medrxiv",
+"Medical Calculator.revised_cardiac_risk_index",
+"NixOS.nixhub_package_versions",
+"Medical Calculator.framingham_risk_score",
+"NixOS.darwin_list_options",
+"Medical Calculator.crcl_cockcroft_gault"
+],
+"chosen": "Game Trends.get_steam_top_sellers"
+},
+{
+"v": "wikipedia_paper_search_001",
+"K": [
+"Unit Converter.convert_time",
+"Unit Converter.convert_temperature",
+"Weather Data.get_current_weather_tool",
+"Bibliomantic.server_error",
+"NixOS.home_manager_info"
+],
+"chosen": null
+},
+{
+"v": "movie_recommender_001",
+"K": [
+"Movie Recommender.get_movies",
+"NixOS.home_manager_search",
+"BioMCP.trial_searcher",
+"Weather Data.get_current_weather_tool",
+"Wikipedia.get_sections",
+"BioMCP.article_searcher",
+"BioMCP.openfda_recall_searcher",
+"Wikipedia.get_links"
+],
+"chosen": "Movie Recommender.get_movies"
+},
+{
+"v": "google_maps_weather_data_001",
+"K": [
+"Weather Data.get_live_temp",
+"Weather Data.get_current_weather_tool",
+"Weather Data.search_locations_tool",
+"Unit Converter.convert_area",
+"BioMCP.trial_outcomes_getter",
+"Medical Calculator.maintenance_fluids",
+"NixOS.nixos_stats",
+"Paper Search.download_semantic",
+"NASA Data.get_asteroids_feed",
+"Paper Search.download_pubmed",
+"Math MCP.subtract",
+"Scientific Computing.directional_deriv"
+],
+"chosen": "Weather Data.get_current_weather_tool"
+},
+{
+"v": "metropolitan_museum_001",
+"K": [
+"Medical Calculator.caprini_score",
+"Medical Calculator.corrected_sodium"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_001",
+"K": [
+"Game Trends.get_steam_trending_games",
+"Reddit.fetch_reddit_post_content",
+"Reddit.fetch_reddit_hot_threads",
+"Scientific Computing.change_basis",
+"Medical Calculator.fib4_index"
+],
+"chosen": "Game Trends.get_steam_trending_games"
+},
+{
+"v": "movie_recommender_000",
+"K": [
+"Movie Recommender.get_movies",
+"Medical Calculator.child_pugh_score",
+"Medical Calculator.framingham_risk_score",
+"Medical Calculator.corrected_sodium",
+"Hugging Face.get-collection-info",
+"NASA Data.get_mars_rover_manifest",
+"Medical Calculator.sofa_score",
+"Medical Calculator.sepsis_criteria",
+"Medical Calculator.caprini_score",
+"Medical Calculator.heart_score",
+"NASA Data.get_solar_flare",
+"Paper Search.read_iacr_paper",
+"NASA Data.browse_asteroids",
+"NixOS.nixhub_find_version",
+"Paper Search.search_arxiv",
+"DEX Paprika.getNetworkDexes",
+"Medical Calculator.revised_cardiac_risk_index",
+"NixOS.darwin_info",
+"NASA Data.get_mars_rover_photos",
+"Medical Calculator.bsa_calculator"
+],
+"chosen": "Movie Recommender.get_movies"
+},
+{
+"v": "bibliomantic_000",
+"K": [
+"NASA Data.get_epic_imagery_by_date",
+"Paper Search.search_google_scholar",
+"NixOS.darwin_stats",
+"Medical Calculator.serum_anion_gap",
+"Medical Calculator.ciwa_ar_score",
+"NASA Data.get_astronomy_picture_of_day",
+"Medical Calculator.mdrd_gfr",
+"Medical Calculator.steroid_conversion"
+],
+"chosen": null
+},
+{
+"v": "reddit_dex_paprika_001",
+"K": [
+"DEX Paprika.getNetworks",
+"DEX Paprika.getPoolOHLCV",
+"DEX Paprika.getNetworkDexes",
+"Medical Calculator.egfr_epi_cr_cys",
+"Medical Calculator.corrected_calcium",
+"Medical Calculator.steroid_conversion",
+"Medical Calculator.ibw_calculator",
+"Math MCP.multiply",
+"Medical Calculator.stop_bang_score",
+"Medical Calculator.corrected_sodium_hillier",
+"Medical Calculator.egfr_epi",
+"Medical Calculator.revised_cardiac_risk_index",
+"Huge Icons.search_icons",
+"NixOS.nixhub_package_versions",
+"NixOS.nixos_flakes_stats",
+"OpenAPI Explorer.getApiOverview",
+"Medical Calculator.meld_3",
+"Huge Icons.get_platform_usage",
+"Medical Calculator.phq9_score",
+"Medical Calculator.bmi_bsa_calculator"
+],
+"chosen": "DEX Paprika.getNetworks"
+},
+{
+"v": "okx_exchange_001",
+"K": [
+"OKX Exchange.get_candlesticks",
+"DEX Paprika.getPoolTransactions",
+"Unit Converter.convert_computer_data",
+"Unit Converter.convert_batch",
+"Paper Search.read_semantic_paper",
+"DEX Paprika.getNetworkPools",
+"Medical Calculator.calculate_mme",
+"NASA Data.get_magnetopause_crossing"
+],
+"chosen": "OKX Exchange.get_candlesticks"
+},
+{
+"v": "metropolitan_museum_001",
+"K": [
+"Medical Calculator.qtc_calculator",
+"Medical Calculator.bmi_bsa_calculator",
+"Medical Calculator.phq9_score",
+"Medical Calculator.stop_bang_score",
+"NASA Data.get_solar_flare",
+"Wikipedia.get_summary",
+"Wikipedia.summarize_article_for_query",
+"NASA Data.get_exoplanet_data"
+],
+"chosen": null
+},
+{
+"v": "unit_converter_000",
+"K": [
+"Unit Converter.convert_area",
+"Medical Calculator.homa_ir",
+"OpenAPI Explorer.getApiOperation",
+"OpenAPI Explorer.getApiOverview",
+"Scientific Computing.scale_matrix",
+"Paper Search.search_pubmed",
+"Medical Calculator.sepsis_criteria",
+"Medical Calculator.mdrd_gfr",
+"Game Trends.get_steam_trending_games",
+"Scientific Computing.determinant",
+"Game Trends.get_steam_top_sellers",
+"Scientific Computing.divergence",
+"Paper Search.read_arxiv_paper",
+"Medical Calculator.stop_bang_score",
+"Scientific Computing.multiply_matrices",
+"Game Trends.get_epic_free_games",
+"Scientific Computing.plot_function",
+"Medical Calculator.abw_calculator",
+"Scientific Computing.laplacian",
+"Scientific Computing.vector_project"
+],
+"chosen": "Unit Converter.convert_area"
+},
+{
+"v": "google_maps_001",
+"K": [
+"BioMCP.openfda_approval_searcher",
+"NASA Data.get_coronal_mass_ejection"
+],
+"chosen": null
+},
+{
+"v": "context7_000",
+"K": [
+"Context7.get-library-docs",
+"Context7.resolve-library-id",
+"BioMCP.variant_getter",
+"Medical Calculator.stop_bang_score",
+"Paper Search.search_biorxiv",
+"Medical Calculator.ibw_abw_calculator",
+"Scientific Computing.determinant",
+"Wikipedia.summarize_article_for_query",
+"Medical Calculator.crcl_cockcroft_gault",
+"BioMCP.nci_organization_searcher",
+"Bibliomantic.server_error",
+"NixOS.home_manager_stats"
+],
+"chosen": "Context7.resolve-library-id"
+},
+{
+"v": "movie_recommender_000",
+"K": [
+"Movie Recommender.get_movies",
+"NixOS.home_manager_options_by_prefix"
+],
+"chosen": "Movie Recommender.get_movies"
+},
+{
+"v": "nixos_context7_000",
+"K": [
+"NixOS.home_manager_stats",
+"NixOS.nixos_flakes_search",
+"Math MCP.median",
+"Medical Calculator.map_calculator",
+"Wikipedia.get_sections",
+"Context7.resolve-library-id",
+"Medical Calculator.bsa_calculator",
+"Math MCP.floor",
+"Medical Calculator.sofa_score",
+"Medical Calculator.ariscat_score",
+"BioMCP.openfda_recall_getter",
+"Paper Search.read_biorxiv_paper"
+],
+"chosen": "NixOS.nixos_flakes_search"
+},
+{
+"v": "okx_exchange_000",
+"K": [
+"OKX Exchange.get_price",
+"OKX Exchange.get_candlesticks",
+"Medical Calculator.free_water_deficit",
+"Wikipedia.summarize_article_section",
+"Medical Calculator.corrected_calcium",
+"Scientific Computing.plot_vector_field",
+"Scientific Computing.plot_function",
+"Scientific Computing.laplacian",
+"Hugging Face.get-space-info",
+"Medical Calculator.bmi_calculator",
+"Context7.get-library-docs",
+"National Parks.getVisitorCenters"
+],
+"chosen": "OKX Exchange.get_candlesticks"
+},
+{
+"v": "car_price_evaluator_000",
+"K": [
+"Car Price Evaluator.get_vehicles_by_type",
+"Car Price Evaluator.search_car_price",
+"Car Price Evaluator.get_car_brands",
+"Weather Data.get_live_temp",
+"BioMCP.nci_intervention_getter",
+"DEX Paprika.getTokenPools",
+"Medical Calculator.stop_bang_score",
+"Medical Calculator.glasgow_coma_scale"
+],
+"chosen": "Car Price Evaluator.get_vehicles_by_type"
+},
+{
+"v": "nasa_data_000",
+"K": [
+"Paper Search.search_iacr",
+"Medical Calculator.prevent_cvd_risk",
+"Scientific Computing.directional_deriv",
+"Bibliomantic.server_statistics",
+"Medical Calculator.map_calculator"
+],
+"chosen": null
+},
+{
+"v": "medical_calculator_001",
+"K": [
+"Medical Calculator.gad7_score",
+"Medical Calculator.egfr_epi",
+"Medical Calculator.serum_anion_gap",
+"BioMCP.think",
+"Scientific Computing.vector_dot_product"
+],
+"chosen": "Medical Calculator.egfr_epi"
+},
+{
+"v": "openapi_explorer_paper_search_hugging_face_001",
+"K": [
+"Paper Search.download_iacr",
+"Paper Search.download_medrxiv",
+"Paper Search.read_arxiv_paper"
+],
+"chosen": null
+},
+{
+"v": "google_maps_national_parks_000",
+"K": [
+"Paper Search.download_iacr",
+"BioMCP.openfda_recall_getter",
+"NixOS.home_manager_info",
+"NixOS.home_manager_stats",
+"NixOS.nixhub_find_version",
+"Paper Search.download_semantic",
+"BioMCP.nci_organization_searcher",
+"Paper Search.search_biorxiv"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_000",
+"K": [
+"Scientific Computing.multiply_matrices",
+"Scientific Computing.divergence",
+"Math MCP.ceiling",
+"Hugging Face.get-dataset-info",
+"Math MCP.mode",
+"Scientific Computing.rank",
+"Math MCP.division",
+"National Parks.getCampgrounds",
+"NixOS.nixos_flakes_stats",
+"Math MCP.min",
+"Bibliomantic.server_statistics",
+"Game Trends.get_all_trending_games"
+],
+"chosen": null
+},
+{
+"v": "osint_intelligence_000",
+"K": [
+"OSINT Intelligence.dig_lookup",
+"Scientific Computing.change_basis",
+"National Parks.getCampgrounds",
+"DEX Paprika.getPoolOHLCV",
+"DEX Paprika.getPoolTransactions",
+"Scientific Computing.plot_vector_field",
+"Bibliomantic.bibliomantic_consultation",
+"Game Trends.get_epic_free_games",
+"Bibliomantic.get_hexagram_details",
+"Context7.get-library-docs",
+"Scientific Computing.vector_project",
+"Scientific Computing.plot_function"
+],
+"chosen": "OSINT Intelligence.dig_lookup"
+},
+{
+"v": "metropolitan_museum_000",
+"K": [
+"Wikipedia.extract_key_facts",
+"Car Price Evaluator.get_vehicles_by_type",
+"Medical Calculator.corrected_sodium_hillier",
+"Medical Calculator.phq9_score",
+"Medical Calculator.fractional_excretion_of_sodium",
+"Medical Calculator.ciwa_ar_score",
+"Medical Calculator.bmi_bsa_calculator",
+"Wikipedia.get_links",
+"DEX Paprika.getPoolTransactions",
+"Medical Calculator.revised_cardiac_risk_index",
+"Unit Converter.convert_mass",
+"Medical Calculator.corrected_calcium",
+"Unit Converter.convert_batch",
+"Medical Calculator.gupta_perioperative_mica",
+"Unit Converter.convert_power",
+"Medical Calculator.ibw_abw_calculator",
+"DEX Paprika.getPoolDetails",
+"Car Price Evaluator.get_car_brands",
+"Medical Calculator.homa_ir",
+"Medical Calculator.child_pugh_score"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_001",
+"K": [
+"OKX Exchange.get_price",
+"Medical Calculator.ldl_calculated"
+],
+"chosen": null
+},
+{
+"v": "scientific_computing_unit_converter_001",
+"K": [
+"Scientific Computing.rank",
+"Unit Converter.convert_energy",
+"Scientific Computing.divergence"
+],
+"chosen": "Unit Converter.convert_energy"
+},
+{
+"v": "hugging_face_paper_search_wikipedia_001",
+"K": [
+"Paper Search.download_arxiv",
+"BioMCP.openfda_adverse_getter"
+],
+"chosen": null
+},
+{
+"v": "dex_paprika_001",
+"K": [
+"Wikipedia.get_links",
+"OSINT Intelligence.dig_lookup"
+],
+"chosen": null
+},
+{
+"v": "osint_intelligence_001",
+"K": [
+"Game Trends.get_api_health",
+"Game Trends.get_all_trending_games",
+"Game Trends.get_epic_trending_games",
+"Wikipedia.get_sections",
+"Scientific Computing.rank",
+"Scientific Computing.delete_tensor",
+"Scientific Computing.compute_eigen",
+"Weather Data.get_live_temp",
+"Wikipedia.get_summary",
+"Scientific Computing.view_tensor",
+"Scientific Computing.divergence",
+"Scientific Computing.multiply_matrices"
+],
+"chosen": null
+},
+{
+"v": "openapi_explorer_001",
+"K": [
+"OpenAPI Explorer.getApiOverview",
+"Medical Calculator.sofa_score",
+"Medical Calculator.caprini_score",
+"Medical Calculator.map_calculator",
+"Medical Calculator.nihss_score",
+"Car Price Evaluator.get_car_brands",
+"Medical Calculator.phq9_score",
+"Unit Converter.convert_power",
+"Medical Calculator.maintenance_fluids",
+"Medical Calculator.chads2_vasc_score",
+"Unit Converter.convert_length",
+"Unit Converter.list_supported_units"
+],
+"chosen": "OpenAPI Explorer.getApiOverview"
+},
+{
+"v": "scientific_computing_math_mcp_000",
+"K": [
+"Scientific Computing.svd_decompose",
+"Scientific Computing.plot_function",
+"NASA Data.get_geomagnetic_storm",
+"Wikipedia.get_links",
+"Hugging Face.get-collection-info"
+],
+"chosen": null
+},
+{
+"v": "game_trends_000",
+"K": [
+"Paper Search.search_semantic",
+"Unit Converter.convert_temperature"
+],
+"chosen": null
+},
+{
+"v": "game_trends_000",
+"K": [
+"Game Trends.get_steam_top_sellers",
+"Game Trends.get_epic_free_games"
+],
+"chosen": "Game Trends.get_steam_top_sellers"
+},
+{
+"v": "scientific_computing_biomcp_math_mcp_001",
+"K": [
+"Scientific Computing.curl",
+"DEX Paprika.search"
+],
+"chosen": null
+},
+{
+"v": "unit_converter_math_mcp_001",
+"K": [
+"Unit Converter.convert_pressure",
+"Movie Recommender.get_movies",
+"Paper Search.read_medrxiv_paper"
+],
+"chosen": null
+},
+{
+"v": "hugging_face_paper_search_wikipedia_001",
+"K": [
+"Paper Search.download_pubmed",
+"Scientific Computing.find_orthonormal_basis",
+"DEX Paprika.search",
+"DEX Paprika.getNetworks",
+"BioMCP.nci_biomarker_searcher"
+],
+"chosen": null
+},
+{
+"v": "medical_calculator_fruityvice_biomcp_000",
+"K": [
+"Paper Search.search_arxiv",
+"Scientific Computing.transpose",
+"NixOS.nixos_channels",
+"Game Trends.get_steam_trending_games",
+"Math MCP.division",
+"Bibliomantic.server_statistics",
+"National Parks.getEvents",
+"Wikipedia.get_sections",
+"Medical Calculator.ciwa_ar_score",
+"Unit Converter.convert_power",
+"Medical Calculator.child_pugh_score",
+"NixOS.nixos_search"
+],
+"chosen": null
+},
+{
+"v": "wikipedia_paper_search_003",
+"K": [
+"Paper Search.search_semantic",
+"Game Trends.get_api_health"
+],
+"chosen": "Paper Search.search_semantic"
+},
+{
+"v": "google_maps_weather_data_001",
+"K": [
+"Weather Data.search_locations_tool",
+"Weather Data.get_current_weather_tool",
+"Paper Search.download_arxiv"
+],
+"chosen": "Weather Data.get_current_weather_tool"
+},
+{
+"v": "scientific_computing_unit_converter_001",
+"K": [
+"Scientific Computing.vector_project",
+"Unit Converter.list_supported_units",
+"Scientific Computing.delete_tensor",
+"Huge Icons.list_icons",
+"Medical Calculator.framingham_risk_score",
+"Medical Calculator.corrected_sodium_katz",
+"Wikipedia.get_sections",
+"BioMCP.trial_outcomes_getter",
+"Medical Calculator.fib4_index",
+"OSINT Intelligence.osint_overview",
+"NixOS.darwin_list_options",
+"BioMCP.openfda_shortage_searcher",
+"Paper Search.read_biorxiv_paper",
+"Hugging Face.get-space-info",
+"NixOS.nixos_stats",
+"Math MCP.division",
+"Unit Converter.convert_temperature",
+"BioMCP.article_getter",
+"Medical Calculator.abw_calculator",
+"BioMCP.openfda_device_getter"
+],
+"chosen": "Unit Converter.convert_temperature"
+},
+{
+"v": "nixos_000",
+"K": [
+"NixOS.nixos_stats",
+"DEX Paprika.getNetworks",
+"BioMCP.nci_intervention_getter",
+"Unit Converter.convert_force",
+"BioMCP.gene_getter",
+"Medical Calculator.bmi_calculator",
+"Medical Calculator.calculate_mme",
+"NixOS.darwin_stats"
+],
+"chosen": "NixOS.nixos_stats"
+},
+{
+"v": "dex_paprika_000",
+"K": [
+"DEX Paprika.getDexPools",
+"DEX Paprika.getNetworkPools",
+"DEX Paprika.getPoolOHLCV",
+"BioMCP.nci_organization_getter",
+"Medical Calculator.glasgow_coma_scale",
+"NixOS.home_manager_search",
+"DEX Paprika.getNetworks",
+"Medical Calculator.free_water_deficit",
+"Scientific Computing.subtract_matrices",
+"National Parks.getAlerts",
+"Medical Calculator.perc_rule",
+"Hugging Face.get-model-info",
+"Math MCP.add",
+"Paper Search.search_google_scholar",
+"NASA Data.get_magnetopause_crossing",
+"Unit Converter.convert_volume",
+"BioMCP.nci_intervention_getter",
+"BioMCP.openfda_shortage_getter",
+"Medical Calculator.bmi_bsa_calculator",
+"Medical Calculator.phq9_score"
+],
+"chosen": "DEX Paprika.getNetworks"
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Reddit.fetch_reddit_post_content",
+"Game Trends.get_all_trending_games",
+"Game Trends.get_steam_trending_games",
+"BioMCP.openfda_recall_searcher",
+"DEX Paprika.getTokenPools",
+"NixOS.home_manager_search",
+"Huge Icons.search_icons",
+"Game Trends.get_api_health"
+],
+"chosen": "Game Trends.get_all_trending_games"
+},
+{
+"v": "national_parks_weather_data_000",
+"K": [
+"National Parks.getCampgrounds",
+"Medical Calculator.framingham_risk_score",
+"Scientific Computing.plot_function",
+"Scientific Computing.divergence",
+"Reddit.fetch_reddit_hot_threads"
+],
+"chosen": "National Parks.getCampgrounds"
+},
+{
+"v": "national_parks_weather_data_001",
+"K": [
+"DEX Paprika.getTokenPools",
+"Paper Search.download_semantic",
+"Reddit.fetch_reddit_hot_threads",
+"DEX Paprika.getTokenDetails",
+"OSINT Intelligence.dnstwist_lookup",
+"OSINT Intelligence.nmap_scan",
+"NixOS.darwin_options_by_prefix",
+"Paper Search.download_medrxiv"
+],
+"chosen": null
+},
+{
+"v": "paper_search_biomcp_001",
+"K": [
+"OSINT Intelligence.osint_overview",
+"OSINT Intelligence.dnstwist_lookup",
+"DEX Paprika.search",
+"OSINT Intelligence.whois_lookup",
+"Wikipedia.get_links",
+"Weather Data.search_locations_tool",
+"Math MCP.floor",
+"OKX Exchange.get_candlesticks",
+"Medical Calculator.steroid_conversion",
+"Medical Calculator.serum_anion_gap",
+"Weather Data.get_current_weather_tool",
+"Medical Calculator.fractional_excretion_of_sodium",
+"Medical Calculator.ciwa_ar_score",
+"Medical Calculator.gupta_perioperative_mica",
+"Medical Calculator.wells_pe_criteria",
+"DEX Paprika.getPoolOHLCV",
+"Medical Calculator.duke_activity_status_index",
+"DEX Paprika.getNetworkPools",
+"Medical Calculator.sepsis_criteria",
+"Medical Calculator.corrected_calcium"
+],
+"chosen": null
+},
+{
+"v": "car_price_evaluator_001",
+"K": [
+"Car Price Evaluator.get_car_brands",
+"Car Price Evaluator.get_vehicles_by_type",
+"Car Price Evaluator.search_car_price"
+],
+"chosen": "Car Price Evaluator.get_car_brands"
+},
+{
+"v": "game_trends_001",
+"K": [
+"Game Trends.get_steam_top_sellers",
+"Game Trends.get_epic_free_games",
+"Medical Calculator.ibw_abw_calculator"
+],
+"chosen": "Game Trends.get_steam_top_sellers"
+},
+{
+"v": "google_maps_weather_data_national_parks_000",
+"K": [
+"Weather Data.get_current_weather_tool",
+"Weather Data.get_live_temp",
+"Car Price Evaluator.get_car_brands",
+"BioMCP.article_getter",
+"Paper Search.read_medrxiv_paper",
+"Medical Calculator.wells_pe_criteria",
+"Unit Converter.convert_speed",
+"DEX Paprika.getTokenPools",
+"Medical Calculator.bmi_calculator",
+"DEX Paprika.getNetworkPools",
+"Game Trends.get_all_trending_games",
+"BioMCP.disease_getter",
+"Scientific Computing.rank",
+"Huge Icons.search_icons",
+"Math MCP.add",
+"NixOS.darwin_info",
+"Paper Search.download_iacr",
+"NixOS.home_manager_info",
+"Context7.get-library-docs",
+"NixOS.home_manager_list_options"
+],
+"chosen": "Weather Data.get_current_weather_tool"
+},
+{
+"v": "movie_recommender_001",
+"K": [
+"Hugging Face.get-model-info",
+"Scientific Computing.delete_tensor",
+"Unit Converter.convert_force",
+"Huge Icons.search_icons",
+"Hugging Face.search-collections",
+"Wikipedia.get_links",
+"NASA Data.get_wsa_enlil_simulation",
+"Unit Converter.convert_volume"
+],
+"chosen": null
+},
+{
+"v": "reddit_001",
+"K": [
+"NixOS.home_manager_options_by_prefix",
+"Paper Search.download_biorxiv"
+],
+"chosen": null
+},
+{
+"v": "metropolitan_museum_000",
+"K": [
+"Weather Data.get_weather_forecast_tool",
+"Context7.resolve-library-id"
+],
+"chosen": null
+},
+{
+"v": "math_mcp_000",
+"K": [
+"Math MCP.add",
+"Math MCP.min",
+"Huge Icons.list_icons",
+"BioMCP.trial_outcomes_getter",
+"BioMCP.openfda_recall_searcher",
+"BioMCP.nci_organization_searcher",
+"Paper Search.search_semantic",
+"BioMCP.think"
+],
+"chosen": null
+},
+{
+"v": "biomcp_001",
+"K": [
+"Paper Search.download_arxiv",
+"Paper Search.search_biorxiv",
+"Paper Search.download_biorxiv",
+"Call for Papers.get_events",
+"Paper Search.search_arxiv",
+"Paper Search.search_iacr",
+"Paper Search.download_pubmed",
+"National Parks.findParks"
+],
+"chosen": "Paper Search.search_biorxiv"
+},
+{
+"v": "openapi_explorer_001",
+"K": [
+"Bibliomantic.get_hexagram_details",
+"Math MCP.subtract",
+"Scientific Computing.plot_vector_field",
+"Scientific Computing.change_basis",
+"Wikipedia.summarize_article_for_query"
+],
+"chosen": null
+},
+{
+"v": "game_trends_reddit_000",
+"K": [
+"Game Trends.get_all_trending_games",
+"Game Trends.get_api_health",
+"BioMCP.nci_biomarker_searcher",
+"Scientific Computing.matrix_inverse",
+"Unit Converter.convert_energy",
+"Bibliomantic.get_hexagram_details",
+"Medical Calculator.maintenance_fluids",
+"DEX Paprika.getPoolOHLCV",
+"BioMCP.trial_searcher",
+"Medical Calculator.bp_children",
+"Medical Calculator.chads2_vasc_score",
+"Weather Data.search_locations_tool"
+],
+"chosen": "Game Trends.get_all_trending_games"
+},
+{
+"v": "national_parks_001",
+"K": [
+"National Parks.getAlerts",
+"Huge Icons.get_platform_usage"
+],
+"chosen": "National Parks.getAlerts"
+}
+]

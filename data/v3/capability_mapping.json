@@ -1,0 +1,1738 @@
+{
+ "ministry_of_mari.announcement_of_commencement_o_gr00.pay": {
+  "pay:gr00": 1.0
+ },
+ "ministry_of_mari.announcement_of_establishment__gr01.submit": {
+  "submit:gr01": 1.0
+ },
+ "ministry_of_mari.announcement_of_establishment__gr01.pay": {
+  "pay:gr01": 1.0
+ },
+ "ministry_of_mari.announcement_of_establishment__gr01.get": {
+  "retrieve:gr01": 1.0
+ },
+ "ministry_of_tour.announcement_of_operation_of_a_gr03.submit": {
+  "submit:gr03": 1.0
+ },
+ "ministry_of_mari.announcement_of_installation_o_gr02.submit": {
+  "submit:gr02": 1.0
+ },
+ "ministry_of_mari.announcement_of_installation_o_gr02.get": {
+  "submit:gr02": 1.0
+ },
+ "ministry_of_mari.announcement_of_commencement_o_gr00.get": {
+  "submit:gr00": 0.6,
+  "pay:gr00": 0.6,
+  "retrieve:gr00": 0.6
+ },
+ "ministry_of_mari.announcement_of_commencement_o_gr00.submit": {
+  "submit:gr00": 0.4,
+  "submit:gr15": 0.2,
+  "submit:gr05": 0.2,
+  "submit:gr66": 0.2,
+  "submit:gr30": 0.2,
+  "submit:gr07": 0.2,
+  "submit:gr01": 0.2,
+  "submit:gr78": 0.2,
+  "submit:gr16": 0.2,
+  "submit:gr02": 0.2,
+  "submit:gr10": 0.2,
+  "submit:gr06": 0.2
+ },
+ "ministry_of_tour.announcement_of_operation_of_a_gr03.pay": {
+  "pay:gr03": 1.0
+ },
+ "ministry_of_tour.announcement_of_operation_of_a_gr03.get": {
+  "retrieve:gr03": 1.0,
+  "pay:gr03": 1.0,
+  "submit:gr03": 1.0,
+  "retrieve:gr58": 0.4,
+  "retrieve:gr20": 0.4,
+  "submit:gr20": 0.4,
+  "pay:gr20": 0.4,
+  "submit:gr04": 0.4,
+  "retrieve:gr56": 0.4,
+  "submit:gr18": 0.4,
+  "submit:gr70": 0.4,
+  "retrieve:gr57": 0.4,
+  "retrieve:gr18": 0.4,
+  "pay:gr56": 0.4,
+  "retrieve:gr76": 0.4,
+  "submit:gr63": 0.4,
+  "submit:gr58": 0.4,
+  "retrieve:gr70": 0.4,
+  "submit:gr57": 0.4,
+  "submit:gr76": 0.4,
+  "submit:gr56": 0.4,
+  "pay:gr76": 0.4,
+  "retrieve:gr04": 0.4,
+  "retrieve:gr63": 0.4,
+  "pay:gr58": 0.4,
+  "pay:gr18": 0.4,
+  "pay:gr70": 0.4
+ },
+ "ministry_of_tour.announcement_of_operation_of_a_gr04.submit": {
+  "submit:gr04": 1.0
+ },
+ "ministry_of_tour.announcement_of_operation_of_a_gr04.get": {
+  "retrieve:gr04": 1.0
+ },
+ "ministry_of_mari.announcement_of_operation_of_r_gr05.submit": {
+  "submit:gr05": 1.0
+ },
+ "ministry_of_mari.announcement_of_operation_of_r_gr05.get": {
+  "pay:gr05": 1.0,
+  "submit:gr05": 1.0,
+  "retrieve:gr05": 1.0
+ },
+ "ministry_of_mari.announcement_of_recognition_of_gr06.submit": {
+  "submit:gr06": 1.0
+ },
+ "ministry_of_mari.announcement_of_rental_of_moto_gr07.submit": {
+  "submit:gr07": 1.0
+ },
+ "ministry_of_mari.announcement_of_recognition_of_gr06.get": {
+  "pay:gr06": 1.0,
+  "retrieve:gr06": 1.0,
+  "submit:gr06": 1.0
+ },
+ "ministry_of_mari.announcement_of_rental_of_moto_gr07.get": {
+  "submit:gr07": 1.0
+ },
+ "ministry_of_mari.announcement_of_recognition_of_gr06.pay": {
+  "pay:gr06": 1.0,
+  "pay:gr66": 1.0,
+  "pay:gr30": 1.0,
+  "pay:gr10": 1.0,
+  "pay:gr15": 1.0,
+  "pay:gr00": 1.0,
+  "pay:gr05": 1.0,
+  "pay:gr01": 1.0,
+  "pay:gr16": 1.0,
+  "pay:gr78": 1.0
+ },
+ "ministry_of_mari.announcement_of_operation_of_r_gr05.pay": {
+  "pay:gr06": 0.2,
+  "pay:gr66": 0.2,
+  "pay:gr30": 0.2,
+  "pay:gr10": 0.2,
+  "pay:gr15": 0.2,
+  "pay:gr00": 0.2,
+  "pay:gr05": 0.2,
+  "pay:gr01": 0.2,
+  "pay:gr16": 0.2,
+  "pay:gr78": 0.2
+ },
+ "ministry_of_citi.announcement_of_the_commenceme_gr09.submit": {
+  "submit:gr09": 1.0
+ },
+ "ministry_of_citi.announcement_of_the_commenceme_gr09.get": {
+  "retrieve:gr09": 1.0,
+  "submit:gr09": 1.0
+ },
+ "ministry_of_rura.announcement_of_the_commenceme_gr08.submit": {
+  "submit:gr08": 1.0
+ },
+ "ministry_of_infr.announcement_of_the_operation__gr11.submit": {
+  "submit:gr11": 1.0,
+  "submit:gr12": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_establishm_gr10.submit": {
+  "submit:gr10": 1.0,
+  "retrieve:gr10": 0.4,
+  "pay:gr10": 0.4
+ },
+ "ministry_of_mari.announcement_of_the_establishm_gr10.get": {
+  "retrieve:gr02": 0.8,
+  "retrieve:gr10": 1.0,
+  "pay:gr10": 1.0,
+  "submit:gr02": 0.8,
+  "submit:gr10": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_establishm_gr10.pay": {
+  "pay:gr06": 1.0,
+  "pay:gr66": 1.0,
+  "pay:gr30": 1.0,
+  "pay:gr10": 1.0,
+  "pay:gr15": 1.0,
+  "pay:gr00": 1.0,
+  "pay:gr05": 1.0,
+  "pay:gr01": 1.0,
+  "pay:gr16": 1.0,
+  "pay:gr78": 1.0
+ },
+ "ministry_of_infr.announcement_of_the_operation__gr11.pay": {
+  "pay:gr11": 1.0
+ },
+ "ministry_of_infr.announcement_of_the_operation__gr12.submit": {
+  "submit:gr12": 1.0
+ },
+ "ministry_of_rura.announcement_of_the_commenceme_gr08.get": {
+  "retrieve:gr08": 1.0
+ },
+ "ministry_of_infr.announcement_of_the_operation__gr12.get": {
+  "submit:gr12": 1.0
+ },
+ "ministry_of_rura.announcement_of_the_commenceme_gr08.pay": {
+  "pay:gr08": 1.0
+ },
+ "ministry_of_infr.announcement_of_the_operation__gr11.get": {},
+ "ministry_of_deve.announcement_of_the_operation__gr13.submit": {
+  "submit:gr13": 1.0
+ },
+ "ministry_of_deve.announcement_of_the_operation__gr13.get": {
+  "retrieve:gr13": 1.0,
+  "submit:gr13": 1.0
+ },
+ "ministry_of_deve.announcement_of_the_operation__gr14.submit": {
+  "submit:gr14": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_operation__gr15.submit": {
+  "submit:gr15": 1.0
+ },
+ "ministry_of_deve.announcement_of_the_operation__gr14.get": {
+  "retrieve:gr14": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_operation__gr15.pay": {
+  "pay:gr15": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_operation__gr15.get": {
+  "submit:gr15": 1.0,
+  "submit:gr05": 0.8,
+  "retrieve:gr15": 1.0,
+  "retrieve:gr05": 0.8,
+  "pay:gr15": 1.0,
+  "pay:gr05": 0.8
+ },
+ "ministry_of_educ.approval_for_the_establishment_gr17.submit": {
+  "submit:gr17": 1.0
+ },
+ "ministry_of_mari.announcement_of_the_start_of_c_gr16.pay": {
+  "pay:gr10": 0.2,
+  "pay:gr05": 0.2,
+  "pay:gr16": 1.0,
+  "pay:gr15": 0.2
+ },
+ "ministry_of_mari.announcement_of_the_start_of_c_gr16.submit": {
+  "submit:gr16": 1.0,
+  "submit:gr10": 0.2,
+  "submit:gr05": 0.2,
+  "submit:gr15": 0.2
+ },
+ "ministry_of_mari.announcement_of_the_start_of_c_gr16.get": {
+  "retrieve:gr16": 0.8,
+  "submit:gr16": 0.8,
+  "pay:gr16": 0.8,
+  "retrieve:gr15": 0.2,
+  "submit:gr15": 0.2,
+  "pay:gr15": 0.2
+ },
+ "ministry_of_educ.approval_for_the_establishment_gr17.get": {
+  "pay:gr17": 1.0,
+  "retrieve:gr17": 1.0,
+  "submit:gr17": 1.0
+ },
+ "ministry_of_tour.approval_for_the_operation_of__gr18.submit": {
+  "submit:gr18": 1.0
+ },
+ "ministry_of_educ.approval_for_the_establishment_gr17.pay": {
+  "pay:gr17": 1.0
+ },
+ "ministry_of_tour.approval_for_the_operation_of__gr18.pay": {
+  "pay:gr18": 1.0
+ },
+ "ministry_of_tour.approval_for_the_operation_of__gr18.get": {
+  "submit:gr18": 1.0,
+  "pay:gr18": 0.2,
+  "retrieve:gr18": 0.2
+ },
+ "ministry_of_rura.approval_of_establishment_of_l_gr19.submit": {
+  "submit:gr19": 1.0
+ },
+ "ministry_of_tour.approval_of_the_operation_of_r_gr20.pay": {
+  "pay:gr03": 1.0,
+  "pay:gr56": 1.0,
+  "pay:gr70": 1.0,
+  "pay:gr76": 1.0,
+  "pay:gr58": 1.0,
+  "pay:gr20": 1.0,
+  "pay:gr18": 1.0
+ },
+ "ministry_of_rura.approval_of_establishment_of_l_gr19.get": {
+  "submit:gr19": 1.0,
+  "retrieve:gr19": 1.0
+ },
+ "ministry_of_deve.attestation_that_a_shop_may_be_gr21.submit": {
+  "submit:gr21": 1.0
+ },
+ "ministry_of_tour.approval_of_the_operation_of_r_gr20.submit": {
+  "retrieve:gr58": 0.4,
+  "retrieve:gr20": 0.4,
+  "submit:gr20": 1.0,
+  "pay:gr20": 0.4,
+  "submit:gr04": 0.4,
+  "retrieve:gr56": 0.4,
+  "submit:gr18": 0.4,
+  "submit:gr70": 0.4,
+  "retrieve:gr57": 0.4,
+  "retrieve:gr18": 0.4,
+  "pay:gr56": 0.4,
+  "retrieve:gr76": 0.4,
+  "submit:gr63": 0.4,
+  "submit:gr58": 0.4,
+  "submit:gr03": 0.4,
+  "retrieve:gr70": 0.4,
+  "retrieve:gr03": 0.4,
+  "pay:gr03": 0.4,
+  "submit:gr57": 0.4,
+  "submit:gr76": 0.4,
+  "submit:gr56": 0.4,
+  "pay:gr76": 0.4,
+  "retrieve:gr04": 0.4,
+  "retrieve:gr63": 0.4,
+  "pay:gr58": 0.4,
+  "pay:gr18": 0.4,
+  "pay:gr70": 0.4
+ },
+ "ministry_of_deve.attestation_that_a_shop_may_be_gr21.get": {
+  "retrieve:gr21": 1.0,
+  "submit:gr21": 1.0
+ },
+ "ministry_of_tour.approval_of_the_operation_of_r_gr20.get": {
+  "retrieve:gr58": 1.0,
+  "retrieve:gr20": 1.0,
+  "submit:gr20": 1.0,
+  "pay:gr20": 1.0,
+  "submit:gr04": 1.0,
+  "retrieve:gr56": 1.0,
+  "submit:gr18": 1.0,
+  "submit:gr70": 1.0,
+  "retrieve:gr57": 1.0,
+  "retrieve:gr18": 1.0,
+  "pay:gr56": 1.0,
+  "retrieve:gr76": 1.0,
+  "submit:gr63": 1.0,
+  "submit:gr03": 1.0,
+  "submit:gr58": 1.0,
+  "retrieve:gr70": 1.0,
+  "retrieve:gr03": 1.0,
+  "pay:gr03": 1.0,
+  "submit:gr57": 1.0,
+  "submit:gr76": 1.0,
+  "submit:gr56": 1.0,
+  "pay:gr76": 1.0,
+  "retrieve:gr04": 1.0,
+  "retrieve:gr63": 1.0,
+  "pay:gr58": 1.0,
+  "pay:gr18": 1.0,
+  "pay:gr70": 1.0
+ },
+ "ministry_of_infr.authorisation_to_engage_in_the_gr22.submit": {
+  "submit:gr22": 1.0
+ },
+ "ministry_of_deve.certificate_of_annual_activity_gr23.submit": {
+  "submit:gr23": 1.0
+ },
+ "ministry_of_deve.certificate_of_annual_activity_gr23.get": {
+  "retrieve:gr23": 1.0,
+  "submit:gr23": 0.2
+ },
+ "ministry_of_infr.authorisation_to_engage_in_the_gr22.get": {
+  "retrieve:gr22": 1.0
+ },
+ "ministry_of_infr.certificate_of_commencement_of_gr24.submit": {
+  "submit:gr24": 1.0
+ },
+ "ministry_of_infr.certificate_of_commencement_of_gr24.pay": {
+  "pay:gr24": 1.0,
+  "pay:gr71": 1.0
+ },
+ "ministry_of_infr.certificate_of_commencement_of_gr24.get": {
+  "pay:gr24": 1.0,
+  "retrieve:gr24": 1.0,
+  "submit:gr24": 1.0
+ },
+ "hellenic_gaming_.certificate_of_suitability_for_gr25.get": {
+  "retrieve:gr25": 1.0
+ },
+ "hellenic_gaming_.certificate_of_suitability_for_gr25.pay": {
+  "pay:gr25": 1.0
+ },
+ "hellenic_gaming_.certificate_of_suitability_for_gr25.submit": {
+  "submit:gr25": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr26.submit": {
+  "submit:gr29": 1.0,
+  "submit:gr28": 1.0,
+  "submit:gr26": 1.0,
+  "submit:gr27": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr27.submit": {
+  "submit:gr27": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr27.pay": {
+  "pay:gr27": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr27.get": {
+  "retrieve:gr27": 1.0,
+  "pay:gr27": 1.0,
+  "submit:gr27": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr28.submit": {
+  "submit:gr29": 1.0,
+  "submit:gr28": 1.0,
+  "submit:gr26": 1.0,
+  "submit:gr27": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr26.get": {},
+ "ministry_of_deve.change_of_notification_of_the__gr29.get": {
+  "submit:gr29": 1.0,
+  "retrieve:gr29": 0.8,
+  "submit:gr74": 0.4,
+  "retrieve:gr73": 0.2,
+  "retrieve:gr74": 0.4
+ },
+ "ministry_of_mari.copy_of_certificate_of_compete_gr30.submit": {
+  "submit:gr30": 1.0
+ },
+ "ministry_of_mari.copy_of_certificate_of_compete_gr30.get": {
+  "retrieve:gr30": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr28.get": {},
+ "ministry_of_cult.establishment_and_operation_of_gr31.submit": {
+  "submit:gr31": 1.0
+ },
+ "ministry_of_deve.change_of_notification_of_the__gr29.submit": {},
+ "ministry_of_mari.copy_of_certificate_of_compete_gr30.pay": {
+  "pay:gr30": 1.0
+ },
+ "ministry_of_cult.establishment_and_operation_of_gr31.get": {
+  "submit:gr31": 1.0,
+  "retrieve:gr31": 1.0,
+  "pay:gr31": 0.6
+ },
+ "ministry_of_cult.establishment_and_operation_of_gr31.pay": {
+  "pay:gr31": 1.0
+ },
+ "ministry_of_cult.establishment_and_operation_of_gr32.submit": {
+  "submit:gr38": 1.0,
+  "submit:gr32": 1.0,
+  "submit:gr31": 1.0
+ },
+ "ministry_of_cult.establishment_and_operation_of_gr32.pay": {
+  "pay:gr32": 1.0,
+  "pay:gr31": 0.4
+ },
+ "ministry_of_cult.establishment_and_operation_of_gr32.get": {
+  "retrieve:gr32": 1.0
+ },
+ "ministry_of_deve.establishment_authorisation_op_gr33.get": {
+  "pay:gr33": 1.0,
+  "retrieve:gr33": 1.0,
+  "submit:gr33": 1.0
+ },
+ "ministry_of_deve.establishment_authorisation_op_gr33.pay": {
+  "pay:gr73": 1.0,
+  "pay:gr34": 1.0,
+  "pay:gr47": 1.0,
+  "pay:gr33": 1.0,
+  "pay:gr27": 1.0
+ },
+ "ministry_of_deve.establishment_of_a_limited_par_gr34.submit": {
+  "submit:gr34": 1.0,
+  "pay:gr34": 0.2,
+  "retrieve:gr34": 0.2
+ },
+ "ministry_of_deve.establishment_of_a_limited_par_gr34.pay": {
+  "pay:gr34": 1.0
+ },
+ "ministry_of_deve.establishment_of_a_limited_par_gr34.get": {
+  "pay:gr34": 1.0,
+  "submit:gr34": 1.0,
+  "retrieve:gr34": 1.0
+ },
+ "ministry_of_deve.establishment_authorisation_op_gr33.submit": {},
+ "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.get": {
+  "submit:gr35": 1.0
+ },
+ "ministry_of_labo.european_health_insurance_card_gr36.get": {
+  "retrieve:gr36": 1.0
+ },
+ "ministry_of_labo.european_health_insurance_card_gr36.submit": {
+  "submit:gr36": 1.0
+ },
+ "authority_of_civ.licence_for_setting_up_and_ope_gr37.submit": {
+  "submit:gr37": 1.0
+ },
+ "ministry_of_cult.licence_for_the_establishment__gr38.submit": {
+  "submit:gr38": 1.0
+ },
+ "ministry_of_deve.establishment_of_a_soci_t_anon_gr35.submit": {
+  "submit:gr35": 0.2
+ },
+ "ministry_of_cult.licence_for_the_establishment__gr38.get": {
+  "retrieve:gr38": 1.0
+ },
+ "ministry_of_econ.licence_for_the_operation_of_a_gr39.submit": {
+  "submit:gr39": 1.0
+ },
+ "ministry_of_cult.licence_for_the_establishment__gr38.pay": {
+  "pay:gr38": 1.0
+ },
+ "ministry_of_econ.licence_for_the_operation_of_a_gr39.get": {
+  "retrieve:gr39": 1.0
+ },
+ "authority_of_civ.licence_for_setting_up_and_ope_gr37.get": {
+  "retrieve:gr37": 1.0,
+  "submit:gr37": 1.0
+ },
+ "ministry_of_econ.licence_for_the_operation_of_a_gr39.pay": {
+  "pay:gr39": 1.0
+ },
+ "ministry_of_cult.licence_for_the_operation_of_a_gr40.submit": {
+  "submit:gr40": 1.0
+ },
+ "ministry_of_cult.licence_for_the_operation_of_a_gr40.get": {
+  "retrieve:gr40": 1.0
+ },
+ "ministry_of_inte.licence_for_the_use_of_public__gr41.submit": {
+  "submit:gr41": 1.0
+ },
+ "ministry_of_inte.licence_for_the_use_of_public__gr41.get": {
+  "retrieve:gr41": 1.0
+ },
+ "ministry_of_infr.licence_to_establish_and_or_op_gr42.submit": {
+  "submit:gr42": 1.0
+ },
+ "ministry_of_infr.licence_to_establish_and_or_op_gr42.get": {
+  "retrieve:gr42": 1.0
+ },
+ "ministry_of_citi.licence_to_manufacture_firewor_gr43.submit": {
+  "submit:gr43": 1.0,
+  "submit:gr44": 1.0,
+  "submit:gr45": 1.0,
+  "pay:gr44": 1.0,
+  "retrieve:gr77": 1.0,
+  "submit:gr77": 1.0,
+  "retrieve:gr44": 1.0,
+  "pay:gr43": 1.0,
+  "submit:gr09": 1.0,
+  "pay:gr45": 1.0,
+  "retrieve:gr43": 1.0,
+  "retrieve:gr45": 1.0,
+  "retrieve:gr09": 1.0,
+  "pay:gr77": 1.0,
+  "retrieve:gr46": 1.0,
+  "submit:gr46": 1.0,
+  "pay:gr46": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.submit": {
+  "submit:gr45": 1.0
+ },
+ "ministry_of_citi.licence_to_manufacture_firewor_gr43.pay": {
+  "pay:gr43": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.pay": {
+  "pay:gr43": 1.0,
+  "pay:gr44": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.get": {
+  "pay:gr44": 1.0,
+  "submit:gr44": 1.0,
+  "retrieve:gr44": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_fireworks_cat_gr44.submit": {
+  "pay:gr45": 0.2,
+  "pay:gr43": 0.2,
+  "retrieve:gr45": 0.2,
+  "submit:gr09": 0.2,
+  "submit:gr45": 0.2,
+  "pay:gr44": 0.2,
+  "submit:gr44": 1.0,
+  "submit:gr46": 0.2,
+  "submit:gr77": 0.2,
+  "retrieve:gr43": 0.2,
+  "retrieve:gr09": 0.2,
+  "pay:gr77": 0.2,
+  "submit:gr43": 0.2,
+  "retrieve:gr46": 0.2,
+  "retrieve:gr77": 0.2,
+  "retrieve:gr44": 0.2,
+  "pay:gr46": 0.2
+ },
+ "ministry_of_citi.licence_to_manufacture_firewor_gr43.get": {
+  "retrieve:gr43": 0.8,
+  "pay:gr43": 1.0,
+  "submit:gr43": 0.8,
+  "pay:gr45": 0.4,
+  "retrieve:gr45": 0.4,
+  "submit:gr09": 0.4,
+  "submit:gr45": 0.4,
+  "pay:gr44": 0.4,
+  "submit:gr44": 0.4,
+  "submit:gr46": 0.4,
+  "submit:gr77": 0.4,
+  "retrieve:gr09": 0.4,
+  "pay:gr77": 0.4,
+  "retrieve:gr46": 0.4,
+  "retrieve:gr77": 0.4,
+  "retrieve:gr44": 0.4,
+  "pay:gr46": 0.4
+ },
+ "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.get": {
+  "retrieve:gr45": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_in_revolvers__gr46.submit": {
+  "submit:gr46": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_in_revolvers__gr46.pay": {
+  "pay:gr46": 1.0
+ },
+ "ministry_of_deve.licensing_of_logistics_facilit_gr47.submit": {
+  "submit:gr47": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_in_air_rifles_gr45.pay": {
+  "pay:gr45": 1.0,
+  "pay:gr43": 1.0,
+  "retrieve:gr45": 1.0,
+  "submit:gr09": 1.0,
+  "submit:gr45": 1.0,
+  "pay:gr44": 1.0,
+  "submit:gr44": 1.0,
+  "submit:gr46": 1.0,
+  "submit:gr77": 1.0,
+  "retrieve:gr43": 1.0,
+  "retrieve:gr09": 1.0,
+  "pay:gr77": 1.0,
+  "submit:gr43": 1.0,
+  "retrieve:gr46": 1.0,
+  "retrieve:gr77": 1.0,
+  "retrieve:gr44": 1.0,
+  "pay:gr46": 1.0
+ },
+ "ministry_of_citi.licence_to_trade_in_revolvers__gr46.get": {
+  "retrieve:gr46": 1.0,
+  "pay:gr45": 0.2,
+  "pay:gr43": 0.2,
+  "retrieve:gr45": 0.2,
+  "submit:gr09": 0.2,
+  "submit:gr45": 0.2,
+  "pay:gr44": 0.2,
+  "submit:gr44": 0.2,
+  "submit:gr46": 0.2,
+  "submit:gr77": 0.2,
+  "retrieve:gr43": 0.2,
+  "retrieve:gr09": 0.2,
+  "pay:gr77": 0.2,
+  "submit:gr43": 0.2,
+  "retrieve:gr77": 0.2,
+  "retrieve:gr44": 0.2,
+  "pay:gr46": 0.2
+ },
+ "ministry_of_deve.licensing_of_logistics_facilit_gr47.get": {
+  "retrieve:gr47": 1.0
+ },
+ "ministry_of_deve.licensing_of_logistics_facilit_gr47.pay": {
+  "pay:gr47": 1.0
+ },
+ "ministry_of_infr.notification_about_operating_p_gr48.submit": {
+  "submit:gr48": 1.0
+ },
+ "ministry_of_infr.notification_about_operating_p_gr48.pay": {
+  "pay:gr48": 1.0
+ },
+ "ministry_of_infr.notification_about_operating_p_gr48.get": {
+  "retrieve:gr48": 1.0,
+  "retrieve:gr24": 1.0,
+  "retrieve:gr71": 1.0,
+  "retrieve:gr68": 0.2
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr49.submit": {
+  "submit:gr49": 1.0
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr50.submit": {
+  "submit:gr50": 1.0
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr49.get": {
+  "retrieve:gr53": 0.6,
+  "submit:gr53": 0.8,
+  "submit:gr49": 1.0,
+  "retrieve:gr50": 0.6,
+  "submit:gr50": 0.8,
+  "retrieve:gr49": 1.0
+ },
+ "ministry_of_infr.notification_of_commencement_o_gr52.submit": {
+  "submit:gr52": 1.0
+ },
+ "ministry_of_infr.notification_of_commencement_o_gr52.get": {
+  "submit:gr52": 1.0
+ },
+ "ministry_of_rura.notification_of_commencement_o_gr51.get": {
+  "submit:gr51": 1.0
+ },
+ "ministry_of_rura.notification_of_commencement_o_gr51.pay": {
+  "pay:gr51": 1.0
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr50.get": {
+  "submit:gr50": 0.8,
+  "retrieve:gr50": 0.4
+ },
+ "ministry_of_rura.notification_of_commencement_o_gr51.submit": {
+  "submit:gr51": 1.0
+ },
+ "ministry_of_infr.notification_of_commencement_o_gr52.pay": {
+  "pay:gr52": 1.0
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr53.submit": {
+  "submit:gr53": 1.0
+ },
+ "ministry_of_educ.notification_of_establishment__gr54.submit": {
+  "submit:gr54": 1.0
+ },
+ "ministry_of_educ.notification_of_establishment__gr54.get": {
+  "retrieve:gr54": 1.0,
+  "submit:gr54": 1.0,
+  "pay:gr54": 1.0
+ },
+ "ministry_of_educ.notification_of_establishment__gr54.pay": {
+  "pay:gr54": 1.0
+ },
+ "ministry_of_deve.notification_of_commencement_o_gr53.get": {
+  "retrieve:gr53": 1.0,
+  "submit:gr53": 1.0
+ },
+ "ministry_of_heal.notification_of_establishment__gr55.submit": {
+  "submit:gr55": 1.0,
+  "pay:gr55": 0.2,
+  "retrieve:gr55": 0.2
+ },
+ "ministry_of_heal.notification_of_establishment__gr55.get": {
+  "retrieve:gr55": 1.0
+ },
+ "ministry_of_heal.notification_of_establishment__gr55.pay": {
+  "pay:gr55": 1.0
+ },
+ "ministry_of_tour.notification_of_exercise_of_le_gr56.submit": {
+  "submit:gr56": 1.0
+ },
+ "ministry_of_tour.notification_of_exercise_of_le_gr56.pay": {
+  "pay:gr56": 1.0
+ },
+ "ministry_of_tour.notification_of_exercise_of_le_gr56.get": {
+  "submit:gr56": 1.0,
+  "pay:gr56": 1.0,
+  "retrieve:gr56": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_in_t_gr57.submit": {
+  "submit:gr57": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_in_t_gr57.get": {
+  "submit:gr57": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_of_a_gr58.submit": {
+  "submit:gr58": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_of_a_gr58.get": {
+  "submit:gr58": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_of_a_gr58.pay": {
+  "pay:gr58": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr59.submit": {
+  "submit:gr59": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr59.get": {
+  "retrieve:gr59": 1.0,
+  "submit:gr59": 1.0,
+  "pay:gr59": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr59.pay": {
+  "pay:gr59": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr60.submit": {
+  "submit:gr60": 1.0,
+  "pay:gr60": 0.2,
+  "retrieve:gr60": 0.2,
+  "retrieve:gr65": 0.2,
+  "submit:gr65": 0.2,
+  "pay:gr65": 0.2
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr60.get": {
+  "submit:gr60": 1.0,
+  "submit:gr65": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_a_gr60.pay": {
+  "pay:gr60": 1.0,
+  "pay:gr65": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_c_gr61.submit": {
+  "submit:gr59": 1.0,
+  "submit:gr61": 0.6
+ },
+ "ministry_of_infr.notification_of_operation_of_c_gr61.get": {
+  "submit:gr61": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_c_gr61.pay": {
+  "pay:gr61": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_of_m_gr63.submit": {
+  "submit:gr63": 1.0
+ },
+ "ministry_of_deve.notification_of_operation_of_f_gr62.submit": {
+  "submit:gr62": 1.0
+ },
+ "ministry_of_tour.notification_of_operation_of_m_gr63.get": {
+  "retrieve:gr63": 1.0,
+  "retrieve:gr57": 0.8
+ },
+ "ministry_of_infr.notification_of_operation_of_o_gr64.submit": {
+  "submit:gr64": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_o_gr64.get": {
+  "submit:gr64": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_o_gr64.pay": {
+  "pay:gr64": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_v_gr65.submit": {
+  "submit:gr65": 1.0
+ },
+ "ministry_of_deve.notification_of_operation_of_f_gr62.get": {},
+ "ministry_of_infr.notification_of_operation_of_v_gr65.get": {
+  "submit:gr60": 1.0,
+  "pay:gr60": 1.0,
+  "retrieve:gr60": 1.0,
+  "retrieve:gr65": 1.0,
+  "submit:gr65": 1.0,
+  "pay:gr65": 1.0
+ },
+ "ministry_of_infr.notification_of_operation_of_v_gr65.pay": {
+  "pay:gr65": 1.0
+ },
+ "ministry_of_cult.notification_of_relocation_exp_gr67.submit": {
+  "submit:gr67": 1.0
+ },
+ "ministry_of_cult.notification_of_relocation_exp_gr67.get": {
+  "retrieve:gr67": 1.0
+ },
+ "ministry_of_cult.notification_of_relocation_exp_gr67.pay": {
+  "pay:gr67": 1.0
+ },
+ "ministry_of_mari.notification_of_provision_of_r_gr66.pay": {
+  "pay:gr06": 1.0,
+  "pay:gr05": 1.0,
+  "pay:gr10": 1.0,
+  "pay:gr00": 1.0,
+  "pay:gr16": 1.0,
+  "pay:gr01": 1.0,
+  "pay:gr15": 1.0,
+  "pay:gr30": 1.0,
+  "pay:gr78": 1.0,
+  "pay:gr66": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr68.submit": {
+  "submit:gr68": 1.0
+ },
+ "ministry_of_mari.notification_of_provision_of_r_gr66.submit": {
+  "submit:gr78": 0.6,
+  "submit:gr07": 0.6,
+  "submit:gr06": 0.6,
+  "pay:gr05": 0.6,
+  "pay:gr10": 0.6,
+  "pay:gr16": 0.6,
+  "submit:gr30": 0.6,
+  "retrieve:gr16": 0.6,
+  "retrieve:gr07": 0.6,
+  "retrieve:gr78": 0.6,
+  "submit:gr10": 0.6,
+  "submit:gr00": 0.6,
+  "pay:gr01": 0.6,
+  "pay:gr30": 0.6,
+  "submit:gr01": 0.6,
+  "pay:gr06": 0.6,
+  "retrieve:gr00": 0.6,
+  "pay:gr00": 0.6,
+  "retrieve:gr15": 0.6,
+  "submit:gr16": 0.6,
+  "retrieve:gr06": 0.6,
+  "submit:gr15": 0.6,
+  "retrieve:gr02": 0.6,
+  "retrieve:gr01": 0.6,
+  "submit:gr02": 0.6,
+  "retrieve:gr10": 0.6,
+  "retrieve:gr05": 0.6,
+  "retrieve:gr66": 0.6,
+  "submit:gr05": 0.6,
+  "submit:gr66": 0.6,
+  "pay:gr15": 0.6,
+  "pay:gr78": 0.6,
+  "pay:gr66": 0.6,
+  "retrieve:gr30": 0.6
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr68.get": {
+  "retrieve:gr68": 1.0,
+  "pay:gr68": 1.0,
+  "submit:gr68": 1.0
+ },
+ "ministry_of_mari.notification_of_provision_of_r_gr66.get": {
+  "submit:gr01": 1.0,
+  "pay:gr06": 1.0,
+  "retrieve:gr01": 1.0,
+  "submit:gr06": 1.0,
+  "retrieve:gr66": 1.0,
+  "submit:gr66": 1.0,
+  "pay:gr01": 1.0,
+  "retrieve:gr06": 1.0,
+  "pay:gr66": 1.0,
+  "submit:gr78": 0.6,
+  "submit:gr07": 0.6,
+  "pay:gr05": 0.6,
+  "pay:gr10": 0.6,
+  "pay:gr16": 0.6,
+  "submit:gr30": 0.6,
+  "retrieve:gr16": 0.6,
+  "retrieve:gr07": 0.6,
+  "retrieve:gr78": 0.6,
+  "submit:gr10": 0.6,
+  "submit:gr00": 0.6,
+  "pay:gr30": 0.6,
+  "retrieve:gr00": 0.6,
+  "pay:gr00": 0.6,
+  "retrieve:gr15": 0.6,
+  "submit:gr16": 0.6,
+  "submit:gr15": 0.6,
+  "retrieve:gr02": 0.6,
+  "submit:gr02": 0.6,
+  "retrieve:gr10": 0.6,
+  "retrieve:gr05": 0.6,
+  "submit:gr05": 0.6,
+  "pay:gr15": 0.6,
+  "pay:gr78": 0.6,
+  "retrieve:gr30": 0.6
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr68.pay": {
+  "pay:gr68": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr69.submit": {
+  "submit:gr69": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr69.pay": {
+  "pay:gr69": 1.0
+ },
+ "ministry_of_tour.notification_of_the_commenceme_gr70.submit": {
+  "submit:gr70": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr69.get": {
+  "retrieve:gr69": 1.0
+ },
+ "ministry_of_tour.notification_of_the_commenceme_gr70.get": {
+  "retrieve:gr70": 1.0,
+  "submit:gr70": 1.0,
+  "pay:gr70": 1.0
+ },
+ "ministry_of_tour.notification_of_the_commenceme_gr70.pay": {
+  "pay:gr70": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr71.submit": {
+  "submit:gr71": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr72.submit": {
+  "submit:gr72": 1.0
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr71.get": {
+  "submit:gr71": 1.0,
+  "retrieve:gr71": 0.2,
+  "pay:gr71": 0.2
+ },
+ "ministry_of_infr.notification_of_the_commenceme_gr71.pay": {
+  "pay:gr71": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr73.submit": {
+  "submit:gr73": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr74.submit": {
+  "submit:gr74": 1.0
+ },
+ "ministry_of_infr.notification_of_the_operation__gr75.submit": {
+  "submit:gr75": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr74.get": {
+  "retrieve:gr74": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr72.get": {
+  "submit:gr27": 0.6,
+  "submit:gr72": 0.6,
+  "retrieve:gr72": 0.6,
+  "pay:gr27": 0.6,
+  "submit:gr73": 0.2,
+  "pay:gr73": 0.2
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr73.get": {
+  "retrieve:gr27": 0.4,
+  "retrieve:gr28": 0.4,
+  "retrieve:gr62": 0.4,
+  "retrieve:gr33": 0.4,
+  "retrieve:gr26": 0.4,
+  "retrieve:gr53": 0.4,
+  "retrieve:gr13": 0.4,
+  "retrieve:gr73": 0.4,
+  "retrieve:gr23": 0.4,
+  "retrieve:gr74": 0.4,
+  "retrieve:gr35": 0.4,
+  "retrieve:gr34": 0.4,
+  "retrieve:gr50": 0.4,
+  "retrieve:gr49": 0.4,
+  "retrieve:gr29": 0.4,
+  "retrieve:gr47": 0.4,
+  "retrieve:gr72": 0.4
+ },
+ "ministry_of_infr.notification_of_the_operation__gr75.get": {
+  "pay:gr75": 1.0,
+  "retrieve:gr75": 1.0,
+  "submit:gr75": 1.0
+ },
+ "ministry_of_deve.notification_of_the_establishm_gr73.pay": {},
+ "ministry_of_infr.notification_of_the_operation__gr75.pay": {
+  "pay:gr75": 1.0
+ },
+ "ministry_of_tour.notification_of_the_operation__gr76.submit": {
+  "submit:gr76": 1.0
+ },
+ "ministry_of_tour.notification_of_the_operation__gr76.pay": {
+  "pay:gr76": 1.0
+ },
+ "ministry_of_citi.operating_licence_for_a_privat_gr77.pay": {
+  "pay:gr77": 1.0
+ },
+ "ministry_of_tour.notification_of_the_operation__gr76.get": {
+  "pay:gr56": 1.0,
+  "pay:gr20": 1.0,
+  "submit:gr03": 1.0,
+  "pay:gr70": 1.0,
+  "submit:gr57": 1.0,
+  "submit:gr18": 1.0,
+  "retrieve:gr03": 1.0,
+  "retrieve:gr04": 1.0,
+  "retrieve:gr56": 1.0,
+  "pay:gr18": 1.0,
+  "submit:gr04": 1.0,
+  "retrieve:gr20": 1.0,
+  "submit:gr56": 1.0,
+  "submit:gr76": 1.0,
+  "retrieve:gr63": 1.0,
+  "retrieve:gr58": 1.0,
+  "pay:gr03": 1.0,
+  "pay:gr76": 1.0,
+  "submit:gr70": 1.0,
+  "retrieve:gr18": 1.0,
+  "retrieve:gr70": 1.0,
+  "pay:gr58": 1.0,
+  "submit:gr58": 1.0,
+  "submit:gr63": 1.0,
+  "retrieve:gr76": 1.0,
+  "submit:gr20": 1.0,
+  "retrieve:gr57": 1.0
+ },
+ "ministry_of_citi.operating_licence_for_a_privat_gr77.submit": {
+  "pay:gr45": 1.0,
+  "pay:gr43": 1.0,
+  "retrieve:gr45": 1.0,
+  "submit:gr09": 1.0,
+  "submit:gr45": 1.0,
+  "pay:gr44": 1.0,
+  "submit:gr44": 1.0,
+  "submit:gr46": 1.0,
+  "submit:gr77": 1.0,
+  "retrieve:gr43": 1.0,
+  "retrieve:gr09": 1.0,
+  "pay:gr77": 1.0,
+  "submit:gr43": 1.0,
+  "retrieve:gr46": 1.0,
+  "retrieve:gr77": 1.0,
+  "retrieve:gr44": 1.0,
+  "pay:gr46": 1.0
+ },
+ "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.submit": {
+  "submit:gr78": 1.0
+ },
+ "ministry_of_citi.operating_licence_for_a_privat_gr77.get": {
+  "pay:gr45": 1.0,
+  "pay:gr43": 1.0,
+  "retrieve:gr45": 1.0,
+  "submit:gr09": 1.0,
+  "submit:gr45": 1.0,
+  "pay:gr44": 1.0,
+  "submit:gr44": 1.0,
+  "submit:gr46": 1.0,
+  "submit:gr77": 1.0,
+  "retrieve:gr43": 1.0,
+  "retrieve:gr09": 1.0,
+  "pay:gr77": 1.0,
+  "submit:gr43": 1.0,
+  "retrieve:gr46": 1.0,
+  "retrieve:gr77": 1.0,
+  "retrieve:gr44": 1.0,
+  "pay:gr46": 1.0
+ },
+ "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.get": {
+  "retrieve:gr78": 1.0
+ },
+ "ministry_of_mari.renewal_of_a_licence_to_operat_gr78.pay": {
+  "pay:gr78": 1.0
+ },
+ "ministry_for_cli.temporary_active_fire_protecti_gr79.submit": {
+  "submit:gr79": 1.0
+ },
+ "ministry_for_cli.temporary_active_fire_protecti_gr79.get": {
+  "submit:gr79": 1.0,
+  "pay:gr79": 1.0,
+  "retrieve:gr79": 1.0
+ },
+ "ministry_for_cli.temporary_active_fire_protecti_gr79.pay": {
+  "pay:gr79": 1.0
+ },
+ "ministry_of_infr.vehicle_technical_inspector_cr_gr80.get": {
+  "retrieve:gr80": 1.0
+ },
+ "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.submit": {
+  "submit:grx_solemn_declaration_and_electro": 1.0
+ },
+ "gov_gr.solemn_declaration_and_electro_grx_solemn_declaration_and_electro.get": {
+  "retrieve:grx_solemn_declaration_and_electro": 1.0,
+  "submit:grx_solemn_declaration_and_electro": 1.0
+ },
+ "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.get": {
+  "retrieve:grx_single_certificate_of_judicial": 1.0
+ },
+ "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.submit": {
+  "submit:grx_copy_of_criminal_record": 1.0
+ },
+ "courts.single_certificate_of_judicial_grx_single_certificate_of_judicial.submit": {
+  "submit:grx_single_certificate_of_judicial": 1.0
+ },
+ "ministry_of_infr.vehicle_technical_inspector_cr_gr80.submit": {
+  "submit:gr60": 0.2,
+  "retrieve:gr80": 0.2,
+  "submit:gr75": 0.2,
+  "submit:gr65": 0.2,
+  "submit:gr61": 0.2,
+  "submit:gr68": 0.2,
+  "submit:gr22": 0.2,
+  "submit:gr69": 0.2,
+  "submit:gr11": 0.2,
+  "submit:gr59": 0.2,
+  "submit:gr48": 0.2,
+  "submit:gr64": 0.2,
+  "submit:gr71": 0.2,
+  "submit:gr52": 0.2,
+  "submit:gr24": 0.2,
+  "submit:gr80": 0.2,
+  "submit:gr12": 0.2
+ },
+ "ministry_of_just.copy_of_criminal_record_grx_copy_of_criminal_record.get": {
+  "retrieve:grx_copy_of_criminal_record": 1.0
+ },
+ "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.get": {
+  "retrieve:grx_social_security_contributions_": 1.0
+ },
+ "e_efka.social_security_clearance_of_n_grx_social_security_clearance_of_n.submit": {
+  "submit:grx_social_security_contributions_": 1.0,
+  "submit:grx_social_security_clearance_of_n": 1.0
+ },
+ "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.submit": {
+  "submit:grx_certificate_of_active_fire_pro": 1.0,
+  "retrieve:grx_certificate_of_active_fire_pro": 1.0
+ },
+ "fire_service.certificate_of_active_fire_pro_grx_certificate_of_active_fire_pro.get": {
+  "retrieve:grx_certificate_of_active_fire_pro": 1.0
+ },
+ "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.get": {
+  "retrieve:grx_authorisation_and_electronic_a": 1.0,
+  "retrieve:grx_authorisation_for_the_operatio": 1.0,
+  "retrieve:grx_decision_approving_environment": 1.0,
+  "retrieve:grx_myphoto_for_citizens": 1.0
+ },
+ "other_public_bod.authorisation_and_electronic_a_grx_authorisation_and_electronic_a.submit": {
+  "submit:grx_authorisation_for_the_operatio": 1.0,
+  "retrieve:grx_myphoto_for_citizens": 1.0,
+  "retrieve:grx_decision_approving_environment": 1.0,
+  "retrieve:grx_authorisation_and_electronic_a": 1.0,
+  "submit:grx_decision_approving_environment": 1.0,
+  "submit:grx_authorisation_and_electronic_a": 1.0,
+  "retrieve:grx_authorisation_for_the_operatio": 1.0,
+  "submit:grx_myphoto_for_citizens": 1.0
+ },
+ "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.submit": {
+  "submit:grx_certificate_of_no_outstanding_": 1.0
+ },
+ "other_public_bod.decision_approving_environment_grx_decision_approving_environment.get": {
+  "retrieve:grx_decision_approving_environment": 1.0
+ },
+ "independent_auth.certificate_of_no_outstanding__grx_certificate_of_no_outstanding_.get": {
+  "retrieve:grx_certificate_of_no_outstanding_": 1.0
+ },
+ "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.get": {
+  "retrieve:grx_myphoto_for_citizens": 1.0
+ },
+ "other_public_bod.decision_approving_environment_grx_decision_approving_environment.submit": {
+  "submit:grx_authorisation_for_the_operatio": 1.0,
+  "retrieve:grx_myphoto_for_citizens": 1.0,
+  "retrieve:grx_decision_approving_environment": 1.0,
+  "retrieve:grx_authorisation_and_electronic_a": 1.0,
+  "submit:grx_decision_approving_environment": 1.0,
+  "submit:grx_authorisation_and_electronic_a": 1.0,
+  "retrieve:grx_authorisation_for_the_operatio": 1.0,
+  "submit:grx_myphoto_for_citizens": 1.0
+ },
+ "other_public_bod.myphoto_for_citizens_grx_myphoto_for_citizens.submit": {
+  "submit:grx_authorisation_for_the_operatio": 1.0,
+  "retrieve:grx_myphoto_for_citizens": 1.0,
+  "retrieve:grx_decision_approving_environment": 1.0,
+  "retrieve:grx_authorisation_and_electronic_a": 1.0,
+  "submit:grx_decision_approving_environment": 1.0,
+  "submit:grx_authorisation_and_electronic_a": 1.0,
+  "retrieve:grx_authorisation_for_the_operatio": 1.0,
+  "submit:grx_myphoto_for_citizens": 1.0
+ },
+ "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.submit": {
+  "submit:grx_authorisation_for_the_operatio": 1.0
+ },
+ "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.submit": {
+  "submit:grx_operating_licence_for_a_cng_st": 1.0
+ },
+ "ministry_of_envi.operating_licence_for_a_cng_st_grx_operating_licence_for_a_cng_st.get": {
+  "retrieve:grx_operating_licence_for_a_cng_st": 1.0
+ },
+ "other_public_bod.authorisation_for_the_operatio_grx_authorisation_for_the_operatio.get": {
+  "submit:grx_authorisation_for_the_operatio": 1.0,
+  "retrieve:grx_myphoto_for_citizens": 0.8,
+  "retrieve:grx_decision_approving_environment": 0.8,
+  "retrieve:grx_authorisation_and_electronic_a": 0.8,
+  "submit:grx_decision_approving_environment": 0.8,
+  "submit:grx_authorisation_and_electronic_a": 0.8,
+  "retrieve:grx_authorisation_for_the_operatio": 1.0,
+  "submit:grx_myphoto_for_citizens": 0.8
+ },
+ "e_efka.social_security_contributions__grx_social_security_contributions_.submit": {
+  "submit:grx_social_security_contributions_": 1.0,
+  "submit:grx_social_security_clearance_of_n": 1.0
+ },
+ "e_efka.social_security_contributions__grx_social_security_contributions_.get": {
+  "retrieve:grx_social_security_clearance_of_n": 1.0
+ },
+ "helper.upload_announcement_of_rental_of_moto": {
+  "submit:gr07": 1.0
+ },
+ "helper.upload_announcement_of_the_operation_": {
+  "submit:gr13": 1.0
+ },
+ "helper.upload_copy_of_certificate_of_compete": {
+  "submit:gr30": 1.0
+ },
+ "helper.upload_announcement_of_the_commenceme": {},
+ "helper.upload_announcement_of_the_start_of_c": {
+  "submit:gr00": 1.0,
+  "submit:gr05": 0.4,
+  "submit:gr10": 0.4,
+  "submit:gr15": 0.4,
+  "submit:gr06": 0.4,
+  "submit:gr16": 0.4,
+  "submit:gr07": 0.4,
+  "submit:gr08": 0.4,
+  "submit:gr11": 0.4,
+  "submit:gr02": 0.4,
+  "submit:gr04": 0.4,
+  "submit:gr01": 0.4,
+  "submit:gr03": 0.4,
+  "submit:gr53": 0.2,
+  "submit:gr09": 0.2,
+  "submit:gr13": 0.2,
+  "submit:gr50": 0.2,
+  "submit:gr12": 0.2,
+  "submit:gr14": 0.2,
+  "submit:gr49": 0.2
+ },
+ "helper.upload_notification_of_operation_of_a": {
+  "submit:gr58": 1.0
+ },
+ "helper.upload_establishment_of_a_limited_par": {
+  "submit:gr39": 0.2,
+  "submit:gr35": 1.0,
+  "submit:gr34": 1.0
+ },
+ "helper.upload_establishment_of_a_soci_t_anon": {
+  "submit:gr35": 1.0
+ },
+ "helper.upload_notification_of_commencement_o": {
+  "submit:gr50": 1.0
+ },
+ "helper.upload_renewal_of_a_licence_to_operat": {
+  "submit:gr78": 1.0
+ },
+ "helper.upload_notification_of_the_operation_": {
+  "submit:gr76": 1.0
+ },
+ "ministry_of_comm.issue_a_commercial_registratio_sa01.submit": {
+  "submit:sa01": 1.0
+ },
+ "helper.upload_change_of_notification_of_the_": {
+  "submit:gr74": 1.0,
+  "submit:gr28": 1.0,
+  "submit:gr73": 0.4,
+  "submit:gr72": 0.2,
+  "submit:gr27": 1.0,
+  "submit:gr63": 0.8,
+  "submit:gr26": 1.0,
+  "submit:gr29": 1.0,
+  "submit:gr57": 0.6,
+  "submit:gr64": 0.2,
+  "submit:gr61": 0.2,
+  "submit:gr54": 0.4,
+  "submit:gr75": 0.2,
+  "submit:gr67": 0.4,
+  "submit:gr55": 0.2,
+  "submit:gr70": 0.4
+ },
+ "ministry_of_comm.issue_a_commercial_registratio_sa01.get": {
+  "retrieve:sa01": 1.0
+ },
+ "ministry_of_comm.issue_a_commercial_registratio_sa01.pay": {
+  "pay:sa01": 1.0
+ },
+ "helper.upload_operating_licence_for_a_cng_st": {
+  "submit:grx_operating_licence_for_a_cng_st": 1.0,
+  "submit:grx_authorisation_for_the_operatio": 0.4
+ },
+ "helper.upload_myphoto_for_citizens": {
+  "submit:grx_myphoto_for_citizens": 0.8,
+  "grx_myphoto_for_citizens": 0.2
+ },
+ "ministry_of_muni.renewing_a_commercial_license_sa04.submit": {
+  "retrieve:sa04": 0.4,
+  "retrieve:sa08": 0.4,
+  "pay:sa08": 0.4,
+  "submit:sa08": 0.4,
+  "submit:sa04": 1.0
+ },
+ "ministry_of_muni.issuing_a_commercial_license_sa02.submit": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.renewing_a_commercial_license_sa04.get": {
+  "submit:sa04": 1.0,
+  "retrieve:sa04": 1.0
+ },
+ "ministry_of_muni.issuing_a_commercial_license_sa02.get": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.issuing_a_fast_track_commercia_sa03.submit": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.issuing_a_fast_track_commercia_sa03.get": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.issuing_a_building_permit_sa05.submit": {
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.issuance_of_a_health_certifica_sa07.submit": {
+  "submit:sa07": 1.0
+ },
+ "ministry_of_muni.issuance_of_a_building_occupan_sa06.submit": {
+  "submit:sa06": 1.0,
+  "submit:sa05": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa09": 1.0,
+  "submit:sa02": 1.0,
+  "submit:sa07": 1.0,
+  "submit:sa08": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "submit:sa03": 1.0
+ },
+ "ministry_of_muni.issuance_of_a_health_certifica_sa07.pay": {
+  "pay:sa07": 1.0,
+  "pay:sa08": 0.4
+ },
+ "ministry_of_muni.issuing_a_building_permit_sa05.get": {
+  "submit:sa06": 1.0,
+  "retrieve:sa05": 1.0,
+  "retrieve:sa06": 1.0,
+  "submit:sa05": 1.0,
+  "pay:sa07": 0.2,
+  "retrieve:sa08": 0.2,
+  "retrieve:sa03": 0.2,
+  "submit:sa09": 0.2,
+  "pay:sa08": 0.2,
+  "submit:sa02": 0.2,
+  "retrieve:sa07": 0.2,
+  "retrieve:sa09": 0.2,
+  "submit:sa08": 0.2,
+  "retrieve:sa02": 0.2,
+  "retrieve:sa04": 0.2,
+  "submit:sa11": 0.2,
+  "submit:sa07": 0.2,
+  "retrieve:sa10": 0.2,
+  "submit:sa10": 0.2,
+  "submit:sa04": 0.2,
+  "submit:sa03": 0.2,
+  "retrieve:sa11": 0.2
+ },
+ "ministry_of_muni.issuance_of_a_building_occupan_sa06.get": {
+  "submit:sa06": 1.0,
+  "retrieve:sa05": 1.0,
+  "retrieve:sa06": 1.0,
+  "submit:sa05": 1.0,
+  "pay:sa07": 0.6,
+  "retrieve:sa08": 0.6,
+  "retrieve:sa03": 0.6,
+  "submit:sa09": 0.6,
+  "pay:sa08": 0.6,
+  "submit:sa02": 0.6,
+  "retrieve:sa07": 0.6,
+  "retrieve:sa09": 0.6,
+  "submit:sa08": 0.6,
+  "retrieve:sa02": 0.6,
+  "retrieve:sa04": 0.6,
+  "submit:sa11": 0.6,
+  "submit:sa07": 0.6,
+  "retrieve:sa10": 0.6,
+  "submit:sa10": 0.6,
+  "submit:sa04": 0.6,
+  "submit:sa03": 0.6,
+  "retrieve:sa11": 0.6
+ },
+ "ministry_of_muni.issuance_of_a_health_certifica_sa07.get": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "ministry_of_muni.renewal_of_a_health_certificat_sa08.submit": {
+  "submit:sa08": 1.0
+ },
+ "ministry_of_muni.renewal_of_a_health_certificat_sa08.get": {
+  "pay:sa08": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa08": 1.0
+ },
+ "ministry_of_muni.renewal_of_a_health_certificat_sa08.pay": {
+  "pay:sa08": 1.0
+ },
+ "ministry_of_muni.issuing_a_home_delivery_permit_sa11.submit": {
+  "submit:sa11": 1.0
+ },
+ "ministry_of_muni.issuance_of_a_seasonal_health__sa09.submit": {
+  "submit:sa06": 0.8,
+  "pay:sa07": 0.8,
+  "retrieve:sa08": 0.8,
+  "retrieve:sa03": 0.8,
+  "submit:sa09": 1.0,
+  "pay:sa08": 0.8,
+  "submit:sa02": 0.8,
+  "retrieve:sa07": 0.8,
+  "retrieve:sa09": 0.8,
+  "submit:sa08": 0.8,
+  "retrieve:sa06": 0.8,
+  "retrieve:sa02": 0.8,
+  "retrieve:sa04": 0.8,
+  "submit:sa11": 0.8,
+  "submit:sa07": 0.8,
+  "retrieve:sa10": 0.8,
+  "submit:sa10": 0.8,
+  "submit:sa04": 0.8,
+  "retrieve:sa05": 0.8,
+  "submit:sa03": 0.8,
+  "retrieve:sa11": 0.8,
+  "submit:sa05": 0.8
+ },
+ "ministry_of_muni.permit_for_24_hour_commercial__sa10.get": {
+  "pay:sa08": 0.8,
+  "pay:sa07": 0.8,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0
+ },
+ "ministry_of_muni.permit_for_24_hour_commercial__sa10.submit": {
+  "submit:sa10": 0.8,
+  "submit:sa02": 0.2
+ },
+ "ministry_of_muni.issuance_of_a_seasonal_health__sa09.get": {
+  "retrieve:sa09": 1.0,
+  "submit:sa09": 1.0,
+  "submit:sa06": 0.6,
+  "pay:sa07": 0.6,
+  "retrieve:sa08": 0.6,
+  "retrieve:sa03": 0.6,
+  "pay:sa08": 0.6,
+  "submit:sa02": 0.6,
+  "retrieve:sa07": 0.6,
+  "submit:sa08": 0.6,
+  "retrieve:sa06": 0.6,
+  "retrieve:sa02": 0.6,
+  "retrieve:sa04": 0.6,
+  "submit:sa11": 0.6,
+  "submit:sa07": 0.6,
+  "retrieve:sa10": 0.6,
+  "submit:sa10": 0.6,
+  "submit:sa04": 0.6,
+  "retrieve:sa05": 0.6,
+  "submit:sa03": 0.6,
+  "retrieve:sa11": 0.6,
+  "submit:sa05": 0.6
+ },
+ "general_director.safety_license_salama_portal_sa12.submit": {
+  "submit:sa12": 1.0
+ },
+ "ministry_of_muni.issuing_a_home_delivery_permit_sa11.get": {
+  "submit:sa06": 1.0,
+  "pay:sa07": 1.0,
+  "retrieve:sa08": 1.0,
+  "retrieve:sa03": 1.0,
+  "submit:sa09": 1.0,
+  "pay:sa08": 1.0,
+  "submit:sa02": 1.0,
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "submit:sa08": 1.0,
+  "retrieve:sa06": 1.0,
+  "retrieve:sa02": 1.0,
+  "retrieve:sa04": 1.0,
+  "submit:sa11": 1.0,
+  "submit:sa07": 1.0,
+  "retrieve:sa10": 1.0,
+  "submit:sa10": 1.0,
+  "submit:sa04": 1.0,
+  "retrieve:sa05": 1.0,
+  "submit:sa03": 1.0,
+  "retrieve:sa11": 1.0,
+  "submit:sa05": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_businesse_sa13.submit": {
+  "submit:sa13": 1.0
+ },
+ "general_director.safety_license_salama_portal_sa12.get": {
+  "retrieve:sa12": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_individua_sa14.submit": {
+  "submit:sa14": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_businesse_sa13.get": {
+  "retrieve:sa17": 1.0,
+  "submit:sa13": 1.0,
+  "retrieve:sa15": 1.0,
+  "submit:sa14": 1.0,
+  "submit:sa16": 1.0,
+  "submit:sa15": 1.0,
+  "submit:sa18": 1.0,
+  "retrieve:sa16": 1.0,
+  "submit:sa17": 1.0,
+  "retrieve:sa13": 1.0,
+  "retrieve:sa18": 1.0,
+  "retrieve:sa14": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_individua_sa14.get": {
+  "submit:sa14": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_a_group_sa15.submit": {
+  "submit:sa15": 1.0
+ },
+ "zakat_tax_and_cu.vat_registration_for_a_group_sa15.get": {
+  "submit:sa15": 1.0
+ },
+ "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.submit": {
+  "submit:sa13": 1.0,
+  "submit:sa16": 1.0,
+  "submit:sa14": 1.0,
+  "submit:sa15": 1.0,
+  "submit:sa18": 1.0,
+  "submit:sa17": 1.0
+ },
+ "zakat_tax_and_cu.zakat_and_income_tax_registrat_sa16.get": {
+  "retrieve:sa16": 1.0
+ },
+ "zakat_tax_and_cu.verify_vat_registration_sa17.submit": {
+  "retrieve:sa17": 1.0
+ },
+ "zakat_tax_and_cu.verify_vat_registration_sa17.get": {
+  "retrieve:sa17": 1.0,
+  "retrieve:sa13": 0.6
+ },
+ "zakat_tax_and_cu.update_vat_registration_detail_sa18.submit": {
+  "submit:sa18": 1.0
+ },
+ "zakat_tax_and_cu.update_vat_registration_detail_sa18.get": {
+  "submit:sa18": 1.0
+ },
+ "general_organiza.register_a_new_establishment_o_sa19.submit": {
+  "submit:sa19": 1.0
+ },
+ "ministry_of_huma.visa_issuance_for_an_establish_sa20.submit": {
+  "submit:sa20": 1.0
+ },
+ "general_organiza.register_a_new_establishment_o_sa19.get": {
+  "submit:sa19": 1.0
+ },
+ "ministry_of_huma.employee_transfer_from_another_sa21.submit": {
+  "submit:sa21": 1.0
+ },
+ "ministry_of_huma.visa_issuance_for_an_establish_sa20.get": {
+  "retrieve:sa20": 1.0,
+  "submit:sa20": 1.0
+ },
+ "general_director.renewal_of_residence_permit_iq_sa22.submit": {
+  "submit:sa23": 1.0,
+  "submit:sa24": 1.0,
+  "submit:sa22": 1.0
+ },
+ "ministry_of_huma.employee_transfer_from_another_sa21.get": {
+  "submit:sa21": 0.8,
+  "retrieve:sa21": 1.0
+ },
+ "general_director.renewal_of_residence_permit_iq_sa22.pay": {
+  "pay:sa22": 1.0
+ },
+ "general_director.renewal_of_residence_permit_iq_sa22.get": {
+  "retrieve:sa22": 1.0
+ },
+ "general_director.extension_of_an_exit_and_re_en_sa23.submit": {
+  "submit:sa23": 1.0
+ },
+ "general_director.extension_of_an_exit_and_re_en_sa23.get": {
+  "submit:sa23": 1.0,
+  "pay:sa23": 1.0,
+  "retrieve:sa23": 1.0
+ },
+ "general_director.final_exit_visa_sa24.submit": {
+  "submit:sa24": 1.0
+ },
+ "general_director.extension_of_an_exit_and_re_en_sa23.pay": {
+  "pay:sa23": 1.0
+ },
+ "general_director.final_exit_visa_sa24.get": {
+  "submit:sa24": 1.0,
+  "pay:sa24": 1.0,
+  "retrieve:sa24": 1.0
+ },
+ "general_director.final_exit_visa_sa24.pay": {
+  "pay:sa24": 1.0
+ },
+ "helper.upload_renewal_of_residence_permit_iq": {
+  "submit:sa24": 0.8,
+  "pay:sa24": 0.8,
+  "pay:sa23": 0.8,
+  "retrieve:sa24": 0.8,
+  "retrieve:sa23": 0.8,
+  "submit:sa23": 0.8,
+  "retrieve:sa22": 1.0,
+  "submit:sa22": 1.0,
+  "pay:sa22": 1.0
+ },
+ "helper.upload_renewal_of_a_health_certificat": {
+  "retrieve:sa07": 1.0,
+  "retrieve:sa09": 1.0,
+  "retrieve:sa08": 1.0,
+  "submit:sa09": 1.0,
+  "submit:sa07": 1.0,
+  "submit:sa08": 1.0
+ }
+}

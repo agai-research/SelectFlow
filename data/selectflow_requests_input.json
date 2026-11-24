@@ -1,0 +1,1652 @@
+{
+ "requests": [
+  {
+   "id": "req_gr01",
+   "country": "Greece",
+   "goal": "obtain: Announcement of Establishment and Operation of a Diving Crew"
+  },
+  {
+   "id": "req_gr02",
+   "country": "Greece",
+   "goal": "obtain: Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them"
+  },
+  {
+   "id": "req_gr03",
+   "country": "Greece",
+   "goal": "obtain: Announcement of Operation of a Private Passenger Car Rental Business"
+  },
+  {
+   "id": "req_gr05",
+   "country": "Greece",
+   "goal": "obtain: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck"
+  },
+  {
+   "id": "req_gr07",
+   "country": "Greece",
+   "goal": "obtain: Announcement of Rental of Motor Boats and Small Speedboats"
+  },
+  {
+   "id": "req_gr08",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the commencement of sales of plant protection products (PPPs)"
+  },
+  {
+   "id": "req_gr09",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person)"
+  },
+  {
+   "id": "req_gr10",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship"
+  },
+  {
+   "id": "req_gr11",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)"
+  },
+  {
+   "id": "req_gr12",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner"
+  },
+  {
+   "id": "req_gr13",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Operation of a Trade Fair - Domestic Trade Fair"
+  },
+  {
+   "id": "req_gr14",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Operation of a Trade Fair - International Trade Fair"
+  },
+  {
+   "id": "req_gr15",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts"
+  },
+  {
+   "id": "req_gr16",
+   "country": "Greece",
+   "goal": "obtain: Announcement of the Start of Circulation of a Waste-Receiving Ship"
+  },
+  {
+   "id": "req_gr17",
+   "country": "Greece",
+   "goal": "obtain: Approval for the establishment and operation of a college by a natural person"
+  },
+  {
+   "id": "req_gr20",
+   "country": "Greece",
+   "goal": "obtain: Approval of the operation of recreational activities on land within tourist ports"
+  },
+  {
+   "id": "req_gr21",
+   "country": "Greece",
+   "goal": "obtain: Attestation that a Shop may be established at the specific location"
+  },
+  {
+   "id": "req_gr22",
+   "country": "Greece",
+   "goal": "obtain: Authorisation to engage in the occupation of road haulage operator"
+  },
+  {
+   "id": "req_gr25",
+   "country": "Greece",
+   "goal": "obtain: Certificate of Suitability for Administrative and Other Staff of a Casino Business"
+  },
+  {
+   "id": "req_gr26",
+   "country": "Greece",
+   "goal": "obtain: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest"
+  },
+  {
+   "id": "req_gr27",
+   "country": "Greece",
+   "goal": "obtain: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity"
+  },
+  {
+   "id": "req_gr28",
+   "country": "Greece",
+   "goal": "obtain: Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest"
+  },
+  {
+   "id": "req_gr29",
+   "country": "Greece",
+   "goal": "obtain: Change of Notification of the Establishment and Operation of Theatres and Cinemas"
+  },
+  {
+   "id": "req_gr30",
+   "country": "Greece",
+   "goal": "obtain: Copy of certificate of competence for instructors of speedboat operator candidates"
+  },
+  {
+   "id": "req_gr31",
+   "country": "Greece",
+   "goal": "obtain: Establishment and Operation of Amateur Dance Schools by a Natural Person"
+  },
+  {
+   "id": "req_gr32",
+   "country": "Greece",
+   "goal": "obtain: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons"
+  },
+  {
+   "id": "req_gr33",
+   "country": "Greece",
+   "goal": "obtain: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks"
+  },
+  {
+   "id": "req_gr37",
+   "country": "Greece",
+   "goal": "obtain: Licence for setting up and operating a heliport"
+  },
+  {
+   "id": "req_gr38",
+   "country": "Greece",
+   "goal": "obtain: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)"
+  },
+  {
+   "id": "req_gr39",
+   "country": "Greece",
+   "goal": "obtain: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)"
+  },
+  {
+   "id": "req_gr40",
+   "country": "Greece",
+   "goal": "obtain: Licence for the Operation of Antique Shops"
+  },
+  {
+   "id": "req_gr42",
+   "country": "Greece",
+   "goal": "obtain: Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles"
+  },
+  {
+   "id": "req_gr43",
+   "country": "Greece",
+   "goal": "obtain: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2"
+  },
+  {
+   "id": "req_gr44",
+   "country": "Greece",
+   "goal": "obtain: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2"
+  },
+  {
+   "id": "req_gr45",
+   "country": "Greece",
+   "goal": "obtain: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93"
+  },
+  {
+   "id": "req_gr46",
+   "country": "Greece",
+   "goal": "obtain: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample"
+  },
+  {
+   "id": "req_gr47",
+   "country": "Greece",
+   "goal": "obtain: Licensing of logistics facilities (storage and distribution centres)"
+  },
+  {
+   "id": "req_gr48",
+   "country": "Greece",
+   "goal": "obtain: Notification about operating parking areas for heavy-duty vehicles"
+  },
+  {
+   "id": "req_gr49",
+   "country": "Greece",
+   "goal": "obtain: Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must"
+  },
+  {
+   "id": "req_gr50",
+   "country": "Greece",
+   "goal": "obtain: Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines"
+  },
+  {
+   "id": "req_gr51",
+   "country": "Greece",
+   "goal": "obtain: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto"
+  },
+  {
+   "id": "req_gr52",
+   "country": "Greece",
+   "goal": "obtain: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities"
+  },
+  {
+   "id": "req_gr53",
+   "country": "Greece",
+   "goal": "obtain: Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine"
+  },
+  {
+   "id": "req_gr54",
+   "country": "Greece",
+   "goal": "obtain: Notification of establishment and operation of a gym or sports school"
+  },
+  {
+   "id": "req_gr55",
+   "country": "Greece",
+   "goal": "obtain: Notification of establishment and operation of beauty parlours"
+  },
+  {
+   "id": "req_gr56",
+   "country": "Greece",
+   "goal": "obtain: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver"
+  },
+  {
+   "id": "req_gr57",
+   "country": "Greece",
+   "goal": "obtain: Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent"
+  },
+  {
+   "id": "req_gr58",
+   "country": "Greece",
+   "goal": "obtain: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver"
+  },
+  {
+   "id": "req_gr59",
+   "country": "Greece",
+   "goal": "obtain: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)"
+  },
+  {
+   "id": "req_gr60",
+   "country": "Greece",
+   "goal": "obtain: Notification of Operation of a Vehicle Roadside Assistance Company"
+  },
+  {
+   "id": "req_gr61",
+   "country": "Greece",
+   "goal": "obtain: Notification of operation of Car and Motorcycle Driving Schools and their branches"
+  },
+  {
+   "id": "req_gr63",
+   "country": "Greece",
+   "goal": "obtain: Notification of Operation of Main Tourist Accommodation Facilities"
+  },
+  {
+   "id": "req_gr64",
+   "country": "Greece",
+   "goal": "obtain: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds"
+  },
+  {
+   "id": "req_gr65",
+   "country": "Greece",
+   "goal": "obtain: Notification of Operation of Vehicle Roadside Assistance Partner"
+  },
+  {
+   "id": "req_gr66",
+   "country": "Greece",
+   "goal": "obtain: Notification of provision of recreational diving services"
+  },
+  {
+   "id": "req_gr67",
+   "country": "Greece",
+   "goal": "obtain: Notification of Relocation - Expansion of Gym or Sports School to a New Building"
+  },
+  {
+   "id": "req_gr68",
+   "country": "Greece",
+   "goal": "obtain: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations"
+  },
+  {
+   "id": "req_gr69",
+   "country": "Greece",
+   "goal": "obtain: Notification of the Commencement of Operation of Sheltered Parkings"
+  },
+  {
+   "id": "req_gr70",
+   "country": "Greece",
+   "goal": "obtain: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation"
+  },
+  {
+   "id": "req_gr71",
+   "country": "Greece",
+   "goal": "obtain: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession"
+  },
+  {
+   "id": "req_gr72",
+   "country": "Greece",
+   "goal": "obtain: Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)"
+  },
+  {
+   "id": "req_gr73",
+   "country": "Greece",
+   "goal": "obtain: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest"
+  },
+  {
+   "id": "req_gr74",
+   "country": "Greece",
+   "goal": "obtain: Notification of the Establishment and Operation of Theatres and Cinemas"
+  },
+  {
+   "id": "req_gr75",
+   "country": "Greece",
+   "goal": "obtain: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds"
+  },
+  {
+   "id": "req_gr77",
+   "country": "Greece",
+   "goal": "obtain: Operating licence for a private company acting as security services provider (sole proprietorship)"
+  },
+  {
+   "id": "req_gr78",
+   "country": "Greece",
+   "goal": "obtain: Renewal of a licence to operate a high-speed craft"
+  },
+  {
+   "id": "req_gr79",
+   "country": "Greece",
+   "goal": "obtain: Temporary (active) fire protection certificate"
+  },
+  {
+   "id": "req_sa02",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Issuing a commercial license"
+  },
+  {
+   "id": "req_sa03",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Issuing a fast-track commercial license"
+  },
+  {
+   "id": "req_sa04",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Renewing a commercial license"
+  },
+  {
+   "id": "req_sa06",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Issuance of a building occupancy and compliance certificate"
+  },
+  {
+   "id": "req_sa08",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Renewal of a health certificate"
+  },
+  {
+   "id": "req_sa10",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Permit for 24-hour commercial activities"
+  },
+  {
+   "id": "req_sa11",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Issuing a home delivery permit"
+  },
+  {
+   "id": "req_sa12",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Safety license (Salama portal)"
+  },
+  {
+   "id": "req_sa13",
+   "country": "Saudi Arabia",
+   "goal": "obtain: VAT registration for businesses"
+  },
+  {
+   "id": "req_sa15",
+   "country": "Saudi Arabia",
+   "goal": "obtain: VAT registration for a group"
+  },
+  {
+   "id": "req_sa16",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Zakat and income tax registration"
+  },
+  {
+   "id": "req_sa18",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Update VAT registration details"
+  },
+  {
+   "id": "req_sa19",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Register a new establishment or branch in GOSI"
+  },
+  {
+   "id": "req_sa20",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Visa issuance for an establishment"
+  },
+  {
+   "id": "req_sa21",
+   "country": "Saudi Arabia",
+   "goal": "obtain: Employee transfer from another employer"
+  }
+ ],
+ "procedures": {
+  "gr00": {
+   "title": "Announcement of Commencement of Operation of a Seaside Resort",
+   "text": "This procedure concerns the commencement of operation of a seaside resort. It is addressed to natural and legal persons. Basic information On the protection of the marine environment and regulations of related issues. Legal references https://api.et.gr/apiLAW/1/1977/743/pdf Presidential Decree 71 2020 166 Α Lifeguard training schools, issuing of lifeguard licences, compulsory recruitment of lifeguards on organised or non-organised beaches. Legal references https://api.et.gr/apiLAW/2/2020/71/pdf Joint Ministerial Decision 513.12/13/118β 2013 35 Β Simplification and inclusion, in Citizens' Servi",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr01": {
+   "title": "Announcement of Establishment and Operation of a Diving Crew",
+   "text": "This process concerns the announcement of the establishment and operation of a diving crew for carrying out diving work. It is addressed to natural and legal persons. Basic information Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of eleven (11) administrative procedures within the remit of the Ministry of Shipping and the Aegean / Hellenic Coast Guard Headquarters, pursuant to Law 3844/2010 (Series I, 63), in implementation of Directive 2006/123/EC, and replacement of Decision DIADP/F.A.2.1/21866, \"Simplification and inclusion, in Citizens' ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr02": {
+   "title": "Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them",
+   "text": "This procedure concerns the announcement of installation of floating craft or permanent mooring of ships  and establishment of shops of sanitary interest on them. Basic information Conditions — supporting documents — procedure. Legal references https://api.et.gr/apiFEK/2/2013/35/pdf Joint Ministerial Decision 10551 2007 246 Β Conditions — Supporting documents Legal references https://api.et.gr/apiFEK/2/2007/246/pdf Joint Ministerial Decision 2123/03 2001 269 Β Conditions — Supporting documents Legal references https://api.et.gr/apiFEK/2/2001/269/pdf Circular 8 2014 Market-regulation inspection",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr03": {
+   "title": "Announcement of Operation of a Private Passenger Car Rental Business",
+   "text": "The procedure concerns the announcement of operation of a rental business for cars of Private Use (P.U.). Basic information Registration in the Register of Tourism Enterprises. Legal references https://api.et.gr/apiLAW/1/2014/4276/pdf Presidential Decree 20 127 2017 157 Α Competence of the Regional Tourism Service  for the implementation of the reporting procedure. Legal references https://api.et.gr/apiLAW/2/2017/127/pdf Joint Ministerial Decision 17393 2012 3292 Β Conditions and procedures for the operation of a private passenger-car rental business. Legal references https://api.et.gr/apiFEK/",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr04": {
+   "title": "Announcement of Operation of a Ship Brokerage Office",
+   "text": "The procedure concerns the announcement of operation of a ship brokerage office. Basic information Simplification of operating procedures of tourist enterprises and tourist infrastructures, specific forms of tourism and other provisions. Legal references https://api.et.gr/apiLAW/1/2014/4276/pdf Presidential Decree 20 127 2017 157 Α Organisation of the Ministry of Tourism — competence of the Regional Tourism Services for implementing the notification procedure. Legal references https://api.et.gr/apiLAW/2/2017/127/pdf Joint Ministerial Decision 798 2012 19 Β Terms and conditions for the establis",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr05": {
+   "title": "Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck",
+   "text": "This procedure concerns the announcement of operation of reception of ship oil residues by a tank truck. It refers to natural persons and legal entities. Basic information Criminal-law protection of the environment — Alignment with Directive 2008/99/EC — Framework for waste production and management — Alignment with Directive 2008/98/EC — Regulation of matters concerning the Ministry of Environment, Energy and Climate Change. Legal references https://api.et.gr/apiLAW/1/2012/4042/pdf Law 743 1977 319 Α On the protection of the marine environment and the regulation of related issues. Legal refer",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr06": {
+   "title": "Announcement of Recognition of a Scuba Diver Certification Body",
+   "text": "This procedure concerns the announcement of recognition of a scuba diver certification body. It is addressed to natural and legal persons. Basic information Recreational diving and other provisions. Legal references https://api.et.gr/apiFEK/1/2005/273/pdf Joint Ministerial Decision 513.12/13/118β 2013 35 Β Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of eleven (11) administrative procedures within the remit of the Ministry of Shipping and the Aegean / Hellenic Coast Guard Headquarters, pursuant to Law 3844/2010 (Series I, 63), in implementat",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr07": {
+   "title": "Announcement of Rental of Motor Boats and Small Speedboats",
+   "text": "This procedure concerns the announcement of rental of motor boats and small speed-boats. Basic information Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of eleven (11) administrative procedures within the remit of the Ministry of Shipping and the Aegean / Hellenic Coast Guard Headquarters, pursuant to Law 3844/2010 (Series I, 63), in implementation of Directive 2006/123/EC, and replacement of Decision DIADP/F.A.2.1/21866, \"Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of five (5) administrat",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr08": {
+   "title": "Announcement of the commencement of sales of plant protection products (PPPs)",
+   "text": "Τhe procedure relates to announcement of the commencement of sales of plant protection products (PPPs). A plant protection product shop or store is the space where producers obtain pesticides to use on their crops. This is addressed to citizens, business undertakings and legal entities. Basic information Relating to amendment of Joint Ministerial Decision of Law 307752/18-11-2010 (Government Gazette, Series II, of Law 1865) regarding the conditions for submitting an application, the model application forms, the fees and the procedure. Legal references https://diavgeia.gov.gr/doc/%CE%A8%CE%9A%C",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr09": {
+   "title": "Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person)",
+   "text": "The procedure concerns the announcement of the practice of the profession of silversmiths, second-hand sellers, pawnbrokers and those engaged in the purchase or sale of used jewelry and fine jewelry from gold and other valuables. These professionals announce the practice at the police station of their headquarters. The relevant announcement can be submitted electronically with the personal passwords to TAXISnet and the interested party is informed about the progress of his case by e-mail. Basic information Practice of the professions of money changers, antique dealers, pawnbrokers and persons ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr10": {
+   "title": "Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship",
+   "text": "This procedure concerns the announcement of the establishment and operation of a shop of sanitary interest on a seagoing ship. It is addressed to natural and legal persons. Basic information Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of eleven (11) administrative procedures within the remit of the Ministry of Shipping and the Aegean / Hellenic Coast Guard Headquarters, pursuant to Law 3844/2010 (Series I, 63), in implementation of Directive 2006/123/EC, and replacement of Decision DIADP/F.A.2.1/21866, \"Simplification and inclusion, in Citi",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr11": {
+   "title": "Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)",
+   "text": "This procedure concerns the announcement of the operation of a private Centre for the Technical Inspection of Vehicles. It refers to natural persons and legal entities. Basic information Private vehicle technical-inspection centres are licensed under Laws 2963/2001 (Series I, 268) and 3919/2011 (Series I, 32). Law 2963/2001 (Series I, 268), “Organisation and operation of public passenger transport by bus, vehicle technical inspection, land-transport safety and other provisions”, has the following amendments: — Law 4850/2021 (Series I, 208), Article 73, amending Articles 34 and 36 of Law 2963/2",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr12": {
+   "title": "Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner",
+   "text": "The procedure concerns the announcement of the operation of a Private Vehicle Inspection Centre (I.K.T.E.O.), in the case of the transfer of the existing licence to a new owner. More specifically, it concerns the request for the issue of a new Confirmation of Lawful Operation after the transfer of the operating licence or Confirmation of Legal Operation of the Private Vehicle Inspection Centre, by the former to the new owner. In this case, a Certificate of Legal Operation of the Private Vehicle Inspection Centre is issued under the name of the new owner. Basic information Law 2963/2001 (ΦΕΚ 26",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr13": {
+   "title": "Announcement of the Operation of a Trade Fair - Domestic Trade Fair",
+   "text": "The procedure concerns the announcement of the operation of an exhibition by an organizer who is permanently established in Greece. The notification of the concerned organizer is submitted to the relevant municipality or, in the case of an international exhibition, to the relevant Region. It is addressed to citizens, businesses and legal entities. Basic information - Article 112 (Definitions) Legal references https://api.et.gr/apiLAW/1/2018/4512/pdf 1 Initiation of procedure No No 0 0 2 Submission of announcement/notification Responsible for Implementation The organiser submits to the protocol",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr14": {
+   "title": "Announcement of the Operation of a Trade Fair - International Trade Fair",
+   "text": "This procedure concerns the announcement of the operation of a trade fair in an exhibition centre or space by a cross-border organiser, as defined by article 2 of Law 4512/2018. Basic information In particular: Legal references https://api.et.gr/apiLAW/1/2018/4512/pdf 1 Start of procedure No No 0 0 2 Submission of announcement/notification Responsible for Implementation The interested party submits to the protocol office of the relevant Municipality or Region (in cases of International Fairs) an announcement/notification of operation of the fair, accompanied by the required supporting document",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr15": {
+   "title": "Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts",
+   "text": "This procedure concerns the announcement of the operation of receiving oil residues by tankers and floating craft. Basic information Criminal-law protection of the environment — Alignment with Directive 2008/99/EC — Framework for waste production and management — Alignment with Directive 2008/98/EC — Regulation of matters concerning the Ministry of Environment, Energy and Climate Change. Legal references https://api.et.gr/apiLAW/1/2012/4042/pdf Law 743 1977 319 Α On the protection of the marine environment and the regulation of related issues. Legal references https://api.et.gr/apiLAW/1/1977/7",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr16": {
+   "title": "Announcement of the Start of Circulation of a Waste-Receiving Ship",
+   "text": "This procedure concerns the announcement of the start of circulation of a waste-receiving ship. It is addressed to natural and legal persons Basic information Criminal-law protection of the environment — Alignment with Directive 2008/99/EC — Framework for waste production and management — Alignment with Directive 2008/98/EC — Regulation of matters concerning the Ministry of Environment, Energy and Climate Change. Legal references https://api.et.gr/apiLAW/1/2012/4042/pdf Law 743 1977 319 Β On the protection of the marine environment and the regulation of related issues. Legal references https:/",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr17": {
+   "title": "Approval for the establishment and operation of a college by a natural person",
+   "text": "The procedure concerns the approval of the establishment and operation of a college and is addressed to natural persons who have a permanent establishment in an EU Member State and whose purpose is also to provide education and training services. Basic information Determination of the procedure, content, supporting documents, fee, monetary amount and penalties for approving the establishment and operation, and notifying the operation, of activities in the education sector. Legal references https://api.et.gr/apiFEK/2/2022/609/pdf Law 71 4849 2021 207 Α Simplification of the establishment and op",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr18": {
+   "title": "Approval for the operation of ski resorts",
+   "text": "The procedure concerns the approval for the operation of the activity of ski resorts, as an installation of special tourism infrastructure. Basic information Simplification of the operating framework for ski resorts — Chapter LI. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 13 4179 2013 175 Α Arrangements for ski resorts. Amendments: — Law 4926/2022 (Series I, 82), Article 109: amendment of the title and scope; — Law 4875/2021 (Series I, 250), Article 45: amendment concerning the deadline for submitting the decision approving the environmental conditions of ski resorts; — Law 4",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr19": {
+   "title": "Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry",
+   "text": "The procedure concerns the approval of establishment of laboratories for meat slicing and for standardization, as well as for meat preparations from ungulates and poultry. The established meat slicing and standardization laboratories are facilities used for meat slicing, boning, meat processing, meat packaging, minced meat production, production of meat products and their freezing. It is noted that another code is required for ungulate meat and another for poultry. Basic information Simplification of the framework for carrying out food-manufacturing and related activities, and standardisation ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr20": {
+   "title": "Approval of the operation of recreational activities on land within tourist ports",
+   "text": "The procedure concerns the authorisation of the operation of amusement parks, circuses and ice-skating rinks, which are carried out in a covered or open-air area on land within a tourist port. Basic information New institutional framework for the exercise of economic activity and other provisions — CHAPTER XIX: FRAMEWORK FOR THE OPERATION OF AMUSEMENT PARKS, CIRCUSES AND ICE-SKATING RINKS, as added by Article 3 of Law 4796/2021 (Series I, 63) — AMENDMENTS: Article 41 of Law 4872/2021 (Series I, 247) — Article 75 of Law 4914/2022 (Series I, 61). Legal references https://api.et.gr/apiFEK/1/2016/",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr21": {
+   "title": "Attestation that a Shop may be established at the specific location",
+   "text": "Issue of an attestation to the interested party (natural or legal person) that the shop may be established at the specific location. Concerns (a) Shops of sanitary interest (KYE), (b) theatres and cinemas. Does not concern: the stores of sanitary interest within tourist accommodation, within the facilities of special tourist infrastructures of par.1 of Law 4276/2014, shops of sanitary interest within land port area and shops of sanitary interest within seagoing ships. Basic information Notification of operation. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 285 3463 2006 114 Α D",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr22": {
+   "title": "Authorisation to engage in the occupation of road haulage operator",
+   "text": "The procedure concerns the issuance of an authorisation to engage in the occupation of road haulage operator or the renewal of the authorisation to engage in the occupation of road haulage operator. In the case of an application for the renewal of the authorisation to engage in the occupation of road haulage operator due to its expiry, all the supporting documents relating to the issuance of the authorisation to engage in the occupation of road haulage operator shall be submitted, in addition to the expired authorisation (document) to engage in the occupation of road haulage operator. Basic in",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr23": {
+   "title": "Certificate of annual activity in short-term markets",
+   "text": "The procedure concerns the issue of a certificate of annual activity in short-term markets. The certificate of annual activity in short-term markets is issued to natural and legal persons from the municipalities and regions. It enables the holder to apply for his participation as a seller in short-term markets under Law 4849/2021 (A-207), i.e. to short-day holidays, religious festivals, Christmas markets and Easter markets, commercial fairs, anniversary markets, seasonal markets, seasonal markets and raccoon markets throughout the country. The holders of the certificate of activity attestation",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr24": {
+   "title": "Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps",
+   "text": "The procedure concerns the announcement of operation of truck stations for loading-unloading goods or for temporary storage of goods, of type A (with a usable surface from 250 sq.m. to 800 sq.m. as defined in Article 9 (par. 3.1) of Law 79/2004, without installation of fuel pumps, as well as the announcement of possible changes/modifications of these installations. Through these procedures, the Certificate of Lawful Operation is issued (Circular No. 13929/929/11.3.2014), provided that all legal requirements are met. Basic information Principle of professional freedom and abolition of unjustifi",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr25": {
+   "title": "Certificate of Suitability for Administrative and Other Staff of a Casino Business",
+   "text": "The procedure concerns the certificate of suitability for administrative and other staff of a Casino Business and the issue of a Suitability Card, Occupational Efficiency Card, as the administrative and other staff, chief and assistant, a Casino License Holder is required to have obtained a certificate of suitability from the Committee from the Hellenic Gaming Commission. Basic information Regulation of the gaming market and other provisions. Legal references https://api.et.gr/apiFEK/1/2011/180/pdf Ministerial Decision 7 56580 ΕΞ 2022 2022 2166 Β Amendment and codification of Decision no. 7930",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr26": {
+   "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest",
+   "text": "The procedure pertains to the Change of Notification of the Foundation and Operation of Food Service Establishments. The interested party (person or legal entity) notifies – online- the competent authority for (a) any changes in the Entity providing the the activity or (b) any changes in the details already registered in the initial notification for the establishment and commencement of operation of a Food Service Establishment at a specific place or premise. Basic information Paragraph 2: obligation to obtain certification that the establishment may be founded at the specific location Legal r",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr27": {
+   "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity",
+   "text": "The procedure pertains to the Change of Notification of the Establishment and Operation of a Food Service Establishment for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with the Addition of a Νew Αctivity and is addressed to citizens and legal entities. The interested party (person or legal entity) notifies – online- the relevant authority for the addition of a new activity which was not stated in the initial notification for the establishment and commencement of operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III o",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr28": {
+   "title": "Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest",
+   "text": "The procedure concerns the Amendment of the Notification of the Establishment and Operation of a Food Service Establishment and is addressed to citizens and legal entities. The interested party (person or legal entity) notifies – electronically - the competent authority for (a) any changes in the Entity providing the activity or (b) any changes in the data and information already registered in the initial notification for the establishment and commencement of operations of a a Food Service Establishment at a specific place or premise. Basic information As amended and still in force / Article 2",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr29": {
+   "title": "Change of Notification of the Establishment and Operation of Theatres and Cinemas",
+   "text": "The process pertains to the Change of Notification for the Establishment and Operation of Theatres and Cinemas and it is addressed to persons and legal entities. The interested party (person or legal entity) sends an online notification to the competent authority about the change of the activity provider or about the change of its details which have been registered during the initial notification for the establishment and start-up of theaters and cinemas. Basic information Paragraph 2: obligation to obtain certification that the establishment may be founded at the specific location Legal refer",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr30": {
+   "title": "Copy of certificate of competence for instructors of speedboat operator candidates",
+   "text": "The procedure concerns the issuance of a copy of a certificate of competence for instructors of speedboat operator candidates, in the event of loss of / damage to the original valid certificate. The copy issued shall be considered the original. The same procedure shall be followed in the event of any change to the particulars listed on the certificate. Basic information General Ports Regulation Legal references https://api.et.gr/apiFEK/2/2019/1628/pdf 1 Receipt of the application and registration Responsible for Implementation Competent Department Μethod of Implementation Manual Action Τhe com",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr31": {
+   "title": "Establishment and Operation of Amateur Dance Schools by a Natural Person",
+   "text": "The procedure concerns the commencement of the exercise of a profession by a natural person, through an announcement to the competent authority, in order to obtain a certificate of legal requirements for the establishment and operation of an Amateur Dance School, the transfer or relocation of the School. It is addressed to natural persons. Basic information Amendment of the following legislative instruments, respectively: Legal references https://api.et.gr/apiLAW/1/2018/4512/pdf Law 61 4481 2017 100 Α Amendment of Article 5, paragraph 1, second sentence, of Presidential Decree 457/83 (requirem",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr32": {
+   "title": "Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons",
+   "text": "The procedure concerns the establishment and operation of Higher Drama Schools and Higher Dance Schools by natural persons. Basic information Procedure for the admission of students to the Higher Schools of Dramatic Art Legal references https://api.et.gr/apiFEK/1/2018/142/pdf Law 347 4512 2018 5 Α - Paragraph 1 - Amendment of Article 4 - and Article 9 par. 4 of Law No. 1158/1981 (Establishment license) Legal references https://api.et.gr/apiLAW/1/2018/4512/pdf Law 50 3905 2010 219 Α Repealed provisions: point (ia). Legal references https://api.et.gr/apiFEK/1/2010/219/pdf Law 10 3207 2003 302 Α ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr33": {
+   "title": "Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks",
+   "text": "This procedure has to do with the establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks. Basic information Framework for carrying out amusement park, circus and ice rink recreational activities – Additional Chapter XIX to Law 4442/2016. Legal references https://api.et.gr/apiLAW/1/2021/4796/pdf Joint Ministerial Decision 65006 2022 3364 Β Determination of the procedure, content, supporting documents, fee and penalties for granting establishment and operating approvals and for notifying the operati",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr34": {
+   "title": "Establishment of a Limited Partnership through the One Stop Service",
+   "text": "This procedure pertains to the establishment of a Limited Partnership (EE) and is processed electronically through the filling in of the relevant fields in the digital One Stop Service (e-YMΣ). Basic information Regarding the use of Article of Associations Template. Legal references https://api.et.gr/apiFEK/2/2017/928/pdf Law 8, 9 4441 2016 227 Α Electronic One-Stop Service, procedure Legal references https://api.et.gr/apiFEK/1/2016/227/pdf 1 Login to the e-YMS platform Responsible for Implementation Entity software that performs the service Μethod of Implementation Data input in software The ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr35": {
+   "title": "Establishment of a Société Anonyme (SA) through the One Stop Service",
+   "text": "This procedure pertains to the establishment of a Société Anonyme (AE) and is processed electronically through the filling in of the relevant fields in the digital One Stop Service (e-ΥΜΣ). Basic information Determination of procedures, conditions, technical details and other matters concerning the operation of one-stop services for forming companies Legal references https://api.et.gr/apiFEK/2/2018/2380/pdf Law 4919 2022 71 Α Formation of companies through One-Stop Services and maintenance of the General Commercial Register — Transposition of Directive (EU (ΕΕ)) 2019/1151 of the European Parli",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr36": {
+   "title": "European Health Insurance Card",
+   "text": "The procedure concerns the issuing of a European Health Insurance Card (EHIC), a free card, which is provided to those who are actively insured by e-EFKA, in order to have access to medically necessary state care during their temporary stay in one of the 27 EU countries, Iceland, Liechtenstein, Norway and Switzerland, with the same conditions and at the same cost (in some countries, free of charge) as insured persons in that country. Basic information Organisation and operation of the Ministry of Foreign Affairs, World Council of Hellenes Abroad, arrangement of matters of international develop",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr37": {
+   "title": "Licence for setting up and operating a heliport",
+   "text": "This procedure concerns granting a licence for setting up and operating a heliport. It is addressed to citizens, local government bodies, private companies, and public institutions. Basic information On the establishment, operation and competences of the Hellenic Civil Aviation Authority. Legal references https://api.et.gr/apiLAW/1/2020/4757/pdf Presidential Decree 19 2009 35 Α On the establishment, construction, equipment, operation and exploitation of heliports. Legal references https://api.et.gr/apiLAW/2/2009/19/pdf Ministerial Decision Δ3/Γ/35526/8161 2008 1810 Β On the adoption of fire sa",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr38": {
+   "title": "Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)",
+   "text": "The procedure concerns the licensing of the establishment and operation of music institutes (conservatories, music schools, choirs, symphony orchestras and chamber music groups) which is assigned to the Municipalities, according to Law 3852/2010 \"New Architecture of Local Government and Decentralized Administration - Kallikrates Program\" article 94 (par. 4, case 28) The suitability conditions/prerequisites inspection is conducted by \"Building Inspection Committees for the Suitability of the Buildings of Music Schools\", which consists of: 2 Technicians (Architect or Civil Engineer) and one Sani",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr39": {
+   "title": "Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)",
+   "text": "The procedure concerns the granting of an operating licence for a Real Estate Investment Company (REIC). Basic information Reform of the institutional framework of Greek Real Estate Investment Companies. Legal references https://api.et.gr/apiLAW/1/2025/5193/pdf Board of Directors Decision 4/452 2007 Fit-and-proper criteria for persons directing the activities of investment firms, investment intermediary companies, mutual fund management companies, portfolio investment companies and real estate investment companies. Board of Directors Decision 3/452 2007 Fit-and-proper criteria for persons dire",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID"
+   ]
+  },
+  "gr40": {
+   "title": "Licence for the Operation of Antique Shops",
+   "text": "This procedure concerns the granting of a licence to establish an antique shop. Basic information Conditions for issuing a licence. Legal references https://api.et.gr/apiFEK/1/2002/153/pdf Ministerial Decision ΥΠΠΟ/ΔΟΕΠΥ/ΤΟΠΥΝΣ/34668 2008 669 Β Suitability and operation of antique shops or modern movable monuments – Prerequisites and  suitability of building installations Legal references https://api.et.gr/apiFEK/2/2008/669/pdf Ministerial Decision ΥΠΠΟΤ/ΓΔΑΠΚ/ΔΜΕΕΠ/Γ2/Φ20/75205/851 2011 1920 Β Processing through Citizens' Service Centres operating as Points of Single Contact; application form",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr41": {
+   "title": "Licence for the Use of Public Spaces",
+   "text": "The procedure concerns the authorisation of the use of public spaces to citizens and businesses using permanent or temporary pavements, streets, squares and general public municipal areas and their territory, after paying a relevant fee to the Municipalities. Basic information Amendment and supplementation of certain provisions of the legislation on local-authority revenue and of certain other related provisions. Legal references https://api.et.gr/apiLAW/1/1980/1080/pdf Royal decree 13 24 Σεπτ/20 Οκτ. 1958 171 Α \"On the codification into a single statutory text of the provisions in force conce",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr42": {
+   "title": "Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles",
+   "text": "This procedure concerns the authorisation of the establishment and/or operation of a mixed or pure service station for the supply of LNG to vehicles or modification of the licence and is addressed to natural and legal persons. Basic information Paragraph 7(c) of Article 114 of Law 4070 provides for the adoption of a joint ministerial decision determining the terms, conditions and technical specifications for installing facilities supplying, among other fuels, liquefied natural gas (LNG) at existing or pending-licensing “Fuel and Energy Supply Stations”. Paragraph 7 of Article 114 of Law 4070/2",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr43": {
+   "title": "Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2",
+   "text": "The procedure concerns the authorisation of a natural or legal person to manufacture pyrotechnic articles Category 1, 2, 3, 4, pyrotechnic articles for the theatre of Class T1, T2, and P1, P2, which must comply with certain conditions under a law in order to be able to legally purchase these articles; it is addressed to citizens and businesses. Basic information Amendment to Council Directive 91/477/EEC on the control of the acquisition and possession of weapons Law 8 3944 2011 67 Α Amendment of Law 456/1976. Legal references https://api.et.gr/apiFEK/1/2011/67/pdf Law 30 2168 1993 147 Α Add Ar",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr44": {
+   "title": "Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2",
+   "text": "The procedure concerns the authorisation of natural or legal persons to trade fireworks Category 1, 2, 3, 4, fireworks for the theatre category T1, T2, and P1, P2, which must comply with certain conditions under a law in order to be able to legally purchase these articles; it is addressed to citizens and businesses. Basic information Amendment of Nos 3009/2/28-c from 16.06.1994 and 3009/2/23-a from 31.08.1994 Legal references https://api.et.gr/apiFEK/2/2020/4705/pdf Joint Ministerial Decision 2222.1-1.2/90149 2016 3454 Β Adaptation of Greek legislation to Directive 2014/90/EU (ΕΕ) of the Europ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr45": {
+   "title": "Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93",
+   "text": "The procedure concerns the granting of a license to trade in air rifles and other objects of article 6 par. 3 subparagraphs δ, η, θ, ια of the law 2168/1993, to an individual or legal entities, which should meet certain statutory requirements to be able to buy legally the mentioned items. Aimed at citizens and businesses. Basic information Trade and distribution. Legal references https://api.et.gr/apiLAW/1/1993/2168/pdf Law 2 2518 1997 164 Α Licence - conditions. Legal references https://api.et.gr/apiFEK/1/1997/164/pdf Joint Ministerial Decision 1016/6/291-μγ 2011 2636 Β Processing through Cit",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr46": {
+   "title": "Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample",
+   "text": "The procedure concerns the granting of a license to an interested party in order to trade in firearms, ammunition and other such items, with natural or legal persons who must meet certain legal conditions in order to be able to purchase these species. Aimed at citizens and businesses. Basic information Trade in Legal references https://api.et.gr/apiLAW/1/1993/2168/pdf Law 2 2518 1997 164 Α Terms and conditions. Legal references https://api.et.gr/apiFEK/1/1997/164/pdf Ministerial Decision 3009/2/23-α 1994 696 Β Supporting documents and procedure for issuing the licences provided for in Laws 216",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr47": {
+   "title": "Licensing of logistics facilities (storage and distribution centres)",
+   "text": "This procedure concerns the licensing of logistics facilities (Storage and Distribution Centres), in accordance with the applicable institutional framework. Basic information Defining the procedure for the establishment and operation of warehousing and distribution centres, in accordance with Article 48K of Law 4442//2016. Legal references https://api.et.gr/apiFEK/2/2018/62/pdf Law 4302/2014 2014 225 Α Regulating supply chain matters and other provisions Legal references https://api.et.gr/apiFEK/1/2014/225/pdf Law CHAPTER I 4442/2016 2016 230 Α New institutional framework for carrying out econ",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr48": {
+   "title": "Notification about operating parking areas for heavy-duty vehicles",
+   "text": "The procedure concerns notification about operating parking areas for heavy-duty vehicles (Article 200 of Law 4442/2016), the supporting documents kept at the premises where the activity is carried out, the method of communicating the particulars in the event of an imminent change, the authorities to which the notification is given and the changes thereto, as well as the stamp duty and penalties for the notification of these establishments. It also concerns notifications about a change of operator. Heavy-duty vehicles are vehicles in categories M2, M3, N, N1, N2, N3, O, O1, O2, O3 and O4 (Arti",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr49": {
+   "title": "Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must",
+   "text": "This procedure concerns the commencement of operation of a factory or winery for the manufacture of concentrated grape must by a natural or legal person. It is aimed at citizens, businesses and legal entities. Basic information Amending Law 4442/2016. Legal references https://api.et.gr/apiFEK/1/2020/145/pdf Law 71, 72, 79 4549 2018 105 Α In particular: Legal references https://api.et.gr/apiFEK/1/2018/105/pdf Law 11,17, 25 4442 2016 230 Α Article 11: Fees. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 2 4336 2015 94 Α Paragraph D, Subparagraph D.11 — Repeal of Joint Ministerial D",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr50": {
+   "title": "Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines",
+   "text": "This procedure concerns the commencement of operation of a workshop for bottling wines and aromatised wines by a natural or a legal person.  It is aimed at citizens, businesses and legal entities. Basic information Article 11: Fees Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 2 4336 2015 94 Α Paragraph D, Subparagraph D.11 — Repeal of Joint Ministerial Decision (ΚΥΑ) 11787/2011 (processing through Single Service Centres). Legal references https://api.et.gr/apiFEK/1/2015/94/pdf Ministerial Decision 1 64618/856/Φ15 2018 2278 Β Amendment of Ministerial Decision 483/35/F.15/2012 (r",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr51": {
+   "title": "Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto",
+   "text": "The procedure concerns the announcement of commencement and the granting of a certificate of compliance with the legal conditions for the operation of: (a) vine stock nurseries and (b) undertakings producing and marketing propagating material of agricultural plant species: - seed production undertakings; - type A, B and C nurseries; and - type A and B undertakings marketing propagating material. It also concerns the procedure for reviewing compliance with the legal conditions for the operation of the above undertakings and changes in the status of the above undertakings and the removal of the ",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr52": {
+   "title": "Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities",
+   "text": "This procedure concerns the notification of the commencement of operation of passenger car washing and lubricating facilities. It also concerns the amendment of the initial notification as well as the notification of change of the activity operator. Basic information New institutional framework for the exercise of economic activity and other provisions. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Ministerial Decision 56926 2023 943 Β Determination of the competent bodies and of the terms and conditions for establishing and operating vehicle washing, cleaning and/or lubrication fac",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr53": {
+   "title": "Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine",
+   "text": "This procedure concerns the commencement of manufacturing activity for the production of natural or artificial (carbonated) sparkling wine by a natural or legal person. It is aimed at citizens, businesses and legal entities. Basic information Amending Law 4442/2016 Legal references https://api.et.gr/apiFEK/1/2020/145/pdf Law 71, 72, 79 4549 2018 105 Α Articles 71 and 79 — amendment of Law 4442 / 2016 (replacement of Article 17). Legal references https://api.et.gr/apiFEK/1/2018/105/pdf Law 11, 17 4442 2016 230 Α Article 11: Fees Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Joint Min",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr54": {
+   "title": "Notification of establishment and operation of a gym or sports school",
+   "text": "The procedure concerns the establishment and operation of a Gymnasium or a Sports School in a new building; it is addressed to citizens, businesses and legal persons. Basic information Amendment of paragraph D of Article 4 of Presidential Decree 219/2006. Legal references https://api.et.gr/apiFEK/1/2012/35/pdf Law 14 3708 2008 210 Α Amendment of Article 2 of Presidential Decree 219/2006 - Services provided. Legal references https://api.et.gr/apiLAW/1/2008/3708/pdf Law 20 3599 2007 176 Α Amendment of Articles 1 and 2 of Presidential Decree 219/2006 — operating licence and services provided. Leg",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr55": {
+   "title": "Notification of establishment and operation of beauty parlours",
+   "text": "The procedure concerns the notification of establishment and operation of beauty parlours. The interested party (natural or legal person) must electronically notify the competent authority of the establishment and operation of a beauty parlour. Basic information Concerning the exercise of the occupation of beautician Legal references https://api.et.gr/apiFEK/1/1969/244/pdf Ministerial Decision Φ.Γ4ε/5258 1970 426 Β On detailed arrangements for implementing Legislative Decree 361/1969 on practising the profession of beautician. Legal references https://api.et.gr/apiFEK/2/1970/426/pdf Joint Mini",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr56": {
+   "title": "Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver",
+   "text": "The procedure concerns the notification of exercise for the activity of private passenger cars with a driver. Basic information Extension of the age limits for withdrawal from circulation of public passenger cars (PRVs) and private passenger cars with a driver. Legal references https://api.et.gr/apiFEK/1/2020/256/pdf Joint Ministerial Decision οικ. Α.50427/2440 2018 4535 Β Identification markings of hired private passenger cars with a driver, referred to in point 1 of subparagraph H.2 of the first article of Law 4093/2012 (Series I, 222), as in force Legal references https://api.et.gr/apiFEK/2",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr57": {
+   "title": "Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent",
+   "text": "The procedure involves actions taken by the operator of non-primary hotel accommodation (Furnished Rooms and Apartments for Rent (FRAR), Tourist Furnished Residences, Tourist Furnished Villas), before the start of the undertaking’s business operation. The notification procedure has replaced the Special Operation Mark. The planned inspection of the lawful operation of the accommodation facilities shall be carried out on an ex post basis by the competent authorities. Basic information Classification by key-rating categories and technical and operating specifications for furnished rooms and apart",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr58": {
+   "title": "Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver",
+   "text": "The procedure concerns the notification of the operation of a rental business for motorcycles, tricycles and quadricycles over 50 cc without a driver. Basic information Competence of the Regional Tourism Service regarding the implementation of the reporting procedure. Legal references https://api.et.gr/apiLAW/2/2017/127/pdf Law 2 4276 2014 155 Α Registration in the Tourism Enterprises Register. Legal references https://api.et.gr/apiLAW/1/2014/4276/pdf Law 4254 2014 85 Α Legal references https://api.et.gr/apiLAW/1/2014/4254/pdf Joint Ministerial Decision 7350 2014 807 Β Terms- Conditions - Proc",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr59": {
+   "title": "Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO)",
+   "text": "The procedure concerns the entry into operation of a Theory Training Centre for Candidate Drivers (KETHEYO) with indicative Activity Code Number (KAD) 85.53.11.01. The notification shall contain the information necessary for the activity carried out and shall be submitted by the operator of the activity, who shall be solely accountable for the information contained therein. Basic information Determination of the procedure, content, supporting documents, fee and penalties for notifying the operation of driving schools Legal references https://api.et.gr/apiFEK/2/2021/4742/pdf Law 4, 215, 216, 21",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr60": {
+   "title": "Notification of Operation of a Vehicle Roadside Assistance Company",
+   "text": "The procedure concerns the initial notification of the operation of a vehicle roadside assistance company and the notification of changes. Basic information Law 3651/2008 (ΦΕΚ Series I, 44), as amended by Article 216 of Law 4512/2018 (ΦΕΚ Series I, 5). Legal references https://api.et.gr/apiFEK/1/2008/44/pdf Law 5 para. 3, 11, 14, 14A, 14B, 15, 206-214 (Chapter L) 4442 2016 230 Α New institutional framework for the exercise of economic activity and other provisions, as amended by Article 3 of Law 4811/2021 (ΦΕΚ Series I, 108), which added a new Chapter L (Articles 206-214), “Simplification of t",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr61": {
+   "title": "Notification of operation of Car and Motorcycle Driving Schools and their branches",
+   "text": "The procedure concerns the opening of car and motorcycle driving schools and their branches under indicative Business Activity Code (KAD) 85.53.11. The notification must contain the information necessary for the activity being carried out and must be submitted by the activity operator, who is solely responsible for the information contained therein. Basic information New institutional framework for the exercise of economic activity and other provisions. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 4, 215, 216, 217, 218 ,219 ,220, 221 ,222, 223 4811 2021 108 Α Simplification of ",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr62": {
+   "title": "Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines",
+   "text": "The procedure concerns the notification of operation of food and beverage vending / preparing and vending Machines. The interested party (natural or legal person) notifies – electronically - the competent authority for the placement of food and beverage vending/ preparing and vending machines in a specific location. It concerns citizens and businesses. Basic information Notification of operation. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 285 3463 2006 114 Α Debt clearance. Legal references https://api.et.gr/apiLAW/1/2006/3463/pdf Joint Ministerial Decision 10 16228 2017 1723",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr63": {
+   "title": "Notification of Operation of Main Tourist Accommodation Facilities",
+   "text": "The procedure relates to actions to be taken by the main tourist accommodation operator (hotel, organised tourist camping site, youth hostels) before the business starts its operation. The notification procedure has replaced the Special Operation Mark. The planned inspection of the lawful operation of the accommodation facilities shall be carried out on an ex post basis by the competent authorities. Basic information Chapter A: operating procedures for tourism undertakings Legal references https://api.et.gr/apiLAW/1/2014/4276/pdf Ministerial Decision 216 2015 10 Β Specifications and criteria f",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr64": {
+   "title": "Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds",
+   "text": "This procedure concerns the notification of the operation of outdoor parking facilities for cars, motorcycles and mopeds, the supporting documents to be kept at the place of activity and uploaded to the Integrated Information System for the Exercise of Activities and Inspections (OPS ADE) under the title ‘OpenBusiness’, the procedure for notifying changes in the event of an impending modification, as well as the authorities to which the notification and any modifications thereof are communicated. Basic information On the terms and conditions for the establishment and operation of car parks and",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr65": {
+   "title": "Notification of Operation of Vehicle Roadside Assistance Partner",
+   "text": "The procedure concerns the initial notification of operation of vehicle assistance partner and the notification of changes. Basic information Conditions for providing roadside assistance to high-voltage vehicles — Operating conditions for roadside-assistance undertakings and roadside-assistance partners — Inspections of vehicle roadside-assistance undertakings and penalties — Road connection of waiting and transfer stations of roadside-assistance undertakings Legal references https://api.et.gr/apiFEK/1/2026/47/pdf Law 206-214 4442 2016 230 Α New institutional framework for the exercise of econ",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr66": {
+   "title": "Notification of provision of recreational diving services",
+   "text": "The procedure concerns the granting of a certificate of compliance with the legal requirements for practising the profession of recreational diving services provider. Basic information Simplification and inclusion, in Citizens' Service Centres operating as Points of Single Contact, of eleven (11) administrative procedures within the remit of the Ministry of Shipping and the Aegean / Hellenic Coast Guard Headquarters, pursuant to Law 3844/2010 (Series I, 63), in implementation of Directive 2006/123/EC, and replacement of Decision DIADP/F.A.2.1/21866, \"Simplification and inclusion, in Citizens' ",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr67": {
+   "title": "Notification of Relocation - Expansion of Gym or Sports School to a New Building",
+   "text": "The procedure involves the notification of the extension or transfer of a gym or a Sports School to a new building. It is addressed to citizens, businesses and legal entities. Basic information Amendment of paragraph D of Article 4 of Presidential Decree 219/2006. Legal references https://api.et.gr/apiFEK/1/2012/35/pdf Law 14 3708 2008 210 Α Amendment of Article 2 of Presidential Decree 219/2006 - Services provided. Legal references https://api.et.gr/apiLAW/1/2008/3708/pdf Law 20 3599 2007 176 Α Amendment of Articles 1 and 2 of Presidential Decree 219/2006 — operating licence and services prov",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr68": {
+   "title": "Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations",
+   "text": "The procedure concerns the notification of the commencement  of  operation of intercity bus stations (article 189 of Law 4442/2016), without fuel pump installations, the supporting documents kept at the place of activity, the procedure of notification of  data in case of an imminent change, the authorities to which the notification shall be communicated and any relevant changes. It also concerns the notification of a change of activity. The stations are divided into categories according to the annual number of passengers embarking or disembarking each year: category 1 (up to 150.000 passengers",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr69": {
+   "title": "Notification of the Commencement of Operation of Sheltered Parkings",
+   "text": "The procedure concerns the notification of operation of sheltered car parks, motorcycles and motorcycles, supporting documents kept in the field of activity, the way information is disclosed in the event of an imminent change, the authorities to which the notification and its changes are notified. Basic information New institutional framework for the exercise of economic activity and other provisions. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Ministerial Decision 329369 2023 6458 Β Determination of the terms and conditions for creating, developing, operating and maintaining a Di",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr70": {
+   "title": "Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation",
+   "text": "The procedure concerns the actions to be taken by the operator of the tourist accommodation if the accommodation includes swimming pools. The notification procedure has replaced the issuance of a swimming pool operation permit. Swimming pools within tourist accommodation shall operate lawfully after submission of said notification. The planned inspection of the lawful operation of the swimming pools shall be carried out on an ex-post basis by the competent authorities. Basic information Notification procedure for the commencement of operation of swimming pools within tourist accommodations and",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr71": {
+   "title": "Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession",
+   "text": "The procedure concerns the transfer of a valid operating licence for a truck station for the loading and unloading or temporary storage of goods, type A (with a usable area from 250 sq.m. to 800 sq.m., as defined in article 3 of Presidential Decree 79/2004), without fuel pumps, to a new operating transport or transit company (individual or legal person). Basic information Principle of professional freedom and abolition of unjustified restrictions on access to and pursuit of professions. Articles 1, 2 and 3 set out the conditions for abolishing licensing procedures and applying the notification",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr72": {
+   "title": "Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)",
+   "text": "The interested party (natural or legal person) notifies – electronically - the competent authority for the establishment and commencement of operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance). Basic information Article 3 — Notification procedure Legal references https://api.et.gr/apiFEK/2/2017/1723/pdf Ministerial Decision Υ1γ/Γ.Π/οικ.47829 2017 2161 Β Health requirements and operating conditions for food and beverage businesses. Legal references https://api.et.gr/apiFEK/2/2017/2161/pdf Law 28 4442 2016 230 Α Obligation t",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr73": {
+   "title": "Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest",
+   "text": "The interested party (natural or legal person) notifies – electronically - the competent authority for the establishment and commencement of operation of a Shop of Sanitary Interest. Basic information As amended and still in force / Article 28, par. 2 - obligation to obtain the attestation that the store can be established at the specific location Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 80,285 3463 2006 114 Α Article 80 — Definition of establishments of sanitary interest, licence-revocation procedures and related matters Legal references https://api.et.gr/apiLAW/1/2006/346",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr74": {
+   "title": "Notification of the Establishment and Operation of Theatres and Cinemas",
+   "text": "The process concerns the notification of Operation of Theatre or Cinema. The person concerned (natural or legal person) shall electronically notify the competent authority of the opening of a theater or cinema operation in a certain place or establishment. It is addressed to citizens, businesses and legal entities. Basic information Obligation to obtain certification that the establishment may be founded at the specific location. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Law 4 4229 2014 8 Α Supporting documents and record-keeping for theatres. Legal references https://api.et.gr/",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr75": {
+   "title": "Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds",
+   "text": "The procedure concerns the notification of the starting of operation of repair and maintenance workshops for cars, motorcycles and mopeds (Article 165 of Law 4442/2016), the supporting documents kept in the workshops area, how the information is disclosed in the event of an imminent change, and the authorities to which the notification and its changes are notified. Basic information New institutional framework for the exercise of economic activity and other provisions. Legal references https://api.et.gr/apiFEK/1/2016/230/pdf Presidential Decree 78 1988 34 Α Title: ‘Definition of the terms and ",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr76": {
+   "title": "Notification of the operation of Tourism Road Transport Enterprises",
+   "text": "The procedure concerns the notification of operation of a tourist road transport undertaking (TRTU), which has replaced the notice of operation of a TRTU. TRTUs may operate legally after gathering the required documents and subsequently submitting the notification of operation to the Integrated Information System for the Exercise of Activities and Controls (IISEAC) referred to in Article 14 of Law 4442/2016. Basic information Simplification of the framework for carrying out economic activities falling within the remit of the Ministries of Development and Investments, Infrastructure and Transpo",
+   "purpose": "notification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr77": {
+   "title": "Operating licence for a private company acting as security services provider (sole proprietorship)",
+   "text": "The procedure relates to the granting of an operating licence to private companies (sole proprietorship), which provide third parties with one or more of the following services: a. surveillance or guarding of movable or immovable property and facilities; b. protection of natural persons; c. secure transportation, using specially-modified armoured vehicles, of money, bond certificates, antiquities, works of art and other items of value; d. security guard protection for shows, exhibitions, conferences, competitions and sporting events; e. security checks for pilots / cabin crews, passengers, cab",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr78": {
+   "title": "Renewal of a licence to operate a high-speed craft",
+   "text": "The procedure concerns the renewal of a licence to operate a high-speed craft upon the applicant’s reaching the age of 65. Renewal is performed by the port authority that issued the licence. Basic information Approval of amendment to General Port Regulation No 50 ‘Conduct of examinations for candidate high-speed craft operators – Instructors for candidate high-speed craft operators – Schools for training of candidate high-speed craft operators’. Legal references https://api.et.gr/apiFEK/2/2019/1628/pdf 1 Initiating the procedure No No PT0S PT0S 2 Submission of application by physical means The",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr79": {
+   "title": "Temporary (active) fire protection certificate",
+   "text": "The procedure concerns the issue of a temporary (active) fire protection certificate. Basic information Approval of Fire Service Regulation No 13/2021 on the subject: ‘Determination of the procedure for submission of the required supporting documents, inspection and issuance of the administrative acts with regard to fire protection in business undertakings and installations, in accordance with Article 167 of Law 4662/2020 (Government Gazette, Series I, No 27)’ Legal references https://api.et.gr/apiFEK/2/2021/5519/pdf Ministerial Decision ΥΠΕΝ/ΔΑΟΚΑ/93311/3679 2021 4874 Β Addition to Ministeria",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "gr80": {
+   "title": "Vehicle Technical Inspector (cross-border service provision)",
+   "text": "This procedure pertains to the temporary and occasional cross-border vehicle inspector service provision. Basic information Recognition of professional skills of EU citizens Legal references https://api.et.gr/apiFEK/1/2010/78/pdf Joint Ministerial Decision 2 , 3 4799/ΙΑ 2011 76 Β Article 2 (Competent Authorities) Legal references https://api.et.gr/apiFEK/2/2011/76/pdf 1 Initiation of procedure No No 0 0 2 Receipt of application Responsible for Implementation The interested party submits to the competent service of the Ministry of Infrastructure and Transport the completed and signed applicatio",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "grx_solemn_declaration_and_electro": {
+   "title": "Solemn declaration and electronic solemn declaration",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_single_certificate_of_judicial": {
+   "title": "Single Certificate of Judicial Solvency",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "certification",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_copy_of_criminal_record": {
+   "title": "Copy of Criminal Record",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "information",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_certificate_of_active_fire_pro": {
+   "title": "Certificate of (Active) Fire Protection",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "certification",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_authorisation_and_electronic_a": {
+   "title": "Authorisation and Electronic Authorisation",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_social_security_clearance_of_n": {
+   "title": "Social security clearance of natural/legal persons (e-EFKA)",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_decision_approving_environment": {
+   "title": "Decision approving environmental conditions (DAEC) for sub-category A projects/activities",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_certificate_of_no_outstanding_": {
+   "title": "Certificate of no outstanding tax debts",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "certification",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_myphoto_for_citizens": {
+   "title": "MyPhoto for citizens",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_authorisation_for_the_operatio": {
+   "title": "Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_operating_licence_for_a_cng_st": {
+   "title": "Operating licence for a CNG station or a mixed station in case of a concession of establishment",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "authorization",
+   "categories": [
+    "ID"
+   ]
+  },
+  "grx_social_security_contributions_": {
+   "title": "Social security contributions payment certificate from certified bodies (eEFKA)",
+   "text": "Referenced by Mitos records as the issuing procedure of a required document.",
+   "purpose": "certification",
+   "categories": [
+    "ID"
+   ]
+  },
+  "sa01": {
+   "title": "Issue a commercial registration (establishment)",
+   "text": "Through the Saudi Business Center; the owner must not hold another active sole-proprietorship registration; fees paid by SADAD or card. After issuance, registration is automatic with the Ministry of Human Resources, ZATCA, GOSI, Saudi Post (national address) and the Chamber of Commerce.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa02": {
+   "title": "Issuing a commercial license",
+   "text": "Electronic only. Attachments: photo of the shop front, lease contract, title deed or investment contract, sanitation contract (optional), safety equipment invoice or safety report from the Civil Defense, copy of the building permit. Issued together with the Civil Defense safety permit. 1 to 10 days; fees apply.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa03": {
+   "title": "Issuing a fast-track commercial license",
+   "text": "Commercial license with a safety permit for some activities; log in as owner or establishment manager when linked to a commercial register. 1 to 10 days.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa04": {
+   "title": "Renewing a commercial license",
+   "text": "Not possible if the commercial registration has expired. Needs the lease, deed or investment contract and a safety equipment certificate or accredited technical report.",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa05": {
+   "title": "Issuing a building permit",
+   "text": "Building or fencing permit applied for through an engineering office; permit details sent to the electricity and water companies, Civil Defense, the insurer and the real estate registry.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa06": {
+   "title": "Issuance of a building occupancy and compliance certificate",
+   "text": "The compliance certificate is valid three years and issued with the occupancy certificate; no municipal fees.",
+   "purpose": "certification",
+   "categories": [
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa07": {
+   "title": "Issuance of a health certificate for food workers",
+   "text": "For workers in food and public-health establishments (restaurants, barbershops, laundries). Medical examination at a Ministry of Health approved centre; valid one year. 4 to 10 days.",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa08": {
+   "title": "Renewal of a health certificate",
+   "text": "Verification of the business license and of the worker's profession, medical examination, health education programme if applicable.",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "HLT",
+    "ID"
+   ]
+  },
+  "sa09": {
+   "title": "Issuance of a seasonal health certificate",
+   "text": "Seasonal variant of the worker health certificate.",
+   "purpose": "certification",
+   "categories": [
+    "HLT",
+    "ID"
+   ]
+  },
+  "sa10": {
+   "title": "Permit for 24-hour commercial activities",
+   "text": "Linked to the commercial license and cancelled with it; renewable when 30 days or fewer remain.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa11": {
+   "title": "Issuing a home delivery permit",
+   "text": "For licensed commercial entities.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa12": {
+   "title": "Safety license (Salama portal)",
+   "text": "Requirements vary with the classification and size of the business; applications on the Salama portal.",
+   "purpose": "certification",
+   "categories": [
+    "BUS",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa13": {
+   "title": "VAT registration for businesses",
+   "text": "For companies with an economic activity subject to VAT; a VAT account number is assigned upon registration.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa14": {
+   "title": "VAT registration for individuals",
+   "text": "Individuals engaged in economic activity; mandatory above SAR 375,000 of annual revenue, optional between 187,500 and 375,000. 5 working days.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID"
+   ]
+  },
+  "sa15": {
+   "title": "VAT registration for a group",
+   "text": "Two or more legal persons registered as one VAT group. 3 working days.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa16": {
+   "title": "Zakat and income tax registration",
+   "text": "After registration with the Ministry of Commerce; the TIN is generated automatically when the commercial registration is issued.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID"
+   ]
+  },
+  "sa17": {
+   "title": "Verify VAT registration",
+   "text": "By VAT account number, commercial registration number or VAT certificate number; instant.",
+   "purpose": "information",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa18": {
+   "title": "Update VAT registration details",
+   "text": "Amendments to registration details including financial details, with supporting documents. 3 working days.",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa19": {
+   "title": "Register a new establishment or branch in GOSI",
+   "text": "After registration the establishment can obtain the GOSI certificate proving its registration.",
+   "purpose": "registration",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa20": {
+   "title": "Visa issuance for an establishment",
+   "text": "Valid commercial register (except activities that do not need one), existing establishment, wage-protection compliance, allowed activity; payment.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "FIN",
+    "ID"
+   ]
+  },
+  "sa21": {
+   "title": "Employee transfer from another employer",
+   "text": "Through Qiwa; valid commercial register; employment contract for each worker.",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa22": {
+   "title": "Renewal of residence permit (Iqama)",
+   "text": "Through Absher or Muqeem; valid passport, fees paid, medical insurance; fines start three days after expiry.",
+   "purpose": "modification",
+   "categories": [
+    "FIN",
+    "HLT",
+    "ID",
+    "LOC"
+   ]
+  },
+  "sa23": {
+   "title": "Extension of an exit and re-entry visa",
+   "text": "Through Absher or Muqeem, including for residents outside the Kingdom.",
+   "purpose": "modification",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  },
+  "sa24": {
+   "title": "Final exit visa",
+   "text": "The residence permit must be valid at least 30 days; the visa lasts at most 60 days.",
+   "purpose": "authorization",
+   "categories": [
+    "BUS",
+    "ID"
+   ]
+  }
+ }
+}

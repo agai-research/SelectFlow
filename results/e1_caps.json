@@ -1,0 +1,722 @@
+{
+ "0": {
+  "v": "gr11",
+  "r": "submit:gr11",
+  "title": "Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)",
+  "step": "submit the application for Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)"
+ },
+ "1": {
+  "v": "gr12",
+  "r": "submit:gr12",
+  "title": "Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner",
+  "step": "submit the application for Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner"
+ },
+ "2": {
+  "v": "gr26",
+  "r": "submit:gr26",
+  "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest",
+  "step": "submit the application for Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest"
+ },
+ "3": {
+  "v": "gr27",
+  "r": "submit:gr27",
+  "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity",
+  "step": "submit the application for Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity"
+ },
+ "4": {
+  "v": "gr28",
+  "r": "submit:gr28",
+  "title": "Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest",
+  "step": "submit the application for Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest"
+ },
+ "5": {
+  "v": "gr29",
+  "r": "submit:gr29",
+  "title": "Change of Notification of the Establishment and Operation of Theatres and Cinemas",
+  "step": "submit the application for Change of Notification of the Establishment and Operation of Theatres and Cinemas"
+ },
+ "6": {
+  "v": "gr31",
+  "r": "submit:gr31",
+  "title": "Establishment and Operation of Amateur Dance Schools by a Natural Person",
+  "step": "submit the application for Establishment and Operation of Amateur Dance Schools by a Natural Person"
+ },
+ "7": {
+  "v": "gr32",
+  "r": "submit:gr32",
+  "title": "Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons",
+  "step": "submit the application for Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons"
+ },
+ "8": {
+  "v": "gr34",
+  "r": "submit:gr34",
+  "title": "Establishment of a Limited Partnership through the One Stop Service",
+  "step": "submit the application for Establishment of a Limited Partnership through the One Stop Service"
+ },
+ "9": {
+  "v": "gr35",
+  "r": "submit:gr35",
+  "title": "Establishment of a Société Anonyme (SA) through the One Stop Service",
+  "step": "submit the application for Establishment of a Société Anonyme (SA) through the One Stop Service"
+ },
+ "10": {
+  "v": "gr60",
+  "r": "submit:gr60",
+  "title": "Notification of Operation of a Vehicle Roadside Assistance Company",
+  "step": "submit the application for Notification of Operation of a Vehicle Roadside Assistance Company"
+ },
+ "11": {
+  "v": "gr64",
+  "r": "submit:gr64",
+  "title": "Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds",
+  "step": "submit the application for Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds"
+ },
+ "12": {
+  "v": "gr65",
+  "r": "submit:gr65",
+  "title": "Notification of Operation of Vehicle Roadside Assistance Partner",
+  "step": "submit the application for Notification of Operation of Vehicle Roadside Assistance Partner"
+ },
+ "13": {
+  "v": "gr72",
+  "r": "submit:gr72",
+  "title": "Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)",
+  "step": "submit the application for Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)"
+ },
+ "14": {
+  "v": "gr73",
+  "r": "submit:gr73",
+  "title": "Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest",
+  "step": "submit the application for Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest"
+ },
+ "15": {
+  "v": "gr74",
+  "r": "submit:gr74",
+  "title": "Notification of the Establishment and Operation of Theatres and Cinemas",
+  "step": "submit the application for Notification of the Establishment and Operation of Theatres and Cinemas"
+ },
+ "16": {
+  "v": "gr75",
+  "r": "submit:gr75",
+  "title": "Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds",
+  "step": "submit the application for Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds"
+ },
+ "17": {
+  "v": "sa02",
+  "r": "submit:sa02",
+  "title": "Issuing a commercial license",
+  "step": "submit the application for Issuing a commercial license"
+ },
+ "18": {
+  "v": "sa03",
+  "r": "submit:sa03",
+  "title": "Issuing a fast-track commercial license",
+  "step": "submit the application for Issuing a fast-track commercial license"
+ },
+ "19": {
+  "v": "sa04",
+  "r": "submit:sa04",
+  "title": "Renewing a commercial license",
+  "step": "submit the application for Renewing a commercial license"
+ },
+ "20": {
+  "v": "sa07",
+  "r": "submit:sa07",
+  "title": "Issuance of a health certificate for food workers",
+  "step": "submit the application for Issuance of a health certificate for food workers"
+ },
+ "21": {
+  "v": "sa09",
+  "r": "submit:sa09",
+  "title": "Issuance of a seasonal health certificate",
+  "step": "submit the application for Issuance of a seasonal health certificate"
+ },
+ "22": {
+  "v": "gr54",
+  "r": "pay:gr54",
+  "title": "Notification of establishment and operation of a gym or sports school",
+  "step": "pay the fee for Notification of establishment and operation of a gym or sports school"
+ },
+ "23": {
+  "v": "gr46",
+  "r": "submit:gr46",
+  "title": "Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample",
+  "step": "submit the application for Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample"
+ },
+ "24": {
+  "v": "gr43",
+  "r": "pay:gr43",
+  "title": "Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2",
+  "step": "pay the fee for Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2"
+ },
+ "25": {
+  "v": "grx_certificate_of_active_fire_pro",
+  "r": "submit:grx_certificate_of_active_fire_pro",
+  "title": "Certificate of (Active) Fire Protection",
+  "step": "submit the application for Certificate of (Active) Fire Protection"
+ },
+ "26": {
+  "v": "gr27",
+  "r": "retrieve:gr27",
+  "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity",
+  "step": "obtain the out gr27"
+ },
+ "27": {
+  "v": "gr30",
+  "r": "submit:gr30",
+  "title": "Copy of certificate of competence for instructors of speedboat operator candidates",
+  "step": "submit the application for Copy of certificate of competence for instructors of speedboat operator candidates"
+ },
+ "28": {
+  "v": "gr69",
+  "r": "retrieve:gr69",
+  "title": "Notification of the Commencement of Operation of Sheltered Parkings",
+  "step": "obtain the out gr69"
+ },
+ "29": {
+  "v": "gr16",
+  "r": "retrieve:gr16",
+  "title": "Announcement of the Start of Circulation of a Waste-Receiving Ship",
+  "step": "obtain the out gr16"
+ },
+ "30": {
+  "v": "gr23",
+  "r": "submit:gr23",
+  "title": "Certificate of annual activity in short-term markets",
+  "step": "submit the application for Certificate of annual activity in short-term markets"
+ },
+ "31": {
+  "v": "gr16",
+  "r": "submit:gr16",
+  "title": "Announcement of the Start of Circulation of a Waste-Receiving Ship",
+  "step": "submit the application for Announcement of the Start of Circulation of a Waste-Receiving Ship"
+ },
+ "32": {
+  "v": "gr14",
+  "r": "retrieve:gr14",
+  "title": "Announcement of the Operation of a Trade Fair - International Trade Fair",
+  "step": "obtain the out gr14"
+ },
+ "33": {
+  "v": "gr20",
+  "r": "retrieve:gr20",
+  "title": "Approval of the operation of recreational activities on land within tourist ports",
+  "step": "obtain the out gr20"
+ },
+ "34": {
+  "v": "gr21",
+  "r": "retrieve:gr21",
+  "title": "Attestation that a Shop may be established at the specific location",
+  "step": "obtain the out gr21"
+ },
+ "35": {
+  "v": "gr02",
+  "r": "retrieve:gr02",
+  "title": "Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them",
+  "step": "obtain the out gr02"
+ },
+ "36": {
+  "v": "grx_operating_licence_for_a_cng_st",
+  "r": "submit:grx_operating_licence_for_a_cng_st",
+  "title": "Operating licence for a CNG station or a mixed station in case of a concession of establishment",
+  "step": "submit the application for Operating licence for a CNG station or a mixed station in case of a concession of establishment"
+ },
+ "37": {
+  "v": "gr56",
+  "r": "pay:gr56",
+  "title": "Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver",
+  "step": "pay the fee for Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver"
+ },
+ "38": {
+  "v": "gr69",
+  "r": "submit:gr69",
+  "title": "Notification of the Commencement of Operation of Sheltered Parkings",
+  "step": "submit the application for Notification of the Commencement of Operation of Sheltered Parkings"
+ },
+ "39": {
+  "v": "gr18",
+  "r": "retrieve:gr18",
+  "title": "Approval for the operation of ski resorts",
+  "step": "obtain the out gr18"
+ },
+ "40": {
+  "v": "sa08",
+  "r": "retrieve:sa08",
+  "title": "Renewal of a health certificate",
+  "step": "obtain the renewed health certificate"
+ },
+ "41": {
+  "v": "gr61",
+  "r": "retrieve:gr61",
+  "title": "Notification of operation of Car and Motorcycle Driving Schools and their branches",
+  "step": "obtain the out gr61"
+ },
+ "42": {
+  "v": "gr14",
+  "r": "submit:gr14",
+  "title": "Announcement of the Operation of a Trade Fair - International Trade Fair",
+  "step": "submit the application for Announcement of the Operation of a Trade Fair - International Trade Fair"
+ },
+ "43": {
+  "v": "gr16",
+  "r": "pay:gr16",
+  "title": "Announcement of the Start of Circulation of a Waste-Receiving Ship",
+  "step": "pay the fee for Announcement of the Start of Circulation of a Waste-Receiving Ship"
+ },
+ "44": {
+  "v": "gr26",
+  "r": "retrieve:gr26",
+  "title": "Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest",
+  "step": "obtain the out gr26"
+ },
+ "45": {
+  "v": "gr39",
+  "r": "submit:gr39",
+  "title": "Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)",
+  "step": "submit the application for Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.)"
+ },
+ "46": {
+  "v": "sa13",
+  "r": "retrieve:sa13",
+  "title": "VAT registration for businesses",
+  "step": "obtain the vat number"
+ },
+ "47": {
+  "v": "sa19",
+  "r": "retrieve:sa19",
+  "title": "Register a new establishment or branch in GOSI",
+  "step": "obtain the gosi certificate"
+ },
+ "48": {
+  "v": "gr42",
+  "r": "retrieve:gr42",
+  "title": "Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles",
+  "step": "obtain the out gr42"
+ },
+ "49": {
+  "v": "sa06",
+  "r": "retrieve:sa06",
+  "title": "Issuance of a building occupancy and compliance certificate",
+  "step": "obtain the occupancy certificate"
+ },
+ "50": {
+  "v": "gr65",
+  "r": "pay:gr65",
+  "title": "Notification of Operation of Vehicle Roadside Assistance Partner",
+  "step": "pay the fee for Notification of Operation of Vehicle Roadside Assistance Partner"
+ },
+ "51": {
+  "v": "gr00",
+  "r": "retrieve:gr00",
+  "title": "Announcement of Commencement of Operation of a Seaside Resort",
+  "step": "obtain the out gr00"
+ },
+ "52": {
+  "v": "gr68",
+  "r": "pay:gr68",
+  "title": "Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations",
+  "step": "pay the fee for Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations"
+ },
+ "53": {
+  "v": "gr72",
+  "r": "retrieve:gr72",
+  "title": "Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance)",
+  "step": "obtain the out gr72"
+ },
+ "54": {
+  "v": "sa08",
+  "r": "pay:sa08",
+  "title": "Renewal of a health certificate",
+  "step": "pay the fee for Renewal of a health certificate"
+ },
+ "55": {
+  "v": "gr77",
+  "r": "submit:gr77",
+  "title": "Operating licence for a private company acting as security services provider (sole proprietorship)",
+  "step": "submit the application for Operating licence for a private company acting as security services provider (sole proprietorship)"
+ },
+ "56": {
+  "v": "gr68",
+  "r": "submit:gr68",
+  "title": "Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations",
+  "step": "submit the application for Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations"
+ },
+ "57": {
+  "v": "gr33",
+  "r": "retrieve:gr33",
+  "title": "Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks",
+  "step": "obtain the out gr33"
+ },
+ "58": {
+  "v": "gr23",
+  "r": "retrieve:gr23",
+  "title": "Certificate of annual activity in short-term markets",
+  "step": "obtain the out gr23"
+ },
+ "59": {
+  "v": "gr40",
+  "r": "submit:gr40",
+  "title": "Licence for the Operation of Antique Shops",
+  "step": "submit the application for Licence for the Operation of Antique Shops"
+ },
+ "60": {
+  "v": "grx_decision_approving_environment",
+  "r": "submit:grx_decision_approving_environment",
+  "title": "Decision approving environmental conditions (DAEC) for sub-category A projects/activities",
+  "step": "submit the application for Decision approving environmental conditions (DAEC) for sub-category A projects/activities"
+ },
+ "61": {
+  "v": "gr07",
+  "r": "retrieve:gr07",
+  "title": "Announcement of Rental of Motor Boats and Small Speedboats",
+  "step": "obtain the out gr07"
+ },
+ "62": {
+  "v": "gr13",
+  "r": "retrieve:gr13",
+  "title": "Announcement of the Operation of a Trade Fair - Domestic Trade Fair",
+  "step": "obtain the out gr13"
+ },
+ "63": {
+  "v": "gr79",
+  "r": "submit:gr79",
+  "title": "Temporary (active) fire protection certificate",
+  "step": "submit the application for Temporary (active) fire protection certificate"
+ },
+ "64": {
+  "v": "gr49",
+  "r": "submit:gr49",
+  "title": "Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must",
+  "step": "submit the application for Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must"
+ },
+ "65": {
+  "v": "gr11",
+  "r": "retrieve:gr11",
+  "title": "Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV)",
+  "step": "obtain the out gr11"
+ },
+ "66": {
+  "v": "sa14",
+  "r": "submit:sa14",
+  "title": "VAT registration for individuals",
+  "step": "submit the application for VAT registration for individuals"
+ },
+ "67": {
+  "v": "sa17",
+  "r": "submit:sa17",
+  "title": "Verify VAT registration",
+  "step": "submit the application for Verify VAT registration"
+ },
+ "68": {
+  "v": "grx_single_certificate_of_judicial",
+  "r": "submit:grx_single_certificate_of_judicial",
+  "title": "Single Certificate of Judicial Solvency",
+  "step": "submit the application for Single Certificate of Judicial Solvency"
+ },
+ "69": {
+  "v": "gr62",
+  "r": "retrieve:gr62",
+  "title": "Notification of Operation of Food and Beverage Vending / Preparing and Vending Machines",
+  "step": "obtain the out gr62"
+ },
+ "70": {
+  "v": "gr41",
+  "r": "submit:gr41",
+  "title": "Licence for the Use of Public Spaces",
+  "step": "submit the application for Licence for the Use of Public Spaces"
+ },
+ "71": {
+  "v": "gr44",
+  "r": "retrieve:gr44",
+  "title": "Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2",
+  "step": "obtain the out gr44"
+ },
+ "72": {
+  "v": "grx_authorisation_for_the_operatio",
+  "r": "retrieve:grx_authorisation_for_the_operatio",
+  "title": "Authorisation for the operation of an LPG or mixed gas service station in case of concession of establishment",
+  "step": "obtain the ext authorisation for the operation of an lpg or mixed"
+ },
+ "73": {
+  "v": "gr66",
+  "r": "pay:gr66",
+  "title": "Notification of provision of recreational diving services",
+  "step": "pay the fee for Notification of provision of recreational diving services"
+ },
+ "74": {
+  "v": "gr25",
+  "r": "retrieve:gr25",
+  "title": "Certificate of Suitability for Administrative and Other Staff of a Casino Business",
+  "step": "obtain the out gr25"
+ },
+ "75": {
+  "v": "gr32",
+  "r": "pay:gr32",
+  "title": "Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons",
+  "step": "pay the fee for Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons"
+ },
+ "76": {
+  "v": "sa08",
+  "r": "submit:sa08",
+  "title": "Renewal of a health certificate",
+  "step": "submit the application for Renewal of a health certificate"
+ },
+ "77": {
+  "v": "gr03",
+  "r": "submit:gr03",
+  "title": "Announcement of Operation of a Private Passenger Car Rental Business",
+  "step": "submit the application for Announcement of Operation of a Private Passenger Car Rental Business"
+ },
+ "78": {
+  "v": "sa07",
+  "r": "pay:sa07",
+  "title": "Issuance of a health certificate for food workers",
+  "step": "pay the fee for Issuance of a health certificate for food workers"
+ },
+ "79": {
+  "v": "gr47",
+  "r": "retrieve:gr47",
+  "title": "Licensing of logistics facilities (storage and distribution centres)",
+  "step": "obtain the out gr47"
+ },
+ "80": {
+  "v": "gr46",
+  "r": "pay:gr46",
+  "title": "Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample",
+  "step": "pay the fee for Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample"
+ },
+ "81": {
+  "v": "gr19",
+  "r": "submit:gr19",
+  "title": "Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry",
+  "step": "submit the application for Approval of Establishment of Laboratories for Meat Slicing and Standardization, as well as for Meat Preparations from Ungulates and Poultry"
+ },
+ "82": {
+  "v": "gr05",
+  "r": "pay:gr05",
+  "title": "Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck",
+  "step": "pay the fee for Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck"
+ },
+ "83": {
+  "v": "gr53",
+  "r": "retrieve:gr53",
+  "title": "Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine",
+  "step": "obtain the out gr53"
+ },
+ "84": {
+  "v": "gr32",
+  "r": "retrieve:gr32",
+  "title": "Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons",
+  "step": "obtain the out gr32"
+ },
+ "85": {
+  "v": "sa18",
+  "r": "submit:sa18",
+  "title": "Update VAT registration details",
+  "step": "submit the application for Update VAT registration details"
+ },
+ "86": {
+  "v": "gr60",
+  "r": "pay:gr60",
+  "title": "Notification of Operation of a Vehicle Roadside Assistance Company",
+  "step": "pay the fee for Notification of Operation of a Vehicle Roadside Assistance Company"
+ },
+ "87": {
+  "v": "gr18",
+  "r": "pay:gr18",
+  "title": "Approval for the operation of ski resorts",
+  "step": "pay the fee for Approval for the operation of ski resorts"
+ },
+ "88": {
+  "v": "gr45",
+  "r": "retrieve:gr45",
+  "title": "Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93",
+  "step": "obtain the out gr45"
+ },
+ "89": {
+  "v": "sa16",
+  "r": "retrieve:sa16",
+  "title": "Zakat and income tax registration",
+  "step": "obtain the zakat registration"
+ },
+ "90": {
+  "v": "gr43",
+  "r": "submit:gr43",
+  "title": "Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2",
+  "step": "submit the application for Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2"
+ },
+ "91": {
+  "v": "gr35",
+  "r": "retrieve:gr35",
+  "title": "Establishment of a Société Anonyme (SA) through the One Stop Service",
+  "step": "obtain the out gr35"
+ },
+ "92": {
+  "v": "gr48",
+  "r": "submit:gr48",
+  "title": "Notification about operating parking areas for heavy-duty vehicles",
+  "step": "submit the application for Notification about operating parking areas for heavy-duty vehicles"
+ },
+ "93": {
+  "v": "gr24",
+  "r": "pay:gr24",
+  "title": "Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps",
+  "step": "pay the fee for Certificate of Commencement of Operation of Truck stations for the Loading and Unloading of Goods (Car Freight Stations) without the Installation of Fuel Pumps"
+ },
+ "94": {
+  "v": "sa16",
+  "r": "submit:sa16",
+  "title": "Zakat and income tax registration",
+  "step": "submit the application for Zakat and income tax registration"
+ },
+ "95": {
+  "v": "gr38",
+  "r": "retrieve:gr38",
+  "title": "Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them)",
+  "step": "obtain the out gr38"
+ },
+ "96": {
+  "v": "gr40",
+  "r": "retrieve:gr40",
+  "title": "Licence for the Operation of Antique Shops",
+  "step": "obtain the out gr40"
+ },
+ "97": {
+  "v": "sa24",
+  "r": "submit:sa24",
+  "title": "Final exit visa",
+  "step": "submit the application for Final exit visa"
+ },
+ "98": {
+  "v": "gr17",
+  "r": "submit:gr17",
+  "title": "Approval for the establishment and operation of a college by a natural person",
+  "step": "submit the application for Approval for the establishment and operation of a college by a natural person"
+ },
+ "99": {
+  "v": "gr71",
+  "r": "submit:gr71",
+  "title": "Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession",
+  "step": "submit the application for Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession"
+ },
+ "100": {
+  "v": "gr50",
+  "r": "retrieve:gr50",
+  "title": "Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines",
+  "step": "obtain the out gr50"
+ },
+ "101": {
+  "v": "gr49",
+  "r": "retrieve:gr49",
+  "title": "Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must",
+  "step": "obtain the out gr49"
+ },
+ "102": {
+  "v": "gr66",
+  "r": "submit:gr66",
+  "title": "Notification of provision of recreational diving services",
+  "step": "submit the application for Notification of provision of recreational diving services"
+ },
+ "103": {
+  "v": "sa22",
+  "r": "retrieve:sa22",
+  "title": "Renewal of residence permit (Iqama)",
+  "step": "obtain the renewed iqama"
+ },
+ "104": {
+  "v": "sa02",
+  "r": "retrieve:sa02",
+  "title": "Issuing a commercial license",
+  "step": "obtain the commercial license"
+ },
+ "105": {
+  "v": "sa12",
+  "r": "submit:sa12",
+  "title": "Safety license (Salama portal)",
+  "step": "submit the application for Safety license (Salama portal)"
+ },
+ "106": {
+  "v": "gr77",
+  "r": "retrieve:gr77",
+  "title": "Operating licence for a private company acting as security services provider (sole proprietorship)",
+  "step": "obtain the out gr77"
+ },
+ "107": {
+  "v": "gr54",
+  "r": "submit:gr54",
+  "title": "Notification of establishment and operation of a gym or sports school",
+  "step": "submit the application for Notification of establishment and operation of a gym or sports school"
+ },
+ "108": {
+  "v": "gr53",
+  "r": "submit:gr53",
+  "title": "Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine",
+  "step": "submit the application for Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine"
+ },
+ "109": {
+  "v": "gr37",
+  "r": "submit:gr37",
+  "title": "Licence for setting up and operating a heliport",
+  "step": "submit the application for Licence for setting up and operating a heliport"
+ },
+ "110": {
+  "v": "gr51",
+  "r": "submit:gr51",
+  "title": "Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto",
+  "step": "submit the application for Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto"
+ },
+ "111": {
+  "v": "gr10",
+  "r": "pay:gr10",
+  "title": "Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship",
+  "step": "pay the fee for Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship"
+ },
+ "112": {
+  "v": "gr68",
+  "r": "retrieve:gr68",
+  "title": "Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations",
+  "step": "obtain the out gr68"
+ },
+ "113": {
+  "v": "grx_single_certificate_of_judicial",
+  "r": "retrieve:grx_single_certificate_of_judicial",
+  "title": "Single Certificate of Judicial Solvency",
+  "step": "obtain the ext single certificate of judicial solvency"
+ },
+ "114": {
+  "v": "sa09",
+  "r": "retrieve:sa09",
+  "title": "Issuance of a seasonal health certificate",
+  "step": "obtain the seasonal health certificate"
+ },
+ "115": {
+  "v": "grx_myphoto_for_citizens",
+  "r": "retrieve:grx_myphoto_for_citizens",
+  "title": "MyPhoto for citizens",
+  "step": "obtain the ext myphoto for citizens"
+ },
+ "116": {
+  "v": "gr45",
+  "r": "pay:gr45",
+  "title": "Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93",
+  "step": "pay the fee for Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93"
+ },
+ "117": {
+  "v": "gr00",
+  "r": "submit:gr00",
+  "title": "Announcement of Commencement of Operation of a Seaside Resort",
+  "step": "submit the application for Announcement of Commencement of Operation of a Seaside Resort"
+ },
+ "118": {
+  "v": "gr58",
+  "r": "submit:gr58",
+  "title": "Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver",
+  "step": "submit the application for Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver"
+ },
+ "119": {
+  "v": "sa23",
+  "r": "submit:sa23",
+  "title": "Extension of an exit and re-entry visa",
+  "step": "submit the application for Extension of an exit and re-entry visa"
+ }
+}

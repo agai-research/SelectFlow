@@ -1,0 +1,222 @@
+{
+ "e4_real": {
+  "greece_certified": {
+   "tasks": 183,
+   "tasks_with_denied_flow": 0,
+   "rate": 0.0,
+   "tasks_with_uncertified_third_party_tool": 0
+  },
+  "greece_declared": {
+   "tasks": 183,
+   "tasks_with_denied_flow": 40,
+   "rate": 0.2185792349726776,
+   "tasks_with_uncertified_third_party_tool": 0
+  },
+  "saudi_certified": {
+   "tasks": 39,
+   "tasks_with_denied_flow": 0,
+   "rate": 0.0,
+   "tasks_with_uncertified_third_party_tool": 0
+  },
+  "saudi_declared": {
+   "tasks": 39,
+   "tasks_with_denied_flow": 13,
+   "rate": 0.3333333333333333,
+   "tasks_with_uncertified_third_party_tool": 0
+  }
+ },
+ "e5_real": {
+  "density_1.0_budget_6000": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.0378879890209291
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.03420517212007104
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.03798516203717488
+   }
+  },
+  "density_1.0_budget_1500": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.04158181097449326
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.03534117849861703
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 1.0,
+    "left_to_requester": 0.0,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.36548082588941466,
+    "time_s": 0.040257442288282444
+   }
+  },
+  "density_0.75_budget_6000": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.03962644425834098
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.03538311400064608
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.03914757472712819
+   }
+  },
+  "density_0.75_budget_1500": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.038916297075225086
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.03611318076529154
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.9747967479674795,
+    "left_to_requester": 0.025203252032520322,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.3565480115921166,
+    "time_s": 0.039493932956602515
+   }
+  },
+  "density_0.5_budget_6000": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.04674759434490669
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.04342288796494647
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.046641146264425136
+   }
+  },
+  "density_0.5_budget_1500": {
+   "selectflow": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.04678304893214528
+   },
+   "task_by_task": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.042577662119051306
+   },
+   "no_repair": {
+    "requests": 82,
+    "solved": 82,
+    "equipped": 0.8926829268292683,
+    "left_to_requester": 0.10731707317073169,
+    "broken_handoffs": 0.0,
+    "repairs": 0.0,
+    "mean_quality": 0.32527738121875527,
+    "time_s": 0.04648564501506526
+   }
+  }
+ }
+}

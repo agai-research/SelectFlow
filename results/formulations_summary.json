@@ -1,0 +1,53 @@
+{
+ "writer": "claude-sonnet-5-5",
+ "verifier": "claude-opus-5-5",
+ "faithful_by_language": {
+  "vague_en": 1.0,
+  "fr": 1.0,
+  "ar": 1.0
+ },
+ "faithful_overall": 1.0,
+ "procedures_checked": 117,
+ "purpose_ok": 0.8717948717948718,
+ "categories_ok": 0.7264957264957265,
+ "most_missing_categories": [
+  [
+   "LOC",
+   8
+  ],
+  [
+   "BUS",
+   5
+  ],
+  [
+   "FIN",
+   4
+  ],
+  [
+   "HLT",
+   1
+  ]
+ ],
+ "most_wrong_categories": [
+  [
+   "HLT",
+   9
+  ],
+  [
+   "LOC",
+   6
+  ],
+  [
+   "FIN",
+   5
+  ],
+  [
+   "BUS",
+   5
+  ],
+  [
+   "ID",
+   1
+  ]
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "n": 82,
+ "selectflow": {
+  "closed": 1.0,
+  "valid": 1.0,
+  "exact": 1.0,
+  "jaccard": 1.0,
+  "dep_f1": 1.0
+ },
+ "direct": {
+  "closed": 1.0,
+  "valid": 1.0,
+  "exact": 1.0,
+  "jaccard": 1.0,
+  "dep_f1": 1.0
+ },
+ "llm_first_candidate": {
+  "closed": 0.18292682926829268,
+  "exact": 0.18292682926829268,
+  "jaccard": 0.5294715447154472
+ },
+ "llm_candidate_accepted_by_critics": 1.0,
+ "llm_accepted_only_after_revision": 0.8170731707317073,
+ "first_pass_rejection_rate": 0.8170731707317073,
+ "direct_invalid_ids_mean": 0.0,
+ "interpretation_exact": 0.8048780487804879,
+ "interpretation_found": 0.8536585365853658,
+ "closed_selectflow_vs_direct": {
+  "diff_ci": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "mcnemar_p": 1.0
+ },
+ "exact_selectflow_vs_direct": {
+  "diff_ci": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "mcnemar_p": 1.0
+ },
+ "by_reference_length": {
+  "2": {
+   "selectflow": 1.0,
+   "direct": 1.0
+  },
+  "3": {
+   "selectflow": 1.0,
+   "direct": 1.0
+  },
+  "4": {
+   "selectflow": 1.0,
+   "direct": 1.0
+  },
+  "5": {
+   "selectflow": 1.0,
+   "direct": 1.0
+  }
+ },
+ "time_s": {
+  "selectflow": 16.478048780487807,
+  "direct": 2.0670731707317076
+ }
+}

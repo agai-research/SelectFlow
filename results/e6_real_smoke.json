@@ -1,0 +1,81 @@
+{
+ "summary": {
+  "selectflow": {
+   "success": 1.0,
+   "tool_calls": 4.75,
+   "n": 4
+  },
+  "all_tools": {
+   "success": 0.0,
+   "tool_calls": 0.0,
+   "n": 4
+  },
+  "tool_search": {
+   "success": 0.25,
+   "tool_calls": 1.25,
+   "n": 4
+  },
+  "selectflow_vs_all_tools": {
+   "diff_ci": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "mcnemar_p": 0.125
+  },
+  "selectflow_vs_tool_search": {
+   "diff_ci": [
+    0.75,
+    0.25,
+    1.0
+   ],
+   "mcnemar_p": 0.25
+  },
+  "interpretation_accuracy": 0.0,
+  "workflow_matches_reference": 1.0,
+  "left_to_requester_mean": 0.0,
+  "cost_usd": 0.22
+ },
+ "requests": [
+  {
+   "fed": "saudi",
+   "id": "req_sa02",
+   "derived": true,
+   "interpretation_correct": false,
+   "workflow_matches_reference": true,
+   "tasks": 2,
+   "left_to_requester": 0,
+   "plan_time_s": 7.89
+  },
+  {
+   "fed": "saudi",
+   "id": "req_sa03",
+   "derived": true,
+   "interpretation_correct": false,
+   "workflow_matches_reference": true,
+   "tasks": 2,
+   "left_to_requester": 0,
+   "plan_time_s": 8.99
+  },
+  {
+   "fed": "greece",
+   "id": "req_gr01",
+   "derived": true,
+   "interpretation_correct": false,
+   "workflow_matches_reference": true,
+   "tasks": 2,
+   "left_to_requester": 0,
+   "plan_time_s": 25.16
+  },
+  {
+   "fed": "greece",
+   "id": "req_gr02",
+   "derived": true,
+   "interpretation_correct": false,
+   "workflow_matches_reference": true,
+   "tasks": 2,
+   "left_to_requester": 0,
+   "plan_time_s": 20.51
+  }
+ ]
+}

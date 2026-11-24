@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+highspy>=1.7
+PuLP>=2.7
+anthropic>=0.40
+requests>=2.31
+# Optional: HYSET baseline and TOUCAN extraction (scripts/colab, scripts/extract_toucan.py)
+# datasets, sentence-transformers, rank-bm25

@@ -1,0 +1,1435 @@
+[
+ {
+  "id": "req_gr01",
+  "text": "I need to obtain: Announcement of Establishment and Operation of a Diving Crew.",
+  "targets": [
+   "out_gr01"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr01"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr02",
+  "text": "I need to obtain: Announcement of Installation of Floating Craft or Permanent Mooring of Ships and Establishment of Shops of Sanitary Interest on Them.",
+  "targets": [
+   "out_gr02"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr02"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr03",
+  "text": "I need to obtain: Announcement of Operation of a Private Passenger Car Rental Business.",
+  "targets": [
+   "out_gr03"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_single_certificate_of_judicial",
+    "gr03"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Courts",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr05",
+  "text": "I need to obtain: Announcement of Operation of Reception of Ship Oil Residues by a Tank Truck.",
+  "targets": [
+   "out_gr05"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr05"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr07",
+  "text": "I need to obtain: Announcement of Rental of Motor Boats and Small Speedboats.",
+  "targets": [
+   "out_gr07"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr07"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr08",
+  "text": "I need to obtain: Announcement of the commencement of sales of plant protection products (PPPs).",
+  "targets": [
+   "out_gr08"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr08"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Rural Development And Food"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr09",
+  "text": "I need to obtain: Announcement of the commencement of the profession of silver-smiths, second-hand sellers, pawnbrokers and those involved in the sale or purchase of second-hand jewelry and fine artwork from gold and other valuables (natural person).",
+  "targets": [
+   "out_gr09"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "gr09"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr10",
+  "text": "I need to obtain: Announcement of the Establishment and Operation of a Shop of Sanitary Interest on a Seagoing Ship.",
+  "targets": [
+   "out_gr10"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr10"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr11",
+  "text": "I need to obtain: Announcement of the Operation of A Private Centre for the Technical Inspection of Vehicles (CTIV).",
+  "targets": [
+   "out_gr11"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr11"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr12",
+  "text": "I need to obtain: Announcement of the Operation of a Private Vehicle Technical Inspection Centre (IKTEO) Following Transfer to a New Owner.",
+  "targets": [
+   "out_gr12"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr12"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr13",
+  "text": "I need to obtain: Announcement of the Operation of a Trade Fair - Domestic Trade Fair.",
+  "targets": [
+   "out_gr13"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr13"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr14",
+  "text": "I need to obtain: Announcement of the Operation of a Trade Fair - International Trade Fair.",
+  "targets": [
+   "out_gr14"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr14"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Licensing of Trade Actions or Directorates of Development of Regions (for international trade fairs) Μethod of Implementation Manual Action Μethod of Implementation Manual Action Μethod of Implementation Manual Action Μethod of Implementation Software action"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr15",
+  "text": "I need to obtain: Announcement of the Operation of Receiving Oil Residues by Tankers and Floating Crafts.",
+  "targets": [
+   "out_gr15"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr15"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr16",
+  "text": "I need to obtain: Announcement of the Start of Circulation of a Waste-Receiving Ship.",
+  "targets": [
+   "out_gr16"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr16"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr17",
+  "text": "I need to obtain: Approval for the establishment and operation of a college by a natural person.",
+  "targets": [
+   "out_gr17"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_certificate_of_active_fire_pro",
+    "gr17"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Education, Sports And Religious Affairs",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr20",
+  "text": "I need to obtain: Approval of the operation of recreational activities on land within tourist ports.",
+  "targets": [
+   "out_gr20"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr20"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr21",
+  "text": "I need to obtain: Attestation that a Shop may be established at the specific location.",
+  "targets": [
+   "out_gr21"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr21"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr22",
+  "text": "I need to obtain: Authorisation to engage in the occupation of road haulage operator.",
+  "targets": [
+   "out_gr22"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_authorisation_and_electronic_a",
+    "gr22"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation",
+   "Ministry Of Justice",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr25",
+  "text": "I need to obtain: Certificate of Suitability for Administrative and Other Staff of a Casino Business.",
+  "targets": [
+   "out_gr25"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "gr25"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "Hellenic Gaming Commission",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr26",
+  "text": "I need to obtain: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest.",
+  "targets": [
+   "out_gr26"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr21",
+    "gr26"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr27",
+  "text": "I need to obtain: Change of Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance) with an Addition of a New Activity.",
+  "targets": [
+   "out_gr27"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr21",
+    "gr27"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr28",
+  "text": "I need to obtain: Change of Notification of the Establishment and Operation of a Shop to Provide Services of Sanitary Interest.",
+  "targets": [
+   "out_gr28"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr21",
+    "gr28"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr29",
+  "text": "I need to obtain: Change of Notification of the Establishment and Operation of Theatres and Cinemas.",
+  "targets": [
+   "out_gr29"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "grx_social_security_clearance_of_n",
+    "gr21",
+    "gr29"
+   ]
+  ],
+  "n_tasks": 5,
+  "organizations": [
+   "E-Efka",
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr30",
+  "text": "I need to obtain: Copy of certificate of competence for instructors of speedboat operator candidates.",
+  "targets": [
+   "out_gr30"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr30"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr31",
+  "text": "I need to obtain: Establishment and Operation of Amateur Dance Schools by a Natural Person.",
+  "targets": [
+   "out_gr31"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr31"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Culture"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr32",
+  "text": "I need to obtain: Establishment and Operation of Higher Schools of Dramatic Art and Higher Schools of Dance by Natural Persons.",
+  "targets": [
+   "out_gr32"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr32"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Culture"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr33",
+  "text": "I need to obtain: Establishment authorisation, operating authorisation and notification of operation of recreational activities in amusement parks, circuses and ice rinks.",
+  "targets": [
+   "out_gr33"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr33"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr37",
+  "text": "I need to obtain: Licence for setting up and operating a heliport.",
+  "targets": [
+   "out_gr37"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_decision_approving_environment",
+    "gr37"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Authority Of Civil Aviation",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr38",
+  "text": "I need to obtain: Licence for the Establishment and Operation of Music Educational Institutions (Conservatoires, Music Schools or Branches of them).",
+  "targets": [
+   "out_gr38"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "gr38"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Culture",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr39",
+  "text": "I need to obtain: Licence for the operation of Anonymous Investment Company in Real Estate (A.E.L.A.).",
+  "targets": [
+   "out_gr39"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_certificate_of_no_outstanding_",
+    "gr39"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Independent Authority For Public Revenue",
+   "Ministry Of Economy And Finance"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr40",
+  "text": "I need to obtain: Licence for the Operation of Antique Shops.",
+  "targets": [
+   "out_gr40"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "gr40"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "MINISTRY OF CULTURE Service / organizational unit of a authority entity Department of Supervision of Private Archaeological Collections and An-tique Shops",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr42",
+  "text": "I need to obtain: Licence to establish and/or operate a pure or mixed service station for the supply of liquefied natural gas (LNG) to vehicles.",
+  "targets": [
+   "out_gr42"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr42"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "MINISTRY OF INFRASTRUCTURE AND TRANSPORTATION Service / organizational unit of a authority entity"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr43",
+  "text": "I need to obtain: Licence to manufacture fireworks categories 1, 2, 3 and 4 and fireworks for theater categories T1, T2, P1 and P2.",
+  "targets": [
+   "out_gr43"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr43"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr44",
+  "text": "I need to obtain: Licence to trade fireworks category 1, 2, 3 and 4 and fireworks for theater category T1, T2, P1 and P2.",
+  "targets": [
+   "out_gr44"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr44"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr45",
+  "text": "I need to obtain: Licence to trade in air rifles and other objects prescribed by art. 6, par. 3 (subparagraphs εδ, δ, η, θ and ια) of Law 2168/93.",
+  "targets": [
+   "out_gr45"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_myphoto_for_citizens",
+    "gr45"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection",
+   "Ministry Of Justice",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr46",
+  "text": "I need to obtain: Licence to trade in revolvers, semi-automatic pistols, shotguns, hunt-ing weapons, weapons for the destruction of adhesive material, sniper rifles, spare parts, cartridges, hunting powder, and firearms of A and long firearms of B and their parts as sample.",
+  "targets": [
+   "out_gr46"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_myphoto_for_citizens",
+    "gr46"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection",
+   "Ministry Of Justice",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr47",
+  "text": "I need to obtain: Licensing of logistics facilities (storage and distribution centres).",
+  "targets": [
+   "out_gr47"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_decision_approving_environment",
+    "grx_authorisation_for_the_operatio",
+    "grx_operating_licence_for_a_cng_st",
+    "gr47"
+   ]
+  ],
+  "n_tasks": 5,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Development",
+   "Ministry Of Environment And Energy",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr48",
+  "text": "I need to obtain: Notification about operating parking areas for heavy-duty vehicles.",
+  "targets": [
+   "out_gr48"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr48"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr49",
+  "text": "I need to obtain: Notification of Commencement of Operation of a Factory or Winery for the Manufacture of Concentrated Grape Must.",
+  "targets": [
+   "out_gr49"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr49"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr50",
+  "text": "I need to obtain: Notification of Commencement of Operation of a Workshop for Bottling Wines and Aromatised Wines.",
+  "targets": [
+   "out_gr50"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr50"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr51",
+  "text": "I need to obtain: Notification of commencement of operation of an undertaking producing and/or marketing agricultural plant propagating material and changes thereto.",
+  "targets": [
+   "out_gr51"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr51"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Rural Development And Food"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr52",
+  "text": "I need to obtain: Notification of Commencement of Operation of Passenger Car Washing and Lubricating Facilities.",
+  "targets": [
+   "out_gr52"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr52"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr53",
+  "text": "I need to obtain: Notification of Commencement of Production of Natural or Artificial (Carbonated) Sparkling Wine.",
+  "targets": [
+   "out_gr53"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr53"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr54",
+  "text": "I need to obtain: Notification of establishment and operation of a gym or sports school.",
+  "targets": [
+   "out_gr54"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_certificate_of_active_fire_pro",
+    "grx_social_security_clearance_of_n",
+    "gr54"
+   ]
+  ],
+  "n_tasks": 5,
+  "organizations": [
+   "E-Efka",
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF EDUCATION, SPORTS AND RELIGIOUS AFFAIRS Service / organizational unit of a authority entity Regional",
+   "Ministry Of Justice"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr55",
+  "text": "I need to obtain: Notification of establishment and operation of beauty parlours.",
+  "targets": [
+   "out_gr55"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr55"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Health"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr56",
+  "text": "I need to obtain: Notification of Exercise of Leasing Activity of Private Passenger Cars with Driver.",
+  "targets": [
+   "out_gr56"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_single_certificate_of_judicial",
+    "grx_copy_of_criminal_record",
+    "gr56"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Courts",
+   "Ministry Of Justice",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr57",
+  "text": "I need to obtain: Notification of Operation in Tourist Furnished Residences, Furnished Rooms for Rent.",
+  "targets": [
+   "out_gr57"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr70",
+    "gr57"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr58",
+  "text": "I need to obtain: Notification of operation of a business for the rental of motorcycles, tricycles and quadricycles over 50 c.c. without driver.",
+  "targets": [
+   "out_gr58"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_copy_of_criminal_record",
+    "gr58"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry Of Justice",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr59",
+  "text": "I need to obtain: Notification of operation of a Theory Training Centre for Candidate Drivers (KETHEYO).",
+  "targets": [
+   "out_gr59"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr59"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr60",
+  "text": "I need to obtain: Notification of Operation of a Vehicle Roadside Assistance Company.",
+  "targets": [
+   "out_gr60"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_authorisation_and_electronic_a",
+    "gr22",
+    "gr60"
+   ]
+  ],
+  "n_tasks": 5,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation",
+   "Ministry Of Justice",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr61",
+  "text": "I need to obtain: Notification of operation of Car and Motorcycle Driving Schools and their branches.",
+  "targets": [
+   "out_gr61"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr61"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr63",
+  "text": "I need to obtain: Notification of Operation of Main Tourist Accommodation Facilities.",
+  "targets": [
+   "out_gr63"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr70",
+    "gr63"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr64",
+  "text": "I need to obtain: Notification of operation of outdoor parking facilities for cars, motorcycles and mopeds.",
+  "targets": [
+   "out_gr64"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr64"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr65",
+  "text": "I need to obtain: Notification of Operation of Vehicle Roadside Assistance Partner.",
+  "targets": [
+   "out_gr65"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_copy_of_criminal_record",
+    "grx_authorisation_and_electronic_a",
+    "gr22",
+    "gr65"
+   ]
+  ],
+  "n_tasks": 5,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation",
+   "Ministry Of Justice",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr66",
+  "text": "I need to obtain: Notification of provision of recreational diving services.",
+  "targets": [
+   "out_gr66"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr66"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Maritime Affairs And Insular Policy"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr67",
+  "text": "I need to obtain: Notification of Relocation - Expansion of Gym or Sports School to a New Building.",
+  "targets": [
+   "out_gr67"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "grx_social_security_contributions_",
+    "gr67"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "E-Efka",
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF CULTURE Service / organizational unit of a authority entity Regional"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr68",
+  "text": "I need to obtain: Notification of the commencement of operation of Intercity Bus Stations without fuel pump installations.",
+  "targets": [
+   "out_gr68"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr68"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr69",
+  "text": "I need to obtain: Notification of the Commencement of Operation of Sheltered Parkings.",
+  "targets": [
+   "out_gr69"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr69"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr70",
+  "text": "I need to obtain: Notification of the commencement of operation or change of details of a swimming pool within a tourist accommodation.",
+  "targets": [
+   "out_gr70"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr70"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Tourism"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr71",
+  "text": "I need to obtain: Notification of the commencement of the truck stations operation (type A) for the loading and unloading of goods, in case of concession.",
+  "targets": [
+   "out_gr71"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr71"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr72",
+  "text": "I need to obtain: Notification of the Establishment and Operation of a Shop of Sanitary Interest for the Retail Sale of Food and Beverages (Category III of the Sanitary Ordinance).",
+  "targets": [
+   "out_gr72"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr72"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr73",
+  "text": "I need to obtain: Notification of the Establishment and Operation of a Shop that Provides Services of Sanitary Interest.",
+  "targets": [
+   "out_gr73"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr21",
+    "gr73"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "MINISTRY OF DEVELOPMENT Service / organizational unit of a authority entity Department of Collective Bodies or Department of Licensing of Commercial Actions – within Municipalities Μethod of Implementation Manual Action",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr74",
+  "text": "I need to obtain: Notification of the Establishment and Operation of Theatres and Cinemas.",
+  "targets": [
+   "out_gr74"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "grx_certificate_of_no_outstanding_",
+    "gr74"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Independent Authority For Public Revenue",
+   "Ministry Of Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr75",
+  "text": "I need to obtain: Notification of the operation of repair and maintenance workshops for cars, motorcycles and mopeds.",
+  "targets": [
+   "out_gr75"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "grx_certificate_of_active_fire_pro",
+    "gr75"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Fire Service",
+   "Gov.gr",
+   "Ministry Of Infrastructure And Transportation"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr77",
+  "text": "I need to obtain: Operating licence for a private company acting as security services provider (sole proprietorship).",
+  "targets": [
+   "out_gr77"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr77"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "Ministry Of Citizen Protection"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr78",
+  "text": "I need to obtain: Renewal of a licence to operate a high-speed craft.",
+  "targets": [
+   "out_gr78"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_myphoto_for_citizens",
+    "gr78"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry Of Maritime Affairs And Insular Policy",
+   "Other Public Body"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_gr79",
+  "text": "I need to obtain: Temporary (active) fire protection certificate.",
+  "targets": [
+   "out_gr79"
+  ],
+  "held": [],
+  "references": [
+   [
+    "grx_solemn_declaration_and_electro",
+    "gr79"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Gov.gr",
+   "MINISTRY FOR CLIMATE CRISIS AND CIVIL PROTECTION Service / organizational unit of a authority entity Fire safety offices, local (prevention and suppression) fire safety departments"
+  ],
+  "closed": true
+ }
+]

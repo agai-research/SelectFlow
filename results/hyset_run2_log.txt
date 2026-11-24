@@ -1,0 +1,47 @@
+GPU: Tesla T4
+$ /usr/bin/python3 -m pip install -q datasets sentencepiece safetensors
+$ git clone -q --depth 1 https://github.com/stormwther18/HYSET.git
+$ git clone -q --depth 1 https://github.com/Accenture/mcp-bench.git
+278 MCP-Bench tools in our catalogue
+TOUCAN configurations: ['Kimi-K2', 'OSS', 'Qwen3', 'SFT']
+5000 TOUCAN queries collected
+10000 TOUCAN queries collected
+15000 TOUCAN queries collected
+20000 TOUCAN queries collected
+25000 TOUCAN queries collected
+30000 TOUCAN queries collected
+corpus 4230 tools, 30000 queries, 54 test servers
+encoder: ToolBench/ToolBench_IR_bert_based_uncased
+$ cd /content/hyset_work/HYSET && /usr/bin/python3 src/train_hyset.py --corpus /content/drive/MyDrive/selectflow_hyset/data_selectflow/hyset_corpus.json --instruction_dir /content/drive/MyDrive/selectflow_hyset/data_selectflow/instruction --test_id_dir /content/drive/MyDrive/selectflow_hyset/data_selectflow/test_query_ids --encoder ToolBench/ToolBench_IR_bert_based_uncased --encoder_type bert --d_z 768 --eta 0 --epochs 10 --patience 3 --seed 42 --checkpoint_dir /content/drive/MyDrive/selectflow_hyset/checkpoints --device cuda
+Training examples: 24949; validation examples: 509
+Trainable parameters: 6,197,760
+epoch=1 step=200/7800 Lret/record=3.4502 Lself/record=0.0000 lr=4.29e-05
+epoch=1 step=400/7800 Lret/record=2.5962 Lself/record=0.0000 lr=8.57e-05
+epoch=1 step=600/7800 Lret/record=2.1852 Lself/record=0.0000 lr=9.99e-05
+epoch=1 mean_Lret=2.8860 mean_Lself=0.0000 validation_Recall@5=0.344401
+epoch=2 step=800/7800 Lret/record=1.9072 Lself/record=0.0000 lr=9.95e-05
+epoch=2 step=1000/7800 Lret/record=1.6504 Lself/record=0.0000 lr=9.87e-05
+epoch=2 step=1200/7800 Lret/record=1.7293 Lself/record=0.0000 lr=9.76e-05
+epoch=2 step=1400/7800 Lret/record=1.7950 Lself/record=0.0000 lr=9.61e-05
+epoch=2 mean_Lret=1.7422 mean_Lself=0.0000 validation_Recall@5=0.360380
+epoch=3 step=1600/7800 Lret/record=1.4254 Lself/record=0.0000 lr=9.42e-05
+epoch=3 step=1800/7800 Lret/record=1.6972 Lself/record=0.0000 lr=9.21e-05
+epoch=3 step=2000/7800 Lret/record=1.6898 Lself/record=0.0000 lr=8.96e-05
+epoch=3 step=2200/7800 Lret/record=1.4781 Lself/record=0.0000 lr=8.69e-05
+epoch=3 mean_Lret=1.4448 mean_Lself=0.0000 validation_Recall@5=0.323215
+epoch=4 step=2400/7800 Lret/record=1.4485 Lself/record=0.0000 lr=8.38e-05
+epoch=4 step=2600/7800 Lret/record=1.1407 Lself/record=0.0000 lr=8.05e-05
+epoch=4 step=2800/7800 Lret/record=1.3412 Lself/record=0.0000 lr=7.70e-05
+epoch=4 step=3000/7800 Lret/record=1.0275 Lself/record=0.0000 lr=7.33e-05
+epoch=4 mean_Lret=1.3006 mean_Lself=0.0000 validation_Recall@5=0.314178
+epoch=5 step=3200/7800 Lret/record=1.0566 Lself/record=0.0000 lr=6.95e-05
+epoch=5 step=3400/7800 Lret/record=1.3765 Lself/record=0.0000 lr=6.55e-05
+epoch=5 step=3600/7800 Lret/record=1.2083 Lself/record=0.0000 lr=6.13e-05
+epoch=5 step=3800/7800 Lret/record=1.0385 Lself/record=0.0000 lr=5.71e-05
+epoch=5 mean_Lret=1.2133 mean_Lself=0.0000 validation_Recall@5=0.304944
+Early stopping after 5 epochs (patience=3).
+Best validation Recall@5: 0.360380
+Checkpoint: /content/drive/MyDrive/selectflow_hyset/checkpoints/best.pt
+
+training time 4030 s
+$ cd /content/hyset_work/HYSET && /usr/bin/python3 src/evaluate_hyset.py --checkpoint /content/drive/MyDrive/selectflow_hyset/checkpoints/best.pt --encoder ToolBench/ToolBench_IR_bert_based_uncased --instruction_dir /content/drive/MyDrive/selectflow_hyset/data_selectflow/eval_instruction --test_id_dir /content/drive/MyDrive/selectflow_hyset/data_selectflow/test_query_ids --output_dir /content/hyset_results/evaluation --device cuda

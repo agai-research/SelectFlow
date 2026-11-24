@@ -1,0 +1,248 @@
+{
+  "greece": {
+    "gap": [
+      "v3"
+    ],
+    "duration_days": 17.0,
+    "plan": {
+      "v1": {
+        "host": "hT",
+        "toolkit": [
+          "tax.number.get",
+          "tax.registration.start"
+        ],
+        "Q": 1.102,
+        "load": 950
+      },
+      "v2": {
+        "host": "hP",
+        "toolkit": [
+          "muni.attestation.request",
+          "muni.attestation.get"
+        ],
+        "Q": 1.179,
+        "load": 1000
+      },
+      "v4": {
+        "host": "hP",
+        "toolkit": [
+          "notify.fee.pay",
+          "muni.attestation.get",
+          "notify.new.submit"
+        ],
+        "Q": 1.541,
+        "load": 1600
+      }
+    },
+    "ledger": [
+      {
+        "request": "I want to open a restaurant",
+        "descriptor": "v3",
+        "correction": [
+          "('cov', 'v3', 'submit-application')",
+          "('ho', 'v1', 'v3', 'tax_registration')"
+        ]
+      }
+    ]
+  },
+  "E1": {
+    "n_train": 4243,
+    "n_test": 856,
+    "gamma_hat": 0.40616203148829666,
+    "beta_hat": [
+      -0.521,
+      2.005,
+      0.428,
+      0.585,
+      1.099,
+      0.324
+    ],
+    "mnl": {
+      "log_loss": 1.7804814532041842,
+      "brier": 0.7548434927042325,
+      "top1": 0.3644859813084112
+    },
+    "mnl_gamma0": {
+      "log_loss": 1.7914063042275115,
+      "brier": 0.756468654066746,
+      "top1": 0.36098130841121495
+    },
+    "relevance": {
+      "log_loss": 1.9577154990889518,
+      "brier": 0.8127746445158494,
+      "top1": 0.3516355140186916
+    },
+    "diff_vs_relevance": [
+      0.17723404588476344,
+      0.13814213094255257,
+      0.21485399588243678
+    ],
+    "diff_vs_gamma0": [
+      0.010924851023329116,
+      0.002457225815697073,
+      0.019710272470744427
+    ]
+  },
+  "E3": {
+    "attraction": {
+      "intended": 0.34594594594594597,
+      "wrong": 0.5540540540540541,
+      "none": 0.1,
+      "load": 1776.6486486486488,
+      "size": 3.1621621621621623,
+      "n": 370
+    },
+    "dense_topk": {
+      "intended": 0.42162162162162165,
+      "wrong": 0.4783783783783784,
+      "none": 0.1,
+      "load": 2350.9189189189187,
+      "size": 4.0,
+      "n": 370
+    },
+    "qos_single": {
+      "intended": 0.3918918918918919,
+      "wrong": 0.45135135135135135,
+      "none": 0.15675675675675677,
+      "load": 1282.1351351351352,
+      "size": 2.2432432432432434,
+      "n": 370
+    },
+    "selectflow": {
+      "intended": 0.5911764705882353,
+      "wrong": 0.2323529411764706,
+      "none": 0.17647058823529413,
+      "load": 1416.1764705882354,
+      "size": 2.5588235294117645,
+      "n": 340
+    },
+    "selectflow_vs_attraction": {
+      "diff_ci": [
+        0.21470588235294116,
+        0.15,
+        0.27647058823529413
+      ],
+      "n_pairs": 340
+    },
+    "selectflow_vs_dense_topk": {
+      "diff_ci": [
+        0.1676470588235294,
+        0.09411764705882353,
+        0.2411764705882353
+      ],
+      "n_pairs": 340
+    },
+    "selectflow_vs_qos_single": {
+      "diff_ci": [
+        0.19411764705882353,
+        0.12352941176470589,
+        0.26176470588235295
+      ],
+      "n_pairs": 340
+    },
+    "mcnemar_holm": {
+      "attraction": 1.1938176793215189e-09,
+      "qos_single": 2.560155922176347e-07,
+      "dense_topk": 1.559612370558935e-05
+    },
+    "selectflow_infeasible_tasks": [
+      "p7"
+    ]
+  },
+  "E4": {
+    "conformal": {
+      "fdr": 0.08096717440599782,
+      "power": 0.8771999241971186
+    },
+    "threshold": {
+      "fdr": 0.08319707749801644,
+      "power": 0.8400824304644102
+    },
+    "declared": {
+      "fdr": 0.213196805652962,
+      "power": 1.0
+    },
+    "eps": 0.1
+  },
+  "E5": {
+    "density_0.5": {
+      "selectflow": {
+        "solved": 12,
+        "equipped": 0.34722222222222215,
+        "broken_handoffs": 0.0,
+        "gap": 0.6527777777777778,
+        "repairs": 0.4166666666666667,
+        "time_s": 0.015060742696126303
+      },
+      "task_by_task": {
+        "solved": 12,
+        "equipped": 0.34722222222222215,
+        "broken_handoffs": 0.0,
+        "gap": 0.6527777777777778,
+        "repairs": 0.4166666666666667,
+        "time_s": 0.016195992628733318
+      },
+      "no_repair": {
+        "solved": 12,
+        "equipped": 0.34722222222222215,
+        "broken_handoffs": 0.0,
+        "gap": 0.6527777777777778,
+        "repairs": 0.0,
+        "time_s": 0.014196276664733887
+      }
+    },
+    "density_0.75": {
+      "selectflow": {
+        "solved": 12,
+        "equipped": 0.736111111111111,
+        "broken_handoffs": 0.0,
+        "gap": 0.2638888888888889,
+        "repairs": 0.08333333333333333,
+        "time_s": 0.05026759703954061
+      },
+      "task_by_task": {
+        "solved": 12,
+        "equipped": 0.5833333333333333,
+        "broken_handoffs": 0.15277777777777776,
+        "gap": 0.2638888888888889,
+        "repairs": 0.08333333333333333,
+        "time_s": 0.04602654774983724
+      },
+      "no_repair": {
+        "solved": 12,
+        "equipped": 0.736111111111111,
+        "broken_handoffs": 0.0,
+        "gap": 0.2638888888888889,
+        "repairs": 0.0,
+        "time_s": 0.053713579972585045
+      }
+    },
+    "density_0.9": {
+      "selectflow": {
+        "solved": 12,
+        "equipped": 0.8194444444444443,
+        "broken_handoffs": 0.0,
+        "gap": 0.18055555555555555,
+        "repairs": 0.0,
+        "time_s": 0.12385314702987671
+      },
+      "task_by_task": {
+        "solved": 12,
+        "equipped": 0.6666666666666666,
+        "broken_handoffs": 0.15277777777777776,
+        "gap": 0.18055555555555555,
+        "repairs": 0.0,
+        "time_s": 0.07801107565561931
+      },
+      "no_repair": {
+        "solved": 12,
+        "equipped": 0.8194444444444443,
+        "broken_handoffs": 0.0,
+        "gap": 0.18055555555555555,
+        "repairs": 0.0,
+        "time_s": 0.12852835655212402
+      }
+    }
+  },
+  "elapsed_s": 13.5
+}

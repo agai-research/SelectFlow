@@ -1,0 +1,12 @@
+{
+ "checkpoint": "/content/hyset_work/checkpoints/best.pt",
+ "encoder": "ToolBench/ToolBench_IR_bert_based_uncased",
+ "our_tools_in_model": 278,
+ "tasks": 104,
+ "top5_contains_task_server": 0.3942307692307692,
+ "test_queries": 2834,
+ "recall@5": 0.09084921195012942,
+ "set_precision": 0.04058456833686199,
+ "set_recall": 0.08415078804987068,
+ "exact_set": 0.00035285815102328866
+}

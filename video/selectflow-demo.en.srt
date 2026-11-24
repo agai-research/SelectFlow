@@ -1,0 +1,167 @@
+1
+00:00:00,150 --> 00:00:04,400
+SelectFlow: a portal to compose workflows across public bodies.
+
+2
+00:00:04,750 --> 00:00:09,000
+The home page reaches every function in one click.
+
+3
+00:00:09,350 --> 00:00:13,200
+The button at the top right opens the “Language model” page.
+
+4
+00:00:13,450 --> 00:00:17,300
+Choose a provider: here Claude, available in claude.ai.
+
+5
+00:00:17,550 --> 00:00:21,400
+Then the model: Haiku, Sonnet or Opus 5.5.
+
+6
+00:00:21,650 --> 00:00:25,900
+“Test” checks the call; “Use this model” enables it for the whole portal.
+
+7
+00:00:26,350 --> 00:00:30,000
+To use an API key, choose “Anthropic API”.
+
+8
+00:00:30,250 --> 00:00:34,000
+Paste the key: it is kept in this tab only.
+
+9
+00:00:34,250 --> 00:00:38,600
+A page published on claude.ai cannot reach other providers: download it.
+
+10
+00:00:38,850 --> 00:00:40,950
+Then “Use this model”.
+
+11
+00:00:41,350 --> 00:00:45,400
+Even without a model, 95 example requests are ready to run.
+
+12
+00:00:45,650 --> 00:00:49,600
+Filter by country, number of tasks or language.
+
+13
+00:00:49,850 --> 00:00:54,900
+“Run” derives the workflow and composes the toolkits at once.
+
+14
+00:00:55,350 --> 00:00:59,200
+Or write your own request in everyday language.
+
+15
+00:00:59,450 --> 00:01:02,500
+Then submit it.
+
+16
+00:01:02,850 --> 00:01:06,600
+Interpretation proposes the target documents, with or without a model.
+
+17
+00:01:06,850 --> 00:01:10,900
+Correct them if needed, then confirm: nothing is derived before that.
+
+18
+00:01:11,350 --> 00:01:15,900
+The verified workflow appears as an activity diagram, one lane per body.
+
+19
+00:01:16,150 --> 00:01:19,400
+Here it matches the registry’s workflow exactly.
+
+20
+00:01:19,750 --> 00:01:23,000
+Candidates, critics and forward chaining remain available.
+
+21
+00:01:23,250 --> 00:01:26,900
+Derive with the chosen model, or without one, then confirm.
+
+22
+00:01:27,350 --> 00:01:32,400
+Each task gets a model host and a toolkit: the tools offered to the agent.
+
+23
+00:01:32,650 --> 00:01:36,900
+The percentages predict which tool the agent will pick from each toolkit.
+
+24
+00:01:37,150 --> 00:01:40,600
+“Compose again” recomputes with the current parameters.
+
+25
+00:01:40,850 --> 00:01:44,400
+“Ask the live agent” offers the toolkit to the model and records the tool it calls.
+
+26
+00:01:44,650 --> 00:01:46,950
+Several plans are compared.
+
+27
+00:01:47,350 --> 00:01:51,600
+The final plan shows the host and the toolkit of every task.
+
+28
+00:01:51,850 --> 00:01:55,200
+Constraints C1 to C6 are validated.
+
+29
+00:01:55,450 --> 00:01:58,950
+Save the plan, or export it as JSON.
+
+30
+00:01:59,350 --> 00:02:03,000
+Bodies and servers: 32 public bodies and their MCP servers.
+
+31
+00:02:03,250 --> 00:02:06,400
+Each profile shows its tools, procedures and agreements.
+
+32
+00:02:06,750 --> 00:02:10,900
+The servers table shows endpoint, status and number of tools.
+
+33
+00:02:11,150 --> 00:02:13,950
+“Add server” adds one.
+
+34
+00:02:14,350 --> 00:02:18,200
+The catalog: 308 tools, with search and filters.
+
+35
+00:02:18,450 --> 00:02:21,600
+Body, capability, certification, latency, dependability.
+
+36
+00:02:21,950 --> 00:02:26,000
+A tool’s profile shows its card, its behaviour and its schemas.
+
+37
+00:02:26,250 --> 00:02:28,950
+Edit it, delete it, or import tools.
+
+38
+00:02:29,350 --> 00:02:33,600
+The MCP connectors of your claude.ai account are listed here.
+
+39
+00:02:33,850 --> 00:02:38,950
+Describe their tools, test a call and import them into the catalog.
+
+40
+00:02:39,350 --> 00:02:42,800
+The matrix shows the flows allowed between bodies.
+
+41
+00:02:43,050 --> 00:02:45,600
+One click gives the reason.
+
+42
+00:02:45,950 --> 00:02:51,950
+The history groups each request with its operations, ready to export.

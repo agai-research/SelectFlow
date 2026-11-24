@@ -1,0 +1,412 @@
+{
+ "req_gr01": {
+  "vague_en": "I want to set up a diving team and start running it in Greece. Who do I tell and what do I have to file so it's all above board?",
+  "fr": "Je voudrais monter une équipe de plongeurs en Grèce et commencer à l'exploiter. À qui dois-je le déclarer et que dois-je déposer pour être en règle ?",
+  "ar": "أريد تشكيل فريق غوص وبدء تشغيله في اليونان. لمن يجب أن أبلغ وما الذي عليّ تقديمه حتى يكون كل شيء قانونياً؟"
+ },
+ "req_gr02": {
+  "vague_en": "I want to put a floating boat or a permanent mooring for ships in Greece and also open a small shop on it, like a café or snack place. What do I need to tell the authorities?",
+  "fr": "Je voudrais installer une embarcation flottante ou un amarrage permanent pour des navires en Grèce, et y ouvrir un petit commerce de type café ou snack. Que dois-je déclarer aux autorités ?",
+  "ar": "أريد تركيب منشأة عائمة أو مرسى دائم للسفن في اليونان وفتح محل صغير عليها مثل مقهى أو مطعم خفيف. ماذا يجب أن أبلغ به السلطات؟"
+ },
+ "req_gr03": {
+  "vague_en": "I want to start a small business renting out cars to tourists in Greece, what do I need to file to let the authorities know I'm opening?",
+  "fr": "Je veux ouvrir une petite entreprise de location de voitures pour touristes en Grèce, que dois-je déclarer aux autorités pour signaler l'ouverture de mon activité ?",
+  "ar": "أريد افتتاح مشروع صغير لتأجير السيارات للسياح في اليونان، ما الذي يجب أن أقدمه للسلطات لإبلاغها ببدء نشاطي؟"
+ },
+ "req_gr05": {
+  "vague_en": "I run a small business in Greece and want to let the authorities know I'll be collecting oily waste from ships using a tanker truck. What do I need to file?",
+  "fr": "J'ai une petite entreprise en Grèce et je veux informer les autorités que je vais récupérer les résidus d'hydrocarbures de navires avec un camion-citerne. Que dois-je déposer ?",
+  "ar": "أملك شركة صغيرة في اليونان وأريد إبلاغ السلطات بأنني سأقوم باستلام مخلفات الزيوت من السفن بواسطة شاحنة صهريجية. ما الذي يجب أن أقدمه؟"
+ },
+ "req_gr07": {
+  "vague_en": "I want to start renting out small motorboats and speedboats to tourists in Greece, what do I need to file to let the authorities know?",
+  "fr": "Je voudrais commencer à louer des petits bateaux à moteur et des hors-bord en Grèce, quelle déclaration dois-je faire auprès des autorités pour les informer de mon activité ?",
+  "ar": "أريد أن أبدأ تأجير قوارب صغيرة بمحرك وزوارق سريعة في اليونان، فما الإشعار الذي عليّ تقديمه للسلطات لإبلاغها بنشاطي؟"
+ },
+ "req_gr08": {
+  "vague_en": "I'm opening a shop in Greece to sell pesticides and crop protection stuff to farmers. What do I need to file to tell the authorities that I'm starting to sell?",
+  "fr": "Je vais ouvrir un magasin en Grèce pour vendre des pesticides et des produits pour protéger les cultures. Que dois-je déposer pour informer les autorités que je commence à vendre ?",
+  "ar": "سأفتتح محلاً في اليونان لبيع المبيدات والمنتجات الخاصة بحماية المحاصيل للمزارعين. ما الذي يجب أن أقدمه لإبلاغ السلطات بأنني بدأت البيع؟"
+ },
+ "req_gr09": {
+  "vague_en": "I'm an individual and I want to start working as a jeweler / dealing in second-hand gold jewelry and valuables in Greece. How do I let the authorities know I'm opening?",
+  "fr": "Je suis un particulier et je veux commencer une activité d'orfèvre ou d'achat-vente de bijoux en or d'occasion et d'objets de valeur en Grèce. Comment déclarer le début de mon activité aux autorités ?",
+  "ar": "أنا شخص طبيعي وأريد بدء العمل كصائغ أو في بيع وشراء المجوهرات الذهبية المستعملة والأشياء الثمينة في اليونان. كيف أُبلغ السلطات ببدء نشاطي؟"
+ },
+ "req_gr10": {
+  "vague_en": "I want to open a small shop on a ship that sails at sea and I need to let the authorities know about it. What do I have to do in Greece?",
+  "fr": "Je voudrais ouvrir une petite boutique à bord d'un navire de mer et je dois en informer les autorités. Que dois-je faire en Grèce ?",
+  "ar": "أريد افتتاح محل صغير على متن سفينة بحرية وعليّ إبلاغ السلطات بذلك. ما الذي يجب أن أفعله في اليونان؟"
+ },
+ "req_gr11": {
+  "vague_en": "I want to open my own private car inspection station in Greece, the kind that does the roadworthiness checks on vehicles. What do I need to file to let the authorities know it's starting to operate?",
+  "fr": "Je voudrais ouvrir en Grèce un centre privé qui fait les contrôles techniques des véhicules. Quelle démarche dois-je faire pour informer les autorités que le centre commence à fonctionner ?",
+  "ar": "أريد افتتاح مركز خاص لفحص المركبات فنيًا في اليونان. ما الإجراء الذي يجب عليّ القيام به لإبلاغ السلطات ببدء تشغيل المركز؟"
+ },
+ "req_gr12": {
+  "vague_en": "I just bought a private vehicle inspection station (KTEO) from the previous owner and I need to let the authorities know it's up and running again under my name.",
+  "fr": "Je viens de racheter un centre de contrôle technique privé de véhicules (KTEO) en Grèce et je dois signaler aux autorités qu'il fonctionne de nouveau sous mon nom, après le changement de propriétaire.",
+  "ar": "لقد اشتريت للتو مركزًا خاصًا للفحص الفني للمركبات (KTEO) في اليونان من المالك السابق، وأريد إبلاغ الجهات المختصة بأنه عاد للعمل باسمي بعد انتقال الملكية."
+ },
+ "req_gr13": {
+  "vague_en": "I'm organizing a trade fair in Greece for local businesses and need to let the authorities know it's going to take place. How do I do that?",
+  "fr": "J'organise une foire commerciale en Grèce pour des entreprises locales et je dois informer les autorités de sa tenue. Comment dois-je procéder ?",
+  "ar": "أنظّم معرضًا تجاريًا في اليونان للشركات المحلية وأحتاج إلى إبلاغ الجهات المختصة بإقامته. كيف أقوم بذلك؟"
+ },
+ "req_gr14": {
+  "vague_en": "I'm organizing a big international trade fair in Greece and need to officially let the authorities know it's going to take place. What do I need to do to notify them?",
+  "fr": "J'organise un grand salon commercial international en Grèce et je dois informer officiellement les autorités de sa tenue. Quelle démarche dois-je effectuer pour le déclarer ?",
+  "ar": "أنظّم معرضًا تجاريًا دوليًا كبيرًا في اليونان وأحتاج إلى إبلاغ السلطات رسميًا بإقامته. ما الإجراء الذي عليّ القيام به للإعلان عنه؟"
+ },
+ "req_gr15": {
+  "vague_en": "I run a port facility in Greece and want to let ships know we're starting to take in oily waste from tankers and boats. How do I get that announced officially?",
+  "fr": "J'exploite une installation portuaire en Grèce et je voudrais annoncer officiellement que nous allons commencer à recevoir les résidus d'hydrocarbures des pétroliers et des embarcations flottantes. Comment dois-je faire ?",
+  "ar": "أدير منشأة في ميناء في اليونان وأريد الإعلان رسميًا عن بدء استقبال المخلفات الزيتية من الناقلات والقطع العائمة. ما الإجراءات المطلوبة لذلك؟"
+ },
+ "req_gr16": {
+  "vague_en": "I run a vessel that collects waste from other ships in a Greek port, and I need to officially let the authorities know it's about to start operating. How do I do that?",
+  "fr": "J'exploite un navire qui collecte les déchets d'autres bateaux dans un port grec et je dois informer officiellement les autorités qu'il va commencer à naviguer et à opérer. Comment dois-je procéder ?",
+  "ar": "أشغّل سفينة لاستقبال النفايات من السفن الأخرى في أحد الموانئ اليونانية، وأحتاج إلى إبلاغ السلطات رسميًا ببدء تشغيلها وإبحارها. كيف أقوم بذلك؟"
+ },
+ "req_gr17": {
+  "vague_en": "I'm a private individual and I want to open and run my own college in Greece. What do I need to do to get the green light from the authorities?",
+  "fr": "Je suis un particulier et je voudrais ouvrir et diriger mon propre collège en Grèce. Que dois-je faire pour obtenir le feu vert des autorités ?",
+  "ar": "أنا شخص عادي وأريد فتح كلية خاصة بي وتشغيلها في اليونان. ما الذي يجب عليّ فعله للحصول على موافقة السلطات؟"
+ },
+ "req_gr20": {
+  "vague_en": "I want to run some fun activities for visitors on the land area of a tourist marina in Greece, like rentals and games. What permission do I need to get to be allowed to operate them?",
+  "fr": "Je voudrais organiser des activités de loisirs sur la partie terrestre d'un port de plaisance en Grèce. Quelle autorisation dois-je obtenir pour pouvoir les exploiter ?",
+  "ar": "أرغب في تشغيل أنشطة ترفيهية على الأرض التابعة لمرفأ سياحي في اليونان. ما هي الموافقة التي يجب أن أحصل عليها حتى يُسمح لي بتشغيلها؟"
+ },
+ "req_gr21": {
+  "vague_en": "I want to open a small shop at a specific address and need something official saying I'm allowed to set it up there.",
+  "fr": "Je voudrais ouvrir une boutique à une adresse précise et j'ai besoin d'un papier officiel qui confirme que j'ai le droit de m'y installer.",
+  "ar": "أريد فتح محل تجاري في عنوان محدد وأحتاج إلى وثيقة رسمية تثبت أنه يُسمح لي بإقامته في هذا المكان."
+ },
+ "req_gr22": {
+  "vague_en": "I want to start a trucking business in Greece and need the official okay to run lorries and carry goods for other people on the road.",
+  "fr": "Je voudrais monter une entreprise de transport routier de marchandises en Grèce et j'ai besoin de l'autorisation officielle pour exercer ce métier avec des camions.",
+  "ar": "أرغب في إنشاء شركة لنقل البضائع بالشاحنات في اليونان وأحتاج إلى الإذن الرسمي لمزاولة هذه المهنة."
+ },
+ "req_gr25": {
+  "vague_en": "I'm about to start working at a casino in Greece, not as a dealer but in the office/admin side. I need an official paper showing I'm a suitable person to work there. How do I get it?",
+  "fr": "Je vais bientôt travailler dans un casino en Grèce, mais côté administratif, pas comme croupier. J'ai besoin d'un document officiel qui prouve que je suis apte à occuper ce poste. Comment l'obtenir ?",
+  "ar": "سأبدأ العمل قريبًا في كازينو في اليونان ضمن الموظفين الإداريين وليس كموزّع ألعاب، وأحتاج إلى وثيقة رسمية تثبت أنني شخص مناسب وصالح للعمل هناك. كيف أحصل عليها؟"
+ },
+ "req_gr26": {
+  "vague_en": "I run a small shop like a hairdresser/health-related business in Greece and some of the details I gave the authorities when I opened have changed. How do I update that?",
+  "fr": "J'ai un petit commerce de type salon de coiffure ou activité liée à l'hygiène en Grèce, et certaines informations que j'avais déclarées à l'ouverture ont changé. Comment faire pour mettre à jour ma déclaration auprès des autorités ?",
+  "ar": "لدي محل صغير في اليونان مثل صالون حلاقة أو نشاط مرتبط بالصحة والنظافة، وقد تغيّرت بعض البيانات التي صرّحت بها للسلطات عند افتتاحه. كيف يمكنني تحديث هذا التصريح؟"
+ },
+ "req_gr27": {
+  "vague_en": "I run a small food and drinks shop and want to start selling something new, so I need to update what I originally declared to the authorities when I opened the shop.",
+  "fr": "Je tiens un petit commerce d'alimentation et de boissons et je veux ajouter une nouvelle activité, donc je dois mettre à jour la déclaration que j'avais faite aux autorités à l'ouverture du magasin.",
+  "ar": "أملك متجرًا صغيرًا لبيع الأغذية والمشروبات وأريد إضافة نشاط جديد، لذلك أحتاج إلى تعديل الإفادة التي قدمتها للجهات المختصة عند افتتاح المتجر."
+ },
+ "req_gr28": {
+  "vague_en": "I run a small hair and beauty shop in Greece and something about it changed since I first told the authorities I was opening it. How do I update that registration so it's correct?",
+  "fr": "J'ai un petit salon de coiffure/esthétique en Grèce et des informations ont changé depuis ma déclaration d'ouverture auprès des autorités. Comment mettre à jour cette déclaration ?",
+  "ar": "أدير صالون حلاقة وتجميل صغيرًا في اليونان وتغيّرت بعض المعلومات منذ أن أبلغت السلطات بافتتاحه. كيف أقوم بتعديل هذا الإخطار ليصبح محدّثًا؟"
+ },
+ "req_gr29": {
+  "vague_en": "I run a cinema in Greece and some of the details I originally declared when opening have changed, so I need to update them with the authorities. How do I do that?",
+  "fr": "Je gère un cinéma en Grèce et certaines informations que j'avais déclarées à l'ouverture ont changé. Comment puis-je les mettre à jour auprès des autorités ?",
+  "ar": "أدير سينما في اليونان وتغيّرت بعض البيانات التي صرّحت بها عند افتتاحها، وأريد تحديثها لدى الجهات المختصة. كيف أفعل ذلك؟"
+ },
+ "req_gr30": {
+  "vague_en": "I teach people who want to get their speedboat license and I lost my instructor paper, how do I get another copy of it?",
+  "fr": "Je suis moniteur et je forme des candidats au permis bateau à moteur rapide, j'ai perdu mon attestation d'aptitude, comment en obtenir un double ?",
+  "ar": "أنا مدرّب لمرشحين لرخصة قيادة القوارب السريعة وفقدت شهادة الكفاءة الخاصة بي، كيف أحصل على نسخة منها؟"
+ },
+ "req_gr31": {
+  "vague_en": "I want to open a small dance school for amateurs in Greece on my own, as an individual. What do I need to do to get permission to set it up and run it?",
+  "fr": "Je voudrais ouvrir à titre individuel une petite école de danse pour amateurs en Grèce. Quelles démarches dois-je faire pour avoir l'autorisation de la créer et de la faire fonctionner ?",
+  "ar": "أرغب في فتح مدرسة صغيرة لتعليم الرقص للهواة في اليونان بصفتي شخصًا عاديًا وليس شركة. ما الإجراءات المطلوبة للحصول على الترخيص لإنشائها وتشغيلها؟"
+ },
+ "req_gr32": {
+  "vague_en": "I want to open my own private acting school and dance school at university level in Greece. What do I need to do to get permission to set it up and run it as an individual?",
+  "fr": "Je voudrais ouvrir en Grèce, en tant que particulier, une école supérieure d'art dramatique et de danse. Que dois-je faire pour obtenir l'autorisation de la créer et de la faire fonctionner ?",
+  "ar": "أرغب في أن أفتتح بصفتي شخصًا طبيعيًا في اليونان معهدًا عاليًا للفن المسرحي ومعهدًا عاليًا للرقص. ما الإجراءات اللازمة للحصول على ترخيص لتأسيسه وتشغيله؟"
+ },
+ "req_gr33": {
+  "vague_en": "I want to open a small amusement park with rides and maybe an ice rink in Greece. What permits do I need to get so I can set it up and legally run it?",
+  "fr": "Je veux ouvrir un petit parc d'attractions avec des manèges et peut-être une patinoire en Grèce. Quelles autorisations dois-je obtenir pour l'installer et l'exploiter légalement ?",
+  "ar": "أريد افتتاح مدينة ملاهٍ صغيرة تضم ألعابًا وربما حلبة تزلج على الجليد في اليونان. ما التراخيص التي أحتاجها لإقامتها وتشغيلها بشكل قانوني؟"
+ },
+ "req_gr37": {
+  "vague_en": "I want to build a small helicopter landing pad for my business in Greece and run it legally. What do I need to get permission for that?",
+  "fr": "Je voudrais aménager une petite aire d'atterrissage pour hélicoptères pour mon entreprise en Grèce et l'exploiter en toute légalité. Quelle autorisation dois-je obtenir pour cela ?",
+  "ar": "أرغب في إنشاء مهبط صغير للمروحيات لشركتي في اليونان وتشغيله بشكل قانوني. ما هو الترخيص الذي يجب أن أحصل عليه لذلك؟"
+ },
+ "req_gr38": {
+  "vague_en": "I want to open a music school in Greece where people can learn instruments and theory. What do I need to get the okay to set it up and run it legally?",
+  "fr": "Je voudrais ouvrir une école de musique en Grèce pour enseigner les instruments et le solfège. Que dois-je faire pour obtenir l'autorisation de la créer et de l'exploiter légalement ?",
+  "ar": "أرغب في افتتاح مدرسة لتعليم الموسيقى في اليونان لتدريس الآلات الموسيقية والنظرية الموسيقية. ما الذي يلزمني للحصول على الإذن القانوني بتأسيسها وتشغيلها؟"
+ },
+ "req_gr39": {
+  "vague_en": "I want to set up a company in Greece that invests in real estate and need the permission to start running it. How do I get that approval?",
+  "fr": "Je voudrais créer en Grèce une société d'investissement immobilier et j'ai besoin de l'autorisation pour pouvoir commencer à l'exploiter. Comment l'obtenir ?",
+  "ar": "أريد تأسيس شركة استثمار عقاري في اليونان وأحتاج إلى الترخيص اللازم لبدء تشغيلها. كيف يمكنني الحصول عليه؟"
+ },
+ "req_gr40": {
+  "vague_en": "I want to open a shop selling antiques in Greece, what do I need to do to get permission to run it?",
+  "fr": "Je voudrais ouvrir une boutique d'antiquités en Grèce, que dois-je faire pour obtenir l'autorisation de l'exploiter ?",
+  "ar": "أريد فتح محل لبيع التحف القديمة في اليونان، ما الذي يجب عليّ فعله للحصول على الترخيص اللازم لتشغيله؟"
+ },
+ "req_gr42": {
+  "vague_en": "I want to open a station where vehicles can fill up on liquefied natural gas, either just LNG or alongside regular fuel. What permit do I need to get from the authorities in Greece?",
+  "fr": "Je voudrais ouvrir en Grèce une station où les véhicules peuvent faire le plein de gaz naturel liquéfié, soit uniquement du GNL, soit en plus des carburants classiques. Quelle autorisation dois-je obtenir pour pouvoir l'installer et l'exploiter ?",
+  "ar": "أرغب في إنشاء محطة في اليونان لتزويد المركبات بالغاز الطبيعي المسال، إما محطة مخصصة للغاز فقط أو محطة مختلطة مع الوقود التقليدي. ما هو الترخيص الذي يجب أن أحصل عليه لإنشائها وتشغيلها؟"
+ },
+ "req_gr43": {
+  "vague_en": "I want to start making fireworks in Greece, including the small consumer ones, bigger display ones, and the stage/theatre pyrotechnics. What permit do I need to get to legally manufacture them?",
+  "fr": "Je voudrais fabriquer des feux d'artifice en Grèce, aussi bien les petits articles grand public que les feux de spectacle plus puissants et les articles pyrotechniques pour le théâtre. Quelle autorisation dois-je obtenir pour pouvoir les fabriquer légalement ?",
+  "ar": "أريد البدء في تصنيع الألعاب النارية في اليونان، بما فيها الأنواع الصغيرة للاستخدام العام والأنواع الأكبر للعروض والمواد النارية المخصصة للمسرح. ما هو الترخيص الذي يجب أن أحصل عليه لأتمكن من التصنيع بشكل قانوني؟"
+ },
+ "req_gr44": {
+  "vague_en": "I want to start selling fireworks in Greece, including the small consumer ones, the bigger display ones and the stage/theatre effects. What do I need to get permission to sell them?",
+  "fr": "Je voudrais vendre des feux d'artifice en Grèce, aussi bien les petits articles grand public que les plus gros pour spectacles et les effets pour le théâtre et la scène. Comment obtenir l'autorisation de les commercialiser ?",
+  "ar": "أريد أن أبدأ ببيع الألعاب النارية في اليونان، من الأنواع الصغيرة للاستهلاك العام إلى الأنواع الأكبر للعروض ومؤثرات المسرح. كيف أحصل على الإذن اللازم لبيعها؟"
+ },
+ "req_gr45": {
+  "vague_en": "I want to open a shop selling air guns and similar stuff, what permit do I need to get to be allowed to sell them?",
+  "fr": "Je voudrais vendre des carabines à air comprimé et d'autres armes de ce genre dans mon magasin, quelle autorisation dois-je obtenir pour avoir le droit de les commercialiser ?",
+  "ar": "أريد بيع بنادق الهواء المضغوط وما شابهها في محلي التجاري، فما هو الترخيص الذي يجب أن أحصل عليه حتى يُسمح لي بالاتجار بها؟"
+ },
+ "req_gr46": {
+  "vague_en": "I want to open a shop and legally sell handguns, shotguns, hunting guns and rifles, plus ammo, gunpowder and spare parts here in Greece. What permit do I need to get?",
+  "fr": "Je voudrais ouvrir un commerce en Grèce pour vendre légalement des armes de poing, des fusils de chasse, des carabines, ainsi que des munitions, de la poudre et des pièces détachées. Quelle autorisation dois-je obtenir ?",
+  "ar": "أريد فتح محل في اليونان لبيع الأسلحة النارية بشكل قانوني، مثل المسدسات وبنادق الصيد والبنادق الطويلة، إضافة إلى الذخيرة والبارود وقطع الغيار. ما هو الترخيص الذي يجب أن أحصل عليه؟"
+ },
+ "req_gr47": {
+  "vague_en": "I'm setting up a warehouse and distribution center in Greece for storing and shipping goods. What do I need to do to get it officially approved to operate?",
+  "fr": "Je monte un entrepôt et un centre de distribution en Grèce pour stocker et expédier des marchandises. Que dois-je faire pour obtenir l'autorisation officielle de l'exploiter ?",
+  "ar": "أقوم بإنشاء مستودع ومركز توزيع في اليونان لتخزين البضائع وشحنها. ما الذي يجب عليّ فعله للحصول على الموافقة الرسمية لتشغيله؟"
+ },
+ "req_gr48": {
+  "vague_en": "I want to run a parking lot for trucks and buses in Greece. What do I need to tell the authorities before I start?",
+  "fr": "Je voudrais exploiter un parking pour poids lourds en Grèce. Que dois-je déclarer aux autorités avant de commencer ?",
+  "ar": "أريد تشغيل موقف لركن الشاحنات والمركبات الثقيلة في اليونان. ما الذي يجب أن أبلغ به الجهات المختصة قبل أن أبدأ؟"
+ },
+ "req_gr49": {
+  "vague_en": "I'm about to start running my plant that makes concentrated grape juice and I need to let the authorities know it's officially up and running.",
+  "fr": "Je vais bientôt démarrer mon usine qui produit du moût de raisin concentré et je dois prévenir les autorités que l'activité commence officiellement.",
+  "ar": "سأبدأ قريبًا تشغيل مصنعي الذي ينتج عصير العنب المركّز وأحتاج إلى إبلاغ الجهات المختصة رسميًا ببدء النشاط."
+ },
+ "req_gr50": {
+  "vague_en": "I'm about to start up a small workshop where we'll bottle wine and flavoured wines in Greece. What do I need to file to tell the authorities we're opening?",
+  "fr": "Je vais ouvrir en Grèce un petit atelier de mise en bouteille de vin et de vins aromatisés. Que dois-je déposer pour informer les autorités que nous démarrons l'activité ?",
+  "ar": "سأفتتح في اليونان ورشة صغيرة لتعبئة النبيذ والنبيذ المنكّه في زجاجات. ما الذي عليّ تقديمه لإبلاغ السلطات ببدء النشاط؟"
+ },
+ "req_gr51": {
+  "vague_en": "I'm starting a business growing and selling seeds and plants for farmers, and I need to let the authorities know I'm opening, and also tell them later if anything changes.",
+  "fr": "Je vais lancer une entreprise qui produit et vend des semences et des plants pour l'agriculture, et je dois prévenir les autorités de l'ouverture de mon activité, puis les informer de tout changement par la suite.",
+  "ar": "سأبدأ مشروعًا لإنتاج وبيع البذور والشتلات للمزارعين، وأريد إبلاغ الجهات المختصة ببدء النشاط ثم إعلامها لاحقًا بأي تغييرات تطرأ عليه."
+ },
+ "req_gr52": {
+  "vague_en": "I'm opening a car wash and oil change garage for regular cars in Greece, and I need to let the authorities know that I'm starting business. How do I do that?",
+  "fr": "Je vais ouvrir une station de lavage et de graissage pour voitures particulières en Grèce, et je dois prévenir les autorités que je commence mon activité. Comment faire ?",
+  "ar": "أنا على وشك افتتاح محطة لغسيل وتشحيم السيارات الخاصة في اليونان، وأريد إبلاغ الجهات المختصة ببدء نشاطي. ما هي الخطوات المطلوبة؟"
+ },
+ "req_gr53": {
+  "vague_en": "I'm about to start making sparkling wine at my winery in Greece and need to let the authorities know that production is starting. How do I do that?",
+  "fr": "Je vais bientôt commencer à produire du vin mousseux (naturel ou gazéifié) en Grèce et je dois prévenir les autorités que la production démarre. Comment dois-je procéder ?",
+  "ar": "سأبدأ قريبًا بإنتاج النبيذ الفوّار (الطبيعي أو الصناعي المكربن) في اليونان وأحتاج إلى إبلاغ الجهات المختصة ببدء الإنتاج. ما هي الخطوات المطلوبة؟"
+ },
+ "req_gr54": {
+  "vague_en": "I'm opening a small gym and want to run fitness classes for kids too. What do I need to file with the authorities so I can legally open and operate it?",
+  "fr": "Je vais ouvrir une petite salle de sport avec aussi des cours de fitness pour enfants. Que dois-je déclarer auprès des autorités pour pouvoir l'ouvrir et l'exploiter légalement ?",
+  "ar": "سأفتتح صالة رياضية صغيرة وسأقدم فيها أيضًا دروس لياقة للأطفال. ما الذي يجب أن أقدمه للسلطات حتى أتمكن من افتتاحها وتشغيلها بشكل قانوني؟"
+ },
+ "req_gr55": {
+  "vague_en": "I want to open a beauty salon in Greece and I need to let the authorities know I'm setting it up and starting to operate. How do I do that?",
+  "fr": "Je voudrais ouvrir un institut de beauté en Grèce et je dois prévenir les autorités que je l'installe et que je commence à l'exploiter. Comment dois-je faire ?",
+  "ar": "أريد فتح صالون تجميل في اليونان وأحتاج إلى إبلاغ الجهات المختصة بأنني أقوم بتأسيسه وبدء تشغيله. كيف أفعل ذلك؟"
+ },
+ "req_gr56": {
+  "vague_en": "I want to start renting out cars with a driver for private customers in Greece. What do I need to file with the authorities to let them know I'm doing this?",
+  "fr": "Je voudrais commencer à proposer des voitures de location avec chauffeur pour des clients privés en Grèce. Que dois-je déclarer aux autorités pour les informer de mon activité ?",
+  "ar": "أريد أن أبدأ بتأجير سيارات خاصة مع سائق للركاب في اليونان. ما الذي يجب أن أقدمه للسلطات لإبلاغها بممارستي لهذا النشاط؟"
+ },
+ "req_gr57": {
+  "vague_en": "I want to start renting out my furnished apartment and some rooms to tourists in Greece, what do I need to file so I can legally start operating?",
+  "fr": "Je voudrais commencer à louer mon appartement meublé et des chambres à des touristes en Grèce, quelle déclaration dois-je faire pour pouvoir exercer légalement ?",
+  "ar": "أريد أن أبدأ بتأجير شقتي المفروشة وبعض الغرف للسياح في اليونان، ما الإجراء الذي يجب عليّ القيام به لأتمكن من العمل بشكل قانوني؟"
+ },
+ "req_gr58": {
+  "vague_en": "I want to start renting out motorbikes and three- and four-wheelers (bigger than 50cc) to tourists without a driver in Greece. What do I need to file to let the authorities know my rental business is operating?",
+  "fr": "Je veux lancer une activité de location de motos, tricycles et quadricycles de plus de 50 cm³ sans chauffeur en Grèce. Que dois-je déclarer pour informer les autorités que mon entreprise de location est en activité ?",
+  "ar": "أريد بدء نشاط تأجير الدراجات النارية والدراجات ثلاثية ورباعية العجلات بسعة تزيد عن 50 سم³ بدون سائق في اليونان. ما الذي عليّ تقديمه لإبلاغ السلطات ببدء تشغيل نشاطي التجاري؟"
+ },
+ "req_gr59": {
+  "vague_en": "I want to open a school that teaches the theory part for people learning to drive, and I need to let the authorities know I'm starting up. How do I do that?",
+  "fr": "Je voudrais ouvrir un centre qui donne les cours théoriques aux futurs conducteurs et je dois prévenir les autorités que je commence l'activité. Comment dois-je procéder ?",
+  "ar": "أريد افتتاح مركز لتعليم الجزء النظري للمتقدمين لرخصة القيادة وعليّ إبلاغ الجهات المختصة ببدء النشاط. ما هي الإجراءات المطلوبة؟"
+ },
+ "req_gr60": {
+  "vague_en": "I'm setting up a roadside assistance business for stranded cars in Greece, so what do I need to file to tell the authorities that I'm starting to operate?",
+  "fr": "Je lance une entreprise de dépannage et d'assistance routière pour véhicules en Grèce, que dois-je déposer pour informer les autorités que je commence mon activité ?",
+  "ar": "أنا بصدد تأسيس شركة مساعدة على الطريق للسيارات المتعطلة في اليونان، فما الذي يجب أن أقدمه لإبلاغ السلطات ببدء نشاطي؟"
+ },
+ "req_gr61": {
+  "vague_en": "I want to open a driving school for cars and motorcycles (or a branch of one) in Greece, and I need to let the authorities know it's starting to operate. How do I do that?",
+  "fr": "Je veux ouvrir une auto-école pour voitures et motos (ou une succursale) en Grèce et je dois informer les autorités que l'activité démarre. Comment dois-je procéder ?",
+  "ar": "أريد افتتاح مدرسة لتعليم قيادة السيارات والدراجات النارية (أو فرع لها) في اليونان وأحتاج إلى إبلاغ السلطات ببدء التشغيل. كيف أقوم بذلك؟"
+ },
+ "req_gr63": {
+  "vague_en": "I'm about to open a hotel in Greece and need to let the authorities know it's going to start operating. What do I have to file?",
+  "fr": "Je vais ouvrir un hôtel en Grèce et je dois prévenir les autorités que l'établissement va commencer à fonctionner. Quelle démarche dois-je faire ?",
+  "ar": "سأفتتح فندقًا في اليونان وأحتاج إلى إبلاغ السلطات ببدء تشغيله. ما الإجراء الذي يجب أن أقوم به؟"
+ },
+ "req_gr64": {
+  "vague_en": "I want to open an outdoor car park for cars and motorbikes in Greece, what do I need to tell the authorities so I can start running it?",
+  "fr": "Je voudrais exploiter un parking en plein air pour voitures et motos en Grèce, que dois-je déclarer aux autorités pour pouvoir commencer l'activité ?",
+  "ar": "أرغب في تشغيل موقف سيارات مكشوف للسيارات والدراجات النارية في اليونان، ما الذي يجب أن أبلغ به السلطات حتى أتمكن من بدء النشاط؟"
+ },
+ "req_gr65": {
+  "vague_en": "I run a towing and breakdown help business in Greece and want to tell the authorities that I'm starting to work as a roadside assistance partner for vehicles. What do I need to do?",
+  "fr": "J'ai une entreprise de dépannage et d'assistance routière en Grèce et je veux informer les autorités que je commence à travailler comme partenaire d'assistance routière pour véhicules. Comment dois-je procéder ?",
+  "ar": "أدير نشاط سحب ومساعدة للسيارات المعطلة على الطريق في اليونان وأريد إبلاغ السلطات ببدء عملي كشريك للمساعدة على الطريق للمركبات. ما الذي عليّ فعله؟"
+ },
+ "req_gr66": {
+  "vague_en": "I want to start offering diving activities for tourists in Greece, like guided recreational dives. Do I need to tell the authorities beforehand, and how do I do that?",
+  "fr": "Je voudrais proposer des activités de plongée de loisir à des touristes en Grèce. Comment dois-je prévenir les autorités avant de commencer mon activité ?",
+  "ar": "أريد أن أبدأ تقديم خدمات الغوص الترفيهي للسياح في اليونان. كيف أُبلغ السلطات المختصة بذلك قبل البدء بالنشاط؟"
+ },
+ "req_gr67": {
+  "vague_en": "My gym is moving into a bigger building and I need to let the authorities know about the new location. How do I do that?",
+  "fr": "Ma salle de sport déménage dans un local plus grand et je dois prévenir les autorités du changement d'adresse. Comment dois-je procéder ?",
+  "ar": "سننقل صالة الألعاب الرياضية الخاصة بي إلى مبنى أكبر وأحتاج إلى إبلاغ الجهات المختصة بالموقع الجديد. ما هي الخطوات المطلوبة؟"
+ },
+ "req_gr68": {
+  "vague_en": "I'm about to open an intercity bus station in Greece, no fuel pumps on site. What do I need to file to tell the authorities we're starting operations?",
+  "fr": "Je vais ouvrir une gare routière pour bus interurbains en Grèce, sans pompes à carburant sur place. Que dois-je déposer pour informer les autorités que l'exploitation démarre ?",
+  "ar": "سأفتتح محطة حافلات لما بين المدن في اليونان بدون مضخات وقود في الموقع. ماذا عليّ أن أقدّم لإبلاغ الجهات المختصة ببدء التشغيل؟"
+ },
+ "req_gr69": {
+  "vague_en": "I just finished setting up a covered parking lot for cars and I need to let the authorities know it's open for business now. How do I do that?",
+  "fr": "Je viens d'aménager un parking couvert et je dois informer les autorités que je commence à l'exploiter. Comment dois-je faire ?",
+  "ar": "انتهيت للتو من إنشاء موقف سيارات مسقوف وأريد إبلاغ الجهات المختصة ببدء تشغيله. ما هي الإجراءات المطلوبة؟"
+ },
+ "req_gr70": {
+  "vague_en": "I run a guesthouse in Greece and we're about to open our pool to guests, or I need to update the pool's info we gave before. Where do I let the authorities know?",
+  "fr": "Je gère un hébergement touristique en Grèce et nous allons ouvrir notre piscine aux clients, ou bien je dois mettre à jour les informations déjà déclarées sur la piscine. Où dois-je prévenir les autorités ?",
+  "ar": "أدير مسكنًا سياحيًا في اليونان وسنفتح المسبح أمام النزلاء قريبًا، أو أحتاج إلى تحديث بيانات المسبح التي قدمتها سابقًا. أين أُبلغ السلطات بذلك؟"
+ },
+ "req_gr71": {
+  "vague_en": "I got a concession to run a truck station for loading and unloading goods, and now I need to let the authorities know it's starting operation. How do I do that?",
+  "fr": "J'ai obtenu une concession pour exploiter une station de camions pour le chargement et le déchargement de marchandises, et je dois informer les autorités du début de l'exploitation. Comment faire ?",
+  "ar": "حصلت على امتياز لتشغيل محطة شاحنات لتحميل وتفريغ البضائع، وأريد إبلاغ الجهات المختصة ببدء التشغيل. ما الإجراء المطلوب؟"
+ },
+ "req_gr72": {
+  "vague_en": "I'm opening a small food and drinks shop in Greece and I need to let the authorities know about it so I can legally start selling.",
+  "fr": "Je vais ouvrir une petite boutique de vente d'aliments et de boissons en Grèce et je dois en informer les autorités pour pouvoir commencer à vendre légalement.",
+  "ar": "سأفتتح متجراً صغيراً لبيع الأغذية والمشروبات في اليونان وأحتاج إلى إبلاغ الجهات المختصة بذلك حتى أتمكن من البدء بالبيع بشكل قانوني."
+ },
+ "req_gr73": {
+  "vague_en": "I'm about to open a small hair salon / beauty shop in Greece and I need to let the authorities know it's opening and get the paperwork in order so I can legally start working.",
+  "fr": "Je vais ouvrir un petit salon de coiffure / institut de beauté en Grèce et je dois prévenir les autorités de l'ouverture pour être en règle et pouvoir commencer à travailler légalement.",
+  "ar": "سأفتتح صالون حلاقة / مركز تجميل صغيراً في اليونان وأحتاج إلى إبلاغ الجهات المختصة بالافتتاح واستكمال الإجراءات اللازمة حتى أبدأ العمل بشكل قانوني."
+ },
+ "req_gr74": {
+  "vague_en": "I want to open a small cinema in Greece and I need to let the authorities know I'm setting it up and starting to run it. What do I have to submit?",
+  "fr": "Je voudrais ouvrir un petit cinéma en Grèce et je dois prévenir les autorités que je l'installe et que je commence à l'exploiter. Que dois-je déposer ?",
+  "ar": "أريد افتتاح دار سينما صغيرة في اليونان وعلي إبلاغ الجهات المختصة بأنني أقوم بإنشائها وبدء تشغيلها. ما الذي يجب أن أقدمه؟"
+ },
+ "req_gr75": {
+  "vague_en": "I'm opening a garage to fix and service cars and motorbikes, and I need to tell the authorities that it's starting up so I can run it legally.",
+  "fr": "J'ouvre un garage pour réparer et entretenir des voitures et des motos, et je dois déclarer son démarrage aux autorités pour pouvoir l'exploiter en règle en Grèce.",
+  "ar": "سأفتتح ورشة لإصلاح وصيانة السيارات والدراجات النارية، وأحتاج إلى إبلاغ الجهات المختصة ببدء تشغيلها حتى أعمل بشكل قانوني في اليونان."
+ },
+ "req_gr77": {
+  "vague_en": "I want to start my own one-man security guard business in Greece, what do I need to get the green light to operate legally?",
+  "fr": "Je voudrais lancer mon entreprise individuelle de gardiennage et de sécurité en Grèce, comment obtenir l'autorisation pour exercer légalement ?",
+  "ar": "أريد أن أبدأ عملي الخاص كمؤسسة فردية لتقديم خدمات الحراسة والأمن في اليونان، فكيف أحصل على الترخيص اللازم لمزاولة النشاط بشكل قانوني؟"
+ },
+ "req_gr78": {
+  "vague_en": "My permission to drive our fast passenger boat is about to run out and I need to extend it so I can keep operating it.",
+  "fr": "L'autorisation qui me permet d'exploiter notre bateau rapide à passagers arrive bientôt à expiration et je dois la prolonger pour pouvoir continuer à naviguer.",
+  "ar": "إن رخصة تشغيل مركبتنا البحرية السريعة لنقل الركاب على وشك الانتهاء وأحتاج إلى تمديدها حتى أتمكن من مواصلة تشغيلها."
+ },
+ "req_gr79": {
+  "vague_en": "I run a small shop in Greece and the fire service said I need some paper showing my place meets fire safety rules for now while the full approval is pending. How do I get that?",
+  "fr": "J'ai un petit commerce en Grèce et les pompiers m'ont dit qu'il me faut un papier prouvant que mon local respecte les règles de sécurité incendie, de façon provisoire en attendant l'approbation définitive. Comment l'obtenir ?",
+  "ar": "أدير متجرًا صغيرًا في اليونان وقالت لي خدمة الإطفاء إنني بحاجة إلى وثيقة مؤقتة تثبت أن المكان مستوفٍ لشروط السلامة من الحريق ريثما تصدر الموافقة النهائية. كيف أحصل عليها؟"
+ },
+ "req_sa02": {
+  "vague_en": "I want to open a shop in Saudi Arabia and need the official permission to run my business legally. How do I get it?",
+  "fr": "Je voudrais ouvrir un commerce en Arabie saoudite et j'ai besoin de l'autorisation officielle pour exercer mon activité légalement. Comment l'obtenir ?",
+  "ar": "أرغب في فتح محل تجاري في المملكة العربية السعودية وأحتاج إلى التصريح الرسمي لممارسة نشاطي بشكل نظامي. كيف أحصل عليه؟"
+ },
+ "req_sa03": {
+  "vague_en": "I want to start my business in Saudi Arabia as quickly as possible, how can I get my trade permit fast without waiting weeks?",
+  "fr": "Je veux lancer mon activité en Arabie saoudite le plus vite possible, comment obtenir rapidement mon autorisation commerciale sans attendre des semaines ?",
+  "ar": "أريد بدء نشاطي التجاري في السعودية بأسرع وقت ممكن، كيف أحصل على رخصة تجارية بشكل سريع دون الانتظار أسابيع؟"
+ },
+ "req_sa04": {
+  "vague_en": "My shop's permit to operate is about to run out and I need to extend it for another year. How do I do that?",
+  "fr": "L'autorisation d'exercer de mon commerce arrive bientôt à expiration et je voudrais la prolonger pour une année de plus. Comment dois-je procéder ?",
+  "ar": "رخصة تشغيل محلي التجاري على وشك الانتهاء وأريد تمديدها لسنة أخرى. كيف أقوم بذلك؟"
+ },
+ "req_sa06": {
+  "vague_en": "My building is finished and I need the official paper saying it's safe and built according to the rules so people can start using it. How do I get that?",
+  "fr": "Mon bâtiment est terminé et j'ai besoin du document officiel qui atteste qu'il est conforme aux normes et qu'on peut commencer à l'occuper. Comment l'obtenir ?",
+  "ar": "انتهيت من بناء المبنى وأريد الوثيقة الرسمية التي تثبت أنه مطابق للاشتراطات ويمكن البدء في استخدامه وإشغاله. كيف أحصل عليها؟"
+ },
+ "req_sa08": {
+  "vague_en": "My health card for working in food service is about to run out, how do I get it extended?",
+  "fr": "Ma carte de santé pour travailler dans la restauration arrive bientôt à expiration, comment puis-je la faire prolonger ?",
+  "ar": "شهادتي الصحية للعمل في المطاعم على وشك الانتهاء، كيف أقوم بتجديدها؟"
+ },
+ "req_sa10": {
+  "vague_en": "I run a shop in Saudi Arabia and want to keep it open all day and night, 24 hours. What do I need to get so I'm allowed to do that?",
+  "fr": "J'ai un commerce en Arabie saoudite et je voudrais l'ouvrir 24 heures sur 24, jour et nuit. Quelle autorisation dois-je obtenir pour pouvoir le faire ?",
+  "ar": "لدي نشاط تجاري في السعودية وأريد أن أفتحه على مدار الساعة ليلاً ونهاراً. ما الذي يجب أن أحصل عليه حتى يُسمح لي بذلك؟"
+ },
+ "req_sa11": {
+  "vague_en": "I want to get approval so my shop can deliver orders to people's homes.",
+  "fr": "Je voudrais obtenir l'autorisation pour que mon commerce puisse livrer les commandes à domicile chez les clients.",
+  "ar": "أريد الحصول على ترخيص حتى يتمكن محلي من توصيل الطلبات إلى منازل الزبائن."
+ },
+ "req_sa12": {
+  "vague_en": "I run a shop in Saudi Arabia and need the official okay that my place meets fire and safety rules, I heard it's done through the Salama website. How do I get it?",
+  "fr": "J'ai un commerce en Arabie saoudite et je dois obtenir l'autorisation qui atteste que mon local respecte les normes de sécurité incendie, apparemment ça se fait via le site Salama. Comment faire ?",
+  "ar": "لدي منشأة تجارية في السعودية وأحتاج إلى الحصول على رخصة تثبت أن موقعي مطابق لاشتراطات السلامة من الحريق، وسمعت أن ذلك يتم عبر منصة سلامة. كيف أحصل عليها؟"
+ },
+ "req_sa13": {
+  "vague_en": "I just started a business in Saudi Arabia and need to get it set up to charge and collect VAT from customers. How do I sign up for that?",
+  "fr": "Je viens de lancer mon entreprise en Arabie saoudite et je dois pouvoir facturer et collecter la TVA auprès de mes clients. Comment dois-je m'inscrire pour ça ?",
+  "ar": "بدأت نشاطًا تجاريًا في المملكة العربية السعودية وأحتاج أن أتمكن من تحصيل ضريبة القيمة المضافة من عملائي. كيف أسجّل في ذلك؟"
+ },
+ "req_sa15": {
+  "vague_en": "Several of our companies work together as one group and we want to be able to charge and report sales tax under a single registration in Saudi Arabia. How do we sign up?",
+  "fr": "Plusieurs de nos sociétés forment un groupe et nous voulons facturer et déclarer la taxe sur les ventes sous un seul enregistrement en Arabie saoudite. Comment faire pour nous inscrire ?",
+  "ar": "عندنا عدة شركات تعمل معًا كمجموعة واحدة ونريد أن نحصّل ونقدّم إقرار ضريبة المبيعات تحت تسجيل واحد في السعودية. كيف نقدّم على ذلك؟"
+ },
+ "req_sa16": {
+  "vague_en": "I just started a business in Saudi Arabia and need to get signed up with the tax authority so I can pay what I owe. How do I register?",
+  "fr": "Je viens de lancer mon entreprise en Arabie saoudite et je dois m'inscrire auprès de l'autorité fiscale pour pouvoir payer ce que je dois. Comment faire ?",
+  "ar": "بدأت نشاطًا تجاريًا جديدًا في السعودية وأحتاج أن أسجل لدى هيئة الضرائب حتى أتمكن من دفع المستحقات علي. كيف أسجل؟"
+ },
+ "req_sa18": {
+  "vague_en": "My company's details changed and I need to update them with the tax authority for our VAT account in Saudi Arabia.",
+  "fr": "Les informations de mon entreprise ont changé et je dois les mettre à jour auprès de l'autorité fiscale pour notre compte TVA en Arabie saoudite.",
+  "ar": "تغيّرت بيانات شركتي وأحتاج إلى تحديثها لدى هيئة الزكاة والضريبة والجمارك في حسابنا الخاص بضريبة القيمة المضافة في المملكة العربية السعودية."
+ },
+ "req_sa19": {
+  "vague_en": "I just opened a new branch of my company and need to get it added with the social insurance so I can enroll my staff there.",
+  "fr": "Je viens d'ouvrir une nouvelle succursale de mon entreprise et je dois la faire enregistrer auprès de l'organisme des assurances sociales pour pouvoir y déclarer mes employés.",
+  "ar": "افتتحت فرعًا جديدًا لشركتي وأحتاج إلى تسجيله في التأمينات الاجتماعية حتى أتمكن من إضافة موظفيي عليه."
+ },
+ "req_sa20": {
+  "vague_en": "I run a company here and need to get work visas approved so I can bring in new staff from abroad",
+  "fr": "Je dirige une entreprise en Arabie saoudite et je dois obtenir des visas pour faire venir du personnel de l'étranger.",
+  "ar": "أدير منشأة في السعودية وأحتاج إلى الحصول على تأشيرات لاستقدام موظفين جدد من الخارج."
+ },
+ "req_sa21": {
+  "vague_en": "I want to move a worker from another company to work for my business, how do I do that?",
+  "fr": "Je voudrais faire passer chez moi un employé qui travaille actuellement pour une autre entreprise, comment dois-je procéder ?",
+  "ar": "أريد أن أنقل عاملاً يعمل حالياً عند صاحب عمل آخر ليعمل لدي في منشأتي، ما هي الخطوات؟"
+ }
+}

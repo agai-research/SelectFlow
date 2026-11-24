@@ -1,0 +1,464 @@
+[
+ {
+  "id": "req_sa02",
+  "text": "I need to obtain: Issuing a commercial license.",
+  "targets": [
+   "commercial_license",
+   "safety_permit"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa03",
+  "text": "I need to obtain: Issuing a fast-track commercial license.",
+  "targets": [
+   "commercial_license",
+   "safety_permit"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa04",
+  "text": "I need to obtain: Renewing a commercial license.",
+  "targets": [
+   "renewed_commercial_license"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03",
+    "sa12",
+    "sa04"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "General Directorate of Civil Defense",
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa06",
+  "text": "I need to obtain: Issuance of a building occupancy and compliance certificate.",
+  "targets": [
+   "occupancy_certificate"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa05",
+    "sa06"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa08",
+  "text": "I need to obtain: Renewal of a health certificate.",
+  "targets": [
+   "renewed_health_certificate"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03",
+    "sa07",
+    "sa08"
+   ]
+  ],
+  "n_tasks": 4,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa10",
+  "text": "I need to obtain: Permit for 24-hour commercial activities.",
+  "targets": [
+   "permit_24h"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03",
+    "sa10"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa11",
+  "text": "I need to obtain: Issuing a home delivery permit.",
+  "targets": [
+   "home_delivery_permit"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa03",
+    "sa11"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Municipalities and Housing (Balady)"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa12",
+  "text": "I need to obtain: Safety license (Salama portal).",
+  "targets": [
+   "civil_defense_safety_report"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa12"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "General Directorate of Civil Defense",
+   "Ministry of Commerce"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa13",
+  "text": "I need to obtain: VAT registration for businesses.",
+  "targets": [
+   "vat_number"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa13"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Commerce",
+   "Zakat, Tax and Customs Authority"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa15",
+  "text": "I need to obtain: VAT registration for a group.",
+  "targets": [
+   "vat_group_registration"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa13",
+    "sa15"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Ministry of Commerce",
+   "Zakat, Tax and Customs Authority"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa16",
+  "text": "I need to obtain: Zakat and income tax registration.",
+  "targets": [
+   "zakat_registration"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa16"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Commerce",
+   "Zakat, Tax and Customs Authority"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa18",
+  "text": "I need to obtain: Update VAT registration details.",
+  "targets": [
+   "updated_vat_registration"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa13",
+    "sa18"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "Ministry of Commerce",
+   "Zakat, Tax and Customs Authority"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa19",
+  "text": "I need to obtain: Register a new establishment or branch in GOSI.",
+  "targets": [
+   "gosi_certificate"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa19"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "General Organization for Social Insurance",
+   "Ministry of Commerce"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa20",
+  "text": "I need to obtain: Visa issuance for an establishment.",
+  "targets": [
+   "work_visa"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa19",
+    "sa20"
+   ]
+  ],
+  "n_tasks": 3,
+  "organizations": [
+   "General Organization for Social Insurance",
+   "Ministry of Commerce",
+   "Ministry of Human Resources and Social Development"
+  ],
+  "closed": true
+ },
+ {
+  "id": "req_sa21",
+  "text": "I need to obtain: Employee transfer from another employer.",
+  "targets": [
+   "transferred_employee"
+  ],
+  "held": [
+   "employment_contract",
+   "exit_reentry_visa",
+   "iqama",
+   "lease_or_title_deed",
+   "medical_examination_report",
+   "medical_insurance",
+   "passport",
+   "safety_maintenance_contract",
+   "title_deed"
+  ],
+  "references": [
+   [
+    "sa01",
+    "sa21"
+   ]
+  ],
+  "n_tasks": 2,
+  "organizations": [
+   "Ministry of Commerce",
+   "Ministry of Human Resources and Social Development"
+  ],
+  "closed": true
+ }
+]
